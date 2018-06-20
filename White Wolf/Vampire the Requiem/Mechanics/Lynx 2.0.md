@@ -62,7 +62,7 @@ This power only works on networks that the Lynx is not already part of - if they
 	_Spatial networks_: The Lynx attunes themselves to a physical network.
 	_Sympathy networks_:
 		If the Lynx chooses to create a 'natural' sympathetic connection, then they develop a _Four Times removed_ level of Blood Sympathy toward the Clan of the target.
-		If they Lynx chooses to create an 'artificial' sympathetic connection, then both they develop a _First Stage_ blood bond to the target (the Lynx is the Thrall in this relationship) - with all the attendant upsides and downsides for both parties.  If, instead, they have a point of blood/Vitae from the target in their system and spend it in addition to the normal Vitae to activate this power they can instead forge a blood bond with the target as the Thrall.
+		If they Lynx chooses to create an 'artificial' sympathetic connection, then both they develop a _First Stage_ blood bond to the target (the Lynx is the Thrall in this relationship) - with all the attendant upsides and downsides for both parties.  If, instead, they have a point of blood/Vitae from the target in their system and spend it in addition to the normal Vitae to activate this power they can instead forge a blood bond with the target as the Thrall.  If they have a point of blood/Vitae from two targets in their system, and spend both in addition to the normal activation costs, then they can create a blood bond between two other Kindred instead.
 **Exceptional Success:** The effect lasts for 1 night per dot of Blood Potency instead.
 **Prerequisite:** Majesty 2
 
