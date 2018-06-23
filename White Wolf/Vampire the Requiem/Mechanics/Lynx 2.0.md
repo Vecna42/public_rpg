@@ -17,6 +17,7 @@ DESCRIPTIVE TEXT AND HISTORY
 The Lynx gift of Web expresses their affinity for networks and connections that resides within their blood - as it does within all Vitae.  They have instinctive understanding of the networks they involve themselves in, and can even temporarily infiltrate into networks they don't belong to.
 
 All Lynx gain the first Devotion, _SELECT FROM_, upon joining the bloodline.  Additional Devotions have prerequisites as normal, and cost 2xp each.
+
 Lynx recognise the existence of four types of networks, and their powers have differing effects on each:
 + **Formal Social**: Primarily financial, who does business with whom, etc.
 	+ [Nominally a 'Mental' network - Often reflected with merits such as: Mentor, Retainer, Resources, Status]
