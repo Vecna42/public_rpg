@@ -222,16 +222,3 @@ This effect expires when the sun next rises and may not be dismissed early, and 
 **Exceptional Success:** The spoof lasts for a number of nights equal to the Lynx's Blood Potency, and may be dismissed at any time.
 
 This devotions also costs 4xp
-
-***
-
-## Original Web powers
-Scan - Sense links from a node to other nodes.  Pieces of information about links equal to successes OR dots in a Social merit OR 'knowledge of human traffic' through a spatial node.  -->  SELECT FROM
-
-Link - Create Blood Ties for night's equal to Resolve.  --> INSERT INTO
-
-Insert/Delete - Add yourself to a network, bonus dice to rolls equal to Web - rolls affected depend on the network OR remove yourself from a network you're already in, penalty dice to rolls equal to Web - rolls affected are those to use the network to find/etc the user.  Lasts a scene.  -->  INSERT INTO & DELETE FROM
-
-Edit - Colour a social link by a Virtue/Vice OR alter the flow of people through a spatial node.  -->  UPDATE WHERE
-
-Extrapolate - Use evidence for the existence of a relationship to affect the nodes at either end of the link with Web as if they were present.  --> ?
