@@ -168,7 +168,7 @@ This requires a more overt display of power than many other Web Devotions - in t
 
 If instead they wish to swap the networks of two other targets, they must smear a point of their own vitae on each target's skin _and_ a point of vitae from each target onto the other target's skin.
 
-**Cost:** 2 vitae plus 1 vitae from the target (if the Lynx is the other target); 3 vitae plus 1 vitae from each target (if the Lynx is not a target
+**Cost:** 2 vitae plus 1 vitae from the target (if the Lynx is the other target); 3 vitae plus 1 vitae from each target (if the Lynx is not a target.  All bar the first vitae (merely spent by the Lynx to activate the power) must be smeared on the targets as described above
 
 **Dice Pool:** Manipulation + Subterfuge + Obfuscate - Resolve (use the highest Resolve if there are two targets)
 
