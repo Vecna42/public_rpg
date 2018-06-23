@@ -180,7 +180,7 @@ In addition to the above devotions, the Lynx makes the following alterations or 
 ## The Wider Web
 The following devotions are more specialised or powerful effects that some elder Lynx may develop.  They are, as with the standard Web devotions, restricted to membership in the bloodline - but have higher costs than the above.
 
-### OUTER JOIN
+### Phreaking
 _(Majesty 2, Obfuscate 2)_
 
 The Lynx may spoof their victim's place in a network that they belong to.
