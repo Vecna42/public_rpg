@@ -78,7 +78,7 @@ This power only works on networks that the Lynx is not already part of - if they
 **Failure:** 
 
 **Success:**
-+ _Social networks_: The Lynx insinuates themselves to the social network they have targeted and gains a temporary place in its hierarchy.  They develop an appropriate merit to represent this, e.g. Status, but at a value of 0 (granting no dice bonuses, ability to learn restricted information/powers, ask for favours, etc).  Other members of the network have a vague, instinctive sense that the Lynx is a member (although, as stated above, there is no mechanical benefit to this).
++ _Social networks_: The Lynx insinuates themselves to the social network they have targeted and gains a temporary place in its hierarchy.  They develop an appropriate merit to represent this, e.g. Status, but at a value of 0 (granting no dice bonuses, ability to learn restricted information/powers, ask for favours, etc).  Other members of the network have a vague, instinctive sense that the Lynx is a member (although, as stated above, there is no mechanical benefit to this) but nothing concious or which prompts alarm on their part - Majesty smooths over any in-the-moment rationalisation required.
 + _Spatial networks_: The Lynx attunes themselves to a physical network.
 + _Sympathy networks_:
 	+ If the Lynx chooses to create a 'natural' sympathetic connection, then they develop a _Four Times removed_ level of Blood Sympathy toward the Clan of the target.
