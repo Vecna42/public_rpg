@@ -15,6 +15,7 @@ DESCRIPTIVE TEXT AND HISTORY
 
 ## WEB
 The Lynx gift of Web expresses their affinity for networks and connections that resides within their blood - as it does within all Vitae.  They have instinctive understanding of the networks they involve themselves in, and can even temporarily infiltrate into networks they don't belong to.
+
 All Lynx gain the first Devotion, _SELECT FROM_, upon joining the bloodline.  Additional Devotions have prerequisites as normal, and cost 2xp each.
 Lynx recognise the existence of four types of networks, and their powers have differing effects on each:
 + **Formal Social**: Primarily financial, who does business with whom, etc.
@@ -52,13 +53,16 @@ By accessing an existing, known node of a Network, a Lynx can use SELECT FROM to
 + _Sympathy networks_: Gain a number of pieces of information about bonds from the node in the chosen natural or artificial network.  The most prominent links are uncovered first (so first degree blood sympathy or a three-stage blood bond), and then weaker links are revealed with more successes.
 
 **Exceptional Success:** Extra successes are their own reward, but an Exceptional Success with this power also reveals the information with greater clarity and with more information based on the subject node's perception of the link.
+
 As always, the knowledge is filtered through the Beast - and many Lynx report seeing visual manifestations of the connections when they use this power: _social connections_ hanging as delicate golden threads, _blood sympathy_ as red cords, and blood bonds as heavy chains.  _Spatial networks_ blossom like a map of blood vessels behind the eyes.
 
 ***
 
 ### CREATE LOGIN
 This power allows a Lynx to temporarily attune to a network they are not already part of.  This is always required for a _Spatial network_, and is generally required for _Social networks_ as well and for most _Sympathetic networks_.
+
 The Lynx must be in the presence of a node of the network to activate this power, and be aware that the network exists.  They must spend a few minutes interacting with the node (talking to them, following them, spending time at the location, etc.) before activating the power.
+
 This power only works on networks that the Lynx is not already part of - if they already have an equal or better version of any of the below effects, that effect takes precedence.
 
 **Cost:** 1 Vitae
@@ -144,6 +148,7 @@ This power allows the Lynx to remove themselves from their own networks - dampen
 **Failure:** 
 
 **Success:** If used on a network that the Lynx is connected to via CREATE LOGIN, then that power is automatically ended early.
+
 If used on a network that the Lynx is naturally part of then successes on this power become penalties for rolls involving interacting with the Lynx through the targeted network.
 + _Social networks_: These networks usually penalise Social rolls made by members of the network when interacting with the Lynx - any dice roll which might be affected by Status dots is a candidate for this effect.  In addition, this also affects the ability of those nodes to remember details about the Lynx, to notice them, or otherwise interact with them.
 + _Spatial networks_: As the Lynx is not naturally part of Spatial networks, the targets of this power are networks which currently hold data about the Lynx (such as a computer network that houses a database or a CCTV camera network that is observing the Lynx).  Dice rolls that might be penalised by this power are generally ones concerned with accessing/retrieving the data or noticing that it exists.
@@ -191,8 +196,13 @@ In addition to the above devotions, the Lynx makes the following alterations or 
 
 ***
 
+## Original Web powers
 Scan - Sense links from a node to other nodes.  Pieces of information about links equal to successes OR dots in a Social merit OR 'knowledge of human traffic' through a spatial node.  -->  SELECT FROM
+
 Link - Create Blood Ties for night's equal to Resolve.  --> INSERT INTO
+
 Insert/Delete - Add yourself to a network, bonus dice to rolls equal to Web - rolls affected depend on the network OR remove yourself from a network you're already in, penalty dice to rolls equal to Web - rolls affected are those to use the network to find/etc the user.  Lasts a scene.  -->  INSERT INTO & DELETE FROM
+
 Edit - Colour a social link by a Virtue/Vice OR alter the flow of people through a spatial node.  -->  UPDATE WHERE
+
 Extrapolate - Use evidence for the existence of a relationship to affect the nodes at either end of the link with Web as if they were present.  --> ?
