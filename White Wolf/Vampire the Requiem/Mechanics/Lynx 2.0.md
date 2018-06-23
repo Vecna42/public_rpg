@@ -165,6 +165,21 @@ If used on a network that the Lynx is naturally part of then successes on this p
 
 **Prerequisite:** Obfuscate 2
 
+### The Meta-Web
+In addition to the above devotions, the Lynx makes the following alterations or additions to their disciplines:
++ _Auspex 1_ Add the following questions:
+	+ Who is the best-connected person in this room?  _A glittering spider-web of networks, centred on one person_.
+	+ Who doesn't belong here?  _A lacuna in the sea of connections_.
++ _Auspex 2_: Add the following questions:
+	+ Who is this person in Thrall to?  _An image of their Regnant(s), holding chains_.
+	+ Who does this person hold in Thrall?  _Chains wrapped around the throat of the Thrall_.
+	+ Which network is this person closest to? _The smell of sweat and semen at the swinger's club.  The sound of soft choral music.  The crackling of a ham radio_.
++ _Auspex 3_: Add the following questions:
+	+ 
+
+## The Wider Web
+The following devotions are more specialised or powerful effects that some elder Lynx may develop.  They are, as with the standard Web devotions, restricted to membership in the bloodline - but have higher costs than the above.
+
 ### OUTER JOIN
 The Lynx may spoof their victim's place in a network that they belong to.
 
@@ -202,19 +217,7 @@ This effect expires when the sun next rises and may not be dismissed early, and 
 
 **Exceptional Success:** The spoof lasts for a number of nights equal to the Lynx's Blood Potency, and may be dismissed at any time.
 
-**Prerequisite:** Majesty 2, Obfuscate 2 (This devotions also costs 4xp instead of the normal 2xp for Web Devotions)
-
-### The Meta-Web
-In addition to the above devotions, the Lynx makes the following alterations or additions to their disciplines:
-+ _Auspex 1_ Add the following questions:
-	+ Who is the best-connected person in this room?  _A glittering spider-web of networks, centred on one person_.
-	+ Who doesn't belong here?  _A lacuna in the sea of connections_.
-+ _Auspex 2_: Add the following questions:
-	+ Who is this person in Thrall to?  _An image of their Regnant(s), holding chains_.
-	+ Who does this person hold in Thrall?  _Chains wrapped around the throat of the Thrall_.
-	+ Which network is this person closest to? _The smell of sweat and semen at the swinger's club.  The sound of soft choral music.  The crackling of a ham radio_.
-+ _Auspex 3_: Add the following questions:
-	+ 
+-**Prerequisite:** Majesty 2, Obfuscate 2 (This devotions also costs 4xp instead of the normal 2xp for Web Devotions)
 
 ***
 
