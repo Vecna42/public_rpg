@@ -54,7 +54,7 @@ By accessing an existing, known node of a Network, a Lynx can use SELECT FROM to
 **Exceptional Success:** Extra successes are their own reward, but an Exceptional Success with this power also reveals the information with greater clarity and with more information based on the subject node's perception of the link.
 As always, the knowledge is filtered through the Beast - and many Lynx report seeing visual manifestations of the connections when they use this power: _social connections_ hanging as delicate golden threads, _blood sympathy_ as red cords, and blood bonds as heavy chains.  _Spatial networks_ blossom like a map of blood vessels behind the eyes.
 
-**Prerequisite:** Auspex 2
+***
 
 ### CREATE LOGIN
 This power allows a Lynx to temporarily attune to a network they are not already part of.  This is always required for a _Spatial network_, and is generally required for _Social networks_ as well and for most _Sympathetic networks_.
