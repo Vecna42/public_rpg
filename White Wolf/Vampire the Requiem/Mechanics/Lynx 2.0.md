@@ -148,9 +148,9 @@ This power allows the Lynx to remove themselves from their own networks - dampen
 
 **Action:**  Instant and contested; resistance is reflexive
 #### Roll Results
-**Dramatic Failure:** 
+**Dramatic Failure:** The Lynx achieves the opposite of their goal, and their connection to the network is mystically bolstered.  For the remainder of the night, the Lynx is the first person that a member of the network will think to contact if they need something.
 
-**Failure:** 
+**Failure:** The Lynx fails to suppress their connection to the network, and the Willpower spent is wasted.
 
 **Success:** If used on a network that the Lynx is connected to via CREATE LOGIN, then that power is automatically ended early.
 
