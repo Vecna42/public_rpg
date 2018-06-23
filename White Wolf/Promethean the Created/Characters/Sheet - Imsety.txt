@@ -1,0 +1,396 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - "Allana Sliwinski" <and.to.all.time@gmail.com>
+VSS - London Created
+
+Name: Imsety
+DoB: 1904/07/14 (106)
+Concept - Mad god
+
+Lineage: Osiris
+    Athanor: Toad
+Refinement: Mercuris
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    3   ¦   Strength        2   ¦   Presence            3
+        Wits            2   ¦   Dexterity       1   ¦   Manipulation        2
+        Resolve         4   ¦   Stamina*        4   ¦   Composure           4
+
+Skills:
+    Mental (11):            ¦Physical (4):          ¦Social (7):
+        Academics       3   ¦   Athletics       0   ¦   Animal Ken          1
+            Egypt           ¦                       ¦
+        Computer        3   ¦   Brawl           2   ¦   Empathy             0
+                            ¦       Touch           ¦
+        Craft           2   ¦   Drive           0   ¦   Expression          0
+        Investigation   2   ¦   Firearms        0   ¦   Intimidate          2
+        Medicine        1   ¦   Larceny         1   ¦   Persuasion          4
+                            ¦                       ¦       Command
+        Occult          4   ¦   Stealth         0   ¦   Socialise           2
+            Egypt           ¦                       ¦
+            Gods            ¦                       ¦
+        Politics        0   ¦   Survival*       2   ¦   Streetwise          1
+                            ¦       Deserts         ¦
+        Science         2   ¦   Weaponry        0   ¦   Subterfuge          3
+    
+    Successes:
+        0   1   2   3   4   5   6   7   8   9   10
+        01  08  12  16  20  24  28  32  36  40  44
+
+Merits:
+    Power Stat (Azoth)                      4
+
+                                                Shared  Pool
+    Azothic Object              StrAlc p55  3
+    Eidetic Memory (••, CP)                 2
+    Elpsis (• to •••••)                     2
+    Language (Coptic) (•)                   1
+    Repute (• to •••)                       3           #Pr05/#614
+    Shabti (•••)                StrAlc p58  3
+    Unpalatable Aura (••)                   2
+
+    Lair (Temple):
+        Security (• to •••••)               2
+        Size (• to •••)                     1
+
+    Lair (Cave):
+        Security (• to •••••)               0
+        Size (• to •••)                     1
+
+Bestowments:                                Cost    Pool
+    Revivification
+
+Transmutations:
+    Type            Lvl Name                        Cost    Pool
+    Alchemicus      1   Forging the Master's Tools  1py     N/A
+    Alchemicus      1   Identification              N/A       5 Inte + Craf + Spec
+    Alchemicus      2   Degradation                 1-3py   N/A
+    Alchemicus      3   Dissolve                    1py     N/A
+    Electrification 1   Feel the Spark              N/A       2 Wits + Scie + Spec
+    Electrification 1   Jolt                        0-2py   N/A
+    Electrification 2   Insulator                   
+    Electrification 2   Shock                       1py       7 Stam + Azot
+    Electrification 3   Arc                         1py       7 Stam + Azot
+    Electrification 3   Generator                   1-2py   N/A
+    Electrification 3   Power Sink                  N/A     N/A
+    Electrification 4   Blackout                    1py     N/A
+    Electrification 4   Regulator                   
+    Electrification 5   Divine Lightning            1-3py     7 Stam + Azot
+    Electrification 5   Lightning Therapy           1+py    N/A
+    Sensorium       1   Translator's Eye            N/A       6 Inte + Acad + Spec
+    Sensorium       2   Aura Sight                  N/A       6 Inte + Comp + Empa + Spec - Comp
+    Sensorium       3   Ephemeral Gaze              1py     N/A
+    Sensorium       4   Circle of Eyes              
+    Sensorium       4   Hearing the Inner Voice     
+    Sensorium       5   Clairvoyant Senses          
+    Sensorium       5   Piercing Sight              
+    Vulcanus        1   Firebrand                   1py     N/A
+    Vulcanus        1   Sense Flux                  
+    Vulcanus        1   Sense Pyros                 N/A       5 Wits + Azot
+    Vulcanus        2   Electroshock Recharge       N/A       7 Stam + Azot
+    Vulcanus        2   Sigils on the Wind          1py       5 Wits + Azot
+    Vulcanus        3   Animate Firetouched         1py     N/A
+    Vulcanus        3   Firegrasp                   
+    Vulcanus        4   Pyros Imp                   2py       6 Inte + Azot
+    Vulcanus        4   Steal Pyros                 
+    Vulcanus        5   Drain Pyros                 
+    Vulcanus        5   Trigger Firestorm           5py       3 Azot
+
+Athanor: Toad
+    Trait Affinity: Stamina, Survival
+    Promethean Boon: Whenever resisting or contesting the use of one class of Transmutations (Mesmerism) spend 1WP to automatically negate the attempt.
+    Redeemed Boon: Retain Superlative Constitution benefits for poisons and diseases.
+
+Throng:         Lineage         Azoth   Player
+    Fable       Ulgan           2       Steve Fox (NPC?)
+    Sigil       Frankenstein    1       NPC
+
+Morality:   Lost  Bought  Free
+    10      
+     9      
+     8      
+     7      1
+     6      1
+     5  *       Narcissism
+     4      
+     3      
+     2      
+     1      
+
+Other:
+    Virtue: Faith
+    Vice: Pride
+    Flaw: Aloof
+    
+    Health: Size(5) + Stamina(4) = 9
+    |  |  |  |  |  |  |  |  |  |
+    Wound:             -1 -2 -3
+    
+    Willpower: Resolve(4) + Composure(4) = 8
+    |  |  |  |  |  |  |  |  |
+    
+    Pyros = Max 13, 4 / turn
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(1),Wits(2)) = 1
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(1) + Composure(4) + FR(0) = 5
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(2) + Dexterity(1) + FoF(0) = 8
+
+Approvals:
+    
+
+Notes:
+    
+
+Shabati:
+    Inte 1, Stre 2, Pres 2
+    Wits 3, Dext 3, Mani 2
+    Reso 2, Stam 3, Comp 2
+    
+    Acad 0, Athl 1, AniK 1
+    Comp 0, Braw 0, Empa 1
+    Craf 2, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 1, Larc 0, Pers 0
+    Occu 0, Stea 3, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 2, Subt 3
+    
+    Health: 4  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Size: 1
+    Initiative: 5
+    Defence: 3
+    Acting: 2   Speed: 7
+
+--- BACKGROUND ---
+
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Attribute ()                           0       0       0
+Creation        Merit ()                               0       0       0
+Creation        Merit ()                               0       0       0
+Creation        Merit ()                               0       0       0
+Creation        Merit ()                               0       0       0
+Creation        Merit ()                               0       0       0
+Creation        Merit ()                               0       0       0
+Creation        Merit ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+Creation        Skill ()                               0       0       0
+MC              MC (2)                              + 70      70      70
+MC              Attribute (Composure 4)             - 20      50      70
+MC              Merit (Lair (Security) 2)           -  6      44      70
+MC              Merit (Unpalatable Aura)            -  4      40      70
+MC              Skill (Academics (Ancient Egypt))   -  3      37      70
+MC              Skill (Survival (Deserts))          -  3      34      70
+MC              Transmutation (Alch (Degradation) 2)- 10      24      70
+MC              Transmutation (Elec (Feel Spark) 1) -  7      17      70
+MC              Transmutation (Elec (Jolt) 1)       -  7      10      70
+MC              Transmutation (Vulc (Elect Recha) 2)- 10       0      70
+2007/08/12      Game (London Created)               +  4       4      74
+2008/08/12      Other (Bonus XP)                    +  1       5      75
+2008/08/20      MC (3)                              + 60      65     135
+2008/08/23      Attribute (Intelligence 3)          - 15      50     135
+2008/08/23      Attribute (Manipulation 2)          - 10      40     135
+2008/08/23      Skill (Computer 3)                  -  9      31     135
+2008/08/23      Skill (Science 2)                   -  6      25     135
+2008/08/23      Skill (Intimidation 1)              -  3      22     135
+2008/08/23      Skill (Intimidation 2)              -  6      16     135
+2008/08/23      Skill (Persuasion 4)                - 12       4     135
+2008/09/09      Game (London Created)               +  4       8     139
+2008/10/14      Game (Southern Regional 2008)       +  4      12     143
+2998/10/16      Overcap (Southern - )               +  4      16     147
+2008/11/11      Game (London Created)               +  4      20     151
+2008/11/11      Other (Bonus XP)                    +  1      21     152
+2008/11/19      MC (4)                              + 20      41     172
+2008/11/19      Downtime (November)                 +  2      43     174
+2008/11/19      Skill (Craft 1)                     -  3      40     174
+2008/11/19      Skill (Investigation 2)             -  6      34     174
+2008/11/19      Skill (Occult 4)                    - 12      22     174
+2008/11/19      Transmutation (Alch (Id) 1)         -  5      17     174
+2008/11/19      Transmutation (Elec (Shock) 2)      - 14       3     174
+2008/12/09      Game (London Created)               +  4       7     178
+2008/12/09      Other (Bonus XP)                    +  1       8     180
+2009/01/13      Game (London Created)               +  4      12     184
+2009/02/03      Game (London Created)               +  4      16     188
+2009/04/01      MC (5)                              + 20      36     208
+2009/04/06      Downtime (February)                 +  2      38     210
+2009/04/06      Transmutation (Alch (Dissolve) 3)   - 15      23     210
+2009/04/06      Transmutation (Elec (Power Sink) 3) - 21       2     210
+2009/04/06      Game (London Created)               +  4       6     214
+2009/04/06      Other (Bonus XP)                    +  1       7     215
+2009/05/01      MC (6)                              + 60      67     275
+2009/05/04      Game (London Created)               +  4      71     279
+2009/05/04      Other (Bonus XP)                    +  1      72     280
+2008/06/01      Game (UK National 2008)             +  4      76     284
+2008/06/01      Overcap (National - 91919)          +  6      82     290
+2008/06/08      Game (London Created)               +  2      84     292
+2008/07/06      Game (London Created)               +  4      88     296
+2008/08/03      Game (London Created)               +  4      92     300
+2008/09/07      Attribute (Stamina 4)               - 20      72     300
+2008/09/07      Downtime (September)                +  2      74     302
+2008/09/07      Game (London Created)               +  4      78     306
+2008/09/07      Merit (Language (Coptic) 1)         -  2      76     302
+2008/09/07      Skill (Craft 2)                     -  6      70     302
+2008/09/07      Transmutation (Elec (Arc) 3)        - 21      49     302
+2008/09/07      Transmutation (Vulc (Ani Firet) 3)  - 15      34     302
+2008/09/07      Transmutation (Vulc (Sigils Wind) 2)- 10      24     302
+2008/09/28      MC (7)                              + 20      44     322
+2008/10/05      Game (Southern Regional 2008)       +  4      48     326
+2008/10/05      Overcap (Southern - 98002)          +  4      52     330
+2008/10/22      Downtime (October)                  +  2      54     332
+2008/10/22      Transmutation (Elec (Generator) 3)  - 21      33     332
+2008/11/02      Game (London Created)               +  4      37     336
+2008/11/30      Game (Scottish Regional 2008)       +  2      39     338
+2008/11/30      Overcap (Scottish - 101119)         +  4      43     342
+2008/12/07      Game (London Created)               +  4      47     346
+2008/12/07      Other (Bonus XP)                    +  1      48     347
+2008/12/08      MC (8)                              + 20      68     367
+2009/01/04      Transmutation (Elec (Blackout) 4)   - 28      40     367
+2009/01/04      Game (London Created)               +  4      44     371
+2009/01/04      Other (Bonus XP)                    +  1      45     372
+2009/04/06      MC (9)                              + 60     105     432
+2009/05/21      MC (1)                              + 40     145     472
+2009/05/30      Game (UK National 2009)             +  4     149     476
+2009/05/30      Overcap (National)                  +  6     155     482
+2009/07/14      Merit (Repute 2)                    -  4     151     482
+2009/07/14      Skill (Brawl 2)                     -  6     145     482
+2009/07/14      Skill (Subterfuge 1)                -  3     142     482
+2009/07/14      Skill (Subterfuge 2)                -  6     136     482
+2009/07/14      Skill (Subterfuge 3)                -  9     127     482
+2009/07/14      Transmutation (Elec (Divine Lig) 5) - 35      92     482
+2009/07/14      Transmutation (Elec (Lig Therapy) 5)- 35      57     482
+2009/07/14      Transmutation (Vulc (Pyros Imp) 4)  - 20      37     482
+2009/08/01      Downtime (July)                     +  2      39     484
+2009/08/02      Game (London Created)               +  4      43     488
+2009/09/06      Downtime (August)                   +  2      45     490
+2009/09/08      MC (10)                             + 20      65     510
+2009/09/17      Transmutation (Sens (Tran's Eye) 1) -  7      58     510
+2009/09/17      Transmutation (Sens (Aura Sight) 2) - 14      44     510
+2009/09/20      Game (Southern Regional 2009)       +  4      48     514
+2009/09/20      Overcap (Southern)                  +  4      52     518
+2009/09/23      Downtime (September)                +  2      54     520
+2009/10/04      Game (London Created)               +  4      58     524
+2009/10/04      Merit (Azothic Object (Coat) 1)     -  2      56     524
+2009/10/04      Merit (Azothic Object (Coat) 2)     -  4      52     524
+2009/10/04      Merit (Azothic Object (Coat) 3)     -  6      46     524
+2009/10/17      Downtime (October)                  +  2      48     526
+2009/11/01      Game (London Created)               +  4      52     530
+2009/11/28      Game (Scottish Regional)            +  4      56     534
+2009/11/28      Overcap (Scottish Regional)         +  4      60     538
+2009/12/06      Game (London Created)               +  4      64     542
+2009/12/23      Downtime (January)                  +  2      66     544
+2009/12/23      Merit (Eplis 1)                     -  2      64     544
+2009/12/23      Merit (Shabati 3)                   -  6      58     544
+2009/12/23      Power Stat (Azoth 3)                - 24      34     544
+2009/12/23      Transmutation (Sens (Ephem Gaze) 3) - 21      13     544
+2010/01/07      MC (11)                             + 20      33     564
+2010/02/05      Downtime (Februrary)                +  2      35     566
+2010/02/05      Merit (Repute 3)                    -  6      29     566
+2010/02/05      Transmutation (Vulc (Trig Firest) 5)- 25       4     566
+2010/02/07      Game (London Created)               +  4       8     570
+2010/04/04      Bonus XP (London Created)           +  1       9     571
+2010/04/04      Game (London Created)               +  4      13     575
+2010/04/14      MC (12)                             + 60      73     635
+2010/05/02      Game (London Created)               +  4      77     639
+2010/07/03      Game (Summer National 2010 - Sat)   +  4      81     343
+2010/07/04      Overcap (Summer National 2010)      +  6      87     649
+2010/07/30      Merit (Azoth 4)                     - 32      55     649
+2010/07/30      Merit (Elpis 2)                     -  4      51     649
+2010/07/30      Merit (Pilgrim 5 #Pr06)             - 10      41     649
+2010/07/30      Transmutation (Elec (Insulator) 2)  - 14      27     649
+2010/07/30      Transmutation (Sens (Hear Voice) 4) - 28    -  1     649
+2010/07/30      Downtime (August)                   +  2       1     651
+2010/08/04      MC (13)                             + 20      21     671
+2010/08/25      Transmutation (Vulc (Steal Pyros) 4)- 20       1     671
+2010/08/25      Downtime (September)                +  2       3     673
+2010/11/04      Downtime (November)                 +  2       5     675
+2010/12/01      Lost merit (Pilgrim 5)              +  0       5     675
+2011/02/01      MC (14)                             + 20      25     695
+2011/02/04      Transmutation (Sens 4 - Circ o Eyes)- 25       0     695
+
+Vitriol log:    Item                                Cost    Left    Total
+2007/10/14      Milestone                           +  2       2       2
+2009/02/08      Milestone                           +  3       5       5
+2009/11/28      Plot (Scottish Regional)            -  1       4       5
+2010/02/04      Milestone (Moderate - Shabati)      +  3       7       8
+2010/02/07      Milestone (Minor - Power Manifest)  +  3      10      11
+2010/05/02      Milestone (Moderate - Sons of Set)  +  3      13      14
+2010/07/03      Milestone (Moderate - Temp Mortal)  +  4      17      18
+2010/07/03      Milestone (Minor - Watch Redemption)+  3      20      21
+2010/11/30      Moved to Athanor                    - 15       5       5
+2011/02/04      Transmutation (Sens 4 - Circ o Eyes)-  3       2       2
+2011/02/04      Moved from Athanor                  +  2       5       5
+
+Athanor pool:   Item                                Cost    Left    Total
+2010/11/30      Moved from Vitriol                  + 15      15      15
+2011/02/04      Moved to Vitriol                    -  2      13      13
+
+To buy:
+                Attribute (Composure 5)             - 25    
+                Attribute (Resolve 5)               - 25    
+                Attribute (Stamina 5)               - 25    
+                Power Stat (Azoth 5)                - 40    
+                Transmutation (Corp 1 - Auto Cont)  -  7    
+                Transmutation (Corp 2 - Regen)      - 14    
+                Transmutation (Corp 3 - Human Flesh)- 21    
+                Transmutation (Corp 4 - Perf Ref)   - 28    
+                Transmutation (Corp 5 - Hard Body)  - 35    
+                Transmutation (Elec 2 - Insulator)  -       
+                Transmutation (Elec 4 - Regulator)  -       
+                Transmutation (Sens 5 - Clair Sense)- 35    
+                Transmutation (Sens 5 - Pierc Sight)- 35    
+                Transmutation (Vulc 1 - Sense Flux) -  5    
+                Transmutation (Vulc 3 - Firegrasp)  - 15    
+                Transmutation (Vulc 5 - Drain Pyros)- 25    
