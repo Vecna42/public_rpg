@@ -162,26 +162,43 @@ If used on a network that the Lynx is naturally part of then successes on this p
 **Prerequisite:** Obfuscate 2
 
 ### OUTER JOIN
-The Lynx may spoof their victim's place in a network that they belong to.  
+The Lynx may spoof their victim's place in a network that they belong to.
 
-**Cost:** 2 vitae
+This requires a more overt display of power than many other Web Devotions - in that the Lynx must smear a point of their vitae on the target's skin, and at least a point of the target's vitae on their own skin.
 
-**Dice Pool:** Manipulation + Subterfuge + Obfuscate - Resolve
+If instead they wish to swap the networks of two other targets, they must smear a point of their own vitae on each target's skin _and_ a point of vitae from each target onto the other target's skin.
 
-**Action:** Instant and resisted; resistance is reflexive
+**Cost:** 2 vitae plus 1 vitae from the target (if the Lynx is the other target); 3 vitae plus 1 vitae from each target (if the Lynx is not a target
+
+**Dice Pool:** Manipulation + Subterfuge + Obfuscate - Resolve (use the highest Resolve if there are two targets)
+
+**Action:** Instant and resisted; resistance is reflexive and optional
 #### Roll Results
-**Dramatic Failure:** 
+**Dramatic Failure:** The Lynx gives up one of their own networks (e.g. all dots in Allies, or all their Thralls) for the night and receives nothing in return.  The activation costs are spent.
 
-**Failure:** 
+**Failure:** The Lynx cannot forge the connections required, and the vitae spent to activate the power is wasted.
 
-**Success:**
+**Success:** For each success the Lynx may exchange one of the following with the target:
 + _Social networks_: 
-+ _Spatial networks_: 
+	+ All of their Allies merits
+	+ All of their Contacts merits
+	+ All of their Mentor merits
+	+ All of their Mystery Cult Initiation merits
+	+ All of their Resources merits
+	+ All of their Retainer merits
+	+ All of their Staff merits
+	+ All of their Status merits (mortal organisations)
+	+ All of their Status merits (supernatural organisations)
++ _Spatial networks_: This power does not work on Spatial networks.
 + _Sympathy networks_: 
+	+ All 'natural' sympathy, i.e. Blood Sympathy
+	+ All 'artificial' sympathy, i.e. Blood Bonds
 
-**Exceptional Success:** 
+This effect expires when the sun next rises and may not be dismissed early, and the switch is not noticeable to anyone except the Lynx and the two targets involved, and any True Friends either target has; everyone else accepts their new positions without question.  However, any powers which highlight connections (e.g. SELECT FROM or The Meta-Web) between the two targets (and/or the Lynx) will reveal a supernatural connections.
 
-**Prerequisite:** 
+**Exceptional Success:** The spoof lasts for a number of nights equal to the Lynx's Blood Potency, and may be dismissed at any time.
+
+**Prerequisite:** Majesty 2, Obfuscate 2 (This devotions also costs 4xp instead of the normal 2xp for Web Devotions)
 
 ### The Meta-Web
 In addition to the above devotions, the Lynx makes the following alterations or additions to their disciplines:
