@@ -62,7 +62,7 @@ As always, the knowledge is filtered through the Beast - and many Lynx report se
 ### CREATE LOGIN
 This power allows a Lynx to temporarily attune to a network they are not already part of.  This is always required for a _Spatial network_, and is generally required for _Social networks_ as well and for most _Sympathetic networks_.
 
-The Lynx must be in the presence of a node of the network to activate this power, and be aware that the network exists.  They must spend a few minutes interacting with the node (talking to them, following them, spending time at the location, etc.) before activating the power.
+The Lynx must be in the presence of a node of the network to activate this power, and choose a network to join.  They must spend a few minutes interacting with the node (talking to them, following them, spending time at the location, etc.) before activating the power.
 
 This power only works on networks that the Lynx is not already part of - if they already have an equal or better version of any of the below effects, that effect takes precedence.
 
@@ -70,7 +70,7 @@ This power only works on networks that the Lynx is not already part of - if they
 
 **Dice Pool:** Presence + Empathy + Majesty
 
-**Action:** Instant.  Note, that while the actual activation of the power is an instant action the Lynx must spend a few minutes interacting with the node in some fashion.
+**Action:** Instant.  (Note, that while the actual activation of the power is an instant action the Lynx must spend a few minutes interacting with the node in some fashion beforehand.)
 
 **Duration:** 1 hour per dot of Blood Potency
 #### Roll Results
@@ -131,7 +131,7 @@ This power allows the Lynx to attach themselves to a node in a Network, becoming
 + _Spatial networks_: When affecting spatial networks, a Lynx can change the flow of traffic or information through connections by tainting them with an emotion.  Targeting a node in a network that they can see, use of this power is similar to the effects of _Social networks_ - how people perceive the section of network or the information in it is tainted by the emotion.  Ways this can manifest differently to above, though: 'good' flow can be attenuated to 'bad' flow (all the drivers on a stretch of road slow down to cause congestion) or 'bad' flow expanded into 'good' (pedestrians clear a path on a busy pavement).
 + _Sympathy networks_: 
 
-**Exceptional Success:** 
+**Exceptional Success:** The effects obtained from an Exceptional Success are more useful for the Lynx's desired aim, and the changes persist for the remainder of the night instead of the scene.
 
 **Prerequisite:** Majesty 2
 
