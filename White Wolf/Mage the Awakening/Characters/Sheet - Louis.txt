@@ -1,0 +1,812 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705
+VST - "???" <londonmage@gmail.com>, London Awakening
+
+Name: Patrick Noble
+Shadownames:
+            Louis       Mysterium
+            Angmar      Guardians
+            Heimdall    Pano
+DoB: 1979/07/01 (31)    DoA: 2009/08/08 (1)
+Concept - Satanic businessman
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (3):          ¦Social (5):
+        Intelligence    2   ¦   Strength        2   ¦   Presence            3
+        Wits            3   ¦   Dexterity       3   ¦   Manipulation        4
+        Resolve         4   ¦   Stamina         3   ¦   Composure           3
+
+Skills:
+    Mental (11):            ¦Physical (4):          ¦Social (7):
+        Academics       2   ¦   Athletics       2   ¦   Animal Ken          2
+        Computer        4   ¦   Brawl           1   ¦   Empathy             4
+            Assembly        ¦                       ¦                       
+            C++             ¦                       ¦                       
+        Craft           1   ¦   Drive           3   ¦   Expression          2
+                            ¦       Pilot           ¦                       
+        Investigation   3   ¦   Firearms        1   ¦   Intimidate          3
+        Medicine        2   ¦   Larceny         1   ¦   Persuasion          4
+        Occult          4   ¦   Stealth         2   ¦   Socialise           3
+            Bad luck        ¦                       ¦                       
+            Money           ¦                       ¦                       
+            Tarot           ¦                       ¦                       
+        Politics        3   ¦   Survival        1   ¦   Streetwise          1
+        Science         2   ¦   Weaponry        1   ¦   Subterfuge          5
+                            ¦                       ¦       Lying           
+
+Merits:
+    Power Stat (Gnosis)                     3
+    Status (Southern) (• to •••••)          1
+    Status (SotT) (• to ••••• •••••)  #613  2
+    Status (Pano) (• to ••••• •••••)        2
+    Status (GotV) (• to ••••• •••••) #1085  1
+    Status (Myst) (• to ••••• •••••) #1154  1
+
+                                                Shared  Pool
+    Allies ('Hackers')                      2
+    Allies (Accountants)                    2
+    Allies (Customs)                        2           #Ma37/#609
+    Allies (Health & Safety)                2
+    Allies (Inland Revenue)                 2           #Ma38/#608
+    Allies (ISPs)                           2
+    Allies (Local Church)                   1
+    Allies (Local Government)               1
+    Allies (Local Media)                    1
+    Allies (Local Police)                   1
+    Allies (Mayor's Office)                 1
+    Allies (Mercenaries)                    2
+    Allies (Private Investigators)          2
+    Allies (Recruit Agencies)               1
+    Allies (Satanists)                      1
+    Allies (WI)                             2
+    Barfly (•)                              1
+    Cartomancer (• to •••) Keys 13          3
+    Contacts (• to •••••)                   4
+        Clubs
+        Inland Revenue
+        Local Media
+        Stock Exchange
+    Daimon (•••) TotW 66                    3           06  Wits + Comp
+    Dream (• to •••••)                      2
+    Eidetic Memory (•• CP)                  2
+    Fame (• to •••)
+        (Generic)                           1
+        Business                            3
+        Computers                           1
+        Socialite                           2
+    Familiar (••• or ••••)                  3
+    Feral Mien (•••)            TotW p154   3
+    FS: Social Manoeuvres (• to ••••) GmF63 4
+        1 (Sugar Lips, Honey Tongue) - Observe target for 20min, then deliver a compliment as the first thing said to the character.  Roll 9 (Mani + Soci + (Half Empathy round up)) vs Pres + Comp.  Success means the target suffers a -3 to further Social Resistance traits or rolls.
+        2 (Stick and Move) - Retreat or feign disinterest.  Spend a WP, roll 8 (Pres + Subt) vs Wits + Empa.  Success means for the rest of the scene you gain a bonus to all Social rolls equal to half the target's Presence score (round up).
+        3 (New Approach) - On loose a Social contest, spend a WP to force a re-roll.
+        4 (Chip Away) - Put a character off balance through changing tacks.  Once per turn, make a Social roll and spend a WP.  Instead of the +3 to the roll, force a -1 Social penalty upon the target, cumulative up to -3 if repeated.  Drawback: If you fail a Social roll after successfully using this, the target loose the penalty and you can't use it on them again for the rest of the game session.
+    High Speech (•)                         1
+    Hypnotic Voice (••••) SS 66             4
+    Language (BSL) (•)                      1
+    Language (French) (•)                   1
+    Language (Hebrew) (•)                   1
+    Language (Latin) (•)                    1
+    Luxury (•• or ••••)                     4
+    Resources (• to •••••)                  5
+    Retainer (• to •••••) (Frank)           1
+    Retainer (• to •••••) (Simon)           2
+    Seductive Grace (• to •••)              1           #1107
+    Staff (• to •••••) Ghouls 74            2
+        Accountants
+        Housekeeping
+    Status (GCHQ)                           1 (3)       #2043
+    Status (Obsidian Computers)             5
+    Status (Security Service (MI5))         1 (3)       #2042
+    Striking Looks (•• or ••••)             4
+    Void Scourged (••) Summ 187             2           06  Wits + Comp + Rank
+    Whispers (•) Myst 179                   1           #Ma56/#611
+
+    Sanctum (Apartment):                        Shared  Pool
+        Hallow (• to •••••)                 1
+        Library (• to •••••)                3
+            Apostle Lore
+            Demons
+            Spirits
+        Security (• to •••••)               3
+        Size (• to •••••)                   3
+
+    (Items)                                 Dot Approval    Dice Pool
+    Artefact (•••+) (Eye of Ahriman)        12  #612         8  Gnosis + 5  Mysterium p 208
+        Durability 10, Size 0, Structure 10, Mana Capacity 15
+        Darksight: The darkness gives up its secrets, duplicating the Forces 1 "Nightsight" spell (see MET:A, p. 247) as a persistent power. The mage can also shift his perceptions to the vantage point of a shadow or a place shrouded in darkness by closing his eyes and concentrating, duplicating the Space 2 "Scrying Space" spell (see MET:A, p. 345), except that the power automatically fails if targeting a well-lit area.
+        Tenebrous Shield: The mage's own shadow rises and twists to interpose itself in the path of attacks, providing five points of armour as a persistent power, just as the protection afforded by the Death 2 "Entropic Guard" spell (see MET:A, p. 209).
+        Shadow Force: The mage can invoke tangible darkness per the Death 4 "Summon Shadows" spell (see MET:A, p. 222), triggered and controlled with evocative gestures automatically learned when the Artefact bonds to a host. The Eye can create any number of summoned shadows, but all evaporate to nothingness if touched by a single ray of sunlight.
+        Shadow Horde: The mage can whisper into the darkness, conjuring servitors of primal nightmares given form by his words. This power duplicates the Spirit 5/Death 3 "Shadow Slave" spell (see MET:A, p. 372), except that the creatures dissolve instantly if exposed to sunlight and the mage can forgo the usual Mana cost by siphoning power directly from the Abyss. Such cheating has a price, however, prompting a degeneration check as if he performed the least sinful act deemed unacceptable for his Wisdom rating.
+
+Arcana:
+    Death   0
+    Fate    3
+    Forces  2
+    Life    2   Primary
+    Matter  0   Inferior
+    Mind    3   Ruling
+    Prime   0
+    Space   3   Ruling
+    Spirit  0
+    Time    3
+    
+    Caps (G3): 5 4 4 3 3 3 2 2 2 1
+    Current:   3 3 3 3 2 2
+    
+    (FC  4) Initiate of: 
+    (FC  5) Apprentice of: Forces, Life
+    (FC  6) Disciple of: Fate, Mind, Space, Time
+    (FC  7) Adept of: 
+    (FC  8) Master of: 
+    (FC  9) Archmaster of: 
+    (FC 10) Archmaster of: 
+    (FC 11) Archmaster of: 
+    (FC 12) Archmaster of: 
+    (FC 13) Archmaster of: 
+
+Rotes:
+    Gu Specs: Investigation, Stealth, Subterfuge
+    My Specs: Investigation, Occult, Survival
+    ST Specs: Expression, Persuasion, Subterfuge
+    Pa Specs: Investigation, Stealth, Subterfuge
+    
+    Arcana  Lvl Name                            Pool                    Book
+    Fate    1   Sybil's Sight              (ST) 10  Wits + Occu  + Fate MET:A p232
+    Fate    1   Winds of Chance            (ST) 12  Wits + Subt* + Fate MET:A p232
+    Mind    2   Memory Hole                (ST) 10  Comp + Occu  + Mind MET:A p308
+    Mind    2   Mental Shield              (ST) 11  Reso + Occu  + Mind MET:A p308
+
+Attainments:
+    First - Spy's Assist    (Gnosis 3, Life 2, Subterfuge 2)
+        Always active Life 2 "Body Control" with Life dots (2) in Potency.  {Effects}.  In addition, add Life (2) to any attempt to ally suspicions and fool people - including mechanical lie detectors.
+        Opt Mind 2 - Always active Mind 2 "First Impression" with Potency equal to Mind dots (3).
+    Second - 
+        
+    Third - 
+        
+
+Total precast successes  9 = Stamina (3) * Gnosis (3)
+Used:
+    Precast 1 -  6
+    Precast 2 -  3
+                 9
+
+Precast 1: Pull (11)            Total   Mana    Duration    Targets
+    Mental Shield (Mind 2)       6      0       1 week      1
+        Area:           N/A     +0      0
+        Cloak:          0       +0      0
+        Conditional:    0       +0      0
+        Duration:       1hr     +0      0
+        Potency:        6       +6      0
+        Size:           N/A     +0      0
+        Targets:        1       +0      0
+        Notes: One mana spent to make duration 1 day, cast in a Hallow.
+
+Precast 2: Pull (12)            Total   Mana    Duration    Targets
+    Winds of Chance (Fate 1)     3      0       1 week      1
+        Area:           N/A     +0      0
+        Cloak:          0       +0      0
+        Conditional:    0       +0      0
+        Duration:       7d      +3      0
+        Potency:        1       +0      0
+        Size:           N/A     +0      0
+        Targets:        1       +0      0
+        Notes: 
+
+Morality:   Lost    Gained
+    10      
+    9       
+    8       
+    7       1
+    6   *   
+    5       
+    4       
+    3       
+    2       
+    1       
+
+Other:
+    Virtue: Faith
+    Vice: Greed
+    Flaw: Mystery Commands
+          One Eye
+    
+    Health: Size(5) + Stamina(3) = 8
+    |  |  |  |  |  |  |  |  |
+    Wound:          -1 -2 -3
+    
+    Willpower: Resolve(4) + Composure(3) = 7
+    |  |  |  |  |  |  |  |
+    
+    Mana = Max 12, 3 / turn
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |
+    Mana bleed = 0
+    Ritual cast: 1hr / 30m
+    
+    Active spells: Gnosis (3) + 3 = 6
+        1 - Precast 1
+        2 - Precast 2
+        3 - 
+        4 - 
+        5 - 
+        6 - 
+    Spell tolerance: Stamina (3) = 3
+        1 - Artefact
+        2 - Precast 1
+        3 - Precast 2
+    (-1)4 - 
+    (-2)5 - 
+    (-3)6 - 
+    
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(3)) = 2
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(2) + Composure(3) + FR(0) = 5
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(2) + Dexterity(2) + FoF(0) = 9
+    
+    Nimbus: There is the stench of fresh blood throughout the room, and with more powerful magic, dark red Goetic sigils writhe under his skin, which turns entirely black as the room gets colder.
+
+Approvals:
+    Lesser Template (Apostle) (Defunct)     #Ma36/#610
+
+Notes:
+    
+
+Familiar (Twilight):
+    Spirit: "Absolute"
+    Rank: 1
+    Type: Abstract/Conceptual
+    Appearance: A wavering thin wisp of smoke which seems to give off a constant whisper towards dark urges.
+    Ban: May not remain in the presence of a genuinely selfless act
+    
+    Power: 4
+    Finesse: 4
+    Resilience: 3
+    Willpower: 7  |  |  |  |  |  |  |  |
+    Corpus: 8  |  |  |  |  |  |  |  |  |
+    Essence: Max 10  |  |  |  |  |  |  |  |  |  |  |
+    Defence: 4
+    Attack: 8
+    Initiative: 7
+    Influence: Strengthen (Greed)
+    Numina: Damnation's Path - Cost 3 essence.
+        Pull Power + Finesse (8), once per hour.  Need Morality * 3 successes.
+        Resist Resolve + Composure + Power Stat.  Need Power + Rank (5) successes.
+
+Retainer (Frank) 1:
+    Name: Frank 'Jonesy' Jones
+    Virtue: Fortitude   Vice: Lust
+    
+    Inte 2, Stre 3, Pres 2
+    Wits 3, Dext 3, Mani 2
+    Reso 3, Stam 2, Comp 2
+    
+    Acad 0, Athl 1, Anim 0
+    Comp 1, Braw 1, Empa 0
+    Craf 0, Driv 1, Expr 0
+    Inve 2, Fire 3, Inti 2
+    Medi 1, Larc 2, Pers 2
+    Occu 0, Stea 1, Soci 0
+    Poli 0, Surv 1, Stre 1
+    Scie 0, Weap 1, Subt 2
+    
+    Specs: Medicine (First Aid), Firearms (Pistols), Subterfuge (Butlering)
+    Merits: Ambidextrous (3), Gunslinger (3), Quick Draw (Firearms) 1
+    Equipment:  Size    Dur Bonus   Cap Other
+        .38     1/S         2(L)    6   20/40/80
+    
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Size: 5
+    Initiative: 5
+    Defence: 3
+    Acting: 5   Speed: 11
+
+Retainer (Simon) 2
+    Name: Simon Carter
+    Virtue: Prudence    Vice: Pride
+    
+    Inte 3, Stre 2, Pres 2
+    Wits 2, Dext 2, Mani 2
+    Reso 3, Stam 2, Comp 3
+    
+    Acad 2, Athl 2, Anim 0
+    Comp 3, Braw 0, Empa 2
+    Craf 0, Driv 0, Expr 2
+    Inve 1, Fire 0, Inti 1
+    Medi 0, Larc 1, Pers 2
+    Occu 0, Stea 1, Soci 2
+    Poli 1, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 2
+    
+    Specs: Academics (Filing), Persuasion (Bureaucracy), Persuasion (Herding Cats)
+    Merits: Bureaucratic Navigator (4), Contacts (2), Good Time Management (2), Resources (2), Common Sense (1)
+    Contacts: Local government, Recruitment agencies
+    
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 6  |  |  |  |  |  |  |
+    Size: 5
+    Initiative: 5
+    Defence: 2
+    Acting: 5   Speed: 9
+
+--- BACKGROUND ---
+Bullet point version below.
+
+* Raised by middle class parents.
+* Dropped out of school during his A levels, and went to work for a local software company.  Worked there for a couple of years.
+* Old friend from school he'd not heard from in a while contacted him out of the blue.
+* Got involved in some low key, minor Satanism through this friend.  He wasn't sure at this stage if he really believed in it.
+* After another couple of years, the \"Higher Ups\" in the cult decided he was trustworthy enough to be inducted into the Inner Circle.
+* Here he was taught about the Dark One, and how to do luck magic to get what he wanted.
+* He used this power to advance first his position in the company, and then when he started his own, to curse his rivals so he did better than them.
+* This lead to him quickly becoming quite rich.
+
+---
+
+"Obsidian Computers was founded just over six years ago and appears to have a meteoric rise to success.  Headed by the charismatic Patrick Noble, 28, it has successfully navigated through the bursting of the dot-com bubble, and onto great things.  They have recently announced that they would be opening offices somewhere along the M4 corridor, and this has unleashed a flurry of speculation into what they are doing next.  Known for keeping his bold decisions a closely guarded secret, Noble isn't given anything away on this front.  Other notables in the industry have said:
+
+'Patrick leads a charmed life.  Seems to bounce out of one tragedy straight into a golden handshake.  I remember last year he was bidding on a contract, and things seemed to be going his way.  Then they decided on the other bid; Ickle PCs.  Shortly after that, the CEO of Ickle PCs had some kind of car accident, and the board decided to scale back their operations.  Patrick ended up with the contract after all.  I think he donated some of the money he got from it to the recovery fund.  Very touching.  Charmed life though...'
+
+'Patrick.  There's a man who spends too much of his time chasing skirts for my liking.  Trousers too if the rumours are to be believed.  If it wasn't for the fact that's he's become fabulously wealthy from it, I wouldn't trust his computer judgement as far as I could throw it...  He does seem to know what he's doing when it comes to business, even if he spends every evening in a different bar.'"
+
+Obsidian Computers trades in all kinds of software.  Generally they accept contracts from other firms to write software for a specific purpose.  They also do a small but successful range of off-the-shelf software.  They are still a relatively small company, and as of yet have not floated on the stock market.  Patrick still runs everything, even if he doesn't actually go to the office that often.
+
+---
+
+On Fri, Dec 5, 2008 at 8:00 PM, Yoda wrote:
+> Who is (are) the heads of the  organisation? Both privately and publically.
+Pat Noble.  Its privately owned, and entirely by him.  Publicly and privately.
+
+> Who is (are) the public faces? Who are the ones in actual control?
+Pat runs the company, but day to day management is devolved to the various VPs in charge of each section.  He maintains control though, and isn't afraid to use it when he has to.
+
+> Who have what positions?
+Pat Noble - CEO
+
+> Where is (are) the office(s)/other building(s)?
+One main office, in central London.
+
+> What areas of business/etc does the organisation cover?
+Computer software of any and all types.  Mostly bespoke systems for anyone who will pay enough.
+
+> What does the organisation do? What do you tell the public you do? And what do you actually do?
+Writes computer programs.  That's actually true as well.
+
+---
+
+Fame (Business) 3 - Head of Obsidian Computers, a successful computer software business which has managed to navigate it's way through the economic climate without faltering or loosing customers.
+
+Fame (Socialite) 2 - He's seen basically every night out on the town, seen around the best places to be in town.  He's about at the level where it's hip to be there if he is, but not yet where it's only hip to be where he is.
+
+Fame 1 - General public profile bleeding through from Fame (Business and Socialite) to be a man that everyone at least talks about now and then.  Either about his latest scandal or how well his business seems to do regardless.  Or both.
+
+---
+
+Subject: Patrick Noble
+Date of Birth: 01/07/79
+Last know location: South Kensington
+
+General notes:
+All that is know about Noble is that he was in the right place at the right time to ride the wave of the dotcom revolution and become rather successful.  Moving from Hobbes Computers, his own company, Obsidian, was founded in 2001, off of various clever investments and successes yielded from his previous job.  It is recorded that he took four clients from Hobbes during the transition to his own company.  He is an active socialite on the London scene, he has been noted at various prestigious events.
+
+---
+
+CHARACTER QUESTIONS (To be answered for all applications) 
+****
+What are your character's reason(s) to continue existing?  What most motivates your character to interact with other characters? What fears, joys, or other emotions drive him or her?  What are his or her goals? What is your character willing to die for?
+
+Patrick exists to assist the Dark One bringing about some sort of Armagedon/apocalypse scenario.  Other than that, he enjoys fine wines, sex, and money.
+His shorter term goals are 
+His joys in life are: corrupting innocents; seducing any man or woman he can; watching business rivals crumble; flying his plane.
+His fears are: losing his powers; going broke; becoming unattractive; being uncovered as an Apostle.
+Pat is mostly too scared of death to have anything he'd be willing to die for.  He fully expects the Dark One to be on the other side, and to punish him for failure if he dies before accomplishing anything.
+
+****
+How does your character interact with the mundane world? (If your character possesses any supernatural qualities, please describe how he or she avoids undue attention from ordinary people.)
+
+Pat interacts with the mundane world normally.  He runs his business (Obsidian Computers) from London, never letting go his grasp on it even if he doesn't appear to be leading.  He mostly views people as conquests or challenges: those equal to him are rivals to bring down; those weaker are there to be conquered; those more powerful are grudgingly respected, but still he works to undermine them.
+He hides his low magic abilities through the simple method of a) never talking about them to anyone who isn't already an Apostle and b) having a locked, windowless room in his apartment for performing rituals.  This is where he stores all his tools and books as well.
+
+****
+Does your character deviate from paradigm?  If so, how does this deviation add to the global chronicle?
+
+Pat is fairly typical example of:
+a) An apostle.
+b) A scheming businessman.
+c) A bed-hopping slut.
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Dexterity 2)                0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Manipulation 2)             0       0       0
+Creation        Attribute (Manipulation 3)             0       0       0
+Creation        Attribute (Manipulation 4)             0       0       0
+Creation        Attribute (Presence 2)                 0       0       0
+Creation        Attribute (Resolve 2)                  0       0       0
+Creation        Attribute (Resolve 3)                  0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Stamina 3)                  0       0       0
+Creation        Attribute (Wits 2)                     0       0       0
+Creation        Merit (Eidetic Memory 2)               0       0       0
+Creation        Merit (Resources 1)                    0       0       0
+Creation        Merit (Resources 2)                    0       0       0
+Creation        Merit (Resources 3)                    0       0       0
+Creation        Merit (Sanctum (Security) 1)           0       0       0
+Creation        Merit (Sanctum (Security) 2)           0       0       0
+Creation        Skill (Athletics 1)                    0       0       0
+Creation        Skill (Computer 1)                     0       0       0
+Creation        Skill (Computer 2)                     0       0       0
+Creation        Skill (Computer 3)                     0       0       0
+Creation        Skill (Computer 4)                     0       0       0
+Creation        Skill (Drive 1)                        0       0       0
+Creation        Skill (Drive 2)                        0       0       0
+Creation        Skill (Drive 3)                        0       0       0
+Creation        Skill (Intimidation 1)                 0       0       0
+Creation        Skill (Investigation 1)                0       0       0
+Creation        Skill (Investigation 2)                0       0       0
+Creation        Skill (Investigation 3)                0       0       0
+Creation        Skill (Occult (Bad luck curses))       0       0       0
+Creation        Skill (Occult (Money spells))          0       0       0
+Creation        Skill (Occult (Tarot))                 0       0       0
+Creation        Skill (Occult 1)                       0       0       0
+Creation        Skill (Occult 2)                       0       0       0
+Creation        Skill (Occult 3)                       0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Persuasion 1)                   0       0       0
+Creation        Skill (Persuasion 2)                   0       0       0
+Creation        Skill (Persuasion 3)                   0       0       0
+Creation        Skill (Persuasion 4)                   0       0       0
+Creation        Skill (Socialize 1)                    0       0       0
+Creation        Skill (Socialize 2)                    0       0       0
+MC              MC (2)                              + 70      70      70
+2007/07/01      Game (London IRC)                   +  4      74      74
+2007/08/05      Game (London IRC)                   +  4      78      78
+2007/08/20      MC (3)                              + 60     138     138
+2007/08/22      Downtime (August)                   +  2     140     140
+2007/09/02      Game (London IRC)                   +  4     144     144
+2007/09/08      Downtime (September)                +  2     146     146
+2007/09/15      Game (Southern Regional - Saturday) +  2     148     148
+2007/09/16      Overcap (Southern - 83073)          +  4     152     152
+2007/10/07      Game (London IRC)                   +  4     156     156
+2007/10/20      Game (Reading)                      +  2     158     158
+2007/11/01      MC (4)                              + 20     178     178
+2008/01/06      Game (London IRC)                   +  4     182     182
+2008/02/03      Downtime (February)                 +  2     184     184
+2008/02/03      Game (London IRC)                   +  4     188     188
+2008/03/02      Game (London IRC)                   +  4     192     192
+2008/03/28      Game (Northern Regional - Friday)   +  2     194     194
+2008/03/28      Overcap (Northern - 88587)          +  4     198     198
+2008/04/01      MC (5)                              + 20     218     218
+2008/04/06      Game (London IRC)                   +  4     222     222
+2008/05/01      MC (6)                              + 60     282     282
+2008/05/04      Game (UK National - Saturday)       +  4     286     286
+2008/05/13      Downtime (April)                    +  2     288     288
+2008/05/31      Overcap (National - 91922)          +  6     294     294
+2008/07/06      Game (London IRC)                   +  4     298     298
+2008/07/30      Downtime (August)                   +  2     300     300
+2008/08/17      Game (London IRC)                   +  4     304     304
+2008/09/05      Downtime (September)                +  2     306     306
+2008/09/07      Game (London IRC)                   +  4     310     310
+2008/09/28      MC (7)                              + 20     330     330
+2008/09/30      Downtime (October)                  +  2     332     332
+2008/10/04      Game (Southern Regional)            +  4     336     336
+2008/10/04      Overcap (Southern - 97998)          +  4     340     340
+2008/11/16      Game (London IRC)                   +  4     344     344
+2008/11/29      Game (Scottish Regional)            +  2     346     346
+2008/11/29      Overcap (Scottish - 101117)         +  4     350     350
+2008/12/07      Game (London IRC)                   +  4     354     354
+2008/12/08      MC (8)                              + 20     374     374
+2009/01/01      Note (Moved to the Awakening Venue)    0     374     374
+2009/03/20      Game (NCRE pre-game)                +  4     378     378
+2009/03/23      Game (IRT Awakening)                +  2     380     380
+2009/03/23      Other (Bonus XP)                    +  1     381     381
+2009/03/26      Game (4-Winds Awakening)            +  2     383     383
+2009/04/06      MC (9)                              + 60     443     443
+2009/04/11      Downtime (April)                    +  2     445     445
+2009/04/11      Game (London)                       +  4     449     449
+2009/05/21      MC (1)                              + 40     489     489
+2009/10/08      Downtime (July)                     +  2     491     491
+2009/10/08      Game (London)                       +  4     495     495
+
+2009/08/11      Attribute (Composure 3)             - 15     480     495
+2009/08/11      Attribute (Strength 2)              - 10     470     495
+2009/08/11      Attribute (Wits 3)                  - 15     455     495
+2009/08/11      Merit (Allies (Customs) 1)          -  2     453     495
+2009/08/11      Merit (Allies (Inland Revenue) 1)   -  2     451     495
+2009/08/11      Merit (Allies (Mercenaries) 1)      -  2     449     495
+2009/08/11      Merit (Barfly 1)                    -  2     447     495
+2009/08/11      Merit (Contacts (Clubs) 1)          -  2     445     495
+2009/08/11      Merit (Contacts (Inland Revenue) 2) -  4     441     495
+2009/08/11      Merit (Contacts (Stock Exchange) 3) -  6     435     495
+2009/08/11      Merit (Fame (Business) 1)           -  2     433     495
+2009/08/11      Merit (Fame (Business) 2)           -  4     429     495
+2009/08/11      Merit (Familiar 3)                  -  6     423     495
+2009/08/11      Merit (Hypnotic Voice 4)            -  8     415     495
+2009/08/11      Merit (Language (BSL) 1)            -  2     413     495
+2009/08/11      Merit (Language (French) 1)         -  2     411     495
+2009/08/11      Merit (Language (Hebrew) 1)         -  2     409     495
+2009/08/11      Merit (Language (Latin) 1)          -  2     407     495
+2009/08/11      Merit (Library (Apostle Lore) 1)    -  2     405     495
+2009/08/11      Merit (Library (Demons) 2)          -  2     403     495
+2009/08/11      Merit (Library (Spirits) 3)         -  2     401     495
+2009/08/11      Merit (Resources 4)                 -  8     393     495
+2009/08/11      Merit (Resources 5)                 - 10     383     495
+2009/08/11      Merit (Retainer () 1)               -  2     379     495
+2009/08/11      Merit (Retainer () 1)               -  2     381     495
+2009/08/11      Merit (Retainer () 2)               -  4     375     495
+2009/08/11      Merit (Sanctum (Hallow) 1)          -  2     373     495
+2009/08/11      Merit (Sanctum (Sec) 3)             -  6     367     495
+2009/08/11      Merit (Sanctum (Size) 1)            -  2     365     495
+2009/08/11      Merit (Sanctum (Size) 2)            -  4     361     495
+2009/08/11      Merit (Sanctum (Size) 3)            -  6     355     495
+2009/08/11      Merit (Staff (Accountants) 1)       -  2     353     495
+2009/08/11      Merit (Staff (Housekeeping) 2)      -  4     349     495
+2009/08/11      Merit (Status (Obsidian Comp) 1)    -  2     347     495
+2009/08/11      Merit (Status (Obsidian Comp) 2)    -  4     343     495
+2009/08/11      Merit (Status (Obsidian Comp) 3)    -  6     337     495
+2009/08/11      Merit (Status (Obsidian Comp) 4)    -  8     329     495
+2009/08/11      Merit (Status (Obsidian Comp) 5)    - 10     319     495
+2009/08/11      Merit (Striking Looks 2)            -  4     315     495
+2009/08/11      Skill (Academics 1)                 -  3     312     495
+2009/08/11      Skill (Brawl 1)                     -  3     309     495
+2009/08/11      Skill (Computer (Assembly))         -  3     306     495
+2009/08/11      Skill (Computer (C++))              -  3     303     495
+2009/08/11      Skill (Craft 1)                     -  3     300     495
+2009/08/11      Skill (Drive (Pilot))               -  3     297     495
+2009/08/11      Skill (Empathy 1)                   -  3     294     495
+2009/08/11      Skill (Empathy 2)                   -  6     288     495
+2009/08/11      Skill (Empathy 3)                   -  9     279     495
+2009/08/11      Skill (Expression 1)                -  3     276     495
+2009/08/11      Skill (Intimidation 2)              -  6     270     495
+2009/08/11      Skill (Intimidation 3)              -  9     261     495
+2009/08/11      Skill (Larceny 1)                   -  3     258     495
+2009/08/11      Skill (Politics 1)                  -  3     255     495
+2009/08/11      Skill (Politics 2)                  -  6     249     495
+2009/08/11      Skill (Politics 3)                  -  9     240     495
+2009/08/11      Skill (Science 1)                   -  3     237     495
+2009/08/11      Skill (Science 2)                   -  6     231     495
+2009/08/11      Skill (Socialise 3)                 -  9     222     495
+2009/08/11      Skill (Streetwise 1)                -  3     219     495
+2009/08/11      Skill (Subterfuge (Lying))          -  3     216     495
+2009/08/11      Skill (Subterfuge 1)                -  3     213     495
+2009/08/11      Skill (Subterfuge 2)                -  6     207     495
+2009/08/11      Skill (Subterfuge 3)                -  9     198     495
+Notes (XP before here to recreate existing Mortal sheet with
+appropriate Mage merits to represent lesser template items kept)
+
+Notes (XP after here reflects Awakening (August 8th 2009) and other
+expenditure)
+2009/08/11      Arcana (Fate 1) - CP                   0     198     495
+2009/08/11      Arcana (Fate 2) - CP                   0     198     495
+2009/08/11      Arcana (Fate 3)                     - 21     177     495
+2009/08/11      Arcana (Forces 1)                   -  7     170     495
+2009/08/11      Arcana (Forces 2)                   - 14     156     495
+2009/08/11      Arcana (Life 1)                     -  7     149     495
+2009/08/11      Arcana (Life 2)                     - 14     135     495
+2009/08/11      Arcana (Mind 1) - CP                   0     135     495
+2009/08/11      Arcana (Mind 2) - CP                   0     135     495
+2009/08/11      Arcana (Mind 3) - CP                   0     135     495
+2009/08/11      Arcana (Space 1) - CP                  0     135     495
+2009/08/11      Arcana (Space 2)                    - 12     123     495
+2009/08/11      Arcana (Space 3)                    - 18     105     495
+2009/08/11      Attribute (Presence 3)              - 15      90     495
+2009/08/11      Attribute (Resolve 4) - Free point  -  0      90     495
+2009/08/11      Merit (Allies (PI) 1)               -  2      88     495
+2009/08/11      Merit (Contacts (Local Media) 4)    -  8      80     495
+2009/08/11      Merit (Daimon 3)                    -  6      74     495
+2009/08/11      Merit (Dream 1)                     -  2      72     495
+2009/08/11      Merit (Dream 2)                     -  4      68     495
+2009/08/11      Merit (Void Scourged 2)             -  4      64     495
+2009/08/11      Merit (Whispers 1)                  -  2      62     495
+2009/08/11      Skill (Academics 2)                 -  6      56     495
+2009/08/11      Skill (Animal Ken 1)                -  3      53     495
+2009/08/11      Skill (Animal Ken 2)                -  6      47     495
+2009/08/11      Skill (Athletics 2)                 -  6      41     495
+2009/08/11      Skill (Expression 2)                -  6      35     495
+2009/08/11      Skill (Medicine 1)                  -  3      32     495
+2009/08/11      Skill (Medicine 2)                  -  6      26     495
+2009/08/11      Skill (Stealth 1)                   -  3      23     495
+2009/08/11      Skill (Stealth 2)                   -  6      17     495
+2009/08/11      Skill (Subterfuge 4)                - 12       5     495
+2009/08/11      Skill (Survival 1)                  -  3       2     495
+
+2009/09/08      MC (10)                             + 20      22     515
+2009/09/12      Game (London)                       +  4      26     519
+2009/09/20      Game (Southern Regional)            +  2      28     521
+2009/09/20      Overcap (Southern)                  +  4      32     525
+2009/09/23      Downtime (September)                +  2      34     527
+2009/09/23      Merit (Cartomancer 1)               -  2      32     527
+2009/09/23      Skill (Empathy 4)                   - 12      20     527
+2009/09/23      Skill (Subterfuge 5)                - 15       5     527
+2009/09/26      Game (Reading)                      +  2       7     529
+2009/09/26      Other (Bonus XP)                    +  0       7     529
+2009/10/17      Downtime (October)                  +  2       9     531
+2009/11/14      Game (London)                       +  4      11     535
+2009/11/22      Game (Anglesey)                     +  2      13     537
+2009/12/06      Arcana (Time 1)                     -  7       6     537
+2009/12/06      Downtime (December)                 +  2       8     539
+2009/12/06      Merit (Allies ('Hackers') 1)        -  2       6     539
+2009/12/06      Merit (Allies (Satanists) 1)        -  2       4     539
+2009/12/12      Game (London)                       +  4       8     543
+2010/01/07      MC (11)                             + 20      28     563
+2010/01/08      Downtime (January)                  +  2      30     565
+2010/01/08      Merit (Fame (Business) 3)           -  6      24     565
+2010/01/08      Merit (Fame 1)                      -  2      22     565
+2010/01/08      Power Stat (Gnosis 2)               - 16       6     565
+2010/01/08      Skill (Weaponry 1)                  -  3       3     565
+2010/01/09      Game (London Awakening)             +  4       7     569
+2010/02/10      Downtime (February)                 +  2       9     571
+2010/02/10      Merit (Allies (Accountants) 1)      -  2       7     571
+2010/02/10      Merit (Allies (Local Church) 1)     -  2       5     571
+2010/02/10      Skill (Firearms 1)                  -  3       2     571
+2010/02/13      Game (London Awakening)             +  4       6     575
+2010/04/08      Merit (Cartomancer 2)               -  4       2     575
+2010/04/14      MC (12)                             + 60      62     635
+2010/05/05      Arcana (Time 2)                     - 14      48     635
+2010/05/05      Merit (Allies (Accountants) 2)      -  4      44     635
+2010/05/05      Merit (Allies (Customs) 2)          -  4      40     635
+2010/05/05      Merit (Allies (Health & Safety) 1)  -  2      38     635
+2010/05/05      Merit (Allies (Health & Safety) 2)  -  4      34     635
+2010/05/05      Merit (Allies (ISPs) 1)             -  2      32     635
+2010/05/05      Merit (Allies (ISPs) 2)             -  4      28     635
+2010/05/05      Merit (Allies (Local Government) 1) -  2      26     635
+2010/05/05      Merit (Allies (Local Media) 1)      -  2      24     635
+2010/05/05      Merit (Allies (Mayor's Office) 1)   -  2      22     635
+2010/05/05      Merit (Allies (Mercenaries) 2)      -  4      18     635
+2010/05/05      Merit (Allies (Recruit Agencies) 1) -  2      16     635
+2010/05/05      Merit (Allies (WI) 1)               -  2      14     635
+2010/05/05      Merit (Allies (WI) 2)               -  4      10     635
+2010/05/05      Merit (Fame (Socialite) 1)          -  2       8     635
+2010/05/05      Merit (Luxury 4)                    -  8       0     635
+2010/05/07      Downtime (May)                      +  2       2     637
+2010/05/08      Game (London Awakening)             +  4       6     641
+2010/07/10      Game (London Awakening)             +  4      10     645
+2010/07/30      Merit (FS: Social Manoeuvres 1)     -  2       8     645
+2010/07/30      Merit (FS: Social Manoeuvres 2)     -  4       4     645
+2010/07/30      Merit (FS: Social Manoeuvres 3)     -  6    -  2     645
+2010/08/        Downtime (August)                   +  2       0     647
+2010/08/04      MC (13)                             + 20      20     667
+2010/08/25      Merit (Allies ('Hackers' 2))        -  4      16     667
+2010/08/25      Merit (Allies (Inland Revenue) 2)   -  4      12     667
+2010/08/25      Merit (Allies (PIs) 2)              -  4       8     667
+2010/08/25      Merit (FS: Social Manoeuvres 4)     -  8       0     667
+2010/09/        Downtime (September)                +  2       2     669
+2010/09/04      Game (London Awakening)             +  4       6     673
+2010/09/26      Game (Anglesey Awakening)           +  2       8     675
+2010/09/27      Merit (Allies (Local Church) 2)     -  4       4     675
+2010/09/27      Merit (Allies (Satanists) 2)        -  4       0     675
+2010/10/        Downtime (October)                  +  2       2     677
+2010/10/02      Game (London Awakening)             +  4       6     681
+2010/11/01      Merit (Fame (Socialite) 2)          -  4       2     681
+2010/11/01      Merit (Allies (Local Police) 1)     -  2       0     681
+2010/11/        Downtime (November)                 +  2       2     683
+2010/11/06      Game (London Awakening)             +  4       6     687
+2010/11/23      Merit (Cartomancer 3)               -  6       0     687
+2010/11/28      Game (Anglesey Awakening)           +  2       2     689
+2010/12/        Downtime (December)                 +  2       2     691
+2010/12/19      Game (Anglesey Awakening)           +  4       6     695
+2010/12/26      Merit (Feral Mien 3)                -  6       0     695
+2011/01/22      Game (Anglesey Awakening)           +  4       4     699
+2011/01/        Downtime (January)                  +  2       6     701
+2011/01/29      Game (London Awakening)             +  4      10     705
+2011/02/01      MC (14)                             + 20      30     725
+2011/02/04      Arcana (Time 3)                     - 21       9     725
+2011/02/        Downtime (February)                 +  2      11     727
+2011/02/05      Wisdom 6                            + 18      29     745
+2011/02/05      Game (London Awakening)             +  4      33     749
+2011/02/05      Merit (Destiny 1)                   -  2      31     749
+2011/02/05      Merit (Destiny 2)                   -  4      27     749
+2011/02/05      Merit (Destiny 3)                   -  6      21     749
+2011/02/05      Merit (Destiny 4)                   -  8      13     749
+2011/02/05      Merit (Destiny 5)                   - 10       3     749
+2011/02/05      Merit (Artefact - Eye)              - 24     -21     749
+2011/03/04      Downtime (March)                    +  2     -19     751
+2011/03/05      Game (London Awakening)             +  4     -15     755
+2011/03/27      Game (Anglesey Awakening)           +  2     -13     757
+2011/04/01      Downtime (April)                    +  2     -11     759
+2011/04/02      Game (London Awakening)             +  4     - 7     783
+2011/05/        Downtime (May)                      +  2     - 5     785
+2011/05/07      Game (London Awakening)             +  4     - 1     789
+2011/06/01      Downtime (June)                     +  2       1     791
+2011/06/04      Game (London Awakening)             +  4       5     795
+2011/06/26      Game (Anglesey Awakening)           +  2       7     797
+2011/07/        Downtime (July)                     +  2       9     799
+2011/07/02      Game (London Awakening)             +  4      13     803
+2011/07/02      Bonus XP (Good RP)                  +  1      14     804
+2011/07/24      Game (Anglesey Awakening)           +  2      16     806
+2011/08/06      Game (London Awakening)             +  4      20     810
+2011/08/28      Attribute (Dexterity 3)             - 15       5     810
+2011/08/28      Merit (Seductive Grace 1)           -  2       3     810
+2011/08/28      Game (Anglesey Awakening)           +  2       5     812
+2011/10/01      Downtime (October)                  +  2       7     814
+2011/10/01      Merit (Striking Looks 4)            -  4       3     814
+2011/10/01      Merit (Fame (Computers) 1)          -  2       1     814
+2011/10/01      Game (London Awakening)             +  4       5     818
+2011/10/23      Game (Anglesey Awakening)           +  2       7     820
+2011/11/01      Downtime (November)                 +  2       9     822
+2011/11/27      Game (Anglesey Awakening)           +  4      13     826
+2011/12/03      Downtime (December)                 +  2      15     828
+2012/02/04      Downtime (February)                 +  2      17     830
+2012/04/29      Game (Anglesey Awakening)           +  4      21     834
+2012/04/30      Merit (Mentor (Legacy) 1)           -  2      19     834
+2012/04/30      Merit (Mentor (Legacy) 2)           -  4      15     834
+2012/04/30      Merit (Mentor (Legacy) 3)           -  6       9     834
+2012/05/05      Downtime (May)                      +  2      11     836
+2012/05/30      Power Stat (Gnosis 3)               -  9       2     836
+                Status (GCHQ) 1                     -  2       0     836
+                Status (Secret Service (MI5)) 1     -  2    -  2     836
+                Downtime (June)                     +  2       0     838
+2012/07/29      Downtime (September)                +  2       2     840
+2012/09/23      Game (Anglesey Awakening)           +  4       6     844
+2012/10/        Downtime (October)                  +  2       8     846
+2013/01/04      Downtime (December)                 +  2      10     848
+2013/03/17      Downtime (March)                    +  2      12     850
+
+Arcane XP:
+2009/09/26      Reading                             +  1       1       1
+2010/02/05      Artefact - Eye                      +  1       2       2
+2011/09/03      Mentoring - May                     +  1       3       3
+2011/09/03      Mentoring - Whistler                +  1       4       4
+2012/05/01      Supernal Being                      +  2       6       6
+2012/05/20      Casting a spell                     +  1       7       7    #2018
+2012/05/20      Casting a vulgar spell              +  1       8       8    #2018
+2012/05/20      Entering the Oneiros                +  1       9       9    #2018
+2012/05/20      First use of a Mage Sight           +  1      10      10    #2018
+2012/05/20      Learning a rote                     +  1      11      11    #2018
+2012/05/20      Seeing a blatantly impossible thing +  1      12      12    #2018
+2012/05/20      Seeing a new type of being          +  1      13      13    #2018
+2012/05/20      Seeing an Artifact                  +  1      14      14    #2018
+2012/05/20      Studying an Artifact                +  1      15      15    #2018
+2012/05/20      Using an Artifact                   +  1      16      16    #2018
+2012/05/20      Using an Imbued Item                +  1      15      15    #2018
+2012/05/30      Power Stat (Gnosis 3)               - 15       0      15
+
+To buy:
+                Merit (Staff (Obsidian Computers) 3)-  6    
+                Merit (Staff (Security Staff) 4)    -  8    
+                Merit (Fame (Computers) 2)          -  4    
+                
+                Arcana (Forces 3)                   - 21    
+                Arcana (Life 3)                     - 18    
+                Attribute (Intelligence 3)          - 15    
+                Attribute (Manipulation 5)          - 15    
+                Attribute (Stamina 4)               - 20    
+                Attribute (Strength 3)              - 15    
+                Merit (Allies (DVLA) 1)             -  2    
+                Merit (Allies (Fraud Office) 1)     -  2    
+                Merit (Contacts () 5)               - 10    
+                Merit (Fame (Computers) 3)          -  6    
+                Merit (Fame (Socialite) 3)          -  6    
+                Merit (Fame 2)                      -  4    
+                Merit (Fame 3)                      -  6    
+                Prelacy (Sword of Vision 1)         -  6    
+                Prelacy (Sword of Vision 2)         - 12    
+                Prelacy (Sword of Vision 3)         - 18    
+                Prelacy (Crown of Vision 1)         -  6    
+                Prelacy (Crown of Vision 2)         - 12    
+                Prelacy (Crown of Vision 3)         - 18    
+                Prelacy (Crown of Obligation 1)     -  7    
+                Prelacy (Crown of Obligation 2)     - 14    
+                Prelacy (Sword of Obligation 1)     -  7    
+                Prelacy (Sword of Obligation 2)     - 14    
+                Prelacy (Sword of Obligation 3)     - 21    
+                Rote (Forces Gu (Alter Frequency) 2)-  4    
+                Rote (Mind Gu (Know Thyself) 3)     -  6    
+                Rote (Space Gu (Intrusion Warn) 2)  -  4    
+                Rote (Time Gu (Lib of Time) 2)      -  4    

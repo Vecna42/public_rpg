@@ -1,0 +1,400 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+IoD Number - UK0701-1705
+Storyteller - "Tim Edwards" <Anglesey.STs@googlemail.com>
+VSS - Anglesey Awakening
+
+Name: Leonard Crumb
+Shadowname: Paints Among the Dust
+DoB: 1986// (23)
+DoD: // (0)
+Concept - Concerned healer
+
+Path: Thyrsus
+    Legacy: Tamer of Rivers     #Ma39
+Order: Apostate
+    Faction: 
+
+--- SHEET ---
+Attributes:         CP  FP  XP¦                 CP  FP  XP¦                 CP  FP  XP
+    Mental (4):               ¦ Physical (3):             ¦ Social (5):
+        Inte    2 = 1         ¦     Stre    2 = 1         ¦     Pres    3 = 1       1
+        Wits    3 = 2         ¦     Dext    2 = 1         ¦     Mani    3 = 2       
+        Reso    2 = 1         ¦     Stam    2 = 1         ¦     Comp    4 = 2   1   
+
+Skills:
+    Mental (7):               ¦ Physical (11):            ¦ Social (4):
+        Acad    1 = 1         ¦     Athl    3 = 3         ¦     Anim    1 =         1
+            Art     1         ¦                           ¦
+        Comp    1 = 1         ¦     Braw    2 = 2         ¦     Empa    3 = 3       
+        Craf    2 = 2         ¦     Driv    0 =           ¦     Expr    1 =         1
+            Paint   1         ¦                           ¦
+        Inve    0 =           ¦     Fire    0 =           ¦     Inti    0 =         
+        Medi    2 = 1         ¦     Larc    1 = 1         ¦     Pers    1 =         1
+        Occu    1 = 1         ¦     Stea    2 = 2         ¦     Soci    1 =         1
+        Poli    0 =           ¦     Surv    3 = 3         ¦     Stre    0 =         
+        Scie    0 =           ¦     Weap    0 =           ¦     Subt    1 = 1       
+                              ¦                           ¦         Misdirect 1
+
+Merits:                                 CP  FP  XP  Shared  Pool
+    Power Stat (Gnosis)             3 = 2       
+    Status (Anglesey) (• to •••••)  2 =     2
+    Status () (• to ••••• •••••)    - =     
+
+    (Singular)                          CP  FP  XP  Shared  Pool
+    Contacts (• to •••••)           1 =         1
+        Locals
+    Dream (• to •••••)              2 =         2
+    Fame (Local Anglesey artist)    1 =         1
+    Familiar (••• or ••••)          4 =         4
+    High Speech (•)                 0 =     
+    Mentor (• to •••••) (Legacy)    4 =         4
+    Resources (• to •••••)          5 =         5
+    Status (Nobility)               1 =         1
+
+    Sanctum (Crumb Mansion):
+        Hallow (• to •••••)         1 =         1           #Ma40
+        Library (• to •••••)        1 =         1
+            Healing
+        Security (• to •••••)       2 =         2
+        Size (• to •••••)           5 = 1       4
+
+Arcana:         CP  XP
+    Death   0 =     
+    Fate    0 =     
+    Forces  0 =     
+    Life    3 = 2   
+    Matter  2 = 2   
+    Mind    2 =     2
+    Prime   0 =     
+    Space   0 =     
+    Spirit  2 = 2   
+    Time    0 =     
+    
+    Caps (G3): 5 4 4 3 3 3 2 2 2 1
+    Current:   3 2 2 2
+    
+    (FC  4) Initiate of: 
+    (FC  5) Apprentice of: Matter, Mind, Spirit
+    (FC  6) Disciple of: Life
+    (FC  7) Adept of: 
+    (FC  8) Master of: 
+
+Rotes:
+    Rote specs: 
+    
+    Arcana  Lvl Name                        CP  XP  Pool
+    Life    1   Cleanse the Body            1        7  Stam + Medi + Life
+    Life    1   Sense Life                  1        7  Wits + AniK + Life
+    Life    2   Organic Resilience          2        8  Stam + Athl + Life
+    Life    2   Self Healing                    2    7  Dext + Medi + Life
+    Life    2   Self-Purging                    2    7  Stam + Medi + Life
+    Mind    1   Sense Conciousness              1    7  Wits + Empa + Mind
+    Spirit  1   Exorcist's Eye              1        6  Wits + Occu + Spirit
+    Spirit  1   Second Sight                    1    5  Inte + Occu + Spirit
+    Spirit  1   Spirit Tongue               1        6  Pres + Soci + Spirit
+    Spirit  2   Lesser Spirit Summons           2    6  Pres + Pers + Spirit
+    Spirit  2   Peer Across the Gauntlet        2    6  Wits + Occu + Spirit
+
+Attainments:
+    First - Refresh the Waters
+        Can use Mater 2 "Transmute Water" on liquid to change to or from a water-based substance.  For affecting more than a gallon pool of 6 (Wits + Occu + Matter).
+        Life 1 "Healer's Trance" on humans, potency equal to life dots.
+    Second - 
+        
+    Third - 
+        
+
+Total precast successes 6 = Stamina (2) * Gnosis (3)
+Used:
+    Precast 1 -  6
+    Precast 2 -  6
+
+Precast 1: Pull (6)         Total   Mana    Duration    Targets
+    Potency 3                  6    0       1 day       1
+    Peer Ac' Gaunt (Spirit 2)  6    0       1 day       1
+        Pull: 6
+        Area: N/A             +0    0
+        Cloak: 0              +0    0
+        Conditional: 0        +0    0
+        Duration: 1d          +3    0
+        Potency: 3            +3    0
+        Size: N/A             +0    0
+        Targets: 1            +0    0
+    Notes: Cast in Hallow.
+
+Precast 2: Pull (4)         Total   Mana    Duration    Targets
+    Potency 4                  6    0       1 day       1
+    Organic Resi (Life 2)      3    0       1 day       1
+        Pull: 11
+        Area: N/A             +0    0
+        Cloak: 0              +0    0
+        Conditional: 0        +0    0
+        Duration: 1d          +1    0
+        Potency: 2            +2    0
+        Size: N/A             +0    0
+        Targets: 1            +0    0
+    Spirit Tongue (Spirit 1)   3    0       1 day       1
+        Pull: 6
+        Area: N/A             +0    0
+        Cloak: 0              +0    0
+        Conditional: 0        +0    0
+        Duration: 1d          +1    0
+        Potency: 2            +2    0
+        Size: N/A             +0    0
+        Targets: 1            +0    0
+    Notes: Cast in Hallow.
+
+Morality:   Lost  Bought  Free
+    10      
+     9      
+     8      
+     7  *   
+     6      
+     5      
+     4      
+     3      
+     2      
+     1      
+
+Equipment:      Size    Dur Bonus   Other
+
+Other:
+    Virtue: Charity
+    Vice: Sloth
+    Flaw: 
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |  |  |  |
+    Wound:       -1 -2 -3
+    
+    Willpower: Resolve(2) + Composure(4) = 6
+    |  |  |  |  |  |  |
+    
+    Mana = Max 12, 3 / turn
+    |  |  |  |  |  |  |  |  |  |  |  |  |
+    Mana bleed = 0
+    Ritual cast: 1h / 30m
+    
+    Active spells: Gnosis (3) + 3 = 6
+        1 - Precast 1
+        2 - Precast 2
+        3 - 
+        4 - 
+        5 - 
+        6 - 
+    Spell tolerance: Stamina (2) = 2
+        1 - Precast 1
+        2 - Precast 2
+    (-1)3 - 
+    (-2)4 - 
+    (-3)5 - 
+    (-4)6 - 
+    
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(3)) = 2
+    Armour: 3 / 3
+        Mage Armour 3 / 3
+    
+    Initiative: Dexterity(2) + Composure(4) + FR(0) = 6
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(2) + Dexterity(2) + FoF(0) = 9
+    
+    Nimbus: Watchers feel healthier, and more spiritually aware.  Ghost likes shapes flit in the corners of the vision.  Surfaces of objects slide like water for a moment.
+
+Approvals:
+    
+
+Familiar (Embodied):
+    Spirit: 
+    Rank: 
+    Type: 
+    Appearance: 
+    Ban: 
+    
+    Power: 
+    Finesse: 
+    Resilience: 
+    Willpower:   |  |  |  |  |  |  |  |
+    Corpus:   |  |  |  |  |  |  |  |  |
+    Essence: Max   |  |  |  |  |  |  |  |  |  |  |
+    Defence: 
+    Attack: 
+    Initiative: 
+    Influence: 
+    Numina: 
+
+Notes:
+    
+
+--- BACKGROUND ---
+Leonard Crumb is the only child of the reasonably wealthy minor Welsh noble Lord Reginald Crumb.  Lord Crumb was a military man, Wing Commander Crumb, and brought his son up with a strict regime after the death of his wife when Unnamed was only 5.  This worked for a while, but eventually the young noble rebelled and went through everyone's favourite teenager phase. He took up hanging out with hippies and painters and all sorts of nasty Bohemian types.
+Graduating from the University of Oxford with a BA in Art, he moved back to the rambling mansion of his father.  His father, who had been plagued with bad health for a number of years, finally succumbed to a weak heart brought about partially by the wayward Leonard and their regular arguments.
+
+Despite their differences, Leonard was distraught by this, and the night his father died fled the house in a daze, wandering down the overgrown garden. Pushing through the brambles and the trees, he stumbled upon a ruined folly. Forcing the door, he discovered a dusty room, where he sat and cried.  As his tears splashed the floor, he idly began to stir them around in the dust, making patterns.  Finishing his picture, he signs it.
+
+He awakens the next morning, to find he'd spent the night in the garden.  No sign of the folly remain.  He returns to the house, Awakened, and fuelled by his former hippie beliefs and the pain of his father's passing, delves into the spirit side of his Path.  He paints broad visions of his time spent among the other beings, and eventually builds up a small cult following (through no actions of his own) among the locals, who see him as some sort of guru for not only the knowledge he has through the spirits, but for his minor healing abilities.
+
+This was about a year ago.  Now play on...
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Arcana (Death 1)                       0      0      0
+Creation        Arcana (Matter 1)                      0      0      0
+Creation        Arcana (Matter 2)                      0      0      0
+Creation        Arcana (Matter 3)                      0      0      0
+Creation        Arcana (Prime 1)                       0      0      0
+Creation        Arcana (Prime 2)                       0      0      0
+Creation        Attribute (Composure 2)                0      0      0
+Creation        Attribute (Composure 3) - Free point   0      0      0
+Creation        Attribute (Dexterity 2)                0      0      0
+Creation        Attribute (Intelligence 2)             0      0      0
+Creation        Attribute (Manipulation 2)             0      0      0
+Creation        Attribute (Presence 2)                 0      0      0
+Creation        Attribute (Resolve 2)                  0      0      0
+Creation        Attribute (Stamina 2)                  0      0      0
+Creation        Attribute (Stamina 3)                  0      0      0
+Creation        Attribute (Stamina 4)                  0      0      0
+Creation        Attribute (Strength 2)                 0      0      0
+Creation        Attribute (Wits 2)                     0      0      0
+Creation        Attribute (Wits 3)                     0      0      0
+Creation        Merit (Gnosis 2)                       0      0      0
+Creation        Merit (Gnosis 3)                       0      0      0
+Creation        Merit (Resources 1)                    0      0      0
+Creation        Rote (Matter (Alter Accuracy) 2)       0      0      0
+Creation        Rote (Matter (Detect Substance) 1)     0      0      0
+Creation        Rote (Matter (Discern Composition) 1)  0      0      0
+Creation        Rote (Matter (Weaponise Object) 2)     0      0      0
+Creation        Skill (Athletics 1)                    0      0      0
+Creation        Skill (Athletics 2)                    0      0      0
+Creation        Skill (Brawl 1)                        0      0      0
+Creation        Skill (Brawl 2)                        0      0      0
+Creation        Skill (Brawl 3)                        0      0      0
+Creation        Skill (Computer 1)                     0      0      0
+Creation        Skill (Craft (Metalwork))              0      0      0
+Creation        Skill (Crafts 1)                       0      0      0
+Creation        Skill (Crafts 2)                       0      0      0
+Creation        Skill (Crafts 3)                       0      0      0
+Creation        Skill (Crafts 4)                       0      0      0
+Creation        Skill (Crafts 5)                       0      0      0
+Creation        Skill (Expression (Metalwork))         0      0      0
+Creation        Skill (Expression 1)                   0      0      0
+Creation        Skill (Expression 2)                   0      0      0
+Creation        Skill (Expression 3)                   0      0      0
+Creation        Skill (Intimidation 1)                 0      0      0
+Creation        Skill (Occult 1)                       0      0      0
+Creation        Skill (Occult 2)                       0      0      0
+Creation        Skill (Science (Engineering))          0      0      0
+Creation        Skill (Science 1)                      0      0      0
+Creation        Skill (Science 2)                      0      0      0
+Creation        Skill (Weaponry 1)                     0      0      0
+Creation        Skill (Weaponry 2)                     0      0      0
+MC              MC (1)                              + 50     50     50
+2008/03/23      Game (Anglesey Awakening)           +  4     54     54
+2008/03/24      Game (GIRC Awakening)               +  4     58     58
+2008/03/24      Other (Bonus XP)                    +  1     59     59
+2008/03/29      Game (Northern Regional 2008)       +  1     60     60
+2008/03/29      Overcap (Northern - 89109)          +  4     64     64
+2008/04/04      Downtime (April)                    +  0     64     64
+2008/04/12      Game (OKC IRC)                      +  5     69     69
+2008/04/17      Game (GIRC Awakening)               +  4     73     73
+2008/04/17      Other (Bonus XP)                    +  1     74     74
+2008/04/17      Overcap (GIRC FGotM - 89292)        +  2     76     76
+2008/04/18      Game (OKC IRC)                      +  0     76     76
+2008/04/27      Game (Anglesey Awakening)           +  0     76     76
+2008/05/25      Game (Anglesey Awakening)           +  4     80     80
+2008/06/01      Game (UK National 2008)             +  4     84     84
+2008/06/01      Overcap (National - 91920)          +  6     90     90
+2008/08/20      Downtime (August)                   +  2     92     92
+2008/08/24      Game (Anglesey Awakening)           +  4     96     96
+2008/08/30      Game (GIRC Awakening)               +  2     98     98
+2008/08/30      Other (Bonus XP)                    +  1     99     99
+2008/09/14      Game (GIRC Awakening)               +  4    103    103
+2008/09/25      Downtime (September)                +  2    105    105
+2008/09/28      Game (Anglesey Awakening)           +  2    107    107
+2008/10/11      Game (London Awakening)             +  4    111    111
+2008/10/11      Other (Bonus XP)                    +  1    112    112
+2008/10/27      Game (Anglesey Awakening)           +  2    114    114
+2008/11/16      Downtime (November)                 +  2    116    116
+2008/11/23      Game (Anglesey Awakening)           +  4    120    120
+2008/12/13      Game (London Awakening)             +  4    124    124
+2008/12/19      Downtime (December)                 +  2    126    126
+2008/12/21      Game (Anglesey Awakening)           +  2    128    128
+2009/01/16      Game (OKC IRC)                      +  4    132    132
+2009/01/17      Game (GIRC Awakening)               +  2    134    134
+2009/01/17      Overcap (GIRC FGotM)                +  1    135    135
+2009/01/25      Downtime (January)                  +  2    137    137
+2009/01/25      Game (Anglesey Awakening)           +  2    139    139
+2009/02/12      Game (4-Winds Awakening)            +  4    143    143
+2009/02/18      Downtime (February)                 +  3    146    146
+2009/02/22      Game (Anglesey Awakening)           +  2    148    148
+2009/02/22      Other (Bonus XP)                    +  1    149    149
+2009/03/22      Game (Anglesey Awakening)           +  4    153    153
+2009/05/21      MC (1)                              + 40    193    193
+
+2009/08/27      Arcana (Life 3)                     - 18    175    193
+2009/08/27      Arcana (Mind 1)                     -  8    167    193
+2009/08/27      Arcana (Mind 2)                     - 16    151    193
+2009/08/27      Attribute (Presence 3)              - 15    136    193
+2009/08/27      Merit (Contacts (Locals) 1)         -  2    134    193
+2009/08/27      Merit (Dream 1)                     -  2    132    193
+2009/08/27      Merit (Dream 2)                     -  4    128    193
+2009/08/27      Merit (Familiar 4)                  -  8    120    193
+2009/08/27      Merit (Mentor (Legacy) 1)           -  2    118    193
+2009/08/27      Merit (Mentor (Legacy) 2)           -  4    114    193
+2009/08/27      Merit (Mentor (Legacy) 3)           -  6    108    193
+2009/08/27      Merit (Mentor (Legacy) 4)           -  8    100    193
+2009/08/27      Merit (Resources 1)                 -  2     98    193
+2009/08/27      Merit (Resources 2)                 -  4     94    193
+2009/08/27      Merit (Resources 3)                 -  6     88    193
+2009/08/27      Merit (Resources 4)                 -  8     80    193
+2009/08/27      Merit (Resources 5)                 - 10     70    193
+2009/08/27      Merit (Sanctum (Hallow) 1)          -  2     68    193
+2009/08/27      Merit (Sanctum (Library (Healing))1)-  2     66    193
+2009/08/27      Merit (Sanctum (Security) 1)        -  2     64    193
+2009/08/27      Merit (Sanctum (Security) 2)        -  4     60    193
+2009/08/27      Merit (Sanctum (Size) 2)            -  4     56    193
+2009/08/27      Merit (Sanctum (Size) 3)            -  6     50    193
+2009/08/27      Merit (Sanctum (Size) 4)            -  8     42    193
+2009/08/27      Merit (Sanctum (Size) 5)            - 10     32    193
+2009/08/27      Rote (Life (Self Healing) 2)        -  4     28    193
+2009/08/27      Rote (Life (Self-Purging) 2)        -  4     24    193
+2009/08/27      Rote (Mind (Sense Conciousness) 1)  -  2     22    193
+2009/08/27      Rote (Spirit (Les' Spirit Summons) 2)- 4     18    193
+2009/08/27      Rote (Spirit (Peer Ac' t' Gauntlet) 2)-4     14    193
+2009/08/27      Rote (Spirit (Second Sight) 1)      -  2     12    193
+2009/08/27      Skill (Animal Ken 1)                -  3      9    193
+2009/08/27      Skill (Expression 1)                -  3      6    193
+2009/08/27      Skill (Persuasion 1)                -  3      3    193
+2009/08/27      Skill (Socialise 1)                 -  3      0    193
+
+2009/09/08      Downtime (July)                     +  2      2    195
+2009/09/09      Downtime (August)                   +  2      4    199
+2009/09/27      Game (Anglesey Awakening)           +  4      8    207
+2009/10/22      Downtime (September)                +  2     10    209
+2009/10/25      Downtime (October)                  +  2     12    211
+2009/10/25      Game (Anglesey Awakening)           +  4     16    215
+2009/12/??      Game (Anglesey Awakening)           +  4     20    219
+2010/02/12      Merit (Fame (Local Anglesey artist) 1)-2     18    219
+2010/02/21      Merit (Status (Nobility) 1)         -  2     16    219
+2010/02/28      Game (Anglesey Awakening)           +  4     20    223
+2010/03/28      Game (Anglesey Awakening)           +  4     24    227
+
+Arcane XP:
+
+To buy:
+                Arcana ()                           
+                Attribute ()                        
+                Merit ()                            
+                Mortality ()                        
+                Power Stat ()                       
+                Rote ()                             
+                Skill ()                            

@@ -1,0 +1,335 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - 
+VSS - 
+
+Name: Dr Colin Fishbourne
+Shadowname: Pinion
+DoB: 1986/03/19 (24)
+DoA: 2008/07/05 (2)
+Concept - Believer in the God-Machine
+
+Path: Thrysus
+    Legacy: 
+Order: Free Council
+    Faction: 
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    4   ¦   Strength        2   ¦   Presence            2
+        Wits            3   ¦   Dexterity       2   ¦   Manipulation        1
+        Resolve         3   ¦   Stamina         2   ¦   Composure           4
+
+Skills:
+    Mental (11):            ¦Physical (4):          ¦Social (7):
+        Academics       3   ¦   Athletics       3   ¦   Animal Ken          0
+        Computer        2   ¦   Brawl           0   ¦   Empathy             0
+        Craft           0   ¦   Drive           0   ¦   Expression          1
+        Investigation   2   ¦   Firearms        0   ¦   Intimidate          0
+        Medicine        0   ¦   Larceny         1   ¦   Persuasion          3
+        Occult          4   ¦   Stealth         0   ¦   Socialise           2
+        Politics        0   ¦   Survival        0   ¦   Streetwise          0
+        Science         4   ¦   Weaponry        0   ¦   Subterfuge          2
+
+Merits:
+    Power Stat (Gnosis)                     2
+    Status ()                  (• to •••••) 0
+    Status (Free Council) (• to ••••••••••) 1
+
+                                                Shared  Pool
+    Bureaucratic Navigator     Asy p51 (••) 2
+    Encyclopaedic Knowledge        (CO••••) 4
+    Fame (Physics)               (• to •••) 1
+    Geomancer                   S&S p99 (•) 1
+    Good Time Management       Asy p50 (••) 2
+    High Speech                         (•) 1
+    Informative (Science) FC p131 (••/••••) 4
+    Interdisc' Spec' (Theology)  FC p132(•) 1
+    Make Do (Science)    FC p132 (• to •••) 3
+    Rational Explanation (Sci)FCp133 (••••) 4
+    Resources                  (• to •••••) 1
+    Retainer                   (• to •••••) 1
+    Scientist's Sense         FC p133 (•••) 3
+
+    Sanctum ():                                 Shared  Pool
+        Hallow                 (• to •••••) 0
+        Library                (• to •••••) 1
+        Security               (• to •••••) 0
+        Size                   (• to •••••) 1
+
+Arcana:
+    Death   0
+    Fate    0
+    Forces  3
+    Life    0
+    Matter  0
+    Mind    2
+    Prime   1
+    Space   0
+    Spirit  0
+    Time    0
+    
+    Caps (G2): 4 4 3 3 3 2 2 2 1 1
+    Current:   3 2 1
+
+    (FC  3) Initiate of: Prime
+    (FC  4) Apprentice of: Mind
+    (FC  5) Disciple of: Forces
+    (FC  6) Adept of: 
+    (FC  7) Master of: 
+
+Rotes:
+    FC specs: Crafts, Persuasion, Science
+    
+    Arcana  Lvl Name                            Pool
+    Forces  1   Read Matrices                   11  Wits + Scie + Forc
+    Forces  1   Receiver                        11  Wits + Scie + Forc
+    Forces  1   Tune In                         12  Inte + Scie + Forc
+    Forces  2   Unseen Shield                   10  Stam + Scie + Forc
+    Mind    1   One Mind, Two Thoughts           7  Wits + Inve + Mind
+    Mind    2   Mental Shield                    9  Reso + Occu + Mind
+
+Attainments:
+    
+
+Total precast successes Stamina (2) * Gnosis (2) = 4
+Used:
+    Precast 1 -  2
+    Precast 2 -  2
+                 4
+
+Precast 1: Pull (7)             Total   Mana    Duration    Targets
+    Potency 1                    2      0       1 days      1
+    One Mind, Two Thoughts       2      0       1 days      1
+        Pull:           7
+        Area:           N/A     +0      0
+        Cloak:          0       +0      0
+        Conditional:    0       +0      0
+        Duration:       1d      +1      0
+        Potency:        1       +1      0
+        Size:           N/A     +0      0
+        Targets:        1       +0      0
+    Notes: 
+
+Precast 2: Pull (11)            Total   Mana    Duration    Targets
+    Potency 1                    2      0       1 days      1
+    Read Matrices (Forces 1)     2      0       1 days      1
+        Pull:           11
+        Area:           N/A     +0      0
+        Cloak:          0       +0      0
+        Conditional:    0       +0      0
+        Duration:       1d      +1      0
+        Potency:        1       +1      0
+        Size:           N/A     +0      0
+        Targets:        1       +0      0
+    Notes: 
+
+Morality:   Lost    Gained
+    10      
+    9       
+    8       
+    7   *   
+    6       
+    5       
+    4       
+    3       
+    2       
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+    
+
+Other:
+    Virtue: Faith
+    Vice: Wrath
+    Flaw: 
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |  |  |  |
+    Wound:       -1 -2 -3
+    
+    Willpower: Resolve(3) + Composure(4) = 7
+    |  |  |  |  |  |  |  |
+    
+    Mana = Max 11, 2 / turn
+    |  |  |  |  |  |  |  |  |  |  |  |
+    Mana bleed = 0
+    Ritual cast: 3hr / 20m
+    
+    Maximum active spells: Gnosis (2) + 3 = 5
+        1 - Precast 1
+        2 - Precast 2
+        3 - 
+        4 - 
+        5 - 
+    Spell tolerance: Stamina (2) = 2
+        1 - Precast 1
+        2 - Precast 2
+    (-1)3 - 
+    (-2)4 - 
+    
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(3)) = 2
+    Armour: 0 / 0
+        Mage Armour 0 / 0
+    
+    Initiative: Dexterity(2) + Composure(4) + FR(0) = 6
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(2) + Dexterity(2) + FoF(0) = 9
+    
+    Nimbus: A regular ticking in the background.  Everything seems to belong in its place and part of something greater.  Gears appear behind him with powerful magic.
+
+Approvals:
+    
+
+Familiar (Embodied):
+    Spirit: 
+    Rank: 
+    Type: 
+    Appearance: 
+    Ban: 
+    
+    Power: 
+    Finesse: 
+    Resilience: 
+    Willpower:   |  |  |  |  |  |  |  |
+    Corpus:   |  |  |  |  |  |  |  |  |
+    Essence: Max   |  |  |  |  |  |  |  |  |  |  |
+    Defence: 
+    Attack: 
+    Initiative: 
+    Influence: 
+    Numina: 
+
+Notes:
+    
+
+--- BACKGROUND ---
+
+
+CHARACTER QUESTIONS (To be answered for all applications) 
+****
+What are your character's reason(s) to continue existing?  What most motivates your character to interact with other characters? What fears, joys, or other emotions drive him or her?  What are his or her goals? What is your character willing to die for?
+
+
+
+****
+How does your character interact with the mundane world? (If your character possesses any supernatural qualities, please describe how he or she avoids undue attention from ordinary people.)
+
+
+
+****
+What faction/group does your character most feels a part of (Clan, Covenant, Bloodline, Lineage, Coterie, etc., or venue equivalent)? Why that group? How does his relationship to the group affect his/her dealings with other groups he/she is a part of?  (For example, if lineage is most important, how does this impact his/her views of clan and covenant?)
+
+
+
+****
+Does your character deviate from paradigm?  If so, how does this deviation add to the global chronicle?
+
+
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Arcana (Forces 1)                      0       0       0
+Creation        Arcana (Forces 2)                      0       0       0
+Creation        Arcana (Forces 3)                      0       0       0
+Creation        Arcana (Mind 1)                        0       0       0
+Creation        Arcana (Mind 2)                        0       0       0
+Creation        Arcana (Prime 1)                       0       0       0
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Composure 3)                0       0       0
+Creation        Attribute (Composure 4)                0       0       0
+Creation        Attribute (Dexterity 2)                0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Intelligence 3)             0       0       0
+Creation        Attribute (Intelligence 4)             0       0       0
+Creation        Attribute (Presence 2)                 0       0       0
+Creation        Attribute (Resolve 2)                  0       0       0
+Creation        Attribute (Resolve 3) - Free point     0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Strength 2)                 0       0       0
+Creation        Attribute (Wits 2)                     0       0       0
+Creation        Merit (Encyclopaedic Knowledge 4)      0       0       0
+Creation        Merit (Encyclopaedic Knowledge 4)      0       0       0
+Creation        Merit (Encyclopaedic Knowledge 4)      0       0       0
+Creation        Merit (Encyclopaedic Knowledge 4)      0       0       0
+Creation        Merit (Gnosis 2)                       0       0       0
+Creation        Merit (Gnosis 2)                       0       0       0
+Creation        Merit (Gnosis 2)                       0       0       0
+Creation        Merit (High Speech 1) - Free point     0       0       0
+Creation        Rote (Forces (Read Matrices) 1)        0       0       0
+Creation        Rote (Forces (Receiver) 1)             0       0       0
+Creation        Rote (Forces (Tune In) 1)              0       0       0
+Creation        Rote (Forces (Unseen Shield) 2)        0       0       0
+Creation        Rote (Mind (One Mind, Two Thoughts) 1) 0       0       0
+Creation        Skill (Academics (Theology))           0       0       0
+Creation        Skill (Academics 1)                    0       0       0
+Creation        Skill (Academics 2)                    0       0       0
+Creation        Skill (Academics 3)                    0       0       0
+Creation        Skill (Athletics 1)                    0       0       0
+Creation        Skill (Athletics 2)                    0       0       0
+Creation        Skill (Athletics 3)                    0       0       0
+Creation        Skill (Larceny 1)                      0       0       0
+Creation        Skill (Occult (Geomancy))              0       0       0
+Creation        Skill (Occult 1)                       0       0       0
+Creation        Skill (Occult 2)                       0       0       0
+Creation        Skill (Occult 3)                       0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Persuasion )                    0       0       0
+Creation        Skill (Persuasion 1)                   0       0       0
+Creation        Skill (Persuasion 2)                   0       0       0
+Creation        Skill (Science (Physics))              0       0       0
+Creation        Skill (Science 1)                      0       0       0
+Creation        Skill (Science 2)                      0       0       0
+Creation        Skill (Science 3)                      0       0       0
+Creation        Skill (Science 4)                      0       0       0
+Creation        Skill (Socialise 1)                    0       0       0
+Creation        Skill (Socialise 2)                    0       0       0
+Creation        Skill (Subterfuge 1)                   0       0       0
+Creation        Skill (Subterfuge 2)                   0       0       0
+MC              MC (1)                              + 90      90      90
+MC              Background                          +  5      95      95
+MC              IC Biography                        +  2      97      97
+MC              Attribute (Wits 3)                  - 15      82      97
+MC              Merit (Bureaucratic Navigator 2)    -  4      78      97
+MC              Merit (Fame (Physics) 1)            -  2      76      97
+MC              Merit (Geomancer 1)                 -  2      74      97
+MC              Merit (Good Time Management 2)      -  4      70      97
+MC              Merit (Informative (Science) 4)     -  8      62      97
+MC              Merit (Interdisciplinary Speciality)-  2      60      97
+MC              Merit (Make Do (Science) 1)         -  2      58      97
+MC              Merit (Make Do (Science) 2)         -  4      54      97
+MC              Merit (Make Do (Science) 3)         -  6      48      97
+MC              Merit (Rational Explanation 4)      -  8      40      97
+MC              Merit (Resources 1)                 -  2      38      97
+MC              Merit (Retainer 1)                  -  2      36      97
+MC              Merit (Sanctum (Library) 1)         -  2      34      97
+MC              Merit (Sanctum (Size) 1)            -  2      32      97
+MC              Merit (Scientist's Sense 3)         -  6      26      97
+MC              Rote (Mind (Mental Shield) 2)       -  4      22      97
+MC              Skill (Computer 1)                  -  3      19      97
+MC              Skill (Computer 2)                  -  6      13      97
+MC              Skill (Expression 1)                -  3      10      97
+MC              Skill (Investigation 1)             -  3       7      97
+MC              Skill (Investigation 2)             -  6       1      97
+
+Arcane XP:
+
+To buy:
+                Arcana ()                           
+                Attribute ()                        
+                Merit ()                            
+                Mortality ()                        
+                Power Stat ()                       
+                Rote ()                             
+                Skill ()                            

@@ -1,0 +1,167 @@
+Chron XP - 62 (2xp per full month Jan 2005 to August 2007)
+MC XP - 230 (MC3 at start, rising to MC6 by death)
+Earnt XP - 53
+Total XP - 
+
+Spent XP - 283
+Left XP - 3
+
+Date entered play - 2007/08/19
+Date left play    - 2008/09/27
+Months in play: 14
+
+Awakened 1999.  Years since awakening 8, therefore max Gnosis of 2.
+Joined Order 2000.  Years since joining 7, therefore max dots of rotes 35.
+
+Shadow Name: Sicarius
+Concept: Assassin
+Titles: Sentinel of Reading
+Path          : Mastigos
+Legacy        : 
+Order         : Guardians of the Veil
+
+Virtue        : Temperance
+Vice          : Pride
+Gnosis        : 2
+
+Size     : 5
+Speed    : 12
+Init. Mod: 11
+Defense  : 3
+Armor    : 0 / 0
+
+Health   : 8
+Willpower: 7
+Mana     : 8
+Mana Bleed: 0
+Wisdom   : 2
+Derangements: Suspicion, Fugue, 
+Flaw: Amnesia
+
+Mental Attributes
+-------------------------
+Intelligence: 2
+Wits        : 3
+Resolve     : 3
+
+Physical Attributes
+-------------------------
+Strength : 2
+Dexterity: 5
+Stamina  : 3
+
+Social Attributes
+-------------------------
+Presence    : 1
+Manipulation: 2
+Composure   : 4
+
+Mental Skills
+-------------------------
+Academics : 0
+Computer : 0
+Craft : 0
+Investigation (Profiling): 2
+Medicine (Poisons): 2
+Occult : 1
+Politics : 0
+Science : 1
+
+Physical Skills
+-------------------------
+Athletics (Climbing, Throwing): 2
+Brawl : 1
+Drive : 0
+Firearms : 0
+Larceny (Lock picking): 2
+Stealth (Crowds, Shadowing): 3
+Survival : 1
+Weaponry (Daggers, Keris, Improvised): 5
+
+Social Skills
+-------------------------
+Animal Ken : 0
+Empathy : 0
+Expression : 0
+Intimidation : 2
+Persuasion : 0
+Socialize : 0
+Streetwise (Black Market): 1
+Subterfuge (Misdirection): 4
+
+Arcana
+-------------------------
+Death  : 1
+Fate   : 0
+Forces : 0
+Life   : 0
+Matter : 0
+Mind   : 3
+Prime  : 0
+Space  : 3
+Spirit : 0
+Time   : 4
+
+ROTES
+-------------------------
+Forensic Gaze (Death 1)
+Shadow Sculpting (Death 1)
+
+One Mind, Two Thoughts (Mind 1)
+Incognito Presence (GotV) (Mind 2)
+Telepathic Eavesdropping (Mind 3)
+
+Angle Vision (Space 1)
+Omnivision (Space 1)
+Scrying (Space 2)
+Untouchable (Space 2)
+
+Perfect Timing (Time 1)
+Temporal Dodge (Time 2)
+Acceleration (Time 3)
+~ End Rotes ~
+
+Merits
+-------------------------
+Status (Order) : 1
+Status (Guardians of the Veil) : 1
+
+High Speech : 1
+Familiar (3) : 3
+
+Shared Sanctum (security) : 2
+Shared Sanctum (size) : 1
+Shared Hollow : 1
+
+Resources : 3
+Occultation (3) : 3
+Contacts : 1
+Anonymity : 1
+
+Ambidextrous° : 3
+Danger Sense : 2
+Fighting Style: Two Weap. : 4
+Quick Draw (Melee) : 1
+Fast Reflexes (2) : 2
+Fighting Finesse (Keris) : 2
+Fighting Finesse (Rondel) : 2
+~ End Merits ~
+
+Guardian of the Veil Masques: 
+-------------------------
+
+~ End Masques ~
+
+Spent:
+Creation; 0/10 (120) ; Attributes; Stamina 2
+Creation; 0/42 (78) ; Skills; Computer 1, Investigation 2, Survival 1, Expression 1.  Specs - Investigation (Profiling), Medicine (Poisons), Athletics (Climbing, Throwing), Larceny (Lock picking), Stealth (Crowds, Shadowing), Streetwise (Black Market), Subterfuge (Misdirection, Spotting lies)
+Creation; 0/60 (18) ; Merits; Sanctum (security) 2, Sanctum (size) 1, Hallow 1, Occultation 2, Danger Sense 2, Familiar  3, Fighting Finesse (Daggers) 2, Fighting Finesse (Light Swords) 2, Fighting Style: Two Weap. 3, Resources 3, Contacts 1
+Creation; 0/18 (0) ; Rotes; Death (Forensic Gaze), Forces (Receiver, Read Matrices, Nightsight), Mind (Third Eye, Sense Consciousness, One Mind, Two Thoughts), Space (Spatial Awareness, Omnivision)
+
+9/12/2007; 0/2 (6) ; Merits; Quick Draw
+9/12/2007; 0/3 (3) ; Skills; Science 1
+
+7/6/2008; 0/18 (77) ; Arcana; Space 3
+9/1/2008; 0/63 (21) ; Arcana; Time 2-4
+9/1/2008; 0/12 (9) ; Rotes; Perfect Timing, Temporal Dodge, Acceleration
+9/1/2008; 0/8 (1) ; Merits; Two-weapon Fighting 4

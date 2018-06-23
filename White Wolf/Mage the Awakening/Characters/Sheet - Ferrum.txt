@@ -1,0 +1,870 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705
+VST - "Ian Cannon" <londonmage@gmail.com>, London Awakening
+
+Name: Timothy Stewart
+Shadowname: Ferrum
+DoB: 1979/01/01 (31)
+DoA: 1995/09/16 (15)
+Concept - Scrap metal blacksmith
+
+Path: Moros
+    Legacy: Forge Masters  #Ma41/#576
+Order: Silver Ladder
+    Faction: Ascended
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (5):          ¦Social (3):
+        Intelligence    2   ¦   Strength        3   ¦   Presence            2
+        Wits            3   ¦   Dexterity       2   ¦   Manipulation        2
+        Resolve         4   ¦   Stamina         6   ¦   Composure           3
+
+Skills:
+    Mental (11):            ¦Physical (7):          ¦Social (4):
+        Academics       2   ¦   Athletics       2   ¦   Animal Ken          1
+            Lex Magica      ¦                       ¦                       
+        Computer        1   ¦   Brawl           3   ¦   Empathy             2
+        Craft           5   ¦   Drive           0   ¦   Expression          3
+            Metalwork       ¦                       ¦       Metal           
+        Investigation   1   ¦   Firearms        1   ¦   Intimidate          2
+        Medicine        0   ¦   Larceny         0   ¦   Persuasion          1
+        Occult          2   ¦   Stealth         0   ¦   Socialise           1
+            Lex Magica      ¦                       ¦                       
+        Politics        2   ¦   Survival        0   ¦   Streetwise          1
+        Science         2   ¦   Weaponry        2   ¦   Subterfuge          0
+
+Merits:
+    Power Stat (Gnosis)                     7           #638
+    Status (Southern) (• to •••••)          3
+    Status (Ladder) (• to ••••• •••••)      6           #Ma93/#578
+
+                                                Shared  Pool
+    Destiny (• to •••••) (Death)            3
+    Destiny (• to •••••) (Forging)          5
+    Dream (• to •••••)                      2
+    Familiar (••• or ••••)                  0
+    High Speech (•)                         1
+    Mentor (• to •••••) (Legacy)            4
+    Otherworldly Lore (Moros) (••••) Sum184 4
+    Repute (• to •••••)                     3   #581    Inte + Repute, +1 to Soci and Pers
+    Resources (• to •••••)                  3
+
+    Sanctum (Cabal Sanctum):                    Shared  Pool
+        Demense                             2
+            Ferrum                              1
+            Harper                              1
+        Hallow (• to •••••)                 3           #Ma42
+            Doc                                 2
+            Ferrum                              3
+        Library (• to •••••)                0
+        Materials                           1
+            Doc                                 1
+        Security (• to •••••)               4
+            Doc                                 1
+            Ferrum                              2
+            Harper                              1
+        Size (• to •••••)                   5
+            Doc                                 2
+            Ferrum                              2
+            Peace                               1
+
+    Sanctum (Reading Sanctum):                  Shared  Pool
+        Hallow (• to •••••)                 0
+        Library (• to •••••)                0
+        Security (• to •••••)               1
+            Ferrum                              1
+        Size (• to •••••)                   1
+            Ferrum                              1
+
+    (Items)                                 Dot Approval    Dice Pool
+    Imbued Item (••+) (Dragon Skull)        6   #Ma150/#583 10  Gnosis (7) + Prime effect (3)
+        Fire Breath: Breathe a gout of flame over a target. This power may only be used once per day and functions as per Celestial Fire (Prime 3) as cast by a Prime Adept, 3 successes.
+        Scaly Hide: As per Organic Resilience as cast by an Life Disciple. The effect may last a whole day as usual but the user will have to pay the cost.
+        Self Healing: As per Life 2 rote with 2 successes. Cost's 1 Mana
+        A single tooth maybe removed from the skull and carried, through which the owner may channel the other effects.  While a tooth is removed, the powers can only be channelled through the tooth.  Should a second tooth be removed both become inert.  A tooth destroyed doesn't count as "removed".
+        The drawback - Should all three of the rote enchantments be used in a single 24hr period, the essence of a dragon manifests through the user in the following ways. Images and sensations of freedom flood through the mind, eating into the user's attention. The lust to experience this unrestrained freedom inflicts a -4 penalty on any tasks which require concentration (even rote casting) The visage of a dragon manifests through the users flesh in some way (ST Discretion, no beneficial mechanic effect). These effects last 24hrs or until the user experience a sense of exceptional freedom (again ST Discretion)
+
+    Imbued Item (••+) (Skill Ring)          5   #Ma___/#704      11  Gnosis (7) + Mind effect (4)
+        Contingent spell "Skill Mastery" (Mind 4, Free Council pg 112)
+            For each success, add one to a skill of choice (split multiple across skills as desired).  Capped by Gnosis.
+
+    Imbued Item (••+) (Silence Ring)        5   #Ma123/#703       9  Gnosis (7) + Forces effect (2)
+        Fate exemption: Effects don't effect Ferrum.
+        Contingent area effect spell "Control Sound" (Forces 2, MET:A pg 248).  Trigger - Saying "Be still". (+2)
+            Each success doubles the sound's volume or diminishes it by half.
+        Persistent "Modulate Speech" (Forces 2 + Fate 1, Silver Ladder pg 197). (+2)
+            Potency - Item dots = 5
+            For each success accrued in the casting of this spell, the mage may add a bonus die to all her non-magical rolls involving speech, whether trying to sway a crowd with her moving words, to threaten a stubborn Seer of the Throne into backing down, or to whisper at just the right pitch so as to be clearly heard by her companion and not at all by the guard standing six feet away.
+
+    (Moros Hallow):                             Shared  Pool
+    Artefact (•••+) (Moros Ring)            10  #577    See notes.
+    Hallow (• to •••••) (Moros)             5
+
+Arcana:
+    Death   5
+    Fate    0
+    Forces  3
+    Life    0
+    Matter  5
+    Mind    0
+    Prime   5
+    Space   3
+    Spirit  1
+    Time    0
+    
+    Caps (G7): - * 6 5 5 5 4 4 3 3 3
+    Current:     5 5 5 3 3 1
+
+    (FC  8) Initiate of: Spirit                 Compelling, Knowing, Unveiling
+    (FC  9) Apprentice of:                      Ruling, Shielding, Veiling
+    (FC 10) Disciple of: Forces, Space          Fraying, Perfecting, Weaving
+    (FC 11) Adept of:                           Patterning, Unravelling
+    (FC 12) Master of: Death, Matter, Prime     Making, Unmaking
+    (FC 13) Archmaster of:                      Dynamics
+    (FC 14) Archmaster of:                      Embodiment, Excision
+    (FC 15) Archmaster of:                      Dominions
+    (FC 16) Archmaster of:                      Transfiguration
+    (FC 17) Archmaster of:                      Assumption
+
+Rotes:
+    SL specs: Expression, Persuasion, Subterfuge
+    
+    Arcana  Lvl Name                            Pool
+    Death   2   Soul Fracture Resonance         10  Wits + Occu  + Deat          #584
+    Matter  1   Detect Substance                11  Wits + Comp  + Matt
+    Matter  1   Discern Composition             13  Comp + Craf  + Matt
+    Matter  2   Alter Accuracy                  13  Comp + Craf  + Matt
+    Matter  2   Weaponise Object                13  Reso + Craf  + Matt
+    Matter  3   Shape Particulate               13  Stre + Craf  + Matt          #Ma101/#580
+    Prime   1   Inscribe Grimoire               11  Inte + Expr* + Prim
+    Prime   3   Imbue Item                      13  Comp + Craf  + Prim
+    Prime   3   Kirlian Photography              9  Inte + Occu  + Prim          #585
+    Prime   3   Supernal Specimen                9  Inte + Occu  + Prim          #586
+    Prime   4   Cleanse Resonance               10  Comp + Occu  + Prim          #Ma99/#579
+    Space   2   Scrying                          6  Inte + Inve  + Spac
+    Space   3   Portal                           6  Mani + Inve  + Spac
+    
+    Custom rotes:
+        Cleanse Resonance (Prime ••••)
+            Practice: Unravelling
+            Action: Instant
+            Duration: Lasting
+            Aspect: Covert.
+            Cost: 1 mana per target.
+            
+            This rote targets the resonance of an item or being. Successes garnered in potency strip away the resonance of an item. Storytellers give the resonance a relative potency and successes reduce this.
+            
+            NOTE: This cannot be used to specifically target a particular type of resonance. After this spell is used the item becomes neutral briefly, then requires the resonance that is natural to the area. For example, if this rote were targeted on a tree, then the tree would become neutral briefly, then start to pick up the resonance of the area, tree-ness nature and season. Also, if the rote is used upon an item with a currently active spell, the resonance is killed momentarily and then reasserts itself as it was prior. If it is used on an item that had a spell on it but is no longer active then the resonance of the mage that had previously cast the spell, and the spell itself, will not show up after this spell is cast. When cast on living beings the target develops a new aura as his soul takes on new resonance based on his actions and character.
+            This new aura cannot be recognized by anyone who has not examined it before, giving the mage a new mystical “fingerprint.”
+            
+            This spell does not directly cleanse physical or magical taint, only resonance based taint or the effects of temporary contact with the Abyss or it's agents. When cast on objects or creatures with innate (non-resonance based) Abyssal Taint the aura regrows with the innate Abyssal Taint.
+            
+            Silver Ladder rote: Oracle's Bleach
+            Dice Pool: Composure + Occult + Prime
+        
+        Kirlian Photography (Prime •••)
+            The mage reaches out with his understanding of magic and, for a short time, captures the resonance of an object, locking it magically for later study.
+            
+            Practice: Weaving
+            Action: Instant and Extended (see text for more details)
+            Duration: Prolonged
+            Aspect: Vulgar
+            Cost: 1 Mana (which is 'locked' for the duration, see text for more details)
+            
+            A casting of this spell, as an Instant action, allows a mage to capture a resonance of an object or person and store them as bits of magical energy.  For the following hour, she can choose to turn on her magical recorder as an instant action and capture a single resonance (whether or not she has already studied it).  She then "locks off" one of her Mana points to use it to store the resonance.  She cannot spend that point without losing its stored resonance.
+            To "lock in" a pattern of resonance, a number of successes equal to the Power Stat (with the usual scrutiny bonuses to rolls for high Gnosis), a single success for a being without Power Stat, or Imbued Item/Artifact dots for an item.  The locking process is faster than normal scrutiny, taking only a few minutes (as it's being 'scanned' rather than actually read) - the locking of a resonance is an extended action with a roll every minute, with the same chance for a mage targeted to notice per roll as per being affected by a spell.
+            The caster can study the resonance at any time, but only by using the "Supernal Vision" spell (Prime •,MET:A pg 326).  For anyone one else to study the resonance it must be overlaid onto another object.  This is achieved by using "Channel Mana" (Prime •••, MET:A pg330) to inject the locked mana point into the new object.  The new resonance lasts for 10 minutes per dot of Gnosis of the caster before the original resonance of the object reasserts itself.  During this time, anyone using a Mage Sight can study the resonance but will be aware immediately that the resonance on the object is not the natural one for this object.  Studying the captured resonance is an identical task to studying the original, and requires an extended Intelligence + Occult test, p. 176.
+            If the original Kirlian Photography spell spell has not ended and the original object's resonance has not reasserted itself then the mage can take back the point of mana (using "Channel Mana") and the resonance will remain locked in it (until the spell ends naturally).  Time spent 'out' in an object counts against the duration of the Kirlian Photography spell.  At the end of the spell duration, the point of Mana evaporates and the resonance is lost.
+            
+            Silver Ladder rote: Capturing the Supernal Zeitgeist
+            Dice pool: Intelligence + Occult + Prime
+            When rushed for time or lacking the appropriate Mystagogue, this rote allows the Thearch to store important resonances for later inspection.
+            
+        Shape Particulate (Matter •••)
+            The mage can control the substance of the very earth before him, causing it to scurry out of his way or to pile itself neatly in a corner when digging.
+            
+            Practice: Ruling
+            Action: Instant
+            Duration: Prolonged (one scene)
+            Aspect: Covert
+            Cost: None
+            At this level, the mage must touch the targeted substance to be able to affect it.  With Matter 4 he can cast it as sensory range, and sympathetically with Matter 5.
+            The mage affects a volume of matter based on his successes. He can also allocate successes to the density of particulate, measured in Strength.
+            
+            Successes       Defined Volume    Strength
+            1 success       5 cubic yards     •
+            2 successes     10 cu. yards      ••
+            3 successes     20 cu. yards      •••
+            4 successes     40 cu. yards      ••••
+            5 successes     80 cu. yards      •••••
+            
+            When shaping the particulates, a Dexterity + Crafts roll might be required to achieve a particularly complex shape, such as forming sand into the form of a person.  Exacting details such as facial features might even require multiple successes.  Dots of Strength act as Durability against projectiles or other attacks that must first get past the shaped matter to reach their target (see the rules for cover, pp. 223-224, Mind's Eye Theatre).
+            The caster can reflexively control and move the affected area of particulates up to one yard per dot of Gnosis that he has per turn. If he uses Forces 3 in the casting of the spell, he can impart even greater motion to the matter: 10 yards per dots of Gnosis per turn. People standing in the path of the earth might be knocked over.  If the earth's Strength exceeds an affected person's Strength, a successful, reflexive Strength + Athletics roll must be made or his is knocked down and swept along with the flow (as per the knockdown effect, pp. 230, Mind's Eye Theatre).
+            
+            Silver Ladder Rote: Command Earth
+            Dice Pool: Strength + Craft + Matter
+            With this rote, the Silver Ladder can literally command the very earth to rise up to protect them or to sweep their foes away with a surge of soil.
+
+        Soul Fracture Resonance (Death •• + Prime ••)
+            The mage peers into the souls of another mage and sees more details of how they have forged their soul.
+            
+            Practice: Knowing
+            Action: Instant
+            Duration: Concentration
+            Aspect: Covert
+            Cost: None
+            
+            Soul Marks (Death •, MET:A pg212) allows a mage to see that another mage has marked their soul by creating a soul stone or joining a legacy. Supernal Vision (Prime •, MET:A pg326) allows a mage to see the marks in the aura which mark the Awakened or the Sleeper. However, individually these spells lack the understanding or capacity to recognise themes in the marks.
+            
+            This spell allows them to do that. Success allows the caster to discern marks on the soul formed from reforging it in the fires of the Awakened will, and to understand several properties of the soul. Generally speaking, a single fact or property can be discovered per success, though this can be adjusted to the sole discretion of the storyteller
+            
+            Also, the specific information is learned based on collected comparative tracking - while a legacy has a unique "signature" which is consistent across souls, the knowledge to link a signature to a legacy is not granted by this spell. The mage must study souls whose legacy he knows in advance, and build up a "library of classifications" with which to recognise members of that legacy in the future.
+            E.g., If Ferrum uses SFR on his cabal mate, Doc Spartan, who he knows is a member of the "Perfected Adepts". This gives him a unique legacy 'signature' which if he sees again in the future he can (with a 'Intelligence + Composure' memory check where appropriate) identify as a Perfected Adept. If Doc Spartan was lying about his legacy, and was actually a Brotherhood of the Demon Wind, then when Ferrum saw the same pattern of marks in the future he would think that the new mage was a Perfected Adept NOT a Demon Wind.
+            
+            Successes   Data
+            1 Success   Target nature (Awakened, Sleepwalker, or Sleeper target)
+            2 Successes Identifying Signature (Identity of signature for the legacy, or lack thereof)
+            3 Successes Signature resonance (Primary arcana of legacy (see notes))
+            4 Successes Signature source (Self taught, or mentored)
+            
+            If used on a Sleeper or a Sleepwalker, anything beyond the first successes is irrelevant. As a spell which targets both a mage and his soul, the dice pool for casting is modified by both Magic Shield (Prime ••, MET:A pg327) and Armour of the Soul (Prime •••, MET:A pg329).
+            
+            Notes:
+                This spell cannot target the caster.
+                The spell does not tell the caster what the name of the legacy in question is, or anything about what the attainments do.
+                The spell reveals the Primary arcana of the legacy if, and only if, the caster is at least a Disciple of that arcana.
+                The spell does not reveal what level of attainment the target has achieved.
+                Use of this spell does not grant the caster any information that would require an Occult Speciality in the legacy to know.
+                It gives the caster a pattern of 'soul marks' which are unique to that legacy. The caster must work out what legacy they apply to by using SFR on a target they know is a member of a certain legacy. It is recommended that the player keep a record of the marks they have studied on item cards, and that the relevant ST sign off that this is the case. In the case of a mistaken match, the OOC knowledge should be noted so that the player can correctly make the incorrect IC deduction.
+            
+            Silver Ladder rote: Seeing the Inner Fire
+            Dice pool: Wits + Occult + Death vs Resolve + Gnosis
+            With this rote the Silver Ladder peer into the hearts of those who must rebuild Atlantis, and see the true strengths of their dedication.
+
+        Supernal Specimen (Prime •••)
+            The mage reaches out with her understanding of Prime and, for a short time, captures the purpose of an enchanted or imbued item (or if powerful enough, an artefact), locking it away safely and magically for later study.
+            
+            Practice: Weaving
+            Action: Instant
+            Duration: Prolonged
+            Aspect: Vulgar
+            Cost: 1 mana for every dot in the item (which is 'locked' for the duration, see text for more details)
+            
+            A casting of this spell allows a mage to capture the magical nature of an object and store it as bits of magical energy.  For the following hour, she can choose to turn on her magical recorder as an instant action and capture a single object's nature (whether or not she has already studied it) within sensory range.  She then "locks off" some of her personal points of mana (mana in items or artefacts cannot be used, only mana in her Pattern) to use to store the magical nature.
+            A point of mana is locked for every dot in the item, and if any of the stored mana is spent then the stored snapshot is lost.  If the mage does not have enough mana in her pattern to cast the spell, then the spell claws the remaining mana required from her as if she had scoured her own Pattern (MET:A pg65) to gain mana.  She may choose to have this affect her Attributes or Health in whatever combination she wishes, but either way it counts toward (and is affected by previous uses of) the normal scouring limits per Chapter for her Gnosis.  They only way to determine ahead of time how much mana the spell is going to cost is to have studied the item with "Analyse Enchanted Item" (Prime •, MET:A pg 324) and to know all the effects on the item.
+            
+            The caster can study the magical nature at any time, using "Analyse Enchanted Item".  Successes gained in prior study of the item or magical nature with Analyse Enchanted Item are preserved across study attempts.  If cast with sufficient duration, the mage can then study the magical nature at their leisure until the spell expires.
+            For anyone else to study the magical nature, it must be overlaid onto another object. This is achieved by using "Channel Mana" (Prime •••, MET:A pg330) to inject the locked mana points into the new object. The new magical nature lasts for 1 hour per dot of Gnosis of the caster before the original magical nature of the object reasserts itself. During this time, anyone using a Mage Sight can study the magical nature but will be aware immediately that the object is not actually a magical item and the magical nature is not the natural one for this object.
+            If the original spell has not yet ended and the original object's magical nature has not yet reasserted itself, then the mage can take back the points of mana (using "Channel Mana") and the magical nature will remain locked in it (until the spell ends naturally). Time spent 'out' in an object counts against the duration of the Supernal Specimen spell. At the end of the spell duration, the points of mana evaporate and the magical nature is lost.
+            
+            At Prime 3, the mage can only lock the magical nature of Enchanted items.  With Prime 4 she can use Supernal Specimen on Imbued items, and Prime 5 is required to capture an Artefact.
+            
+            Silver Ladder rote: Blueprints of the Ladder
+            Dice pool: Intelligence + Occult + Prime
+            The process of identifying the purpose or workings of magical objects is a laborious process and cannot be performed quickly.  But with Blueprints of the Ladder, a wise Thearch can store important magical natures for later study.
+
+Attainments:
+    First - The Master's Hand
+        Anything crafted or repaired by the mage gains the '9 again' quality for the scene per Matter 2 'Alter Accuracy' for Prime (5) actions.
+        Automatically sees enchantments on items and artefacts per Prime 1 'Analyze Enchantment', pool of Intelligence + Occult + Prime (9), 10 mins per draw.  The fact they are enchanted is an obvious as their colour to this attainment
+    Second - Primal Tempering
+        Any object worked on gains the ability to affect Ghosts and Spirits per 'Ephemeral Enchantment'.  Instant action = 1 scene duration, 1 scene action = 1 day duration.
+        Item can cause Agg with Prime 5 & mana.
+        'Imbue Item' is now always convert.
+        Opt Matter 3 – Objects worked on gain +Prime (5) Durability (This results in +2/+2 armour for suitable objects).
+    Third - Primal Forge
+        Can create weapons, armour, or simple mechanical devices from mana or tass.  Nothing which requires it's own power source, and nothing much more complicated than a push-lawnmower or a combination lock.  Instant action = 1 scene duration, 1 scene action = 1 day duration + Can use Primal Tempering on it or imbue it.
+        Opt Matter 4 - Items gain +Prime (5) Durability, and can be made of Perfected Metals.
+
+Total precast successes 42 = Stamina (6) * Gnosis (7)
+Used:
+    Precast 1 -  6
+    Precast 2 -  9
+    Precast 3 - 12
+                27
+
+Precast 1: Pull (8) Total (12)  Total   Mana    Duration    Targets
+    Potency 6                    6      0       1 day       1
+    Armour o' Soul (Prime 3)     2      0       1 hour      1
+        Pull:           12
+        Area:           N/A     +0      0
+        Cloak:          0       +0      0
+        Conditional:    0       +0      0
+        Duration:       1h      +0      0
+        Potency:        2       +2      0
+        Size:           N/A     +0      0
+        Targets:        1       +0      0
+    Magic Shield (Prime 2)       2      0       1 hour      1
+        Pull:           12
+        Area:           N/A     +0      0
+        Cloak:          0       +0      0
+        Conditional:    0       +0      0
+        Duration:       1h      +0      0
+        Potency:        2       +2      0
+        Size:           N/A     +0      0
+        Targets:        1       +0      0
+    Unseen Aegis (Matter 2)      2      0       1 hour      1
+        Pull:           12
+        Area:           N/A     +0      0
+        Cloak:          0       +0      0
+        Conditional:    0       +0      0
+        Duration:       1h      +0      0
+        Potency:        2       +2      0
+        Size:           N/A     +0      0
+        Targets:        1       +0      0
+    Notes: Cast in Hallow & Demesne, one mana spent to last all day.  Cast daily.
+
+Precast 2: Pull (5) Total (9)   Total   Mana    Duration    Targets
+    Potency 3                    9      0       1 week      1
+    Omnivision (Space 1)         3      0       2 days      1
+        Pull:           10
+        Area:           N/A     +0
+        Cloak:          0       +0
+        Conditional:    N/A     +0
+        Duration:       2d      +2
+        Potency:        1       +1
+        Size:           N/A     +0
+        Targets:        N/A     +0
+    Spatial Awareness (Space 1)  3      0       2 days      1
+        Pull:           10
+        Area:           N/A     +0
+        Cloak:          0       +0
+        Conditional:    N/A     +0
+        Duration:       2d      +2
+        Potency:        1       +1
+        Size:           N/A     +0
+        Targets:        N/A     +0
+    Tune In (Forces 1)           3      0       2 days      1
+        Pull:            9
+        Area:           N/A     +0
+        Cloak:          0       +0
+        Conditional:    N/A     +0
+        Duration:       2d      +2
+        Potency:        1       +1
+        Size:           N/A     +0
+        Targets:        N/A     +0
+    Notes: Atlantean runes for a +1 duration (total +3: 1 week).
+
+Precast 3: Pull (12) Total (12) Total   Mana    Duration    Targets
+    Potency 6                   12      0       1 week      1
+    Shape Air (Matter 4)        12      0       2 days      1
+        Pull:           11
+        Area:           80 cu y +4      0
+        Cloak:          0       +0      0
+        Conditional:    0       +0      0
+        Duration:       2d      +2      0
+        Potency:        6       +6      0
+        Size:           N/A     +0      0
+        Targets:        N/A     +0      0
+    Notes: Atlantean runes for a +1 duration (total +3: 1 week).
+
+Morality:   Lost    Gained
+    10      
+    9       
+    8       
+    7       1
+    6       1       Glossolalia (Roll Wits + Composure (6))
+    5       1
+    4   *   
+    3       
+    2       
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+    Cane        2/L     3   2(B)
+    Cane (A)            8
+    Iron Fan    1/2     3   0(B)            +1 Defence if used with Weaponry Dodge
+    Iron Fan (A)        8
+    Battle-Axe  3/N     3   3(L)
+    Battle-Axe (A)      8
+
+Other:
+    Virtue: Hope
+    Vice: Pride
+    Flaw: 
+    
+    Health: Size(5) + Stamina(6) = 11
+    |  |  |  |  |  |
+    |  |  |  |-1|-2|
+    |-3|
+    
+    Willpower: Resolve(3) + Composure(3) - Custom Rote (5) + Bought (5) = 6
+    |  |  |  |  |  |
+    |  |
+    
+    Mana = Max 20, 7 / turn
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |  |  |  |  |  |  |  |  |
+    Mana bleed: Wisdom (4) - Gnosis (7) = -3
+    Ritual cast: 10m / 70m
+    
+    Maximum active spells: Gnosis (7) + 3 = 10
+        1 - Precast 1
+        2 - Precast 2
+        3 - Precast 3
+        4 - 
+        5 - 
+        6 - 
+        7 - 
+        8 - 
+        9 - 
+       10 - 
+    Spell tolerance: Stamina (5) = 5
+        1 - Precast 1
+        2 - Precast 2
+        3 - Precast 3
+        4 - Silence ring (1 permanent spell)
+        5 - Moros ring (2 permanent spells)
+    (-1)6 - 
+    (-2)7 - 
+    (-3)8 - 
+    (-4)9 - 
+    (-5)10- 
+    
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(3)) = 2
+    Armour: 5 / 5
+        Mage Armour 5 / 5
+    
+    Initiative: Dexterity(2) + Composure(3) + FR(0) = 5
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(3) + Dexterity(2) + FoF(0) = 10
+    
+    Nimbus: Objects around the scene become more real and the background fades.  Men seem crafted from stone, while women are fine china or spun glass.  Ferrum himself seems to glow from within, as if his heart was fire and molten metal ran through his veins.  In the distance, there are tiny sparks as if around a forge and the sound of hammers striking metal.
+
+Approvals:
+    Demense (Defunct)       UK-UK-LA-0808-95662
+    SL Status 3 (Defunct)   UK-UK-LA-0901-103177
+
+Familiar (Embodied):
+    Rank: 1
+    Type: Guardian
+    Body: Dog
+    Ban: May not injure his master for any reason.
+    
+    Inte 1, Stre 3, Pres 3      Power       3
+    Wits 4, Dext 3, Mani 1      Finesse     4
+    Reso 2, Stam 2, Comp 2      Resistance  2
+    
+    Acad 0, Athl 3, AniK 3
+    Comp 0, Braw 3, Empa 1
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 2
+    Medi 0, Larc 0, Pers 0
+    Occu 2, Stea 0, Soci 0
+    Poli 1, Surv 2, Stre 0
+    Scie 0, Weap 0, Subt 0
+
+    Willpower:    4 |  |  |  |  |
+    Health:       6 |  |  |  |  |  |  |
+    Essence: Max 10 |  |  |  |  |  |  |  |  |  |  |
+    Size: 4
+    Initiative: 5
+    Defence: 3
+    Acting: 7       Speed: 14
+
+    Influence: Protection 2
+    Numina:             Cost    Pool
+        Innocuous       N/A     N/A
+        Wilds Sense     N/A      6  Fine + Resi
+
+Notes:
+    Moros ring properties:
+    Each Ring is forged of the perfected form of its related Realm's signature metal - lunargent for the Arcadian Ring, orichalcum for the Aether Ring, and so on - and have a thick band and a circular metal front, like a man's modern sovereign ring.  The front of each Ring is carved deep with a pentacle, and other than the metal each ring is made of, and the resonance each carries echoing the Supernal Realm of its connection, the Rings are identical.
+    Legendary - Each Ring - and the set of five - is a unique item which can be researched with time and effort, and Britannia's Order records and resources, as well as the older local libraries and collections of Awakened knowledge, hold information about them.  They are said to have existed since the first Awakened came to Britannia, and to have been gifted from the Supernal itself to assist in the land's growth and protection. 
+    Awakened use only - only Awakened mages can use the Guardian Rings; worn by Sleepers, they are as much use as any other mundane piece of jewellery.
+    Unbreakable - Each Guardian Ring has a Durability of base 5 (3 + 2) and a size of 1. This gives each Ring a total Structure of 6. 
+    Function - Each Guardian Ring has magic which performs as the following spells, all persistent and working once the Ring is accepted and worn by an Awakened mage of the appropriate Path. 
+        Hallow Bond (Prime 3; S&S, P94) - The wearer of a rightfully-claimed Guardian Ring becomes the rightful and sole true guardian of the connected Pentacle Hallow, giving him or her a deep mystical bond with the Hallow itself and allowing for his or her restriction on who can claim Mana or Tass from it.  The taking on of a Guardian Ring is a very literal expression of the mage's bonding to the Hallow, and once the mage has accepted the Ring, he or she must perform at least one Oblation at the Hallow per dot of the hallow (five) per month to maintain their connection with the land, based on the resonance of the Hallow. As the Pentacle Hallows are so strongly connected with and touched by the Supernal Realm of the guardian's Path in each case, Oblations standard to that Path will almost always more than adequately meet this requirement.  If more than three months pass without the mage performing any Oblations, then the effects of this spell - and all of the Guardian Ring's magic - will cease to affect the mage. 
+        Forge Destiny (Fate 5; MET, P242) – The bearer of the ring can call upon the item to protect him from those who would attempt to subvert his guardianship, as an Instant action the bearer may spend one mana and roll Gnosis + 5 to activate a Forge Destiny affect, with the destiny of 'to protect the Pentacle Hallows from those who would subvert them'. 
+        Supernal Vision (Prime 1; MET P326) - On taking on the Ring, the rightful Awakened wearer begins to feel a growing connection to and understanding of the land - Britannia itself - and its magical currents and energies. This is represented by a persistent Supernal Vision, allowing the Mage to see both leylines and active magic in the area. 
+    Resonances - Each Guardian Ring has the resonances of protection, duty, connection to another and strength, the old resonance's having been changed when all five were found, it also resonates strongly with echoes of its linked Supernal Realm. 
+    Mana Capacity - Each Guardian Ring has a Mana pool / capacity of 13, which is self-refilling at one per Merit dot per chapter / downtime action (MET). Each Ring's wearer may also use the Ring's Mana points to power his own spells while he is wearing the ring, though he is still limited by his Gnosis in how much Mana he may spend in this way.
+
+    [Coin of Lead and Gold - Returned to the Aeon of Matter]
+    Artefact (•••+) (Coin of Lead and Gold) 7   #Ma143/#582 11  Gnosis (7) + Matter effect (4)
+        The good half of each linked spell effects the target on the gold side of the coin, and the bad half the target on the lead side
+        Contingent linked Decay (Death 2, MET:A pg 213) and Improve Quality (Mater 4, SotT pg 192).
+            Decay - Remove one Durability per success.  Doesn't affect Structure, and need magical repair to fix.
+            Improve Quality - Improve the material 'worth' of the targeted object.
+        Contingent linked Evil Eye (Fate 2, MET:A pg 233) and Bestow Exceptional Luck (Fate 3, MET:A pg 237).
+            Evil Eye - Impose a -3 penalty to the next (number of successes) tests performed by the target.
+            Bestow Exceptional Luck - Gain 9-again for a number of tests equal to successes.  Used up automatically and only on draws of a 9.
+
+--- BACKGROUND ---
+1979/01/01 - Birth
+1995/07/01 - Takes up an informal apprenticeship at Wayland's Scrap metal Yard
+1995/09/16 - Awakens during a near death experience, when a mound of scrap metal collapses on top of him at work
+1995/09/30 - Formal acceptance of mentorship by Wayland
+1996/07/04 - Formal acceptance of legacy mentorship by Wayland
+1998/01/17 - Demonstration of first attainment
+1999/11/08 - Demonstration of second attainment
+1999/12/31 - Death of Wayland in Cataclysm
+2000/03/13 - Emerges from the depression that he spiralled into following the death of his master
+2002/03/14 - Realisation that tracking down the Cataclysm cause is futile for now
+2002/04/17 - Decision to work on protecting sleepers from malign interference
+2004/03/07 - Arclight joins the Cabal
+2007/06/19 - Tel joins the Cabal
+2008/08/23 - Return to Awakening society
+
+CHARACTER QUESTIONS (To be answered for all applications) 
+****
+What are your character's reason(s) to continue existing?  What most motivates your character to interact with other characters? What fears, joys, or other emotions drive him or her?  What are his or her goals? What is your character willing to die for?
+
+Since the death of his master in the Cataclysm, Ferrum has continued to exist for two reasons.  In the first few months/years, he worked to discover what had occurred on that fateful night.  Eventually, he decided that this was a waste of his time and that his time would be better spent preparing against another such attack.  His chosen care was the Sleepers.  With most of the countries mages gone, there were fewer safeguards to ensure the Seers did not get their claws into the normal population.  Therefore, his new reason for continuing to exist was to protect those he saw as weaker than himself: the sleepers.
+
+He is motivated to interact with other characters partly out of a stilted need to for human company, to stop from going mad, partly out of a desire to be on hand to advice, and partly to make sure that others do not forget the needs to the Sleepers when they are planning Awakening jaunts.
+
+Fears – He is spurred ever on wards by the fear that something might harm the sleepers while he is not watching.  He fears that someone might come for him as ‘missing collateral' following the cataclysm, for this reason he hasn't been very active at all in Mage society for most of the past eight years.
+
+Joys – His craftwork: nothing keeps more content than bashing large lumps of metal into submission in the workshop.  Metal sculptures can be found dotted around his sanctum, and in the scrap metal yard that surrounds it and his business.
+
+His goals are two fold: firstly, to ensure the protection and safety of the Sleepers, so that they may in time Awaken to the Imperium that is their right, and secondly to ensure proper hierarchy governs the Awakened nation.  He is, after all, a Silver Ladder.
+
+He would willingly die to save large numbers of Sleepers from threats outside of their own creation (so others mages, banishers, vampires, etc, but not a Sleeper caused riot).  He would also risk death trying to save his workshop, and his creations, but might not go all the way…
+
+****
+How does your character interact with the mundane world? (If your character possesses any supernatural qualities, please describe how he or she avoids undue attention from ordinary people.)
+
+Ferrum interacts with the Sleeper population most days, as he runs a mundane business from his scrap metal yard (taking in things that need scraping and making new things what is left over).  He also makes an effort to mix in enough social circles to know what is going on, the better to try to weed out malign supernatural influences.  He is very careful not to cast magic around them if he can possibly avoid it.
+
+****
+What faction/group does your character most feels a part of (Clan, Covenant, Bloodline, Lineage, Coterie, etc., or venue equivalent)? Why that group? How does his relationship to the group affect his/her dealings with other groups he/she is a part of?  (For example, if lineage is most important, how does this impact his/her views of clan and covenant?)
+
+He currently most feels apart of his Cabal, Triocculus.  He has been living with them almost exclusively in bits and pieces for the past six years, and not really interacting with anyone else.  Therefore, his views of society are warped somewhat towards his fellows.
+When his master was still alive, he felt most at home among the Forge Masters, but he has not met any of them in many years.  However, given the chance he would probably integrate back in reasonably well, although it is hard to tell before he does.
+He gets along with other members of the Silver Ladder perfectly well (baring personality clashes, and the usual run of the mill problems with drawing generalisations to a whole organisation) as long as they respect the Sleepers, and their right to the Supernal World.  Since he returned to Awakened society, he is feeling more a part of the UK Silver Ladder.  The US are, however, mostly irritating him.
+
+****
+Does your character deviate from paradigm?  If so, how does this deviation add to the global chronicle?
+
+Ferrum is a reasonably stereotypical Forge Master.  He does not believe those who are ‘weaker' should be required, or possibly trusted, to carry out that which they cannot do.  This manifests in a number of ways from the chauvinism of the Forge Masters concerning manual labour (women, a no-no), to the belief that the sleepers cannot and should not take care of themselves when arrayed against vast supernatural threats.
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+    
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Arcana (Death 1)                       0       0       0
+Creation        Arcana (Matter 1)                      0       0       0
+Creation        Arcana (Matter 2)                      0       0       0
+Creation        Arcana (Matter 3)                      0       0       0
+Creation        Arcana (Prime 1)                       0       0       0
+Creation        Arcana (Prime 2)                       0       0       0
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Composure 3) - Free point   0       0       0
+Creation        Attribute (Dexterity 2)                0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Manipulation 2)             0       0       0
+Creation        Attribute (Presence 2)                 0       0       0
+Creation        Attribute (Resolve 2)                  0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Stamina 3)                  0       0       0
+Creation        Attribute (Stamina 4)                  0       0       0
+Creation        Attribute (Strength 2)                 0       0       0
+Creation        Attribute (Wits 2)                     0       0       0
+Creation        Attribute (Wits 3)                     0       0       0
+Creation        Merit (Gnosis 2)                       0       0       0
+Creation        Merit (Gnosis 3)                       0       0       0
+Creation        Merit (Resources 1)                    0       0       0
+Creation        Rote (Matter (Alter Accuracy) 2)       0       0       0
+Creation        Rote (Matter (Detect Substance) 1)     0       0       0
+Creation        Rote (Matter (Discern Composition) 1)  0       0       0
+Creation        Rote (Matter (Weaponise Object) 2)     0       0       0
+Creation        Skill (Athletics 1)                    0       0       0
+Creation        Skill (Athletics 2)                    0       0       0
+Creation        Skill (Brawl 1)                        0       0       0
+Creation        Skill (Brawl 2)                        0       0       0
+Creation        Skill (Brawl 3)                        0       0       0
+Creation        Skill (Computer 1)                     0       0       0
+Creation        Skill (Craft (Metalwork))              0       0       0
+Creation        Skill (Crafts 1)                       0       0       0
+Creation        Skill (Crafts 2)                       0       0       0
+Creation        Skill (Crafts 3)                       0       0       0
+Creation        Skill (Crafts 4)                       0       0       0
+Creation        Skill (Crafts 5)                       0       0       0
+Creation        Skill (Expression (Metalwork))         0       0       0
+Creation        Skill (Expression 1)                   0       0       0
+Creation        Skill (Expression 2)                   0       0       0
+Creation        Skill (Expression 3)                   0       0       0
+Creation        Skill (Intimidation 1)                 0       0       0
+Creation        Skill (Occult 1)                       0       0       0
+Creation        Skill (Occult 2)                       0       0       0
+Creation        Skill (Science (Engineering))          0       0       0
+Creation        Skill (Science 1)                      0       0       0
+Creation        Skill (Science 2)                      0       0       0
+Creation        Skill (Weaponry 1)                     0       0       0
+Creation        Skill (Weaponry 2)                     0       0       0
+MC              MC (6)                              +230     230     230
+2008/08/23      Game (NPC'd Reading)                +  4     234     234
+2008/09/27      Game (Reading)                      +  4     238     238
+2008/09/27      Other (Bonus XP)                    +  1     239     239
+2008/09/28      Game (OKC IRC)                      +  2     241     241
+2008/09/28      MC (7)                              + 20     261     261
+2008/10/05      Game (Southern Regional 2008)       +  4     265     265
+2008/10/05      Overcap (Southern - 98000)          +  4     269     269
+2008/10/18      Game (IRT IRC)                      +  2     271     271
+2008/10/22      Downtime (October)                  +  2     273     273
+2008/10/25      Game (GIRC Athens)                  +  2     275     275
+2008/11/08      Game (GIRC Athens)                  +  4     279     279
+2008/11/10      Game (IRT IRC)                      +  2     281     281
+2008/11/11      Game (IRT IRC)                      +  2     283     283
+2008/11/15      Game (Day of Silver)                +  2     285     285
+2008/11/18      Game (GIRC Athens)                  +  0     285     285
+2008/11/20      Game (IRT IRC)                      +  0     285     285
+2008/11/22      Game (Reading)                      +  0     285     285
+2008/11/24      Game (IRT IRC)                      +  0     285     285
+2008/11/29      Game (Scottish Regional 2008)       +  0     285     285
+2008/11/29      Overcap (Scottish)                  +  4     289     289
+2008/12/08      Game (IRT IRC)                      +  4     293     293
+2008/12/08      MC (8)                              + 20     313     313
+2008/12/10      Game (GIRC Athens)                  +  2     315     315
+2008/12/18      Downtime (December)                 +  2     317     317
+2008/12/20      Game (GIRC Athens)                  +  0     317     317
+2008/12/20      Game (Reading)                      +  2     319     319
+2008/12/21      Game (Milton Keynes)                +  0     319     319
+2009/01/06      Game (GIRC Athens)                  +  4     323     323
+2009/01/13      Game (IRT IRC)                      +  2     325     325
+2009/01/21      Game (SE Region FGotM)              +  2     327     327
+2009/01/21      Overcap (SE Region - 103422)        +  2     329     329
+2009/01/24      Game (Reading) (Amber status)       +  0     329     329
+2009/01/26      Game (IRT IRC)                      +  2     331     331
+2009/02/07      Game (GIRC Athens)                  +  4     335     335
+2009/02/09      Game (IRT IRC)                      +  2     337     337
+2009/02/22      Game (Milton Keynes)                +  2     339     339
+2009/02/23      Game (IRT IRC)                      +  2     341     341
+2009/03/01      Game (GIRC Athens)                  +  4     345     345
+2009/03/01      Other (Bonus XP)                    +  1     346     346
+2009/03/09      Game (IRT IRC)                      +  2     348     348
+2009/03/13      Downtime (March)                    +  2     350     350
+2009/03/14      Game (London)                       +  1     351     351
+2009/04/06      MC (9)                              + 60     411     411
+2009/04/23      Downtime (April)                    +  2     413     413
+2009/04/25      Game (Reading)                      +  4     417     417
+2009/04/26      Game (Anglesey)                     +  2     419     419
+2009/05/09      Game (London)                       +  4     423     423
+2009/05/09      Other (Bonus XP)                    +  1     424     424
+2009/05/21      MC (1)                              + 40     464     464
+2009/05/22      Downtime (May)                      +  2     466     466
+2009/05/30      Game (UK National 2009)             +  2     468     468
+2009/05/30      Overcap (National)                  +  6     474     474
+2009/06/26      Downtime (June)                     +  2     476     476
+2009/06/27      Game (Reading)                      +  4     480     480
+2009/07/25      Downtime (July)                     +  2     482     482
+2009/09/08      MC (10)                             + 20     502     502
+
+2009/09/27      Arcana (Death 2)                    - 12     490     502
+2009/09/27      Arcana (Death 3)                    - 18     472     502
+2009/09/27      Arcana (Matter 4)                   - 24     448     502
+2009/09/27      Arcana (Matter 5)                   - 30     418     502
+2009/09/27      Arcana (Prime 3)                    - 18     400     502
+2009/09/27      Arcana (Prime 4)                    - 24     376     502
+2009/09/27      Arcana (Prime 5)                    - 30     346     502
+2009/09/27      Arcana (Space 1)                    -  7     339     502
+2009/09/27      Arcana (Space 2)                    - 14     325     502
+2009/09/27      Arcana (Space 3)                    - 21     304     502
+2009/09/27      Attributes (Resolve 3)              - 15     289     502
+2009/09/27      Attributes (Strength 3)             - 15     274     502
+2009/09/27      Merit (Artefact (Moros Ring) 10)    - 20     254     502
+2009/09/27      Merit (Destiny 1)                   -  2     252     502
+2009/09/27      Merit (Dream 1)                     -  2     250     502
+2009/09/27      Merit (Hallow (Moros) 1)            -  2     248     502
+2009/09/27      Merit (Hallow (Moros) 2)            -  4     244     502
+2009/09/27      Merit (Hallow (Moros) 3)            -  6     238     502
+2009/09/27      Merit (Hallow (Shared) 1)           -  2     236     502
+2009/09/27      Merit (Hallow (Shared) 2)           -  4     232     502
+2009/09/27      Merit (Imbued Item (Silence Ring) 5)- 10     222     502
+2009/09/27      Merit (Mentor (Legacy) 1)           -  2     220     502
+2009/09/27      Merit (Mentor (Legacy) 2)           -  4     216     502
+2009/09/27      Merit (Mentor (Legacy) 3)           -  6     210     502
+2009/09/27      Merit (Mentor (Legacy) 4)           -  8     202     502
+2009/09/27      Merit (Resources 2)                 -  4     198     502
+2009/09/27      Merit (Resources 3)                 -  6     192     502
+2009/09/27      Merit (Sanctum (Security) 1)        -  2     190     502
+2009/09/27      Merit (Sanctum (Size) 1)            -  2     188     502
+2009/09/27      Power Stat (Gnosis 4)               - 32     156     502
+2009/09/27      Power Stat (Gnosis 5)               - 40     116     502
+2009/09/27      Power Stat (Gnosis 6)               - 48      68     502
+2009/09/27      Rote (Prime (Imbue Item) 3)         -  6      62     502
+2009/09/27      Rote (Prime (Inscribe Grimoire) 1)  -  2      60     502
+2009/09/27      Skill (Academics (Lex Magica))      -  3      57     502
+2009/09/27      Skill (Academics 1)                 -  3      54     502
+2009/09/27      Skill (Academics 2)                 -  6      48     502
+2009/09/27      Skill (Animal Ken 1)                -  3      45     502
+2009/09/27      Skill (Empathy 1)                   -  3      42     502
+2009/09/27      Skill (Empathy 2)                   -  6      36     502
+2009/09/27      Skill (Firearms 1)                  -  3      33     502
+2009/09/27      Skill (Intimidation 2)              -  6      27     502
+2009/09/27      Skill (Investigation 1)             -  3      24     502
+2009/09/27      Skill (Persuasion 1)                -  3      21     502
+2009/09/27      Skill (Politics 1)                  -  3      18     502
+2009/09/27      Skill (Politics 2)                  -  6      12     502
+2009/09/27      Skill (Socialise 1)                 -  3       9     502
+2009/09/27      Skill (Streetwise 1)                -  3       6     502
+
+2009/08/13      Downtime (August)                   +  2       8     504
+2009/08/22      Game (Reading) (Amber)              +  0       8     504
+2009/09/26      Downtime (September)                +  2      10     506
+2009/10/23      Downtime (October)                  +  2      12     508
+2009/10/24      Game (Reading)                      +  4      16     512
+2009/11/29      Game (Scottish Regional)            +  4      20     516
+2009/11/29      Overcap (Scottish Regional)         +  4      24     520
+2009/12/16      Arcana (Spirit 1)                   -  8      16     520
+2009/12/16      Downtime (December)                 +  2      18     522
+2009/12/16      Merit (Hallow (Moros) 4)            -  8      10     522
+2009/12/19      Game (Reading)                      +  4      14     546
+2009/12/19      Merit (Reading Sanctum (Size) 1)    -  2      12     546
+2009/12/19      Merit (Reading Sanctum (Sec) 1)     -  2      10     546
+2010/01/07      MC (11)                             + 20      30     566
+2010/01/08      Arcana (Death 4)                    - 24       6     566
+2010/01/08      Downtime (January)                  +  2       8     568
+2010/01/23      Game (Reading Awakening)            +  4      12     572
+2010/02/21      Merit (Hallow (Moros) 5)            - 10       2     572
+2010/02/25      Downtime (February)                 +  2       4     574
+2010/02/27      Game (Reading Awakening)            +  4       8     578
+2010/03/25      Downtime (March)                    +  2      10     580
+2010/03/27      Game (Reading Awakening)            +  4      14     584
+2010/04/14      MC (12)                             + 60      74     644
+2010/04/16      Downtime (April)                    +  2      76     646
+2010/04/19      Game (Reading Awakening IRC)        +  4      80     650
+2010/05/18      Arcana (Death 5)                    - 30      50     650
+2010/05/18      Downtime (May)                      +  2      52     652
+2010/05/24      Game (Reading Awakening IRC)        +  4      56     656
+2010/06/23      Merit (Hallow (Cabal) 3)            -  6      50     656
+2010/06/23      Merit (Sanctum (Cabal) (Security) 2)-  4      46     656
+2010/06/23      Merit (Sanctum (Cabal) (Size) 2)    -  4      42     656
+2010/06/23      Downtime (June)                     +  2      44     658
+2010/06/26      Game (Reading Awakening)            +  4      48     662
+2010/06/26      Other (Bonus XP)                    +  1      49     663
+2010/07/03      Game (Summer National 2010 - Sat)   +  4      53     667
+2010/07/04      Overcap (Summer National 2010)      +  6      59     673
+2010/07/21      Downtime (July)                     +  2      61     675
+2010/07/24      Game (Reading Awakening)            +  2      63     677
+2010/08/04      MC (13)                             + 20      83     697
+2010/08/08      Game (Essex Awakening)              +  4      87     701
+2010/08/21      Attribute (Resolve 4)               - 20      67     701
+2010/08/21      Other (Legacy)                      -  4      63     701
+2010/08/21      Willpower (Rote - Cleanse Resonance)-  8      55     701
+2010/08/21      Willpower (Rote - Shape Particulate)-  8      47     701
+2010/08/21      Downtime (August)                   +  2      49     703
+2010/08/25      Merit (Repute 1)                    -  2      47     703
+2010/08/25      Merit (Repute 2)                    -  4      43     703
+2010/08/25      Merit (Repute 3)                    -  6      37     703
+2010/08/28      Game (Reading Awakening)            +  2      39     705
+2010/08/28      Other (Bonus XP)                    +  1      40     706
+2010/08/29      Game (Anglesey AWakening)           +  1      41     707
+2010/09/20      Merit (Familiar 4)                  -  8      33     707
+2010/09/20      Merit (Artefact (Coin) 7)           - 14      19     707
+2010/09/21      Downtime (September)                +  2      21     709
+2010/09/25      Game (Reading Awakening)            +  4      25     713
+2010/10/21      Downtime (October)                  +  2      27     715
+2010/10/23      Game (Reading Awakening)            +  4      31     719
+2010/11/01      Merit (Imbued Item (Dragon Skull) 6)- 12      19     719
+2010/11/06      Game (London Awakening)             +  4      23     723
+2010/11/21      Game (Winter National)              +  2      25     725
+2010/11/21      Overcap (Winter National)           +  6      31     731
+2010/11/24      Downtime (November)                 +  2      33     733
+2010/11/27      Game (Reading Awakening)            +  4      37     737
+2010/12/17      Downtime (December)                 +  2      39     739
+2010/12/18      Game (Reading Awakening)            +  4      43     743
+2011/01/12      Merit (Imbued Item (Skill Ring) 5)  - 10      33     743
+2011/01/12      Merit (Otherworldly Lore (Moros) 4) -  8      25     743
+2011/01/21      Downtime (January)                  +  2      27     745
+2011/01/22      Game (Reading Awakening)            +  4      31     749
+2011/01/22      Other (Bonus XP)                    +  1      32     750
+2011/02/01      MC (14)                             + 20      52     770
+2011/02/06      Game (Essex Awakening)              +  4      56     774
+2011/02/28      Downtime (February)                 +  2      58     776
+2011/03/04      Merit (Destiny 2)                   -  4      54     776
+2011/03/04      Merit (Destiny 3)                   -  6      48     776
+2011/03/04      Merit (Dream 2)                     -  4      44     776
+2011/03/25      Downtime (March)                    +  2      46     778
+2011/03/26      Game (Reading Awakening)            +  4      50     782
+2011/04/15      Merit (Otherworldly Lore (Moros) 4) -  8      42     782
+2011/04/15      Skill (Occult (Lex Magica))         -  3      39     782
+2011/04/21      Downtime (April)                    +  2      41     784
+2011/04/23      Game (Reading Awakening)            +  4      45     788
+2011/05/--      Downtime (May)                      +  2      47     790
+2011/06/07      Power Stat (Gnosis 7)               - 37      10     790
+2011/06/15      Willpower (Rote - SFR)              -  8       2     790
+2011/06/15      Rote (Space (Scry) 2)               -  4    -  2     790
+2011/06/25      Downtime (June)                     +  2       0     792
+2011/06/25      Game (Reading Awakening)            +  4       4     796
+2011/07/09      Game (July National - Saturday)     +  4       8     800
+2011/07/10      Overcap (July National 2011)        +  6      14     806
+                Downtime (July)                     +  2      16     808
+2011/07/23      Game (Reading Awakening)            +  2      18     810
+2011/08/29      Willpower (Rote - Supernal Spec)    -  8      10     810
+2011/08/29      Willpower (Rote - Kirlian Photo)    -  8       2     810
+2011/08/29      Rote (Space (Apportation) 2)        -  2       0     810
+2011/08/27      Game (Reading Awakening)            +  4       4     814
+2011/08/29      Downtime (August)                   +  2       6     816
+2011/09/24      Game (Reading Awakening)            +  4      10     820
+2011/10/02      Game (Essex Awakening)              +  4      14     824
+2011/11/??      Downtime (November)                 +  2      16     826
+2011/12/??      Downtime (December)                 +  2      18     828
+2012/01/14      Rote (Space (Portal) 3)             -  6      12     828
+2012/02/02      Downtime (February)                 +  2      14     830
+2012/05/05      Downtime (May)                      +  2      16     832
+2012/06/03      Game (Summer National)              +  4      20     836
+2012/06/03      Overcap (Summer National)           +  6      26     842
+2012/06/29      Downtime (June)                     +  2      28     844
+2012/09/01      Downtime (September)                +  2      30     860
+2012/09/09      Refund (Artefact (Coin of L+G))     + 14      44     858
+2012/10/02      Merit (Destiny 4)                   -  8      36     860
+2012/10/02      Merit (Destiny 5)                   - 10      26     860
+2012/10/05      Downtime (October)                  +  2      28     862
+                Merit (Enhanced Item 5)             - 10      18     862
+2012/11/17      Game (Cambridge FGotM - Birmingham) +  4      22     866
+2012/11/17      Overcap (Cambridge FGotM)           +  3      25     835
+2012/12/01      Downtime (December)                 +  2      27     837
+2012/12/01      Attribute (Stamina 5)               - 25       2     837
+2013/02/02      Downtime (February)                 +  2       4     839
+2013/10/        Game (Nottingham Awakening)         +  4       8     843
+2013/11/        Game (Nottingham Awakening)         +  4      12     
+2013/11/        Game (Nottingham Awakening FGotM)   +  2      14     
+2013/11/        Overcap (Nottingham Awakening FGotM)+  3      17     
+2013/12/        Game (Nottingham Awakening)         +  4      21     
+2014/01/22      Refund (Repute 1-3)                 + 12      33     
+2014/01/22      Attribute (Stamina 6)               - 30       3     
+
+Arcane XP:
+2010/07/13      Astral Journey                      +  2       2       2
+2010/09/25      Roman Sanctum interaction           +  2       4       5
+2010/10/23      Prelacy interaction                 +  2       6       6
+2010/10/28      Cabal Astral Journey                +  2       8       8
+2010/12/18      Oneiros Healing Trip                +  2      10      10
+2011/01/22      Mr Smith/Throne                     +  4      14      14
+2011/03/26      Geist                               +  1      15      15
+2011/03/26      Temporal Eddies                     +  1      16      16
+2011/03/26      Frozen dreams                       +  1      17      17
+2011/04/23      Mr Smith stuff...                   +  2      19      19
+2011/06/07      Power Stat (Gnosis 7)               - 19       0      19
+2011/06/25      Astral Fae                          +  2       2      21
+2011/08/29      Rote (Space (Apportation) 2)        -  2       0      21
+2012/04/17      Emerald Bastion Temnos Trip         +  1       1      22
+2012/05/??      Entering the Oneiros                +  1       2      23    #2019
+2012/05/??      Making a Rote                       +  1       3      24    #2019
+2012/05/??      Studying an Artifact                +  1       4      25    #2019
+2012/05/??      Using an Artifact                   +  1       5      26    #2019
+2012/06/03      Seeing a Creature from the Supernal +  2       7      28
+2012/09/09      Astral proxy to the Aeons           +  1       8      29
+
+To buy:
+                Arcana (Forces 1)                   -  7    
+                
+                Attribute (Strength 4)              - 20    
+                Attribute (Strength 5)              - 25    
+                Merit (Dream 3)                     -  6    
+                Merit (Dream 4)                     -  8    
+                Merit (Dream 5)                     - 10    
+                Skill (Academics 3)                 -  9    
+                Skill (Academics 4)                 - 12    
+                Skill (Politics 3)                  -  9    
+                Skill (Politics 4)                  - 12    
