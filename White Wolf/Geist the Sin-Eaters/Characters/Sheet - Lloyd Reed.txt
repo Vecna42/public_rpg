@@ -1,0 +1,292 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - "Chris Mackie" <sebastian.gabriel@rocketmail.com>
+VSS - Kent Sin-Eater
+
+Name: Lloyd Reed
+DoB: 1982/08/06 (28)
+DoD: 2001/02/26 (19)
+Geist:  (Deprivation)
+
+Concept - Prophet and scholar
+Threshold - Forgotten
+Archetype - Necromancer
+Krewe: 
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    4   ¦   Strength        2   ¦   Presence            2
+        Wits            2   ¦   Dexterity       3   ¦   Manipulation        2
+        Resolve         2   ¦   Stamina         2   ¦   Composure           3
+
+Skills:
+    Mental (11):            ¦Physical (4):          ¦Social (7):
+        Academics       4   ¦   Athletics       3   ¦   Animal Ken          0
+            Research        ¦                       ¦                       
+        Computer        3   ¦   Brawl           0   ¦   Empathy             3
+        Craft           0   ¦   Drive           0   ¦   Expression          1
+        Investigation   3   ¦   Firearms        0   ¦   Intimidate          4
+        Medicine        1   ¦   Larceny         2   ¦   Persuasion          3
+        Occult          4   ¦   Stealth         2   ¦   Socialise           0
+            Ghosts          ¦                       ¦                       
+            Underworld Lore ¦                       ¦                       
+        Politics        3   ¦   Survival        1   ¦   Streetwise          1
+        Science         1   ¦   Weaponry        0   ¦   Subterfuge          2
+
+Merits:
+    Power Stat (Psyche)                     6   #541
+
+                                                Shared  Pool
+    Barrister (••••)                        4
+    Death-Touched (••)                      2
+    Memento (•) (Vanquished timepiece)      1
+    Memento (•) (One-Way Ticket)            1
+    Mythologist (•••)                       3
+    Resources (• to •••••)                  1
+    Spelunker (• to •••••)                  2
+
+    Haunt (The Bound Tome):
+        Fluidity                            2
+        Residue                             5
+        Utility                             3
+
+    (Krewe)
+    Deathsoul Initiation (••• to •••••)     
+    Ethos Commitment                        
+    Flesh Fair (• to •••)                   
+    Krewe Fate (• to •••••)                 
+    Mythic Aspect (••••) (Dexterity)        
+
+Keystone:
+    Appearance - A pair of battered spectacles, with missing glass.
+    Threshold - Stricken
+    Keys - Phantasmal and Pyre-Flame
+    Skill - Investigation
+
+Mementos:
+    Vanquished Timepiece (Charm):
+        Appearance - 
+        Threshold - Silent
+        Key - Passion
+        History - 
+        G:tSE pg 198
+    
+    One-Way Ticket (Charm):
+        Appearance - 
+        Threshold - Forgotten
+        Key - Industrial
+        History - This isn't the only one of it's kind, there are plenty of them around.  This one was found, clutched in the hand of a victim of a freak bus accident.  The road had been empty, the bus had been cruising along 
+        G:tSE pg 197
+
+Ceremonies:                                     Cost    Pool            Time    TN
+    Create Deathly Passage (•••••)   pg166  5            8  Psyc + Reso (10m)   7
+    Dedicate Charm (•••)        G:SE pg158  3            8  Psyc + Mani (10m)   5
+    Distant Voices (••)         G:SE pg154  2            8  Psyc + Pres (01m)   5
+    Krewe Binding (•) (Founding)G:SE pg152  1            6  Psyc        (10m)   6
+    Krewe Binding (•) (Joining)                          8  Psyc + Pres (01t)   3
+    Lemure's Lure (•••)         G:SE pg159  3            8  Psyc + Mani (10m)   5
+    Mortis Mask (••)            G:SE pg155  2   1-3p     8  Psyc + Dext (01m)   4
+    Warding Circle (•••)        G:SE pg163  3            8  Psyc + Reso (10m)   5
+
+Keys:               
+    Cold Wind       
+    Grave-Dirt      
+    Industrial      1
+    Passion         1
+    Phantasmal      1
+    Primeval        
+    Pyre-Flame      
+    Stigmata        
+    Stillness       
+    Tear-Stained    
+
+Manifestations:         Dot Pool
+    Marionette          5       Manipulation
+        Industrial          11  + Occult
+        Passion             10  + Empathy
+        Phantasmal          11  + Intimidation
+    Oracle              5       Intelligence
+        Industrial          12  + Investigation
+        Passion             12  + Empathy
+        Phantasmal          12  + Investigation
+
+Synergy:    Lost    Bought  Free
+    10      
+     9      
+     8      
+     7      1       Inferiority Complex
+     6  *   
+     5      
+     4      
+     3      
+     2      
+     1      
+
+Other:
+    Virtue: Prudence
+    Vice: Sloth
+    Flaw: Amnesia
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |  |-1|-2|-3|
+    
+    Willpower: Resolve(2) + Composure(3) = 5
+    |  |  |  |  |  |
+    
+    Plasm = Max 40, 7 / turn
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |  |  |  |  |  |  |  |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(2)) = 2
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(2) + Composure(3) + FR(0) = 5
+    
+    Acting Speed = 5
+
+    Speed: 5 + Strength(2) + Dexterity(2) + FoF(0) = 9
+
+Notes:
+    
+
+--- BACKGROUND ---
+
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Threshold - 
+* Archetype - 
+* Krewe - 
+* Other 'facts':
+    
+
+--- KREWE ---
+Mythology:
+    Creation Myth:
+    Metaphysics:
+    Aspects:
+    Symbols:
+Ethos:
+    Ban:
+    Duty:
+    Destiny:
+    Bane:
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Composure 3)                    0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Dexterity 3)                    0       0       0
+Creation    Attribute (Intelligence 2)                 0       0       0
+Creation    Attribute (Intelligence 3)                 0       0       0
+Creation    Attribute (Intelligence 4)                 0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Presence 2)                     0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Key (Industrial)                           0       0       0
+Creation    Key (Phantasmal)                           0       0       0
+Creation    Manifestation (Oracle 1)                   0       0       0
+Creation    Manifestation (Oracle 2)                   0       0       0
+Creation    Manifestation (Oracle 3)                   0       0       0
+Creation    Merit (Haunt (Fluidity) 1)                 0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Psyche 3)                           0       0       0
+Creation    Merit (Psyche 3)                           0       0       0
+Creation    Merit (Psyche 3)                           0       0       0
+Creation    Skill (Academics (Research))               0       0       0
+Creation    Skill (Academics 1)                        0       0       0
+Creation    Skill (Academics 2)                        0       0       0
+Creation    Skill (Academics 3)                        0       0       0
+Creation    Skill (Academics 4)                        0       0       0
+Creation    Skill (Empathy 1)                          0       0       0
+Creation    Skill (Empathy 2)                          0       0       0
+Creation    Skill (Empathy 3)                          0       0       0
+Creation    Skill (Expression 1)                       0       0       0
+Creation    Skill (Investigation 1)                    0       0       0
+Creation    Skill (Investigation 2)                    0       0       0
+Creation    Skill (Investigation 3)                    0       0       0
+Creation    Skill (Larceny 1)                          0       0       0
+Creation    Skill (Larceny 2)                          0       0       0
+Creation    Skill (Occult (Ghosts))                    0       0       0
+Creation    Skill (Occult (Underworld Lore))           0       0       0
+Creation    Skill (Occult 1)                           0       0       0
+Creation    Skill (Occult 2)                           0       0       0
+Creation    Skill (Occult 3)                           0       0       0
+Creation    Skill (Occult 4)                           0       0       0
+Creation    Skill (Persuasion 1)                       0       0       0
+Creation    Skill (Persuasion 2)                       0       0       0
+Creation    Skill (Persuasion 3)                       0       0       0
+Creation    Skill (Stealth 1)                          0       0       0
+Creation    Skill (Stealth 2)                          0       0       0
+MC          MC (13)                                 +490     490     490
+MC          Background                              +  5     495     495
+MC          IC Biography                            +  2     497     497
+MC          Attribute (Stamina 2)                   - 10     487     497
+MC          Key (Passion)                           - 10     477     497
+MC          Manifestation (Marionette 1)            -  6     471     497
+MC          Manifestation (Marionette 2)            - 12     459     497
+MC          Manifestation (Marionette 3)            - 18     441     497
+MC          Manifestation (Marionette 4)            - 24     417     497
+MC          Manifestation (Marionette 5)            - 30     387     497
+MC          Manifestation (Oracle 4)                - 24     363     497
+MC          Manifestation (Oracle 5)                - 30     333     497
+MC          Merit (Barrister 4)                     -  8     325     497
+MC          Merit (Ceremony (Deathly Passage) 5)    - 10     315     497
+MC          Merit (Ceremony (Dedicate Charm) 3)     -  6     309     497
+MC          Merit (Ceremony (Distant Voices) 2)     -  4     305     497
+MC          Merit (Ceremony (Krewe Binding) 1)      -  2     303     497
+MC          Merit (Ceremony (Lemure's Lure) 3)      -  6     297     497
+MC          Merit (Ceremony (Mortis Mask) 2)        -  4     293     497
+MC          Merit (Death-Touched 2)                 -  4     289     497
+MC          Merit (Good Time Management 2)          -  4     285     497
+MC          Merit (Haunt (Fluidity) 2)              -  4     281     497
+MC          Merit (Haunt (Residue) 1)               -  2     279     497
+MC          Merit (Haunt (Residue) 2)               -  4     275     497
+MC          Merit (Haunt (Residue) 3)               -  6     269     497
+MC          Merit (Haunt (Residue) 4)               -  8     261     497
+MC          Merit (Haunt (Residue) 5)               - 10     251     497
+MC          Merit (Haunt (Utility) 1)               -  2     249     497
+MC          Merit (Haunt (Utility) 2)               -  4     245     497
+MC          Merit (Haunt (Utility) 3)               -  6     239     497
+MC          Merit (Memento 1)                       -  2     237     497
+MC          Merit (Memento 1)                       -  2     235     497
+MC          Merit (Mythologist 3)                   -  6     229     497
+MC          Merit (Resources 1)                     -  2     227     497
+MC          Merit (Spelunker 1)                     -  2     225     497
+MC          Power Stat (Psyche 4)                   - 32     193     497
+MC          Power Stat (Psyche 5)                   - 40     153     497
+MC          Power Stat (Psyche 6)                   - 48     105     497
+MC          Skill (Athletics 1)                     -  3     102     497
+MC          Skill (Athletics 2)                     -  6      96     497
+MC          Skill (Athletics 3)                     -  9      87     497
+MC          Skill (Computer 1)                      -  3      84     497
+MC          Skill (Computer 2)                      -  6      78     497
+MC          Skill (Computer 3)                      -  9      69     497
+MC          Skill (Intimidate 1)                    -  3      66     497
+MC          Skill (Intimidate 2)                    -  6      60     497
+MC          Skill (Intimidate 3)                    -  9      51     497
+MC          Skill (Intimidate 4)                    - 12      39     497
+MC          Skill (Medicine 1)                      -  3      36     497
+MC          Skill (Politics 1)                      -  3      33     497
+MC          Skill (Politics 2)                      -  6      27     497
+MC          Skill (Politics 3)                      -  9      18     497
+MC          Skill (Science 1)                       -  3      15     497
+MC          Skill (Streetwise 1)                    -  3      12     497
+MC          Skill (Subterfuge 1)                    -  3       9     497
+MC          Skill (Subterfuge 2)                    -  6       3     497
+MC          Skill (Survival 1)                      -  3       0     497
+2011/02/01  MC (14)                                 + 20      20     517
+2011/02/01  Merit (Ceremony (Warding Circle) 3)     -  6      14     517
+
+To buy:

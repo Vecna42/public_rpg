@@ -1,0 +1,385 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705
+VST - "Chris Chapman" <bradford174@googlemail.com>, Southampton Sin-Eater
+
+Name: Quentin Gotzon
+DoB: 1982/08/06 (28)
+DoD: 2001/02/26 (19)
+Geist: Scorned Bride (Torn)
+
+Concept - Left Hand of Karma
+Threshold - Forgotten
+Archetype - Advocate
+Krewe: 
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    3   ¦   Strength        2   ¦   Presence            2
+        Wits            4   ¦   Dexterity       4   ¦   Manipulation        3
+        Resolve         3   ¦   Stamina         2   ¦   Composure           2
+
+Skills:
+    Mental (7):             ¦Physical (4):          ¦Social (11):
+        Academics       1   ¦   Athletics       3   ¦   Animal Ken          0
+                            ¦       Running         ¦                       
+        Computer        3   ¦   Brawl           0   ¦   Empathy             4
+            Research        ¦                       ¦                       
+        Craft           1   ¦   Drive           0   ¦   Expression          1
+        Investigation   3   ¦   Firearms        0   ¦   Intimidate          4
+        Medicine        1   ¦   Larceny         0   ¦   Persuasion          1
+        Occult          3   ¦   Stealth         1   ¦   Socialise           3
+            Wicca           ¦                       ¦                       
+        Politics        3   ¦   Survival        0   ¦   Streetwise          0
+        Science         3   ¦   Weaponry        0   ¦   Subterfuge          0
+
+Merits:
+    Power Stat (Psyche)                     4
+
+                                                Shared  Pool
+    Allies (Occult)                         2
+    Barrister (••••)                BoD p91 4
+    Contacts (• to •••••)                   1
+        Occult
+    Danger Sense (••)                       2
+    Death-Touched (••)                      5
+    Fame (• to •••)
+        Occult                              2
+    Fast Reflexes (• or ••)                 2
+    Fleet of Foot (• to •••)                3
+    Holistic Awareness (•••)                3
+    Iron Stamina (• to •••)                 1
+    Iron Stomach (••)                       2
+    Meditative Mind (•)                     1
+    Memento (•) (Cat's Eye Marble)          1
+    Memento (•) (One-Way Ticket)            1
+    Memento (•) (Vanquished timepiece)      1
+    Natural Immunity (•)                    1
+    Resources (• to •••••)                  4
+    Status (• to •••••) (Occult)            3
+
+    Haunt ():
+        Fluidity                            2
+        Residue                             2
+        Utility                             3
+
+    (Krewe)
+    Deathsoul Initiation (••• to •••••)     0
+    Ethos Commitment                        0
+    Flesh Fair (• to •••)                   0
+    Krewe Fate (• to •••••)                 0
+    Mythic Aspect (••••) ()                 0
+
+Keystone:
+    Appearance - An antique fountain pen, which writes with a seemingly never ending supply of dark red ink...
+    Threshold - Torn
+    Keys - Passion & Pyre-Flame
+    Skill - Occult
+
+Mementos:
+    Cat's Eye Marble (Charm):
+        Appearance - 
+        Threshold - Forgotten
+        Key - Stigmata
+        History - 
+        G:tSE pg 196
+    
+    One-Way Ticket (Charm):
+        Appearance - 
+        Threshold - Forgotten
+        Key - Pyre-Flame
+        History - This isn't the only one of it's kind, there are plenty of them around.  This one was found, clutched in the hand of a victim of a freak bus accident.  The road had been empty, the bus had been cruising along 
+        G:tSE pg 197
+    
+    Vanquished Timepiece (Charm):
+        Appearance - 
+        Threshold - Torn
+        Key - Industrial
+        History - 
+        G:tSE pg 198
+
+Ceremonies:                                     Cost    Pool            Time    TN
+    Distant Voices              G:SE pg___  2            6  Psyc + Pres (01m)    5
+    Final Vision                G:SE pg___  1            8  Psyc + Wits (01t)    3
+    Finding the Crossroads      G:SE pg___  3            8  Psyc + Wits (01t)    5
+    Listening to the Spectral Howl   pg___  2            8  Psyc + Wits (01m)    4
+    Pass On                     G:SE pg___  1            6  Psyc + Pres (01m)    9
+    Speaker of the Dead         G:SE pg___  1            7  Psyc + Mani (01t)    3
+    Warding the Household       G:SE pg___  4            8  Psyc + Dext (10m)   10
+    Wings of the Moth           G:SE pg___  5            7  Psyc + Mani (30m)    7
+
+Keys:               
+    Cold Wind       
+    Grave-Dirt      
+    Industrial      1
+    Passion         1
+    Phantasmal      1
+    Primeval        
+    Pyre-Flame      1
+    Stigmata        
+    Stillness       
+    Tear-Stained    
+
+Manifestations:         Dot Pool
+    Boneyard            2       Wits + Boneyard
+        Industrial           7  + Crafts
+        Passion             10  + Empathy
+        Phantasmal           7  + Persuasion
+        Pyre-Flame           9  + Occult
+    Caul                2       Stamina + Caul
+        Industrial           5  + Crafts
+        Passion              8  + Empathy
+        Phantasmal           5  + Persuasion
+        Pyre-Flame           7  + Occult
+    Curse               5       Presence + Curse
+        Industrial           8  + Crafts
+        Passion             11  + Empathy
+        Phantasmal           8  + Persuasion
+        Pyre-Flame          10  + Occult
+    Rage                4       Strength + Rage
+        Industrial           7  + Crafts
+        Passion             10  + Intimidate
+        Phantasmal           7  + Persuasion
+        Pyre-Flame           9  + Occult
+    Shroud              2       Resolve + Shroud
+        Industrial           6  + Crafts
+        Passion              9  + Empathy
+        Phantasmal           6  + Persuasion
+        Pyre-Flame           8  + Occult
+
+Synergy:    Lost    Bought  Free
+    10      
+     9      
+     8  *   
+     7      
+     6      
+     5      
+     4      
+     3      
+     2      
+     1      
+
+Other:
+    Virtue: Justice
+    Vice: Wrath
+    Flaw: 
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |  |
+    |-1|-2|
+    (Iron Stamina 1)
+    
+    Willpower: Resolve(3) + Composure(2) = 5
+    |  |  |  |  |  |
+    
+    Plasm = Max 26, 4 / turn
+    |  |  |  |  |  |
+    |  |  |  |  |  |
+    |  |  |  |  |  |
+    |  |  |  |  |  |
+    |  |  |  |  |  |
+    |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(4),Wits(4)) = 4
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(4) + Composure(2) + FR(2) = 8
+    
+    Acting Speed = 5
+
+    Speed: 5 + Strength(2) + Dexterity(4) + FoF(3) = 9
+
+Notes:
+    
+
+--- BACKGROUND ---
+
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Threshold - 
+* Archetype - 
+* Krewe - 
+* Other 'facts':
+    
+
+--- KREWE ---
+Mythology:
+    Creation Myth:
+    Metaphysics:
+    Aspects:
+    Symbols:
+Ethos:
+    Ban:
+    Duty:
+    Destiny:
+    Bane:
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Intelligence 3)                 0       0       0
+Creation    Attribute (Intelligence 3)                 0       0       0
+Creation    Attribute (Manipulation 3)                 0       0       0
+Creation    Attribute (Manipulation 3)                 0       0       0
+Creation    Attribute (Presence 2)                     0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Stamina 2)                      0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Wits 3)                         0       0       0
+Creation    Attribute (Wits 3)                         0       0       0
+Creation    Key (Passion)                              0       0       0
+Creation    Key (Pyre-Flame)                           0       0       0
+Creation    Manifestation (Curse 1)                    0       0       0
+Creation    Manifestation (Curse 2)                    0       0       0
+Creation    Manifestation (Curse 3)                    0       0       0
+Creation    Merit (Haunt (Fluidity) 1)                 0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Psyche 3)                           0       0       0
+Creation    Merit (Psyche 3)                           0       0       0
+Creation    Merit (Psyche 3)                           0       0       0
+Creation    Skill (Athletics (Running))                0       0       0
+Creation    Skill (Athletics 3)                        0       0       0
+Creation    Skill (Athletics 3)                        0       0       0
+Creation    Skill (Athletics 3)                        0       0       0
+Creation    Skill (Computer (Research))                0       0       0
+Creation    Skill (Empathy 4)                          0       0       0
+Creation    Skill (Empathy 4)                          0       0       0
+Creation    Skill (Empathy 4)                          0       0       0
+Creation    Skill (Empathy 4)                          0       0       0
+Creation    Skill (Intimidate 4)                       0       0       0
+Creation    Skill (Intimidate 4)                       0       0       0
+Creation    Skill (Intimidate 4)                       0       0       0
+Creation    Skill (Intimidate 4)                       0       0       0
+Creation    Skill (Investigation 3)                    0       0       0
+Creation    Skill (Investigation 3)                    0       0       0
+Creation    Skill (Investigation 3)                    0       0       0
+Creation    Skill (Occult (Wicca))                     0       0       0
+Creation    Skill (Occult 3)                           0       0       0
+Creation    Skill (Occult 3)                           0       0       0
+Creation    Skill (Occult 3)                           0       0       0
+Creation    Skill (Science 2)                          0       0       0
+Creation    Skill (Socialise 3)                        0       0       0
+Creation    Skill (Socialise 3)                        0       0       0
+Creation    Skill (Socialise 3)                        0       0       0
+Creation    Skill (Stealth 1)                          0       0       0
+MC          MC (14)                                 +510     510     510
+MC          Attribute (Dexterity 3)                 - 15     223     510
+MC          Attribute (Dexterity 4)                 - 20      40     510
+MC          Attribute (Resolve 3)                   - 15     192     510
+MC          Attribute (Wits 4)                      - 20      20     510
+MC          Key (Industrial)                        - 10     490     510
+MC          Key (Phantasmal)                        - 10     500     510
+MC          Manifestation (Boneyard 1)              -  6      14     510
+MC          Manifestation (Boneyard 2)              - 12      18     510
+MC          Manifestation (Caul 1)                  -  6       8     510
+MC          Manifestation (Curse 4)                 - 24     466     510
+MC          Manifestation (Curse 5)                 - 30     436     510
+MC          Manifestation (Rage 1)                  -  6     430     510
+MC          Manifestation (Rage 2)                  - 12     418     510
+MC          Manifestation (Rage 3)                  - 18     400     510
+MC          Manifestation (Rage 4)                  - 24     376     510
+MC          Manifestation (Shroud 1)                -  6       2     510
+MC          Manifestation (Shroud 2)                - 12       6     510
+MC          Merit (Allies (Occult) 1)               -  2       0     510
+MC          Merit (Barrister 4)                     -  8     334     510
+MC          Merit (Ceremony 1 (Final Vision))       -  2     150     510
+MC          Merit (Ceremony 1 (Pass On))            -  2     148     510
+MC          Merit (Ceremony 1 (Speaker of the Dead))-  2     146     510
+MC          Merit (Ceremony 2 (Distant Voices))     -  4     142     510
+MC          Merit (Ceremony 2 (Spectral Howl))      -  4     138     510
+MC          Merit (Ceremony 3 (Finding Crossroads)) -  6     132     510
+MC          Merit (Ceremony 4 (Warding Household))  -  8     124     510
+MC          Merit (Ceremony 5 (Wings of the Moth))  - 10     114     510
+MC          Merit (Contacts (Occult) 1)             -  2       2     510
+MC          Merit (Danger Sense 2)                  -  4     245     510
+MC          Merit (Death-Touched 5)                 - 10     324     510
+MC          Merit (Fame (Occult) 1)                 -  2       4     510
+MC          Merit (Fast Reflexes 2)                 -  4     219     510
+MC          Merit (Fleet of Foot 1)                 -  2     217     510
+MC          Merit (Fleet of Foot 2)                 -  4     213     510
+MC          Merit (Fleet of Foot 3)                 -  6     207     510
+MC          Merit (Haunt (Fluidity) 2)              -  4     110     510
+MC          Merit (Haunt (Residue) 1)               -  2     108     510
+MC          Merit (Haunt (Residue) 2)               -  4     104     510
+MC          Merit (Haunt (Utility) 1)               -  2     102     510
+MC          Merit (Haunt (Utility) 2)               -  4      98     510
+MC          Merit (Haunt (Utility) 3)               -  6      92     510
+MC          Merit (Holistic Awareness 3)            -  6     239     510
+MC          Merit (Iron Stamina 1)                  -  2     190     510
+MC          Merit (Iron Stomach 2)                  -  4     186     510
+MC          Merit (Meditative Mind 1)               -  2     238     510
+MC          Merit (Memento (Cat's Eye) 1)           -  2       0     510
+MC          Merit (Memento 1 - One-Way Ticket)      -  2     342     510
+MC          Merit (Memento 1 - Vanquished Timepiece)-  2     344     510
+MC          Merit (Natural Immunity 1)              -  2     184     510
+MC          Merit (Resources 1)                     -  2     182     510
+MC          Merit (Resources 2)                     -  4     178     510
+MC          Merit (Resources 3)                     -  6     172     510
+MC          Merit (Resources 4)                     -  8     164     510
+MC          Merit (Status (Occult) 1)               -  2     162     510
+MC          Merit (Status (Occult) 2)               -  4     158     510
+MC          Merit (Status (Occult) 3)               -  6     152     510
+MC          Psyche 4                                - 32      60     510
+MC          Skill (Computer 1)                      -  3     303     510
+MC          Skill (Computer 2)                      -  6     297     510
+MC          Skill (Computer 3)                      -  9     288     510
+MC          Skill (Politics 1)                      -  3     321     510
+MC          Skill (Politics 2)                      -  6     315     510
+MC          Skill (Politics 3)                      -  9     306     510
+MC          Skill (Science 2)                       -  6     282     510
+MC          Skill (Science 3)                       -  9     273     510
+MC          Synergy 8                               - 24     249     510
+2011/10/26  Game (Southampton Sin-Eater)            +  4       4     514
+2011/11/21  Downtime (November)                     +  2       6     516
+2011/11/23  Game (Southampton Sin-Eater)            +  4      10     520
+2011/12/27  Downtime (December)                     +  2      12     522
+2012/01/15  Downtime (January)                      +  2      14     524
+2012/01/18  Game (Southampton Sin-Eater)            +  4      18     528
+2012/02/22  Game (Southampton Sin-Eater)            +  4      22     532
+2012/03/28  Game (Southampton Sin-Eater)            +  4      24     536
+2012/04/25  Game (Southampton Sin-Eater)            +  4      28     540
+2012/05/19  Downtime (May)                          +  2      30     542
+2012/05/24  Game (Southampton Sin-Eater)            +  4      34     546
+2012/06/03  Game (Summer National)                  +  4      38     550
+2012/06/03  Overcap (Summer National)               +  6      44     556
+2012/06/20  Manifestation (Caul 2)                  - 12      32     556
+2012/06/20  Merit (Allies (Occult) 2)               -  4      28     556
+2012/06/20  Skill (Academics 1)                     -  3      25     556
+2012/06/20  Skill (Crafts 1)                        -  3      22     556
+2012/06/20  Skill (Expression 1)                    -  3      19     556
+2012/06/20  Skill (Medicine 1)                      -  3      16     556
+2012/06/20  Skill (Persuasion 1)                    -  3      13     556
+2012/06/27  Downtime (June)                         +  2      15     558
+2012/06/27  Game (Southampton Sin-Eater)            +  2      17     560
+2012/07/23  Merit (Fame (Occult) 2)                 -  4      13     560
+2012/07/24  Downtime (July)                         +  2      15     562
+2012/07/25  Merit (Disturbing the Grave 2)          -  4      11     562
+2012/07/25  Game (Southampton Sin-Eater)            +  4      15     566
+2012/11/17  Game (Cambridge FGotM - Birmingham)     +  4      19     570
+2012/11/17  Overcap (Cambridge FGotM)               +  3      22     570
+
+To buy:
+            Manifestation (Caul 3)                  - 18    
+            Manifestation (Caul 4)                  - 24    
+            Manifestation (Caul 5)                  - 30    
+            Merit (Allies (Occult) 3)               -  6    
+            Merit (Allies (Occult) 4)               -  8    
+            Merit (Allies (Occult) 5)               - 10    
+            Merit (Iron Stamina 2)                  -  4    
+            Merit (Iron Stamina 3)                  -  6    
+            Merit (Quick Healer 4)                  -  8    
+            Merit (Status (Occult) 4)               -  8    
+            Skill (Academics 2)                     -  6    
+            Skill (Academics 3)                     -  9    
+            Skill (Crafts 2)                        -  6    
+            Skill (Crafts 3)                        -  9    
+            Skill (Medicine 2)                      -  6    
+            Skill (Medicine 3)                      -  9    
+            Skill (Persuasion 2)                    -  6    
+            Skill (Persuasion 3)                    -  9    

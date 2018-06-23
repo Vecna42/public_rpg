@@ -1,0 +1,374 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - Chris Chapman
+VSS - Southampton SinEaters
+
+Concept - Chess player of life
+Archetype - Reaper
+Threshold - Stricken
+
+Name: Mr Erasmus 'Seb' Sebastian Hemlock MD, Consultant Neurological Surgeon.
+DoB: 1974/09/13 (35)
+DoD: 1994/05/13 (19)
+Geist:  (Deprivation)
+Krewe: 
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (4):          ¦Social (3):
+        Intelligence    4   ¦   Strength        2   ¦   Presence            2
+        Wits            3   ¦   Dexterity       3   ¦   Manipulation        2
+        Resolve         3   ¦   Stamina         3   ¦   Composure           3
+
+Skills:
+    Mental (11):            ¦Physical (7):          ¦Social (4):
+        Academics       2   ¦   Athletics       2   ¦   Animal Ken          0
+        Computer        2   ¦   Brawl           2   ¦   Empathy             2
+        Craft           1   ¦   Drive           0   ¦   Expression          1
+        Investigation   3   ¦   Firearms        0   ¦   Intimidate          1
+            Profiling       ¦                       ¦                       
+        Medicine        4   ¦   Larceny         2   ¦   Persuasion          2
+            Brains          ¦       Lock Picking    ¦                       
+            Surgery         ¦                       ¦                       
+            Poisons         ¦                       ¦                       
+        Occult          1   ¦   Stealth         2   ¦   Socialise           2
+                            ¦       Shadowing       ¦                       
+        Politics        2   ¦   Survival        0   ¦   Streetwise          2
+        Science         3   ¦   Weaponry        4   ¦   Subterfuge          3
+            Neuroscience    ¦       Knives          ¦                       
+
+Merits:
+    Power Stat (Psyche)                     3
+
+                                                Shared  Pool
+    Danger Sense (••)                       2
+    Emotional Detachment (•)       Asy p50  1
+    Fast Reflexes (• or ••)                 2
+    Fighting Finesse (••) (Knives)          2
+    Fleet of Foot (• to •••)                3
+    FS: Spetsnaz Knife Fighting    Arm p213 5
+    Good Time Management (••)      Asy p50  2
+    Holistic Awareness (•••)                3
+    Iron Stamina (• to •••)                 3
+    Quick Draw (•) (Melee)                  1
+    Status (Medical)                        3
+    Tolerance for Biology (•)               1
+
+    Haunt ():
+        Fluidity                            1
+        Residue                             1
+        Utility                             1
+
+    (Pooled)
+    Contacts                                1
+        1. Medical                          
+    Resources                               3
+
+    (Krewe)
+    Deathsoul Initiation (••• to •••••)     
+    Ethos Commitment                        
+    Flesh Fair (• to •••)                   
+    Krewe Fate (• to •••••)                 
+    Mythic Aspect (••••) (Dexterity)        4
+
+Keys:               
+    Cold Wind       
+    Grave-Dirt      
+    Industrial      1
+    Passion         
+    Phantasmal      1
+    Primeval        
+    Pyre-Flame      
+    Stigmata        
+    Stillness       1
+    Tear-Stained    
+
+Manifestations:         Pool    Stat
+    Caul                        Stamina
+        Industrial 1             ()
+        Industrial 2             ()
+        Industrial 3             ()
+        Industrial 4             ()
+        Industrial 5             ()
+        Phantasmal 1    7        (Persuasion)
+        Phantasmal 2    7        (Persuasion)
+        Phantasmal 3    7        (Persuasion)
+        Phantasmal 4    7        (Persuasion)
+        Phantasmal 5    7        (Persuasion)
+        Stillness 1     7        (Stealth)
+        Stillness 2     7        (Stealth)
+        Stillness 3     7        (Stealth)
+        Stillness 4     7        (Stealth)
+        Stillness 5     7        (Stealth)
+    Shroud                      Resolve
+        Industrial 1             ()
+        Industrial 2             ()
+        Industrial 3             ()
+        Industrial 4             ()
+        Industrial 5             ()
+        Phantasmal 1    8        (Persuasion)
+        Phantasmal 2    8        (Persuasion)
+        Phantasmal 3    8        (Persuasion)
+        Phantasmal 4    8        (Persuasion)
+        Phantasmal 5    8        (Persuasion)
+        Stillness 1     8        (Stealth)
+        Stillness 2     8        (Stealth)
+        Stillness 3     8        (Stealth)
+        Stillness 4     8        (Stealth)
+        Stillness 5     8        (Stealth)
+
+Synergy:    Lost  Bought  Free
+    10      
+     9      
+     8      
+     7  *   
+     6      
+     5      
+     4      
+     3      
+     2      
+     1      
+
+Keystone:
+    Appearance - A shiny steel scalpel that glints in the light despite the dark red and immovable bloodstains on it's length.  No new events appear to mar its surface, and the metal sometimes reflects a snarling and twisted face that isn't that of the wielder.
+    Threshold - Deprivation
+    Keys - Stillness and Industrial
+    Skill - Medicine
+
+Other:
+    Virtue: Temperance
+    Vice: Wrath
+    Flaw: 
+    
+    Health: Size(5) + Stamina(3) = 8
+    |  |  |  |  |  |  |  |  |
+    Wound:          -1 -2 -3
+    
+    Willpower: Resolve(3) + Composure(3) = 6
+    |  |  |  |  |  |  |
+    
+    Plasm = Max 18, 2 / turn
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |  |  |  |  |  |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(3),Wits(3)) = 3
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(3) + Composure(3) + FR(0) = 6
+    
+    Acting Speed = 5
+    Speed: 5 + Strength(2) + Dexterity(3) + FoF(0) = 10
+
+Notes:
+    
+
+--- BACKGROUND ---
+The, probably appropriate named, Erasmus Sebastian Hemlock was born to Carver and Isabella Hemlock in 1974.  From a young age, he showed remarkable focus of attention, often staring at patches of walls for hours on end with a ferocity that suggested this was not mere slack-jawed youth zoning out, but a deliberate and conscious desire to observe that precise location.
+As he aged, this tendency did not fade as his, oft exasperated, parents had hoped.  While they were very much children of the 60s and 70s, by the time Erasmus was 10 and the 80s were progressing, they were of the opinion that he very much so had to go to school.  If only so they didn't have to put up with his focused silences all day long, which had only become more disturbing when he had learnt to talk.  He would talk of see-through shapes that just hung in the air where he stared at them, and which would on occasion tell him things about themselves.
+What he never mentioned, was that he began to see something else: numbers that appeared behind people's eyes, and which slowly ticked downwards.  They were always quite large numbers and it wasn't until one day when he was 16 years old that he realised what they were.  One day while walking home from school he witnessed a car smash into a pedestrian, who was sent flying by the impact and landed near to Erasmus.  Strangely not panicked, he moved to help the guy, but saw the numbers behind the eyes reaching zero.  As the last one ticked off and vanished, the man croaked out a last breath and stopped altogether.
+Remembering his basic first aid, Erasmus began to attempt CPR on him, while the car's driver dialed 999 and arranged for professional help.  But before they had arrived, the man was breathing again, and while Erasmus thought it wasn't due to the CPR and more spontaneous resurrection, he couldn't be sure.  To his horror, however, he saw the numbers behind the eyes were back and ticking away again.  Only now they were in negative numbers...
+Stumbling away from the guy, who was pulling himself to his feet as if nothing had happened, Erasmus saw that he was surrounded by a slight grey haze which moved mostly in the same way as the limbs of the man, but sometimes seemed to stop earlier or later than that which it surrounded.  It gave the faint impression of a badly fitting coat.  Erasmus ran off home before the guy, or the driver, could stop him or get his name.
+Putting the incident almost entirely out of his memory, he found his interest and his identification of what his 'powers' did to spur him towards attempting a medical degree.  His early start on remaining focused allowed him to study while all around was naught but distraction (albeit with an ever increasing headache), and he soon flew through his A Levels and headed off to University.
+It was early in his first year that he realised his headaches were becoming more pronounced with time, and upon checking his medical textbooks and after long consultations with his GP, discovered that he had a tumour growing at the back of his head, which was gradually squeezing shut the blood flow to his brain.  It was, unfortunately, too late and too entwined for early 90s surgery to be able to operate upon.  As the months moved into 1994, Erasmus lapsed into a coma from which the doctors didn't expect him to wake up from.
+
+But he did.
+
+As he died, as he felt the pulsating blackness at the back of his head expanding in every direction out of his body to wrap around him and drag him, weightless, down into the abyss of death something else was there.  A presence just out of the corner of the eye, which couldn't be focused on, but which was clear when you didn't try to see it.
+Without it speaking, Erasmus knew what it wanted.
+    A deal.
+"What do I have to do?"
+    Aid me.
+"How?"
+    The dead do not lie in their graves correctly.  They must do so.
+"Is that all?"
+    Those walk that cause more suffering that should be.  They must not.
+    Ones on this side form from their pain.  Stop them.
+"How?"
+    I will help.  All will be clear.
+"I don't understand"
+    Give me a body and you will live again.  Don't, and you will die...
+"How long do I have to choose?"
+    Now.
+"Ok."
+
+There was a moment of light slicing like a scalpel through the dark, through the back of his neck, and suddenly the weightlessness was gone, and he was pulled back into his body.  Only not just his body any more.  As he took in a long and shuddering breath, and then let it out again, a misty shape seemed to writhe around his chest and lungs, and to be overlaid over his skin like a misty glove.
+Some of the doctors pronounced his recovery to be a miracle.  Others said that they'd simply got the diagnosis wrong.  Regardless, Erasmus restarted his first year in October of 1995, and soon passed through all the stages of study and qualification required to become a doctor.  Choosing to specialise in Neurological Surgery after his own experiences, he also began working towards becoming qualified as a Consultant.  The abilities granted to him by his Geist, kick-started his diagnostic success, and he quickly rose through the ranks of the medical profession.
+Over time, his Geist revealed bits and pieces of information, but most of his knowledge came from the other Bound he ran into around the area.  Initially, he began as a pledged member of a small local krewe, but over time he came to see that he couldn't agree with their version of mythology.  So, finding like-minded souls around him, he set out to forge a krewe around a new channel of insight.  His Geist morphed and took up aspects from deep within himself, becoming the Morally Ambiguous Doctorate; a nebulous entity which did what had to be done to achieve the results.  For Erasmus, the ends began to justify the means.
+
+--- KNOWN BIOGRAPHY ---
+* Name - Mr Erasmus 'Seb' Sebastian Hemlock MD, Consultant Neurological Surgeon.
+    * Known as - Seb, Mr Hemlock, Doc, Brains.
+* Age - Unknown.  Appears to be in his mid-thirties.
+* Threshold - Stricken
+* Archetype - Reaper
+* Krewe - The ?
+* Other 'facts':
+    Known to have been Bound at a relatively young age, generally accepted to have been late 'teens or early twenties.  He, however, doesn't choose to discuss the matter and anyone attempting to persuade him to talk is met with an icy stare and the attention of the thing that is his second skin.  People have speculated if he indulges his Archetype outside of his normal duties on those who annoy him such...
+    A precise man, Seb enjoys a joke as much as the next man, but there always seems to be a point where those who joke a lot cross the line and he grows bored of them.  His humour has been known to be a little too close to the bone, or morbid in it's outlook.
+    He's not just a brain.  When pushed, his keystone sparkles into being as a blood stained scalpel, which he appears to be able to wield with some skill.
+
+--- KREWE V1.0 ---
+{Need to do this part collaboratively with the other founders to correctly pull it every direction.  Have jotted initial thoughts for further discussion}
+Mythology:
+    Creation Myth:
+    Metaphysics:
+        Wu Xing { http://en.wikipedia.org/wiki/Wu_Xing }
+    Aspects:
+        Wood: 
+        Fire: 
+        Earth: 
+        Metal: 
+        Water: Mr Hemlock - The Morally Ambiguous Doctorate { http://tvtropes.org/pmwiki/pmwiki.php/Main/MorallyAmbiguousDoctorate }
+    Symbols:
+Ethos:
+    Ban:
+    Duty:
+    Destiny:
+    Bane:
+
+--- KREWE V2.0 ---
+Mythology:
+    Creation Myth:
+        
+    Metaphysics:
+        
+    Aspects:
+        ?: (Hazel Bell)
+        ?: (Thomas Maund)
+        ?: (Yoda)
+        Professor James Moriarty: Mr Hemlock - The Morally Ambiguous Doctorate { http://tvtropes.org/pmwiki/pmwiki.php/Main/MorallyAmbiguousDoctorate } (Richard Hussey)
+    Symbols:
+        
+Ethos:
+    Ban:
+    Duty:
+    Destiny:
+    Bane:
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Composure 3)                    0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Dexterity 3)                    0       0       0
+Creation    Attribute (Intelligence 2)                 0       0       0
+Creation    Attribute (Intelligence 3)                 0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Stamina 2)                      0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Attribute (Wits 3)                         0       0       0
+Creation    Key (Phantasmal)                           0       0       0
+Creation    Key (Stillness)                            0       0       0
+Creation    Manifestation (Shroud 1)                   0       0       0
+Creation    Manifestation (Shroud 2)                   0       0       0
+Creation    Manifestation (Shroud 3)                   0       0       0
+Creation    Merit (Holistic Awareness 3)               0       0       0
+Creation    Merit (Holistic Awareness 3)               0       0       0
+Creation    Merit (Holistic Awareness 3)               0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Psyche 2)                           0       0       0
+Creation    Merit (Tolerance for Biology 1)            0       0       0
+Creation    Skill (Academics 1)                        0       0       0
+Creation    Skill (Academics 2)                        0       0       0
+Creation    Skill (Athletics 1)                        0       0       0
+Creation    Skill (Brawl 1)                            0       0       0
+Creation    Skill (Brawl 2)                            0       0       0
+Creation    Skill (Computer 1)                         0       0       0
+Creation    Skill (Empathy 1)                          0       0       0
+Creation    Skill (Empathy 2)                          0       0       0
+Creation    Skill (Investigation 1)                    0       0       0
+Creation    Skill (Investigation 2)                    0       0       0
+Creation    Skill (Larceny 1)                          0       0       0
+Creation    Skill (Larceny 2)                          0       0       0
+Creation    Skill (Medicine (Brains))                  0       0       0
+Creation    Skill (Medicine (Surgery))                 0       0       0
+Creation    Skill (Medicine 1)                         0       0       0
+Creation    Skill (Medicine 2)                         0       0       0
+Creation    Skill (Medicine 3)                         0       0       0
+Creation    Skill (Occult 1)                           0       0       0
+Creation    Skill (Persuasion 1)                       0       0       0
+Creation    Skill (Persuasion 2)                       0       0       0
+Creation    Skill (Science (Neuroscience))             0       0       0
+Creation    Skill (Science 1)                          0       0       0
+Creation    Skill (Stealth 1)                          0       0       0
+Creation    Skill (Stealth 2)                          0       0       0
+MC          MC (13)                                 +490     490     490
+MC          Background                              +  5     495     495
+MC          IC Biography                            +  2     497     497
+2009/11/28  Game (Scottish Regional 2009)           +  4     501     501
+2009/11/28  Overcap (Scottish)                      +  4     505     505
+MC          Attribute (Intelligence 4)              - 20     485
+MC          Attribute (Resolve 3)                   - 15     470
+MC          Attribute (Stamina 3)                   - 15     455
+MC          Key (Industrial)                        - 10     445
+MC          Manifestation (Caul 1)                  -  6     439
+MC          Manifestation (Caul 2)                  - 12     427
+MC          Manifestation (Caul 3)                  - 18     409
+MC          Manifestation (Caul 4)                  - 24     385
+MC          Manifestation (Caul 5)                  - 30     355
+MC          Manifestation (Shroud 4)                - 24     331
+MC          Manifestation (Shroud 5)                - 30     301
+MC          Merit (Contacts (Medical) 1)            -  2     299
+MC          Merit (Danger Sense)                    -  4     295
+MC          Merit (Emotional Detachment)            -  2     293
+MC          Merit (Fast Reflexes 2)                 -  4     289
+MC          Merit (Fighting Finesse (Knives))       -  4     285
+MC          Merit (Fleet of Foot 1)                 -  2     283
+MC          Merit (Fleet of Foot 2)                 -  4     279
+MC          Merit (Fleet of Foot 3)                 -  6     273
+MC          Merit (FS: Spetsnaz 1)                  -  2     271
+MC          Merit (FS: Spetsnaz 2)                  -  4     267
+MC          Merit (Good Time Management)            -  4     263
+MC          Merit (Haunt: Fluidity 1)               -  2     261
+MC          Merit (Haunt: Residue 1)                -  2     259
+MC          Merit (Haunt: Utility 1)                -  2     257
+MC          Merit (Iron Stamina 1)                  -  2     255
+MC          Merit (Iron Stamina 2)                  -  4     251
+MC          Merit (Iron Stamina 3)                  -  6     245
+MC          Merit (Mythic Aspect (Dexterity))       -  8     237
+MC          Merit (Quick Draw (Melee))              -  2     235
+MC          Merit (Resources 1)                     -  2     233
+MC          Merit (Resources 2)                     -  4     229
+MC          Merit (Resources 3)                     -  6     223
+MC          Merit (Status (Medical) 1)              -  2     221
+MC          Merit (Status (Medical) 2)              -  4     217
+MC          Merit (Status (Medical) 3)              -  6     211
+MC          Psyche (3)                              - 24     187
+MC          Skill (Athletics 1)                     -  3     184
+MC          Skill (Athletics 2)                     -  6     178
+MC          Skill (Crafts 1)                        -  3     175
+MC          Skill (Investigation: Profiling)        -  3     172
+MC          Skill (Larceny: Lock picking)           -  3     169
+MC          Skill (Medicine: Poison)                -  3     166
+MC          Skill (Stealth: Shadowing)              -  3     163
+MC          Skill (Streetwise 1)                    -  3     160
+MC          Skill (Streetwise 2)                    -  6     154
+MC          Skill (Subterfuge 1)                    -  3     151
+MC          Skill (Subterfuge 2)                    -  6     145
+MC          Skill (Weaponry 1)                      -  3     142
+MC          Skill (Weaponry 2)                      -  6     136
+MC          Skill (Weaponry: Knives)                -  3     130
+MC          Attribute (Presence 2)                  - 10     120
+MC          Merit (FS: Spetsnaz 3)                  -  6     114
+MC          Merit (FS: Spetsnaz 4)                  -  8     106
+MC          Merit (FS: Spetsnaz 5)                  - 10      96
+MC          Skill (Medicine 4)                      - 12      84
+MC          Skill (Weaponry 3)                      -  9      75
+MC          Skill (Weaponry 4)                      - 12      63
+MC          Skill (Politics 1)                      -  3      60
+MC          Skill (Expression 1)                    -  3      57
+MC          Skill (Socialise 1)                     -  3      54
+MC          Skill (Investigation 3)                 -  9      45
+MC          Skill (Computer 2)                      -  6      39
+MC          Skill (Subterfuge 3)                    -  9      30
+MC          Skill (Socialise 2)                     -  6      24
+MC          Skill (Science 2)                       -  6      18
+MC          Skill (Science 3)                       -  9       9
+MC          Skill (Politics 2)                      -  6       3
+MC          Skill (Intimidate 1)                    -  3       0
+
+To buy:
