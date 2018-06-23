@@ -98,9 +98,9 @@ This power allows the Lynx to attach themselves to a node in a Network, becoming
 
 **Action:** Instant and contested; resistance is reflexive
 #### Roll Results
-**Dramatic Failure:** The Lynx achieves the opposite of the results they wanted, 
+**Dramatic Failure:** The Lynx achieves the opposite of the results they wanted, and their connection to the network they targeted is disconnected: if it was an artificial connection created with CREATE LOGIN then it is just terminated, but for natural connections the Lynx's place in the network is suppressed for the remainder of the night.
 
-**Failure:** 
+**Failure:** The Lynx fails to bolster their position in the network, and the Willpower spent to activate the power is wasted.
 
 **Success:** Successes become bonus dice for rolls involving the network to which the Lynx has INSERTered themselves INTO.
 + _Social networks_: These networks usually provide bonuses on Social rolls when interacting with members of the network - any dice roll which might be affected by Status dots is a candidate for this effect.
