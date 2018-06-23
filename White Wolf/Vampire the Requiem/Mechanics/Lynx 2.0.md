@@ -17,14 +17,14 @@ DESCRIPTIVE TEXT AND HISTORY
 The Lynx gift of Web expresses their affinity for networks and connections that resides within their blood - as it does within all Vitae.  They have instinctive understanding of the networks they involve themselves in, and can even temporarily infiltrate into networks they don't belong to.
 All Lynx gain the first Devotion, _SELECT FROM_, upon joining the bloodline.  Additional Devotions have prerequisites as normal, and cost 2xp each.
 Lynx recognise the existence of four types of networks, and their powers have differing effects on each:
-+ Formal Social: Primarily financial, who does business with whom, etc.
++ **Formal Social**: Primarily financial, who does business with whom, etc.
 	+ [Nominally a 'Mental' network - Often reflected with merits such as: Mentor, Retainer, Resources, Status]
-+ Personal Social: Primarily emotional, friends, lovers, sexual partners, enemies, etc.
++ **Personal Social**: Primarily emotional, friends, lovers, sexual partners, enemies, etc.
 	+ [Nominally a 'Social' network - Often reflected with merits such as: Allies, Contacts, Retainer]
-+ Spatial: Primarily infrastructure, road and rail, electric wiring, sewers, etc.
++ **Spatial**: Primarily infrastructure, road and rail, electric wiring, sewers, etc.
 	+ [Nominally a 'Physical' network - These networks aren't usually reflected with Merits]
 	+ Outside of futuristic settings with advanced cybernetics (what sort of vampire game are you playing!?), Lynx are not naturally members of any spatial networks.
-+ Blood Sympathy: Primarily Vitae, the bonds between kindred, ghouls, blood bonds, addiction, etc.
++ **Blood Sympathy**: Primarily Vitae, the bonds between kindred, ghouls, blood bonds, addiction, etc.
 	+ [These networks aren't usually reflected with Merits]
 	+ For the purposes of these powers a node may generally belong to two such networks: 'natural', such as blood sympathy between families of kindred, and 'artificial', such as the Viniculum.
 	+ Artificially created blood sympathy (such as through the use of the Mnemosyne discipline "Meminisse") registers as part of the 'natural' network to these powers - which may cause the Lynx some confusion...
