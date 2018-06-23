@@ -181,6 +181,8 @@ In addition to the above devotions, the Lynx makes the following alterations or 
 The following devotions are more specialised or powerful effects that some elder Lynx may develop.  They are, as with the standard Web devotions, restricted to membership in the bloodline - but have higher costs than the above.
 
 ### OUTER JOIN
+_(Majesty 2, Obfuscate 2)_
+
 The Lynx may spoof their victim's place in a network that they belong to.
 
 This requires a more overt display of power than many other Web Devotions - in that the Lynx must smear a point of their vitae on the target's skin, and at least a point of the target's vitae on their own skin.
@@ -217,7 +219,7 @@ This effect expires when the sun next rises and may not be dismissed early, and 
 
 **Exceptional Success:** The spoof lasts for a number of nights equal to the Lynx's Blood Potency, and may be dismissed at any time.
 
--**Prerequisite:** Majesty 2, Obfuscate 2 (This devotions also costs 4xp instead of the normal 2xp for Web Devotions)
+This devotions also costs 4xp
 
 ***
 
