@@ -1,0 +1,328 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - 
+VSS - Essex Lost
+
+Name: Franklin Rochester
+DoB: 1946/05/11 (18)
+DoC: 1965/08/25 (4)
+DoR: 2002/03/02 (30)
+Concept - Igor assistant and butler to the Autumn court
+
+Seeming: Beast
+    Kith: Skitterskulk
+    Dual: Chatelaine
+Court: Autumn
+    Entitlement: Magistrates of the Wax Mask    #617
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (3):          ¦Social (5):
+        Intelligence    2*  ¦   Strength        2   ¦   Presence            2
+        Wits            2   ¦   Dexterity       3   ¦   Manipulation        3
+        Resolve         3   ¦   Stamina         1   ¦   Composure           3
+
+Skills:
+    Mental (11):(-4 untrain)¦Physical (4):          ¦Social (7):
+        Academics       4   ¦   Athletics       1   ¦   Animal Ken          1
+            Bureaucracy     ¦       Catching        ¦       Insects         
+        Computer        1   ¦   Brawl           0   ¦   Empathy             1
+        Crafts          1   ¦   Drive           1   ¦   Expression          2
+        Investigation   2   ¦   Firearms        0   ¦   Intimidate          0
+        Medicine        1   ¦   Larceny         2   ¦   Persuasion          2
+            First Aid       ¦                       ¦                       
+        Occult          2   ¦   Stealth         2   ¦   Socialise           4
+                            ¦       Skulking        ¦       Etiquette       
+        Politics        1   ¦   Survival        1   ¦   Streetwise          0
+        Science         2   ¦   Weaponry        0   ¦   Subterfuge          0
+
+Merits:
+    Power Stat (Wyrd)                       3
+    Mantle (Autumn) (• to •••••)            1
+
+                                                Shared  Pool
+    Brownie's Boon (•)             RoS p88  1
+    Bureaucratic Navigator (••)    Asy p51  2
+    Dual Kith (•••••)                       5   #616
+    Fast Reflexes (• or ••)                 1
+    Good Time Management  (••)     Asy p50  2
+    Harvest (• to •••••) {Emotion}          1
+    Ingratiating Wanderer (••)     MR  p58  2
+    Perfect Stillness (•)          RoS p94  1
+    Resources (• to •••••)                  1
+    Staff (• to •••••)             Gho p74  1
+        Household Staff
+    Strong Back (•)                         1
+    Wisdom of Dreams (•••)         RoS p97  3           05  Comp + Wits
+
+                                                Shared  Pool
+    Hollow ():
+        Amenities (• to •••••)              2
+        Archive (• to •••••)                0
+        Doors (• to •••••)                  0
+        Size (• to •••••)                   1
+        Wards (• to •••••)                  1
+        Workshop (• to •••••)               0
+
+Contracts:                              Dots    Cost    Pool
+    Den (AK)                    WM p19  4
+        Trespasser's Spoor                      1gl     N/A
+        Trapdoor Spider's Trick                 1gl      5  Wits + Wyrd
+        Cuckoo's Ruse                           2gl      6  Mani + Wyrd - Ward
+        Blessing of the Burrow                  2gl      4  Surv + Spec + Wyrd
+    Eternal Autumn (C)                  1
+        Last Breath Issac                       1gl      6  Mani + Wyrd
+    Eternal Summer (C)                  1
+        Son of the Hearth                       1gl      4  Surv + Spec + Wyrd
+    Hours (A)                   RS p102 1
+        Restoration of Dawn Beauty              1gl      4  Craf + Spec + Wyrd
+    Wild (AK)                   RS p111 1
+        Wildwalker                              1gl      5  Pers + Spec + Wyrd
+
+Tokens:
+    
+
+Pledges:
+    Vows (3 + Wyrd):
+        1.  Autumn Court
+        2.  
+        3.  
+        4.  
+        5.  
+        6.  
+    Oaths:
+        True name, obscured - 
+        True name, unsullied - 
+        Name of Keeper - 
+        Name of Higher Power - 
+    Corporal:
+        Mortal Emblem - 
+        Seeming Emblem - 
+        Courtly Emblem - 
+        Title Emblem - 
+        Nemesis Pledge - 
+        Entitlement Emblem - Magistrates of the Wax Mask
+
+Morality:   Lost    Gained
+    10      
+     9      
+     8      
+     7      2
+     6      
+     5  *   
+     4      
+     3      
+     2      
+     1      
+
+Other:
+    Virtue: Charity
+    Vice: Pride
+    Flaw: Heard of Hearing
+    
+    Seeming Blessing - 8-again on Animal Ken skill rolls and free Animal Ken Spec in animal that fits their seeming.
+    Seeming Curse - Untrained Mental skill rolls -4, and no 10-again on Intelligence
+    Kith Blessing - Impossible Counterpoise: Tripple defense when dodging
+    Dual Blessing - Perfect Protocol: 9-again on Social rolls involving manners, etiquette, or proper social practice.  1gl for +2 to Manipulation and Presence dice pools for a scene.
+    Mantle Bonus:
+        1 - +2 to Contract pools involving Occult
+        3 - 
+        5 - 
+    
+    Health: Size(5) + Stamina(1) = 6
+    |  |  |  |  |  |  |
+    Wound:    -1 -2 -3
+    
+    (Next wound of at least 1 lethal will permanently scar.)
+    
+    Willpower: Resolve(3) + Composure(3) = 6
+    |  |  |  |  |  |  |
+    
+    Glamour = Max 12, 3 / turn
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |
+     
+    Size: 5
+    Defence: Min(Dexterity(3),Wits(2)) = 2
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(3) + Composure(3) + FR(1) = 7
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(2) + Dexterity(3) + FoF(0) = 10
+
+Approvals:
+    
+
+Notes:
+    
+
+--- BACKGROUND ---
+=== The Before ===
+
+Born in 1946, Franklin Rochester was foundling child brought up by a member of the household staff belonging to Ernest Lamb, 1st Baron Rochester.  The Baron had been raised to the peerage in 1931 while serving as the Paymaster-General for the Government of the time.
+
+Franklin was discovered, placed on a doorstep, by the woman whom he would come to consider his mother.  She, while only a servant, was a great reader of much science, and named the child after her employer and after her great hero, Benjamin Franklin.
+
+From an early age, she schooled young Franklin in the sciences and he grew up with a great curiosity for the world around him.  While he was often teased and bullied at school for his name, both for the unusual first name and for a surname that implied he might be an illegitimate child of the Baron, he ignored these jibes and barbs, concentrating instead on his beloved books.  With few friends, he became withdrawn from most of the world around him, in many cases not speaking to a soul for days on end.  His adoptive mother was the only one whom would be greeted with a smile and a word.  Everyone else was, in his eyes, a distraction.
+
+His mother had also instilled in him a work ethic that she herself had acquired working at the Baron's, and so it was with due diligence that Franklin applied himself to his studies.  While from a poor background, his good grades and focused dedication to science, earned him a scholarship to study at Oxford, and in late September of 1965, aged 18, he packed his bags and left for the city.
+
+It was his first time truly away from home, and he was adrift like a fish in a big pond in a world he didn't understand.  Still not entirely socially adjusted, he didn't fit in with the students who viewed this first taste of freedom from their parents as a chance to do things they hadn't before.  Late one night in September, he was sullenly walking home through the twisting streets when he heard a slight sound down a side street...
+
+=== The During ===
+
+[[The Botanist]] didn't understand.  He had carefully moulded his servants into animals so that he could better study their habits and tactics, but they didn't behave as the books said they should.  Those damned books he'd bargained many of his precious beasts to get.  The Marquis of the Tall Clouds was probably laughing at him.  He throw the book from his hand with an angry gesture, and it fell towards the floor where upon a hundred skittering insects dashed out of their hiding places to catch it, to tidy it, to return it to its rightful place on the shelves.
+
+The Botanist of the Incomparable Gardens had beasts of every type serving his whims:
+
+* He had great hulking creatures in his fighting pits: Lions and tigers battled elephants with tusks of sharpest ivory, and trampled across packs of foxes and wolves that got in their way.
+* Scurrying creepy-crawlies of all sorts were employed as his general household staff: to fetch and carry, to collect and clean, to tidy and organise.  Their tiny insect limbs being useless alone, they worked in teams of hundreds to achieve the arbitrary tasks of their master.
+* Rats and rodents of many a stripe served alongside flying insects as his eyes and ears as he spied upon his neighbours to learn their secrets of beast and plant control, and to steal their favourite ornaments for his own.
+* He had an army of savage beasts who had 'graduated' from the fighting pits to aid in these struggles against the Others.
+* Pleasing animals, such as peacocks and cats, frolicked for his delight in the public sections of the Garden: an amusement for him and his guests.  Those who frolicked incorrectly, or who placed a foot wrong were hauled away by twisted beasts of burden to be thrown to the fighting pits.
+* Even the plants did not escape the Botanist's gaze, and many a Fairest or Elemental had been trained, pruned, clipped, and marshalled into growing into shapes his fevered Fae mind imagined.
+* Those in his service that weren't directly plant or animal related were the Wizened ones who tended the plants, or the Ogres who were called upon to dig, to lift, and to move.
+
+It was as a scurrying butler that the praying mantis' mind began to return to him.  He was hiding behind a fig leaf in the Garden, watching his master demonstrate the latest idea for an entertainment.  An elemental of electrical nature had been placed in the sky, and kite drifted on a string nearby.  Changelings who displeased the Botanist were tied to the kite, and the elemental was commanded to direct energy at them, while the Botanist and his guest clapped, laughed, and enjoyed the sufferings of the victim.
+
+The sight of these creatures hoisted on a kite towards darkening skies stirred some memory deep within the mantis, and the edges of a memory returned to his hitherto bestial mind.  Kites and keys and electricity.  Benjamin Franklin.  Franklin.  He was Franklin.
+
+The Botanist turned his green eyes and green thumbs to regard the tiny little praying mantis, and gestured it forwards.
+
+"BRING US A FLY."
+
+The mantis nodded its tiny head in terror and ran off toward the Green House, where the elderly spider who served as the head of the household staff duly handed over a fly that was squirming in his web.
+
+As the mantis headed back toward the Garden, he looked down at the cocoon in his arms and saw that it was a newly arrived captive which hadn't been entirely changed by the magics of the Botanist, and was in fact, naught but a small man.  A man with compound eyes and gauze wings, but a man.  The mantis, Franklin as he was beginning to think of himself again, dropped the bundle with a cry.  The spider behind him turned, gnashing it's mandibles together hungrily and began to inch forwards.
+
+=== The Escape ===
+
+Franklin cried out again and, with impossibly fast reflexes, snapped open his wings and buzzed into the air away from the pouncing spider.  Knowing that he didn't belong here any more, and that the spider would soon alert the guards, he desperately sought a way out of the Garden.  Dashing through a section of (mercifully sleeping) topiary Fairest, he spied a party of Ogres heading toward a small wooden gate set in the side of the enormous hedge running clear around the edge of the garden.  Realising that this was his only chance of getting out, he buzzed down in their direction, dropping to the ground at the last moment to craw silently through the blades of grass toward the opening.  The opening that was slowly and surely swinging closed behind the last Ogre.  He slipped through the crack just before it caught his hindleg, and looked around him.
+
+Behind him was the solid wooden gate, and stretching off in every other direction was a tangled mess of thorns, branches, and leaves.  Shuddering at the thought of what reaction such an untidy section of the Garden would have provoked in the Botanist, he began to creep slowly along a branch, attempting to avoid the wicked looking thorns.  He found it harder to think than he dimly remembered it having been like before, and so he was concentrating so hard so avoiding the thorns that he forgot to watch for other creatures.
+
+"Well, look what we 'ave here lads."  A grunting snuffling voice cried out.  "An escapee from the Garden!"
+
+He looked up wildly, and saw a boar bearing down on him, crashing through the Hedge with nary a thought for its safety.  Then, as if it couldn't get any worse, the nearby gate began to glow with heat.  Moments late, it exploded outwards into the hedge, slicing through branches and thorns as if they had been but water.  In the opening stood the Botanist.
+
+"THE GARDEN DOES NOT HAVE AN EXIT.  ALL EXHIBITS ARE PERMANENT."
+
+From behind him, two packs of savage wolves slunk from the Garden and began to sniff the air.  In a panic, Franklin buzzed into the air, and dived deeper into the Hedge.  Behind him, he heard the pursuing boars and wolves crashing through the thorns.
+
+As he flew, he grazed himself on many a thorn, leaving a trail of sickly green blood behind him, and causing shrieks of pain that only galvanised the pursuers ever onward and toward him.
+
+At last, he spied a twist in the air, and diving toward it he found himself tumbling, no longer with wings nor therefore flying, out of a doorway in Oxford.  Behind him, the hounds howled as the scent dried up and the doorway closed.  The Botanist's rage warping their flesh as it also warped the Hedge.
+
+=== The After ===
+
+Soon after, he stumbled across other changelings and, among other new facts, it was gently explained to him that nearly 45 years had passed since he had been taken away, even if to him it only seemed like four had passed to him.  Therefore, it was most likely that his adoptive mother had died, and that his fetch had either lived out his life in his place, or if one hadn't been made then he'd just been another missing person statistic.
+
+At first, he refused to look back and concentrated on the moment.  His local Spring Courtiers greedily snapped him, and he threw himself into his new life with gay abandon.  But it couldn't last.  There was always a small voice at the back of his head, gnawing and itching.  Urging him to return to study, to his science he had once found so wondrous and which had pulled him back.
+
+So, in late 2004, he parted ways with the Emerald and took up arms with the Ashen.  Realising that his cursed form limited his ability to think properly, he decided to become the Igor to the Frankenstein's of Autumn.  He travelled the length and breadth of the country, aiding those he could as best he could, and learning many things in the process.
+
+It was in 2006 that he first met a member of the Magistrates of the Wax Mask as they passed through the freehold where he was currently serving.  Recognising a kindred spirit when she saw it, the Magistrate laid out the details of her entitlement to him when he asked her, and within months he had solidified his decision and donned the Waxen Violet.
+
+--- KNOWN BIOGRAPHY ---
+* Name - Franklin Rochester
+    * Known as - 
+* Age - Appears to be in his mid-60s.
+* Other 'facts':
+    Known member of the Magistrates of the Wax Mask, and has been for around four years.
+    While having been a member of the Autumn Court for six years, he's never risen very high in the rankings (nor the esteem of the Season), seeming content to serve those who do rise.
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Composure 3)                0       0       0
+Creation        Attribute (Dexterity 2)                0       0       0
+Creation        Attribute (Dexterity 3)                0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Manipulation 2)             0       0       0
+Creation        Attribute (Manipulation 3)             0       0       0
+Creation        Attribute (Presence 2)                 0       0       0
+Creation        Attribute (Resolve 2)                  0       0       0
+Creation        Attribute (Resolve 3)                  0       0       0
+Creation        Attribute (Strength 2)                 0       0       0
+Creation        Attribute (Wits 2)                     0       0       0
+Creation        Contract (Den 1)                       0       0       0
+Creation        Contract (Den 2)                       0       0       0
+Creation        Contract (Den 3)                       0       0       0
+Creation        Contract (Den 4)                       0       0       0
+Creation        Contract (Eternal Summer 1)            0       0       0
+Creation        Merit (Brownie's Boon)                 0       0       0
+Creation        Merit (Wyrd 2)                         0       0       0
+Creation        Merit (Wyrd 2)                         0       0       0
+Creation        Merit (Wyrd 2)                         0       0       0
+Creation        Merit (Wyrd 3)                         0       0       0
+Creation        Merit (Wyrd 3)                         0       0       0
+Creation        Merit (Wyrd 3)                         0       0       0
+Creation        Skill (Academics 1)                    0       0       0
+Creation        Skill (Academics 2)                    0       0       0
+Creation        Skill (Academics 3)                    0       0       0
+Creation        Skill (Academics 4)                    0       0       0
+Creation        Skill (Animal Ken (Insects)) - Free    0       0       0
+Creation        Skill (Animal Ken 1)                   0       0       0
+Creation        Skill (Athletics (Catching)) - Free    0       0       0
+Creation        Skill (Expression 1)                   0       0       0
+Creation        Skill (Expression 2)                   0       0       0
+Creation        Skill (Investigation 1)                0       0       0
+Creation        Skill (Investigation 2)                0       0       0
+Creation        Skill (Larceny 1)                      0       0       0
+Creation        Skill (Larceny 2)                      0       0       0
+Creation        Skill (Medicine (First Aid))           0       0       0
+Creation        Skill (Medicine 1)                     0       0       0
+Creation        Skill (Occult 1)                       0       0       0
+Creation        Skill (Occult 2)                       0       0       0
+Creation        Skill (Persuasion 1)                   0       0       0
+Creation        Skill (Persuasion 2)                   0       0       0
+Creation        Skill (Persuasion 3)                   0       0       0
+Creation        Skill (Persuasion 4)                   0       0       0
+Creation        Skill (Science 1)                      0       0       0
+Creation        Skill (Science 2)                      0       0       0
+Creation        Skill (Socialise (Etiquette))          0       0       0
+Creation        Skill (Stealth (Skulking))             0       0       0
+Creation        Skill (Stealth 1)                      0       0       0
+Creation        Skill (Stealth 2)                      0       0       0
+MC              MC (1)                              + 90      90      90
+MC              Contract (Hours 1)                  -  4      86      90
+MC              Contract (Wild 1)                   -  4      82      90
+MC              Merit (Bureaucratic Navigator 2)    -  4      78      90
+MC              Merit (Dual Kith 5)                 - 10      68      90
+MC              Merit (Emotional Detachment 1)      -  2      66      90
+MC              Merit (Fast Reflex 1)               -  2      64      90
+MC              Merit (Good Time Management 2)      -  4      60      90
+MC              Merit (Harvest (Emotions) 1)        -  2      58      90
+MC              Merit (Hollow (Amenities) 1)        -  2      56      90
+MC              Merit (Hollow (Amenities) 2)        -  4      52      90
+MC              Merit (Hollow (Size) 1)             -  2      50      90
+MC              Merit (Hollow (Wards) 1)            -  2      48      90
+MC              Merit (Ingratiating Wanderer 2)     -  4      44      90
+MC              Merit (Perfect Stillness 1)         -  2      42      90
+MC              Merit (Resources 1)                 -  2      40      90
+MC              Merit (Staff (Household Staff) 1)   -  2      38      90
+MC              Merit (Strong Back 1)               -  2      36      90
+MC              Skill (Academics (Bureaucracy))     -  3      33      90
+MC              Skill (Athletics 1)                 -  3      30      90
+MC              Skill (Computer 1)                  -  3      27      90
+MC              Skill (Crafts 1)                    -  3      24      90
+MC              Skill (Drive 1)                     -  3      21      90
+MC              Skill (Empathy 1)                   -  3      18      90
+MC              Skill (Persuasion 1)                -  3      15      90
+MC              Skill (Persuasion 2)                -  6       9      90
+MC              Skill (Politics 1)                  -  3       6      90
+MC              Skill (Subterfuge 1)                -  3       3      90
+MC              Skill (Survival 1)                  -  3       0      90
+2010/07/03      Game (Summer National 2010 - Sat)   +  4       4      94
+2010/07/04      Overcap (Summer National 2010)      +  6      10     100
+2010/07/19      Contract (Eternal Autumn 1)         -  4       6     100
+2010/07/19      Merit (Wisdom of Dreams 3)          -  6       0     100
+2010/07/22      Downtime (July)                     +  2       2     102
+2010/08/        Downtime (August)                   +  2       4     104
+2010/09/        Downtime (September)                +  2       6     106
+2010/11/        Downtime (November)                 +  2       8     108
+2011/05/27      Downtime (May)                      +  2      10     110
+
+To buy:

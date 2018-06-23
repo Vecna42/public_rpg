@@ -1,0 +1,397 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - "Rhona O'Sullivan" <inverness.vst@googlemail.com>
+VSS - Inverness Lost
+
+Name: Perry Hound, QC
+    Titles: Calefector
+DoB: 1974/03/14 (21)
+DoC: 1995/06/08 (2)
+DoR: 1995/08/18 (36)
+Concept - Dogged lawyer, persecutor of the Oath-broken.
+
+Seeming: Wizened
+    Kith: Author
+Court: Summer
+Entitlement: #Lo208
+
+--- SHEET ---
+Attributes:
+    Mental (3):             ¦Physical (5):          ¦Social (4):
+        Intelligence    3   ¦   Strength        3   ¦   Presence            2*
+        Wits            4   ¦   Dexterity       4   ¦   Manipulation        3
+        Resolve         2   ¦   Stamina         3   ¦   Composure           2
+
+Skills:
+    Mental (4):             ¦Physical (11):         ¦Social (7): (-2 untrained)
+        Academics       3   ¦   Athletics       2   ¦   Animal Ken          0
+            Law             ¦       Chasing         ¦                       
+        Computer        1   ¦   Brawl           3   ¦   Empathy             3
+                            ¦                       ¦       Lies            
+        Craft           1   ¦   Drive           0   ¦   Expression          3
+        Investigation   3   ¦   Firearms        4   ¦   Intimidate          1
+                            ¦       Beretta         ¦                       
+        Medicine        0   ¦   Larceny         1   ¦   Persuasion          3
+        Occult          0   ¦   Stealth         2   ¦   Socialise           1
+        Politics        2   ¦   Survival        1   ¦   Streetwise          0
+        Science         0   ¦   Weaponry        3   ¦   Subterfuge          3
+                            ¦                       ¦       Lies about self +2
+
+Merits:
+    Power Stat (Wyrd)                       3
+    Mantle (Summer) (• to •••••)            3
+
+                                                Shared  Pool
+    Brownie's Boon (•)              RoS p88 1
+    Bureaucratic Navigator (••)     Asy p51 2
+    Charmed Life (••)               RoS p88 2
+    Enchanting Performance (•••)    RoS p88 3
+    Fast Reflexes (• or ••)                 2
+    Fighting Finesse (Knives) (••)          2
+    Fleet of Foot (• to •••)                3
+    FS: Combat Marksmanship (• to •••••)    2
+    Gunslinger (•••)                        3
+    Harvest (Emotion) (• to •••••)          1
+    Perfect Stillness (•)           RoS p94 1
+    Pledgesmith (• to •••)          RoS p94 2
+    Quick Draw (Firearms) (•)               1
+    Resources (• to •••••)                  2
+    Rigid Mask (••)                 RoS p95 2
+    Siren Song (•••)                Ros p96 3
+    Status (Judicial)                       3
+
+                                                Shared  Pool
+    Hollow (Personal):
+        Amenities (• to •••••)              3
+        Archive (• to •••••) RoS 87         1
+            Freehold laws
+        Doors (• to •••••)                  2
+        Size (• to •••••)                   3
+        Wards (• to •••••)                  2
+        Workshop  RoS 97                    1
+            Blacksmithing
+
+Contracts:                              Dots    Cost    Pool
+    Animation (K)               WM p52  2
+        Knowing Touch                           1gl      4  Craf + Wyrd
+        Instant Expertise                       1gl      7  Wits + Wyrd
+    Artifice (A)                        3
+        Brief Glamour of Repair                 1gl      4  Craf + Wyrd
+        Touch of the Workman's Wrath            2gl      4  Larc + Wyrd
+        Blessing of Perfection                  3gl      7  Wits + Wyrd
+    Eternal Summer (AC)                 1
+        Son of the Hearth                       1gl      4  Surv + Wyrd
+    Fleeting Summer (AC)                1
+        Baleful Sense                           1gl      7  Wits + Wyrd
+    Forge (AK)          RoS p99         4
+        Rewriting the Image                     1gl      6  Expr + Spec + Wyrd
+        Trivial Reworking                       2gl      4  Craf + Spec + Wyrd
+        Discreet Conjuration                    2gl+1wp  6  Mani + Wyrd
+        Hidden Reality                          3gl+1wp  7  Wits + Wyrd
+    Hearth (A)                          2
+        Fickle Fate                             1gl     N/A
+        Favoured Fate                           1gl     N/A
+    Oath+Punishment (K) WM p47          5
+        Pursuer's Seven-League Leap             1gl      5  Athl + Spec + Wyrd
+        Sense Tainted Vow                       1gl      7  Wits + Wyrd v Comp + Wyrd
+        Inexorable Pursuer                      1gl      5  Reso + Wyrd
+        Relentless Pursuit                      2gl      6  Stam + Wyrd
+        Cruel Vengeance                         2gl      5* Pres + Wyrd v Mani + Wyrd
+    Punishing Summer (AC)LoS 59         3
+        Smoldergrip                             1gl      6  Stre + Wyrd
+        Battle Bright                           2gl      5* Pres + Wyrd v Wits + Comp
+        Crown of Clashing Fire                  2gl+1wp  5  Reso + Wyrd - Stam
+
+Tokens:
+    
+
+Pledges:
+    Vows (3 + Wyrd):
+        1.  Summer Court
+        2.  
+        3.  
+        4.  
+        5.  
+    Oaths:
+        True name, obscured - 
+        True name, unsullied - 
+        Name of Keeper - 
+        Name of Higher Power - 
+    Corporal:
+        Mortal Emblem - 
+        Seeming Emblem - 
+        Courtly Emblem - 
+        Title Emblem - 
+        Nemesis Pledge - 
+    
+    Turncoat's Assurance - Hound Tribunal privilege, Lords of Summer pg65
+        Type: Corporal, Nemesis Pledge
+        Tasks: Fobiddance (-3, the Turncoat promises not to return); Alliance (+0, both parties agree to a peace pact)
+        Boons: Blessing (+2, the Turncoat gains +1 Resources); Blessing (+1, Turncoat gains +1 Fleet of Foot)
+        Sanction: Curse (-3)
+        Duration: Lifelong (+3)
+        Invocation: 1WP point, 1WP dot
+
+Morality:   Lost    Gained
+    10      
+     9      
+     8      
+     7      1
+     6      1       Suspicion
+     5  *   
+     4      
+     3      
+     2      
+     1      
+
+Equipment:              Size    Dur Bonus   Cap     Other
+    Beretta Model 92    1/S         +2(L)   15+1    20/40/80
+    .40 S&W             1/S         +2(L)9a 12+1    25/50/100
+    Combat knife        1/2     3   +1(L)
+
+Other:
+    Virtue: Justice
+    Vice: Wrath
+    Flaw: 
+    
+    Seeming Blessing - Spend 1Gl for 9-again on Dex.  Spend 1Gl to add Wyrd to Dodge.
+    Seeming Curse - No 10-again on Presence, and -2 untrained to social Skills.
+    Kith Blessing - 8-again on Expression dealing with writing or wordy endeavours.  Wits+Acad to deduce meaning of text in any mortal language.
+    Entitlement Privilege - +2 to lies about self, and access to the Turncoat's Assurance pledge.
+    Mantle Bonus:
+        1 - +4 instead of +3 to Strength based rolls when spending WP
+        3 - +1 armour
+        5 - 
+    
+    Health: Size(5) + Stamina(3) = 8
+    |  |  |  |  |  |  |  |  |
+    Wound:          -1 -2 -3
+    
+    Willpower: Resolve(2) + Composure(2) = 4
+    |  |  |  |  |
+    
+    Glamour = Max 12, 3 / turn
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |
+     
+    Size: 5
+    Defence: Min(Dexterity(4),Wits(4)) = 4
+    Armour: 1 / 1
+        Summer Mantle 3 - 1 / 1
+    
+    Initiative: Dexterity(4) + Composure(2) + FR(2) = 8
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(3) + Dexterity(4) + FoF(3) = 15
+
+Approvals:
+    
+
+Notes:
+    
+
+--- BACKGROUND ---
+1970-1979: 
+- 1974 ~ Born in Inverness.
+1980-1989: 
+1990-1999: 
+- 1992 ~ Moves to London to study Law.
+- 1995 ~ Taken in June just after the end of his final Law exams, returns in August after results are announced but before his fetch can ruin his life.
+- 1996 ~ Joins the Honourable Society of the Inner Temple (commonly known as the Inner Temple, one of the four Inns of Court).
+- 1997 ~ Roots out a group of Loyalists around Inverness during a Summer recess, and before they can complete their plans he calmly and without any further thought executes them all.  Soon after the Hound Tribunal appears and offers him an opportunity to join.  He accepts.
+2000-2009: 
+- 2008 ~ On the 22nd January the government announced the appointments to QC, among whom was Perry Hound.
+2010-2019: 
+- 2010 ~ As Summer ends, and his work for the Tribunal closes for the year, he returns to the public spotlight and to Inverness.
+
+
+***
+CHARACTER QUESTIONS
+4. What most motivates your character to interact with other characters? What fears, joys, or other emotions drive him or her? What are his or her goals? What is your character willing to die for? What inspires your character?
+
+Interacting - To watch for traitors.
+Fears - Loosing in battle.
+Joys - Concluding a trial in his favour.
+Goals - To expunge all traitors from society, and then to be part of the glorious charge into Arcadia to wipe the weakened Fae from their grinning thrones.
+To die for - Summer and the Freehold.
+
+
+
+****
+5. How does your character interact with the mundane world? (If your character possesses any supernatural qualities, please describe how he or she avoids undue attention from ordinary people.) 
+
+Perry is a QC, and therefore highly involved with the mundane world.  His supernatural qualities that he may draw upon in his day-to-day life are such that they are not the sort of bring undue attention from those around him (he has no desire, for example, to use Burning Bright (Punishing Summer 2) to create light that blinds those near him).
+
+
+
+****
+SUPERNATURAL QUESTIONS
+
+6. What faction or group (Covenant/Clan, Path/Order, Seeming/Court, Auspice/Tribe etc.) does your character most feel a part of? Why that group? How does their relationship to the group affect his or her dealings with other groups he or she is a part of? (For example, if lineage is most important, how does this impact his/her views of clan and covenant?) 
+
+Perry feels most at home with his Entitlement (The Hound Tribunal) first and foremost, followed by his Court (Summer).  These two are highest because he finds his soul, heart, and mind to be consumed with a wrathful desire for vengeance and justice to be metered out to those who have done wrong.
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Dexterity 3)                    0       0       0
+Creation    Attribute (Intelligence 2)                 0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Manipulation 3)                 0       0       0
+Creation    Attribute (Presence 2)                     0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Stamina 2)                      0       0       0
+Creation    Attribute (Stamina 3)                      0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Contract (Forge 1)                         0       0       0
+Creation    Contract (Forge 2)                         0       0       0
+Creation    Contract (Forge 3)                         0       0       0
+Creation    Contract (Forge 4)                         0       0       0
+Creation    Contract (Oath and Punishment 1)           0       0       0
+Creation    Merit (Brownie's Boon 1)                   0       0       0
+Creation    Merit (Power Stat (Wyrd) 2)                0       0       0
+Creation    Merit (Power Stat (Wyrd) 2)                0       0       0
+Creation    Merit (Power Stat (Wyrd) 2)                0       0       0
+Creation    Merit (Power Stat (Wyrd) 3)                0       0       0
+Creation    Merit (Power Stat (Wyrd) 3)                0       0       0
+Creation    Merit (Power Stat (Wyrd) 3)                0       0       0
+Creation    Skill (Academics (Law))                    0       0       0
+Creation    Skill (Academics 1)                        0       0       0
+Creation    Skill (Academics 2)                        0       0       0
+Creation    Skill (Academics 3)                        0       0       0
+Creation    Skill (Athletics (Chasing)) - Free         0       0       0
+Creation    Skill (Athletics 1)                        0       0       0
+Creation    Skill (Athletics 2)                        0       0       0
+Creation    Skill (Brawl 1)                            0       0       0
+Creation    Skill (Brawl 2)                            0       0       0
+Creation    Skill (Empathy (Lies))                     0       0       0
+Creation    Skill (Empathy 1)                          0       0       0
+Creation    Skill (Empathy 2)                          0       0       0
+Creation    Skill (Empathy 3)                          0       0       0
+Creation    Skill (Expression 1)                       0       0       0
+Creation    Skill (Expression 2)                       0       0       0
+Creation    Skill (Expression 3)                       0       0       0
+Creation    Skill (Firearms (Beretta))                 0       0       0
+Creation    Skill (Firearms 1)                         0       0       0
+Creation    Skill (Firearms 2)                         0       0       0
+Creation    Skill (Firearms 3)                         0       0       0
+Creation    Skill (Investigation 1)                    0       0       0
+Creation    Skill (Stealth 1)                          0       0       0
+Creation    Skill (Stealth 2)                          0       0       0
+Creation    Skill (Subterfuge 1)                       0       0       0
+Creation    Skill (Weaponry 1)                         0       0       0
+Creation    Skill (Weaponry 2)                         0       0       0
+MC          MC (12)                                 +470     470     470
+MC          Attribute (Dexterity 4)                 - 20     450     470
+MC          Attribute (Intelligence 3)              - 15     435     470
+MC          Attribute (Strength 3)                  - 15     420     470
+MC          Attribute (Wits 3)                      - 15     405     470
+MC          Attribute (Wits 4)                      - 20     385     470
+MC          Contract (Artifice 1)                   -  4     381     470
+MC          Contract (Artifice 2)                   -  8     373     470
+MC          Contract (Artifice 3)                   - 12     361     470
+MC          Contract (Eternal Summer 1)             -  4     357     470
+MC          Contract (Fleeting Summer 1)            -  4     353     470
+MC          Contract (Hearth 1)                     -  4     349     470
+MC          Contract (Oath and Punishment 2)        - 12     337     470
+MC          Contract (Oath and Punishment 3)        - 18     319     470
+MC          Contract (Oath and Punishment 4)        - 24     295     470
+MC          Contract (Oath and Punishment 5)        - 30     265     470
+MC          Contract (Punishing Summer 1)           -  4     261     470
+MC          Contract (Punishing Summer 2)           -  8     253     470
+MC          Contract (Punishing Summer 3)           - 12     241     470
+MC          Merit (Bureaucratic Navigator 2)        -  4     237     470
+MC          Merit (Charmed Life 2)                  -  4     233     470
+MC          Merit (Enchanting Performance 4)        -  8     225     470
+MC          Merit (Fast Reflexes 1)                 -  2     223     470
+MC          Merit (Fast Reflexes 2)                 -  2     221     470
+MC          Merit (Fighting Finesse 2)              -  4     217     470
+MC          Merit (Fleet of Foot 1)                 -  2     215     470
+MC          Merit (Fleet of Foot 2)                 -  4     211     470
+MC          Merit (Fleet of Foot 3)                 -  6     205     470
+MC          Merit (Gunslinger 3)                    -  6     199     470
+MC          Merit (Harvest (Emotion) 1)             -  2     197     470
+MC          Merit (Harvest (Emotion) 2)             -  4     193     470
+MC          Merit (Hollow (Amenities) 1)            -  2     191     470
+MC          Merit (Hollow (Amenities) 2)            -  4     187     470
+MC          Merit (Hollow (Amenities) 3)            -  6     181     470
+MC          Merit (Hollow (Archive) 1)              -  2     179     470
+MC          Merit (Hollow (Doors) 1)                -  2     177     470
+MC          Merit (Hollow (Doors) 2)                -  4     173     470
+MC          Merit (Hollow (Size) 1)                 -  2     171     470
+MC          Merit (Hollow (Size) 2)                 -  4     167     470
+MC          Merit (Hollow (Size) 3)                 -  6     161     470
+MC          Merit (Hollow (Wards) 1)                -  2     159     470
+MC          Merit (Hollow (Wards) 2)                -  4     155     470
+MC          Merit (Hollow (Workshop) 1)             -  2     153     470
+MC          Merit (Mantle (Summer) 2)               -  4     149     470
+MC          Merit (Mantle (Summer) 3)               -  6     143     470
+MC          Merit (Perfect Stillness 1)             -  2     141     470
+MC          Merit (Pledgesmith 1)                   -  2     139     470
+MC          Merit (Pledgesmith 2)                   -  4     135     470
+MC          Merit (Quick Draw (Firearms) 1)         -  2     133     470
+MC          Merit (Resources 1)                     -  2     131     470
+MC          Merit (Resources 2)                     -  4     127     470
+MC          Merit (Rigid Mask 2)                    -  4     123     470
+MC          Merit (Siren Song 3)                    -  6     117     470
+MC          Merit (Status (Judicial) 1)             -  2     115     470
+MC          Merit (Status (Judicial) 2)             -  4     111     470
+MC          Merit (Status (Judicial) 3)             -  6     105     470
+MC          Skill (Brawl 3)                         -  9      96     470
+MC          Skill (Computer 1)                      -  3      93     470
+MC          Skill (Craft 1)                         -  3      90     470
+MC          Skill (Firearms 4)                      - 12      78     470
+MC          Skill (Intimidate 1)                    -  3      75     470
+MC          Skill (Investigation 2)                 -  6      69     470
+MC          Skill (Investigation 3)                 -  9      60     470
+MC          Skill (Larceny 1)                       -  3      57     470
+MC          Skill (Persuasion 1)                    -  3      54     470
+MC          Skill (Persuasion 2)                    -  6      48     470
+MC          Skill (Persuasion 3)                    -  9      39     470
+MC          Skill (Politics 1)                      -  3      36     470
+MC          Skill (Politics 2)                      -  6      30     470
+MC          Skill (Socialise 1)                     -  3      27     470
+MC          Skill (Subterfuge 2)                    -  6      21     470
+MC          Skill (Subterfuge 3)                    -  9      12     470
+MC          Skill (Survival 1)                      -  3       9     470
+MC          Skill (Weaponry 3)                      -  9       0     470
+2010/08/04  MC (13)                                 + 20      20     490
+2010/08/23  Contract (Animation 1)                  -  4      16     490
+2010/08/23  Contract (Animation 2)                  -  8       8     490
+2010/08/23  Contract (Hearth 2)                     -  8       0     490
+2010/08/30  Downtime (September)                    +  2       2     492
+2010/09/29  Merit (FS: Combat Marksmanship 1)       -  2       0     492
+2010/09/30  Downtime (October)                      +  2       2     494
+2010/10/04  Downtime (Winterscale talk)             +  1       3     495
+2010/10/11  Game (Inverness Lost)                   +  4       7     499
+2010/11/04  Merit (FS: Combat Marksmanship 2)       -  4       3     499
+2010/11/06  Downtime (November)                     +  2       5     501
+2010/11/07  Game (Inverness Lost)                   +  4       9     505
+2010/11/20  Game (Winter National)                  +  2      11     507
+2010/11/21  Overcap (Winter National)               +  6      17     513
+            Merit (Mantle (Summer) 4)               -  8       9     513
+
+To buy:
+            Attribute (Resolve 3)                   - 15
+            Contract (Omen 1)                       -  4
+            Contract (Omen 2)                       -  8
+            Merit (FS: Archery 1)                   -  2
+            Merit (FS: Archery 2)                   -  4
+            Merit (FS: Archery 3)                   -  6
+            Merit (FS: Archery 4)                   -  8
+            Merit (FS: Combat Marksmanship 3)       -  6
+            Merit (FS: Combat Marksmanship 4)       -  8
+            Merit (FS: Combat Marksmanship 5)       - 10
+            Skill (Athletics 3)                     -  9
+            Skill (Athletics 4)                     - 12
+            Skill (Firearms (Bows))                 -  3

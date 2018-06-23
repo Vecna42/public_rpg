@@ -1,0 +1,553 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705
+VST - "Laurence Shaw" <inverness.vst@googlemail.com>, Inverness Lost
+
+Name: Gareth 'Griff' Taylor
+DoB: 1984/09/12 (25)    DoC: 2006/05/18 (21)    DoR: 2008/12/14 (22)
+Concept - Dark and terrible Spring, Shaper of Dreams, Bastion against the night
+
+Seeming: Darkling   Kith: Leechfinger
+Court: Spring       Entitlement: 
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    3   ¦   Strength        3   ¦   Presence            3
+        Wits            4   ¦   Dexterity       4   ¦   Manipulation        3
+        Resolve         3   ¦   Stamina         3   ¦   Composure           3
+
+Skills:
+    Mental (7):             ¦Physical (4):          ¦Social (7):
+        Academics       3   ¦   Athletics       1   ¦   Animal Ken          1
+            Accounting      ¦                       ¦                       
+        Computer        1   ¦   Brawl           4   ¦   Empathy             4
+                            ¦       Touch           ¦       Indulgence      
+                            ¦                       ¦       Oneiromancy     
+        Craft           1   ¦   Drive           0   ¦   Expression          2
+        Investigation   1   ¦   Firearms        0   ¦   Intimidate          1
+        Medicine        2   ¦   Larceny         1   ¦   Persuasion          2
+                            ¦                       ¦       Indulge
+        Occult          3   ¦   Stealth         2   ¦   Socialise           3
+                            ¦                       ¦       Spring          +1
+        Politics        3   ¦   Survival        1   ¦   Streetwise          1
+            Bribery         ¦                       ¦                       
+        Science         1   ¦   Weaponry        0   ¦   Subterfuge          3
+
+Merits:
+    Power Stat (Wyrd)                       4
+    Mantle (Spring) (• to •••••)            4   #Lo323/#603
+
+                                                Shared  Pool
+    Barfly (•)                              1
+    Bureaucratic Navigator (••)     Asy p51 2
+    Emotional Detachment (•)        Asy p50 1
+    FS: Boxing (• to •••••)                 2   {+/- defence?}
+    FS: Social Manoeuvres (• to ••••) GmF63 1
+        1 (Sugar Lips, Honey Tongue) - Observe target for 20min, then deliver a compliment as the first thing said to the character.  Roll 9 (Mani + Soci + (Half Empathy round up)) vs Pres + Comp.  Success means the target suffers a -3 to further Social Resistance traits or rolls.
+    Harvest {Dreaming}                      3
+    Harvest {Emotion}                       3
+    Harvest {Pledges}                       1
+    Ingratiating Wanderer (••)      MR p58  2
+    Meditative Mind (•)                     1
+    Natural Immunity (•)                    1
+    Prophet Circle (• to •••••)     RoS p94 3           07  Wits + Occu
+    Resources (• to •••••)                  2
+    Soul Sense (••)                 RoS p96 2
+    Visionary Dreams (••)           RoS p97 2           07  Inte + Wits
+    Wisdom of Dreams (•••)          RoS p97 3           07  Comp + Wits
+
+                                                Shared  Pool
+    Hollow (Home):
+        Amenities (• to •••••)              1
+        Archive (• to •••••)                0
+        Doors (• to •••••)                  0
+        Size (• to •••••)                   1
+        Wards (• to •••••)                  2
+        Workshop (• to •••••)               0
+    
+    Fiddler's Rest:
+        Amenities (• to •••••)              2
+            Gareth                              1
+        Archive (• to •••••)                0
+        Doors (• to •••••)                  2
+            Gareth                              1
+        Size (• to •••••)                   2
+            Gareth                              2
+        Staff (• to •••••)                  2
+            Gareth                              2
+                Housekeeping / Desk
+                Restaurant / Kitchen
+        Wards (• to •••••)                  2
+            Gareth                              1
+        Workshop (• to •••••)               1
+            Gareth                              1
+                Kitchen
+
+Contracts:                              Dots    Cost    Pool
+    Darkness (AK)                       3
+        Creeping Dread                      1gl      7  Mani + Wyrd - Reso
+        Subtle Distractions                 1gl      6  Stea + Wyrd
+        Balm of the Unwakeable Slumber      1gl      7  Mani + Wyrd v Reso + Wyrd
+    Den (K)                     WM p19  3
+        Trespasser's Spoor                  1gl     N/A
+        Trapdoor Spider's Trick             1gl      8  Wits + Wyrd
+        Cuckoo's Ruse                       2gl      7  Mani + Wyrd - Ward
+    Dream (A)                           5
+        Pathfinder                          1gl      7  Inte + Wyrd
+        Forging the Dream                   1gl      8  Wits + Wyrd
+        Phantasmal Bastion                  1gl     N/A
+        Cobblethought                       1gl      7  Inte + Wyrd
+        Dreamsteps                          1gl      7  Inte + Wyrd
+    Eternal Spring (C)                  2
+        Gift of Warm Breath                 1gl      8  Reso + Surv + Mantle
+        New Lover's Kiss                    2gl      8  Inte + Surv + Mantle
+    Fleeting Spring (C)                 2
+        Cupid's Eye                         1gl      8  Wits + Wyrd v Comp + Wyrd
+        Growth of the Ivy                   2gl     11  Mani + Wyrd + Mantle - Reso
+    Hearth (A)                          1
+        Fickle Fate                         1gl    N/A
+    Hours (A)                   RS p102 5
+        Restoration of Dawn Beauty          1gl      5  Craf + Wyrd
+            (Restore an old object)
+        Frozen Moment                       2gl      8  Wits + Wyrd
+            (Freeze an object for up to a scene)
+        Thief of Days                       2gl      5  Inve + Wyrd
+            (1 damage per success, ignore durabilty.  Appears to age)
+        Flickering Hours                    2gl+1wp  8  Wits + Wyrd
+            (Change rate of time in the Hedge)
+        Leaping Toward Nightfall            4gl+1wp  5  Inve + Spec + Wyrd v Comp + Wyrd
+            (Send target into future: 1 sux - One turn, 2 sux - One minute,
+            3 sux - One hour, 4 sux - One day, 5 sux - One week (plus 1 per sux))
+    Separation (K)              WM p40  2
+        Tread Lightly                       1gl      8  Dext + Wyrd
+        Evasion of Shackles                 1gl      5  Larc + Wyrd
+    Vainglory (K)                       3
+        Mask of Superiority                 2gl      7  Inti + Wyrd - Reso
+        Songs of Distant Arcadia            2gl      5  Pres + Expr + Spec
+        Splendour of the Envoy's Protection 3gl      7  Pres + Wyrd
+    Verdant Spring (C)          LS p39  1
+        Font of Inspiration                 1gl     12  Wits + Empa + Mantle
+    Wild (K)                    RS p111 2
+        Wildwalker                          1gl      6  Pers + Wyrd
+            (Negate -1 environmental penalty per success)
+        Nature's Curse                      1gl      7  Inti + Wyrd
+            (-1 environmental penalty, up to -2.  Max of -1 if no penalties to start with)
+
+Tokens:
+    
+
+Pledges:
+    Vows (3 + Wyrd):
+        1.  
+        2.  
+        3.  
+        4.  
+        5.  
+        6.  
+        7.  
+    Oaths:
+        True name, obscured - 
+        True name, unsullied - 
+        Name of Keeper - 
+        Name of Higher Power - 
+    Corporal:
+        Mortal Emblem - 
+        Seeming Emblem - 
+        Courtly Emblem - 
+        Title Emblem - 
+        Personal Emblem - Horn and Bone (Custom variation on Horn and Bone, C:tL p187)  #605
+            "Go ahead and sleep.  I promise you'll rest easy.  Even when you're dreaming, I'll watch over you.  Your pleasant dreams are all the reward I need."
+            Tasks: Dreaming (-2, Changeling); Forbidance, Medial (-2, Changeling may not speak of what he sees in the mortal's dreams to another); Lesser Endeavour (-1, must perform Dreaming task at least four times a month)
+            Boons: Glamour (+2, Changeling)
+            Sanction: None (+0)
+            Duration: Year and a Day (+3)
+            Invocation: 1 Willpower
+        Personal Emblem - Hotellier's Bargain (Custom pledge for the Fiddler's Rest)    #637
+            "Tell you what, just this once, I'll let you stay for free.  No cost - it'll be good for business.  Just sign this form and I'll get you your room key."
+            Landlord
+                Tasks: Endeavour (-1, Hotellier puts them up for their stay (max of 1 week))
+                Boons: Blessing (1, Resources for the hotel)
+                Sanction: Poisoning of Boon (-1, Hotellier must give the room for up to 1 week for free)
+            Guest
+                Tasks: Endeavour (-1, Guest recommends the hotel to others)
+                Boons: Adroitness (1, Guest gains +1 to Expression to express their like of the hotel)
+                Sanction: Poisoning of Boon (-1, Guest must recommend the hotel)
+            Duration: Month (+2)
+            Invocation: 1 Willpower
+            Other: Form has details of the room they want (double, twin, single... etc.), their details - or what details they have, that sort of thing.
+        Nemesis Pledge - Dunasheen Freehold pledge (Commendation, C:tL p189)
+            Tasks: Fealty (-3, both)
+            Boons: Vassalage (+3, vassal); Glamour (+2, vassal must render a tithe of Glamour equal to the liege's Wyrd at some point during the year)
+            Sanction: Banishment (-3, vassal); Poisoning of Boon, Medial (-2, liege must off up an amount of glamour equal to what he would have drawn)
+            Duration: Year and a Day (+3)
+            Invocation: 1 WP (both) + 1 WP dot (liege, paid only when he first takes part in the Oath of Fealty as a liege)
+        Nemesis Pledge - Custom Dunasheen oath written for Ruby                         #2464
+            "I swear, by this token of my liege, that I shall be faithful to him, to cause no harm unjustly, and to give of my skills to the best of my ability for the good of the freehold.  I shall render up to him the proper homage of Glamour in its proper time, and if I be forsworn then may I be banished forever from the warmth of his hearth.  While this pledge lasts, may we both speak more freely about what is in our hearts."
+            Tasks: Fealty (-3, both)
+            Boons: Vassalage (+3, vassal gains the Fortitude blessing); Glamour (+2, vassal must render a tithe of Glamour equal to the liege&#39;s Wyrd at some point in the season); Adroitness (+1, both gain +1 Expression)
+            Sanction: Banishment (-3, vassal); Poisoning (-2, liege must offer up an amount of Glamour equal to what he would have drawn)
+            Duration: Season (+2)
+    Known:
+        Discreet Landlord (Mortal)                                                      #909
+            "Discretion is the better part of valour, and your stay here will be treated with the utmost discretion.  For a month I vow to tell no more about your stay than we agree upon and all I ask in return is that you bring no harm of any kind upon those who live, stay, or work in the hotel.  All I ask in return is your gratitude."
+            Type: Vow
+            Landlord
+                Tasks: Forbiddance, Medial (-2, changeling may not speak more than is agreed upon about his guest)
+                Boons: Glamour (+2, changeling gains 1 glamour a day)
+                Sanction: Curse, Medial (-2)
+            Guest
+                Tasks: Fobiddance, Minor (-1, guest may not cause harm (physical or otherwise) to anyone who lives, stays, or works in the hotel)
+                Boons: Adroitness (+1, guest gains Stealth)
+                Sanction: Poisoning of Boon (-1, Adroitness); Curse, Minor (-1)
+            Duration: Moon (+2)
+            Invocation: 1 Willpower
+        Discreet Landlord (Lost)                                                        #908
+            "Discreation is the better part of valour, and your stay here will be treated with the utmost discretion.  While the moon turns, I vow to reveal no more about your stay than we agree upon and all I ask in return is you bring no harm of any kind upon those who live, stay, or work in the hotel.  May my tongue be quick to aid me, and may you hide all the better.  If we break our words, may our boons sour upon us."
+            Type: Vow
+            Landlord
+                Tasks: Forbiddance, Medial (-2, changeling may not speak more than is agreed upon about his guest)
+                Boons: Adroitness (+1, changeling gains Subterfuge)
+                Sanction: Poisoning of Boon (-1, Adroitness)
+            Guest
+                Tasks: Fobiddance, Minor (-1, guest may not cause harm (physical or otherwise) to anyone who lives, stays, or works in the hotel)
+                Boons: Adroitness (+1, guest gains Stealth)
+                Sanction: Poisoning of Boon (-1, Adroitness); Curse, Minor (-1)
+            Duration: Moon (+2)
+            Invocation: 1 Willpower
+        The Truthspeaker's Pledge
+            "I swear that I shall answer the questions put to me regarding [scope agreed] completely and unsullied by deception, else let my liar's tongue be stilled."
+            Type: Vow
+            Tasks: Endeavour (-1, The Questioned to tell the complete truth); Forbiddance (-1, The Questioned not to deceive); Forbiddance (-1, The Questioner not to exceed the scope agreed)
+            Boons: Blessing (+3, The Questioned gets Emotional Detachment, Trained Memory, Trained Observer 1); Adroitness (+1, The Questioner gets +1 Investigation)
+            Sanction: Flaw (-2, mute); Curse (-1)
+            Duration: One Day (+1)
+            Invocation: 1 Willpower (both)
+
+Morality:   Lost    Gained
+    10      
+     9      
+     8      
+     7      1
+     6  *   
+     5      
+     4      
+     3      
+     2      
+     1      
+
+Other:
+    Virtue: Fortitude
+    Vice: Lust
+    Flaw: 
+    
+    Seeming Blessing - 9-again on Stealth, spend Glamour 1-for-1 to increase pools with Wits, Subterfuge, or Stealth.
+    Seeming Curse - -1 to all contracts when the sun is in the sky, -2 if the sun is visible
+    Kith Blessing - Spend 1gl, cause 1L damage to touched target and heal 1L or 1B, or turn 1A into 1L.  Wyrd (4) times per scene.
+    Mantle Bonus:
+        1 - +1 Socialise
+        3 - Half cost Allies and Contacts
+        5 - 
+    
+    Health: Size(5) + Stamina(3) = 8
+    |  |  |  |  |  |  |  |  |
+    Wound:          -1 -2 -3
+    
+    Willpower: Resolve(3) + Composure(3) - Freedhold Oath (1) = 5
+    |  |  |  |  |  ||  |
+    
+    Glamour = Max 13, 4 / turn
+    |  |  |  |  |  |  |  |  |  |  |
+    |  |  |  |
+     
+    Size: 5
+    Defence: Min(Dexterity(4),Wits(4)) = 4
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(4) + Composure(3) + FR(0) = 7
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(3) + Dexterity(4) + FoF(0) = 12
+
+Approvals:
+    Return of retired character to play         #Lo322/#602
+
+Notes:
+    Dreams spun:
+        Jun ~ 1 dreams - potency 4
+        Jul ~ 4 dreams - potency 5, 3, 5, 2
+        Oct ~ x dreams - potency 
+        Nov ~ 2 dreams - potency 4, 3 ,
+        Dec ~ 3 dreams - potency 5, 3, 5
+        Jan ~ x dreams - potency 
+        Total   10              4x5, 2x4, 3x3, 1x2
+        For Andy Greig
+
+        Oct ~ x dreams - potency 
+        Nov ~ 3 dreams - potency 4, 4, 5
+        Dec ~ 3 dreams - potency 5, 4, 4
+        Jan ~ 2 dreams - potency 2, 3
+        Total   8               2x5, 4x4, 1x3, 1x2
+        For Mairi White
+
+        Spare: 6, 7
+
+--- BACKGROUND ---
+1985/08/12 - Gareth Taylor is born to Harry and Margaret Taylor.
+1995/03/14 - Margaret Taylor leaves Harry, and goes off with another man to get married.
+1999/09/04 - Harry Taylor marries Elizabeth Francis.
+2001/01/25 - Thomas Taylor is born.
+2001/11/02 - Elizabeth dies.  Harry begins to drink heavily.
+2006/05/18 - Gareth is abducted, and Gareth left in his place.
+
+2008/12/14 - Gareth returns from the Hedge.  Now read on...
+
+--- KNOWN BIOGRAPHY ---
+* Name - Gareth Taylor
+    * Known as - Gareth, Griff
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Dexterity 2)                0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Manipulation 2)             0       0       0
+Creation        Attribute (Manipulation 3)             0       0       0
+Creation        Attribute (Presence 2)                 0       0       0
+Creation        Attribute (Resolve 2)                  0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Strength 2)                 0       0       0
+Creation        Attribute (Wits 2)                     0       0       0
+Creation        Attribute (Wits 3)                     0       0       0
+Creation        Attribute (Wits 4)                     0       0       0
+Creation        Merit (Barfly 1)                       0       0       0
+Creation        Merit (Wyrd 2)                         0       0       0
+Creation        Merit (Wyrd 3)                         0       0       0
+Creation        Skill (Academics 1)                    0       0       0
+Creation        Skill (Academics 2)                    0       0       0
+Creation        Skill (Athletics 1)                    0       0       0
+Creation        Skill (Brawl (Touching))               0       0       0
+Creation        Skill (Brawl 1)                        0       0       0
+Creation        Skill (Brawl 2)                        0       0       0
+Creation        Skill (Empathy (Indulgence))           0       0       0
+Creation        Skill (Empathy 1)                      0       0       0
+Creation        Skill (Empathy 2)                      0       0       0
+Creation        Skill (Empathy 3)                      0       0       0
+Creation        Skill (Expression 1)                   0       0       0
+Creation        Skill (Expression 2)                   0       0       0
+Creation        Skill (Medicine 1)                     0       0       0
+Creation        Skill (Medicine 2)                     0       0       0
+Creation        Skill (Persuasion (Indulgence))        0       0       0
+Creation        Skill (Persuasion 1)                   0       0       0
+Creation        Skill (Politics (Bribery))             0       0       0
+Creation        Skill (Politics 1)                     0       0       0
+Creation        Skill (Politics 2)                     0       0       0
+Creation        Skill (Politics 3)                     0       0       0
+Creation        Skill (Socialise 1)                    0       0       0
+Creation        Skill (Socialise 2)                    0       0       0
+Creation        Skill (Socialise 3)                    0       0       0
+Creation        Skill (Subterfuge 1)                   0       0       0
+Creation        Skill (Subterfuge 2)                   0       0       0
+Creation        Skill (Survival 1)                     0       0       0
+Creation        Contract (Darkness 1)                  0       0       0
+Creation        Contract (Darkness 2)                  0       0       0
+Creation        Contract (Separation 1)                0       0       0
+Creation        Contract (Separation 2)                0       0       0
+Creation        Contract (Vainglory 1)                 0       0       0
+MC              MC (8)                              +270     270     270
+MC              Attribute (Composure 3)             - 15     255     270
+MC              Attribute (Intelligence 3)          - 15     240     270
+MC              Attribute (Presence 3)              - 15     125     270
+MC              Attribute (Resolve 3)               - 15     210     270
+MC              Contract (Den 1)                    -  6     204     270
+MC              Contract (Dream 1)                  -  4     200     270
+MC              Contract (Dream 2)                  -  8     192     270
+MC              Contract (Dream 3)                  - 12     180     270
+MC              Contract (Dream 4)                  - 16     164     270
+MC              Contract (Hearth 1)                 -  4     160     270
+MC              Contract (Vainglory 2)              - 12     148     270
+MC              Contract (Wild 1)                   -  6     142     270
+MC              Merit (Emotional Detachment 1)      -  2     140     270
+MC              Merit (Ingratiating Wander 2)       -  4     136     270
+MC              Merit (Meditative Mind 1)           -  2     134     270
+MC              Merit (Natural Immunity 1)          -  2     132     270
+MC              Merit (Prophet Circle 1)            -  2     130     270
+MC              Merit (Prophet Circle 2)            -  4     126     270
+MC              Merit (Resources 1)                 -  2     124     270
+MC              Merit (Resources 2)                 -  4     120     270
+MC              Merit (Visionary Dreams 2)          -  4     116     270
+MC              Merit (Wisdom of Dreams 3)          -  6     110     270
+MC              Merit (Harvest (Emotion) 1)         -  2     108     270
+MC              Merit (Harvest (Emotion) 2)         -  4     104     270
+MC              Merit (Harvest (Dreaming) 1)        -  2     102     270
+MC              Merit (Harvest (Dreaming) 2)        -  4      98     270
+MC              Merit (Harvest (Dreaming) 3)        -  6      92     270
+MC              Merit (Hollow (Amenities) 1)        -  2      90     270
+MC              Merit (Hollow (Size) 1)             -  2      88     270
+MC              Merit (Hollow (Wards) 1)            -  2      86     270
+MC              Merit (Hollow (Wards) 2)            -  4      82     270
+MC              Skill (Computer 1)                  -  3      79     270
+MC              Skill (Craft 1)                     -  3      76     270
+MC              Skill (Investigation 1)             -  3      73     270
+MC              Skill (Occult 1)                    -  3      70     270
+MC              Skill (Occult 2)                    -  6      64     270
+MC              Skill (Occult 3)                    -  9      55     270
+MC              Skill (Science 1)                   -  3      52     270
+MC              Skill (Brawl 3)                     -  9      43     270
+MC              Skill (Brawl 4)                     - 12      31     270
+MC              Skill (Larceny 1)                   -  3      28     270
+MC              Skill (Empathy 4)                   - 12      16     270
+MC              Skill (Empathy (Oneiromancy))       -  3      13     270
+MC              Skill (Intimidation 1)              -  3      10     270
+MC              Skill (Persuasion 2)                -  6       4     270
+MC              Skill (Streetwise 1)                -  3       1     270
+2008/12/14      Game (Inverness Lost)               +  4       5     274
+2008/12/14      Other (Bonus XP)                    +  1       6     275
+2009/01/11      Game (Inverness Lost)               +  4      10     279
+2009/01/11      Other (Bonus XP)                    +  1      11     280
+2009/02/08      Game (Inverness Lost)               +  4      15     284
+2009/03/08      Game (Inverness Lost)               +  4      19     288
+2009/04/06      MC (9)                              + 60      79     348
+2009/04/12      Game (Inverness Lost)               +  4      83     352
+2009/05/10      Game (Inverness Lost)               +  4      87     356
+2009/05/22      MC (1)                              + 40     127     396
+2009/05/31      Game (UK National 2009)             +  2     129     398
+2009/05/31      Overcap (National)                  +  6     135     404
+2009/06/14      Merit (Mantle (Spring) 1)           -  0     135     404
+2009/07/14      Attribute (Dexterity 3)             - 15     120     404
+2009/07/14      Attribute (Stamina 3)               - 15     105     404
+2009/07/14      Attribute (Strength 3)              - 15      90     404
+2009/07/14      Contract (Darkness 3)               - 12      78     404
+2009/07/14      Contract (Den 2)                    - 12      66     404
+2009/07/14      Contract (Eternal Spring 1)         -  4      62     404
+2009/07/14      Contract (Eternal Spring 2)         -  8      54     404
+2009/07/14      Contract (Fleeting Spring 1)        -  4      50     404
+2009/07/14      Contract (Fleeting Spring 2)        -  8      42     404
+2009/07/14      Contract (Hours 1)                  -  4      38     404
+2009/07/14      Contract (Hours 2)                  -  8      30     404
+2009/07/14      Contract (Vainglory 3)              - 18      12     404
+2009/07/14      Contract (Wild 2)                   - 12       0     404
+2009/08/09      Downtime (July)                     +  2       2     406
+2009/08/09      Game (Inverness Lost)               +  4       6     410
+2009/09/08      MC (10)                             + 20      26     430
+2009/09/18      Downtime (August)                   +  2      28     432
+2009/09/18      Skill (Stealth 1)                   -  3      25     432
+2009/09/19      Game (Southern Regional 2009)       +  4      29     436
+2009/09/20      Game (Southern Regional 2009)       +  2      31     438
+2009/09/20      Overcap (Southern)                  +  4      35     442
+2009/09/22      Game (Inverness Lost)               +  2      37     444
+2009/09/23      Attribute (Dexterity 4)             - 20      17     444
+2009/09/23      Contract (Verdant Spring 1)         -  4      13     444
+2009/09/23      Downtime (September)                +  2      15     446
+2009/09/23      Merit (Bureaucratic Navigator)      -  4      11     446
+2009/09/23      Skill (Animal Ken 1)                -  3       8     446
+2009/09/23      Skill (Stealth 2)                   -  6       2     446
+2009/10/10      Downtime (ST aid)                   +  2       4     448
+2009/10/11      Game (Inverness Lost)               +  4       8     452
+2009/10/17      Downtime (October)                  +  2      10     454
+2009/10/17      Merit (Mantle (Spring) 2)           -  4       6     454
+2009/12/13      Game (Inverness Lost)               +  4      10     458
+2009/11/27      Game (Scottish Regional)            +  4      14     462
+2009/11/27      Overcap (Scottish Regional)         +  4      18     466
+2010/01/07      MC (11)                             + 20      38     486
+2010/01/08      Downtime (January)                  +  2      40     488
+2010/01/08      Power Stat (Wyrd 4)                 - 32       8     488
+2010/01/10      Game (Inverness Lost)               +  4      12     492
+2010/02/04      Contract (Hours 3)                  - 12       0     492
+2010/02/04      Downtime (February)                 +  2       2     494
+2010/02/14      Game (Inverness Lost)               +  4       6     498
+2010/03/14      Game (Inverness Lost)               +  4      10     502
+2010/04/11      Game (Inverness Lost)               +  4      14     506
+2010/04/14      MC (12)                             + 60      74     566
+2010/05/26      Merit (Soul Sense 2)                -  4      70     566
+2010/08/04      MC (13)                             + 20      90     586
+
+2010/12/12      Contract (Den 3)                    - 18      72     586
+2010/12/12      Contract (Dream 5)                  - 20      52     586
+2010/12/12      Contract (Hours 4)                  - 16      36     586
+2010/12/12      Contract (Hours 5)                  - 20      16     586
+2010/12/12      Merit (FS: Social Manoeuvres 1)     -  2      14     586
+2010/12/12      Merit (Mantle (Spring) 3)           -  6       8     586
+2010/12/12      Merit (Mantle (Spring) 4)           -  8       0     586
+2010/12/28      Good Death XP (Perry Hound  #604)   +  6       6     592
+2010/12/28      Merit (Prophet Circle 3)            -  6       0     592
+2011/01/09      Downtime (January)                  +  2       2     594
+2011/01/09      Game (Inverness Lost)               +  4       6     598
+2011/02/01      MC (14)                             + 20      26     618
+2011/02/06      Downtime (February)                 +  2      28     620
+2011/02/06      Game (Inverness Lost)               +  4      32     624
+2011/03/07      Merit (Hollow FR (Size) 1)          -  2      30     624
+2011/03/07      Merit (Hollow FR (Size) 2)          -  4      26     624
+2011/03/07      Merit (Hollow FR (Workshop) 1)      -  2      24     624
+2011/03/07      Merit (Staff (FR) 1)                -  2      22     624
+2011/03/07      Merit (Staff (FR) 2)                -  4      18     624
+2011/03/07      Skill (Persuasion 3)                -  9       9     624
+2011/03/13      Downtime (March)                    +  2      11     626
+2011/03/17      Game (Inverness Lost)               +  4      15     630
+2011/03/17      Other (Bonus XP)                    +  1      16     631
+2011/04/01      Downtime (April)                    +  2      18     633
+2011/04/03      Game (Inverness Lost)               +  4      22     637
+2011/05/10      Downtime (May)                      +  2      24     639
+2011/06/03      Downtime (June)                     +  2      26     641
+2011/06/30      Downtime (July)                     +  2      28     643
+2011/07/03      Game (Inverness Lost)               +  4      32     647
+2011/07/10      Game (July National - Sunday)       +  2      34     649
+2011/07/10      Overcap (July National 2011)        +  6      40     655
+2011/09/04      Game (Inverness Lost)               +  4      44     659
+2011/09/21      Downtime (October)                  +  2      46     661
+2011/11/02      Contract (Elements (Air) 1)         -  6      40     661
+2011/11/29      Merit (Kiss of Life 3)              -  6      34     661
+2011/12/01      Downtime (December)                 +  2      46     663
+2011/12/30      Game (Essex Lost)                   +  4      40     667
+2012/01/08      Merit (Lethal Mien 2)               -  4      36     667
+2012/01/08      Merit (Harvest (Emotions) 3)        -  6      30     667
+2012/01/08      Merit (Resources 3)                 -  6      24     667
+2012/01/08      Merit (Glamour Thief 4)             -  8      16     667
+2012/01/15      Downtime (January)                  +  2      18     669
+2012/01/15      Game (Inverness Lost)               +  4      22     673
+2012/05/14      Downtime (May)                      +  2      24     675
+2012/07/22      Game (Inverness Lost)               +  4      28     679
+2012/07/31      Merit (FS: Boxing 1)                -  2      26     679
+2012/07/31      Merit (FS: Boxing 2)                -  4      22     679
+2012/07/31      Merit (Hallow FR (Amenities) 1)     -  2      20     679
+2012/07/31      Merit (Hallow FR (Doors) 1)         -  2      18     679
+2012/07/31      Merit (Hallow FR (Wards) 1)         -  2      16     679
+2012/07/31      Merit (Harvest (Pledges) 1)         -  2      14     679
+2012/07/31      Skill (Academics (Accounting))      -  3      11     679
+2012/07/31      Skill (Academics 3)                 -  9       2     679
+2012/07/31      Downtime (August)                   +  2       4     681
+2012/11/17  Game (Cambridge FGotM - Birmingham)     +  4       8     685
+2012/11/17  Overcap (Cambridge FGotM)               +  3      11     688
+2013/04/07  Game (Inverness Lost)                   +  4      15     692
+
+To buy:
+                Attribute (Composure 4)             - 20
+                Attribute (Manipulation 4)          - 20
+                Contract (Fleeting Winter 1)        -  6
+                Merit (Dual Kith 5)                 - 10
+                Merit (FS: Boxing 3)                -  6
+                Merit (FS: Boxing 4)                -  8
+                Merit (FS: Boxing 5)                - 10
+                Merit (FS: Social Manoeuvres 2)     -  4
+                Merit (FS: Social Manoeuvres 3)     -  6
+                Merit (FS: Social Manoeuvres 4)     -  8
+                Merit (Harvest (Dreaming) 4)        -  8
+                Merit (Harvest (Dreaming) 5)        - 10
+                Merit (Harvest (Emotions) 4)        -  8
+                Merit (Harvest (Emotions) 5)        - 10
+                Merit (Harvest (Pledges) 2)         -  4
+                Merit (Harvest (Pledges) 3)         -  6
+                Merit (Harvest (Pledges) 4)         -  8
+                Merit (Harvest (Pledges) 5)         - 10
+                Merit (Mantle (Spring) 5)           - 10
+                Merit (Prophet Circle 4)            -  8
+                Merit (Prophet Circle 5)            - 10
+                Merit (Resources 4)                 -  8
+                Power Stat (Wyrd 5)                 - 40
+                Power Stat (Wyrd 6)                 - 48
+                Power Stat (Wyrd 7)                 - 56
+                Skill (Academics 4)                 - 12
+                Skill (Persuasion 4)                - 12
+                Skill (Politics 4)                  - 12

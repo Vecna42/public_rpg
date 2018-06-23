@@ -1,0 +1,296 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705
+VST - "Laurence Shaw" <inverness.vst@googlemail.com>, Inverness Lost
+
+Name: Eli Crowfoot
+DoB: 0000/00/00 (00)    DoC: 0000/00/00 (00)    DoR: 0000/00/00 (00)
+Concept - Guilt ridden Winter Sell-sword
+
+Seeming: Wizened    Kith: Soldier
+Court: Winter       Entitlement: N/A
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (5):          ¦Social (3):
+        Intelligence    2   ¦   Strength        2   ¦   Presence            1*
+        Wits            4   ¦   Dexterity       5   ¦   Manipulation        2
+        Resolve         2   ¦   Stamina         2   ¦   Composure           3
+
+Skills:
+    Mental (4):             ¦Physical (11):         ¦Social (7): (-2 untrained)
+        Academics       0   ¦   Athletics       2   ¦   Animal Ken          0
+                            ¦       Pacing          ¦                       
+        Computer        1   ¦   Brawl           1   ¦   Empathy             1
+        Crafts          0   ¦   Drive           0   ¦   Expression          3
+        Investigation   3   ¦   Firearms        0   ¦   Intimidate          2
+        Medicine        1   ¦   Larceny         1   ¦   Persuasion          0
+            First Aid       ¦                       ¦                       
+        Occult          0   ¦   Stealth         2   ¦   Socialise           1
+        Politics        2   ¦   Survival        4   ¦   Streetwise          0
+                            ¦       Trekking        ¦                       
+        Science         0   ¦   Weaponry        4   ¦   Subterfuge          1
+                            ¦       Improvised      ¦                       
+Merits:
+    Power Stat (Wyrd)                       3
+    Mantle (Winter) (• to •••••)            2
+
+                                                Shared  Pool
+    Arcadian Body (••••) (CO)      RoS p87  4
+    Arcadian Metabolism (••••)     RoS p87  4
+    Fast Reflexes (• or ••)                 2
+    Fighting Finesse (Knives) (••)          2
+    Fighting Finesse (Rapier) (••)          2
+    Fleet of Foot (• to •••)                3
+    Harvest {Emotion} (• to •••••)          1
+    Harvest {Goblin Fruit} (• to •••••)     2
+    Ingratiating Wanderer (••)     MR  p58  2
+    Outdoorsman (•••)              MR  p??  3
+    Perfect Stillness (•)          RoS p94  1
+    Quick Draw (Melee) (•)                  1
+    Resources (• to •••••)                  1
+
+Contracts:                              Dots    Cost    Pool
+    Dream (A)                           0
+        Pathfinder                              1gl      5  Inte + Wyrd
+    Eternal Winter (C)                  3
+        Jack's Breath                           1gl      7  Surv + Spec + Wyrd
+        Touch of Winter                         1gl      7  Inte + Wyrd + Mant
+        Riding the Devil's Jawbone              2gl      9  Dext + Stea + Mant
+    Smoke (A)                           2
+        The Wrong Foot                          1gl     N/A
+        Nevertread                              1gl      5  Inte + Wyrd
+    Thorns and Brambles (A)             1
+        Bite of the Wooden Fang                 1gl      8  Dext + Wyrd
+    Wild                        RS p111 3
+        Wildwalker                              1gl      1  Pers + Spec + Wyrd
+        Nature's Curse                          1gl      5  Inti + Spec + Wyrd
+        Viridian Embrace                        2gl      6  Expr + Spec + Wyrd
+
+Tokens:
+    
+
+Pledges:
+    Vows (3 + Wyrd):
+        1.  
+        2.  
+        3.  
+        4.  
+        5.  
+        6.  
+    Oaths:
+        True name, obscured - N/A
+        True name, unsullied - 
+        Name of Keeper - 
+        Name of Higher Power - 
+    Corporal:
+        Mortal Emblem - 
+        Seeming Emblem - 
+        Courtly Emblem - 
+        Title Emblem - 
+        Nemesis Pledge - 
+        Entitlement Emblem - N/A
+
+Morality:   Lost    Gained
+    10      
+     9      
+     8      
+     7      2
+     6      
+     5  *   
+     4      
+     3      
+     2      
+     1      
+
+Equipment:  Size    Dur Bonus   Other
+    Rapier  2/L     3   2(L)    +2 Defence against melee
+
+Other:
+    Virtue: Hope
+    Vice: Wrath
+    
+    Seeming Blessing - Spend 1Gl for 9-again on Dex.  Spend 1Gl to add Wyrd to Dodge.
+    Seeming Curse - No 10-again on Presence, and -2 untrained to social Skills.
+    Kith Blessing - Automatic speciality in any bladed weapon used.
+    Mantle Bonus:
+        1 - -1 to Wits+Comp to notice the PC
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |-1|
+    |-2|-3|
+    
+    Willpower: Resolve(2) + Composure(3) = 5
+    |  |  |  |  | /|
+    
+    Glamour = Max 12, 3 / turn
+    |  |  |  |  |  |
+    |  |  |  |  |  |
+    |  |  |
+     
+    Size: 5
+    Defence: Min(Dexterity(5),Wits(4)) = 4
+        Defence + Rapier (2)           = 6
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(5) + Composure(3) + FR(2) = 10
+    
+    Acting Speed = 5
+    Speed: 5 + Strength(2) + Dexterity(5) + FoF(3) = 15
+
+Approvals:
+    
+
+Notes:
+    
+
+--- BACKGROUND ---
+=== The Before ===
+
+
+=== The During ===
+
+
+=== The Escape ===
+The Hedge rippled before him, and a gateway opened.  He stumbled through, and looked around as he took in his first long deep breath of real air again.  He frowned, and looked around again.
+
+"Home..."  The word croaked from his lips, half forgotten in the ages that had gone past.
+
+He stumbled along the paving stones, and over the neatly trimmed lawn toward the back door.  This was it, this was his home and he would be reunited with his Gwen.
+
+The back door opened silently, willingly like an accomplice in a break-in.  He walked into the house, and headed automatically for the living room.
+
+And stopped in the doorway.
+
+"Gwen...?"
+
+She looked up at him from the arms of the man she was kissing.  The man who looked like him, who gave a start as he saw him, who 
+
+=== The After ===
+
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Composure 3)                    0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Dexterity 3)                    0       0       0
+Creation    Attribute (Dexterity 4)                    0       0       0
+Creation    Attribute (Dexterity 5)                    0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Stamina 2)                      0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Attribute (Wits 3)                         0       0       0
+Creation    Attribute (Wits 4)                         0       0       0
+Creation    Contract (Eternal Winter 3)                0       0       0
+Creation    Contract (Eternal Winter 3)                0       0       0
+Creation    Contract (Eternal Winter 3)                0       0       0
+Creation    Contract (Wild 2)                          0       0       0
+Creation    Contract (Wild 2)                          0       0       0
+Creation    Merit (Arcadian Body 4)                    0       0       0
+Creation    Merit (Arcadian Body 4)                    0       0       0
+Creation    Merit (Arcadian Body 4)                    0       0       0
+Creation    Merit (Arcadian Body 4)                    0       0       0
+Creation    Merit (Wyrd 2)                             0       0       0
+Creation    Merit (Wyrd 2)                             0       0       0
+Creation    Merit (Wyrd 2)                             0       0       0
+Creation    Skill (Athletics (Pacing)) - Free          0       0       0
+Creation    Skill (Athletics 2)                        0       0       0
+Creation    Skill (Athletics 2)                        0       0       0
+Creation    Skill (Brawl 1)                            0       0       0
+Creation    Skill (Computer 1)                         0       0       0
+Creation    Skill (Empathy 1)                          0       0       0
+Creation    Skill (Expression 1)                       0       0       0
+Creation    Skill (Expression 2)                       0       0       0
+Creation    Skill (Expression 3)                       0       0       0
+Creation    Skill (Intimidate 1)                       0       0       0
+Creation    Skill (Investigation 1)                    0       0       0
+Creation    Skill (Larceny 1)                          0       0       0
+Creation    Skill (Medicine (First Aid))               0       0       0
+Creation    Skill (Medicine 1)                         0       0       0
+Creation    Skill (Politics 1)                         0       0       0
+Creation    Skill (Socialise 1)                        0       0       0
+Creation    Skill (Stealth 1)                          0       0       0
+Creation    Skill (Stealth 2)                          0       0       0
+Creation    Skill (Subterfuge 3)                       0       0       0
+Creation    Skill (Survival (Trekking))                0       0       0
+Creation    Skill (Survival 1)                         0       0       0
+Creation    Skill (Weaponry (Improvised))              0       0       0
+Creation    Skill (Weaponry 1)                         0       0       0
+Creation    Skill (Weaponry 2)                         0       0       0
+Creation    Skill (Weaponry 3)                         0       0       0
+Creation    Skill (Weaponry 4)                         0       0       0
+MC          MC (1)                                  + 90      90      90
+MC          Attribute (Intelligence 2)              - 10      80      90
+MC          Attribute (Strength 2)                  - 10      70      90
+MC          Contract (Smoke 1)                      -  4      66      90
+MC          Contract (Smoke 2)                      -  8      58      90
+MC          Contract (Wild 3)                       - 18      40      90
+MC          Merit (Arcadian Metabolism 4)           -  8      32      90
+MC          Merit (Fast Reflexes 2)                 -  4      28      90
+MC          Merit (Fighting Finesse (Knives) 2)     -  4      24      90
+MC          Merit (Fighting Finesse (Rapier) 2)     -  4      20      90
+MC          Merit (Fleet of Foot 1)                 -  2      18      90
+MC          Merit (Harvest (Emotion) 1)             -  2      16      90
+MC          Merit (Harvest (Goblin Fruit) 1)        -  2      14      90
+MC          Merit (Ingratiating Wanderer 2)         -  4      10      90
+MC          Merit (Mantle (Winter) 2)               -  4       6      90
+MC          Merit (Perfect Stillness 1)             -  2       4      90
+MC          Merit (Quick Draw (Melee) 1)            -  2       2      90
+MC          Merit (Resources 1)                     -  2       0      90
+2011/07/09  Game (July National - Saturday)         +  4       4      94
+2011/07/10  Overcap (July National 2011)            +  6      10     100
+
+2012/07/08  MC (Half of MC1->6 XP   #2307)          + 90     100     190
+2012/07/18  Contract (Dream 1)                      -  4      96     190
+2012/07/18  Contract (Thorn and Brambles 1)         -  4      92     190
+2012/07/18  Merit (Fleet of Foot 2)                 -  4      88     190
+2012/07/18  Merit (Fleet of Foot 3)                 -  6      82     190
+2012/07/18  Merit (Harvest {Goblin Fruit} 2)        -  4      78     190
+2012/07/18  Merit (Wyrd 3)                          - 24      54     190
+2012/07/18  Skill (Intimidate 2)                    -  6      48     190
+2012/07/18  Skill (Investigation 2)                 -  6      42     190
+2012/07/18  Skill (Investigation 3)                 -  9      33     190
+2012/07/18  Skill (Politics 2)                      -  6      27     190
+2012/07/18  Skill (Survival 2)                      -  6      21     190
+2012/07/18  Skill (Survival 3)                      -  9      12     190
+2012/07/18  Skill (Survival 4)                      - 12       0     190
+2012/08/01  MC (6 - Drip feed)                      + 10      10     200
+2012/08/05  Game (Inverness Lost)                   +  4      14     204
+2012/08/22  Merit (Outdoorsman 3)                   -  6       8     204
+2012/09/??  Downtime (September)                    +  2      10     206
+2012/09/01  MC (6 - Drip feed)                      + 10      20     216
+2012/10/01  MC (6 - Drip feed)                      + 10      30     226
+2012/11/01  MC (6 - Drip feed)                      + 10      40     236
+2012/12/01  MC (6 - Drip feed)                      + 10      50     246
+2013/01/01  MC (6 - Drip feed)                      + 10      60     256
+2013/02/01  MC (6 - Drip feed)                      + 10      70     266
+            Attribute (Manipulation 3)              - 15      55     266
+            Merit (Tolerance for Biology 1)         -  2      53     266
+            Merit (Trained Memory 1)                -  2      51     266
+            Merit (Trained Observer 3)              -  6      45     266
+            Merit (Well-Travelled 1)                -  2      43     266
+            Skill (Expression (Violin))             -  3      40     266
+2013/03/01  MC (6 - Drip feed)                      + 10     
+2013/04/01  MC (6 - Drip feed)                      + 10     
+
+To buy:
+            Contract (Artifice 1)                   -  4     
+            Contract (Artifice 2)                   -  8     
+            Contract (Artifice 3)                   - 12     
+            Contract (Sorrow-Frozen Heart 1)        -  4     
+            Contract (Sorrow-Frozen Heart 2)        -  8     
+            Contract (Sorrow-Frozen Heart 3)        - 12     
+            Contract (Thorn and Brambles 2)         -  8     
+            Contract (Thorn and Brambles 3)         - 12     
+            Contract (Thorn and Brambles 4)         - 16     
+            Contract (Thorn and Brambles 5)         - 20     
+            Merit (Wyrd 4)                          - 32     
+            Merit (Wyrd 5)                          - 40     
+            Skill (Persuasion 1)                    -  3     

@@ -1,0 +1,334 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - 
+VSS - 
+
+Name: Jason Randolph
+    Known as: Dedushka (Unbidden Lord)
+    Known as: Calerandë (Onyx Thane)
+    Known as: Kade (Flowing Page)
+    Known as: Kerem (West Courtier)
+DoB: 1934// ()
+DoC: // ()
+Concept - Unbidden Lord hiding in plain sight
+
+Seeming: Fairest
+    Kith: Flowering
+    Dual: Whisperwhisp
+Court: Winter
+Entitlement: The Order of the Hallowed Garden
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (3):          ¦Social (5):
+        Intelligence    3   ¦   Strength        2   ¦   Presence            2
+        Wits            3   ¦   Dexterity       3   ¦   Manipulation        4
+        Resolve         4   ¦   Stamina         2   ¦   Composure           3
+
+Skills:
+    Mental (7):             ¦Physical (4):          ¦Social (11):
+        Academics       1   ¦   Athletics       1   ¦   Animal Ken          0
+        Computer        1   ¦   Brawl           1   ¦   Empathy             2
+        Crafts          3   ¦   Drive           0   ¦   Expression          2
+            Hedgespinning   ¦                       ¦                       
+        Investigation   3   ¦   Firearms        0   ¦   Intimidate          1
+        Medicine        1   ¦   Larceny         1   ¦   Persuasion          2
+        Occult          3   ¦   Stealth         4   ¦   Socialise           3
+            Winterlaw       ¦       Camouflage      ¦                       
+        Politics        3   ¦   Survival        2   ¦   Streetwise          1
+        Science         3   ¦   Weaponry        1   ¦   Subterfuge          5
+            Forensics       ¦                       ¦       Winter Mantle 3 +1
+                            ¦                       ¦       Disguise        
+                            ¦                       ¦       Lying           
+
+Merits:
+    Power Stat (Wyrd)                       3
+    Mantle (Winter) (• to •••••)            5
+
+                                                Shared  Pool
+    Dual Kith (•••••)                       5
+    Harvest {Dreams}                        1
+    Harvest {Emotion}                       1
+    Harvest {Hedge Fruit}                   1
+    Harvest {Pledges}                       1
+    Hidden Life (• to •••)          RoS p92 3
+    Ingratiating Wanderer (••)       MR p58 2
+    Language (Mourning Cant) (•)            1
+    Language (Russian) (•)                  1
+    Language (Turkish) (•)                  1
+    New Identity (•, •• or •••)    C:tL p98 4
+    Perfect Stillness (•)           RoS p94 1
+    Rigid Mask (••)                 RoS p95 2
+    Wisdom of Dreams (•••)          RoS p97 3            6  Comp + Wits
+
+                                                Shared  Pool
+    Hollow ():
+        Amenities (• to •••••)              0
+        Archive (• to •••••)                0
+        Doors (• to •••••)                  1
+        Size (• to •••••)                   2
+        Wards (• to •••••)                  5
+        Workshop (• to •••••)               1
+            Painting
+
+Contracts:                              Dots    Cost    Pool
+    Eternal Winter (C)                  3
+        Jack's Breath                           1gl      5  Surv + Wyrd
+        Touch of Winter                         1gl     11  Inte + Wyrd + Mant
+        Riding the Devil's Jawbone              2gl     12  Dext + Stea + Mant
+    Fleeting Winter (C)                 2
+        The Dragon Knows                        1gl      6  Empt + Wyrd - Comp
+        Slipknot Dreams                         1gl     14  Mani + Subt + Mant - Reso
+    Goblin Wyrd                 DD p    1
+        Mantle Mask                             1gl      6  Occu + Wyrd
+    Mirror (A)                          2
+        Riddle-Kith                             1gl      7  Mani + Wyrd
+        Skinmask                                1gl      5  Stam + Wyrd
+    Separation (AK)             WM p40  5
+        Tread Lightly                           1gl      6  Dext + Wyrd
+        Evasion of Shackles                     1gl      4  Larc + Spec + Wyrd
+        Breaching Barriers                      1gl      5  Pres + Wyrd
+        Elegant Protection                      2gl      6  Dext + Wyrd
+        Phantom Glory                           2gl+1wp  5  Pers + Spec + Wyrd
+    Smoke (A)                           5
+        The Wrong Foot                          1gl     N/A
+        Nevertread                              1gl      6  Inte + Wyrd
+        Shadowpatch                             1gl      6  Wits + Wyrd
+        Murkblur                                1gl      6  Inte + Wyrd v Reso + Wyrd
+        Lightshy                                1gl+1wp  6  Inte + Wyrd
+    Wild (K)                    RS p111 4
+        Wildwalker                              1gl      5  Pers + Spec + Wyrd
+        Nature's Curse                          1gl      4  Inti + Spec + Wyrd
+        Viridian Embrace                        2gl      5  Expr + Spec + Wyrd
+        Calling Wind and Weather                3gl      5  Pres + Wyrd
+
+Tokens:
+    
+
+Pledges:
+    Vows (3 + Wyrd):
+        1.  Winter Court
+        2.  
+        3.  
+        4.  
+        5.  
+        6.  
+    Oaths:
+        True name, obscured - 
+        True name, unsullied - 
+        Name of Keeper - 
+        Name of Higher Power - 
+    Corporal:
+        Mortal Emblem - 
+        Seeming Emblem - 
+        Courtly Emblem - 
+        Title Emblem - 
+        Nemesis Pledge - 
+
+Morality:   Lost    Gained
+    10      
+     9      
+     8      
+     7      2
+     6      
+     5  *   
+     4      
+     3      
+     2      
+     1      
+
+Other:
+    Virtue: 
+    Vice: 
+    Flaw: 
+    
+    Seeming Blessing - 
+    Seeming Curse - 
+    Kith Blessing - 
+    Dual Blessing - 
+    Mantle Bonus:
+        1 - -1 to Wits+Comp to notice the PC
+        3 - +1 Subterfuge
+        5 - -3 to Wits+Comp to notice the PC (overrides Mantle 1)
+    Entitlement Bonus:
+        For an area (Wyrd * 200) yards or a population (Wyrd * 1,000) people, the changeling pledges to care for it and help it become what they want (such as "artist's haven" or "business district").  This pledge lasts a month, and has the following effects:
+            * Those who are in alignment with the purpose gain +1 environmental bonus to rolls in alignment with the purpose.  If they spend at least a full day there, they must make a weekly Resolve + Composure check to see if they can resist returning to the area for a few hours.
+            * Those who are neutral (not opposed but not supporting) must make a Resolve + Composure check (with a +3) to stay for a number of days equal to successes.  Failure indicates they must spend a WP point at the end of the scene to remain, and make a new roll.
+            * Those who are opposed to the purpose must make the same roll, without the bonus.
+            * Supernatural creatures of any sort gain the +3 to the roll in the second two cases.
+        If the character forsakes the pledge, the area turns against them and the purpose becomes "Make the character's life miserable" for a period of 3 months, with all the above effects.
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |-1|-2|-3|
+    
+    Willpower: Resolve(4) + Composure(3) = 7
+    |  |  |  |  |  |  |  |
+    
+    Glamour = Max 12, 3 / turn
+    |  |  |  |  |  |  |  |  |  |  |  |  |
+     
+    Size: 5
+    Defence: Min(Dexterity(3),Wits(3)) = 3
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(3) + Composure(3) + FR(0) = 6
+    
+    Acting Speed = 5
+    Speed: 5 + Strength(2) + Dexterity(3) + FoF(0) = 10
+
+Approvals:
+    
+
+Notes:
+    
+
+--- BACKGROUND ---
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date        Item                                Cost    Left    Total
+Creation    Attribute (Composure 2)                0       0       0
+Creation    Attribute (Composure 3)                0       0       0
+Creation    Attribute (Dexterity 2)                0       0       0
+Creation    Attribute (Intelligence 2)             0       0       0
+Creation    Attribute (Manipulation 2)             0       0       0
+Creation    Attribute (Manipulation 3)             0       0       0
+Creation    Attribute (Manipulation 4)             0       0       0
+Creation    Attribute (Resolve 2)                  0       0       0
+Creation    Attribute (Resolve 3)                  0       0       0
+Creation    Attribute (Stamina 2)                  0       0       0
+Creation    Attribute (Strength 2)                 0       0       0
+Creation    Attribute (Wits 2)                     0       0       0
+Creation    Contract (Separation 1)                0       0       0
+Creation    Contract (Separation 2)                0       0       0
+Creation    Contract (Separation 3)                0       0       0
+Creation    Contract (Separation 4)                0       0       0
+Creation    Contract (Smoke 1)                     0       0       0
+Creation    Merit (Mantle (Winter) 2)              0       0       0
+Creation    Merit (Wyrd 2)                         0       0       0
+Creation    Merit (Wyrd 2)                         0       0       0
+Creation    Merit (Wyrd 2)                         0       0       0
+Creation    Merit (Wyrd 3)                         0       0       0
+Creation    Merit (Wyrd 3)                         0       0       0
+Creation    Merit (Wyrd 3)                         0       0       0
+Creation    Skill (Academics 1)                    0       0       0
+Creation    Skill (Crafts (Hedgespinning))         0       0       0
+Creation    Skill (Crafts 1)                       0       0       0
+Creation    Skill (Crafts 2)                       0       0       0
+Creation    Skill (Crafts 3)                       0       0       0
+Creation    Skill (Persuasion 1)                   0       0       0
+Creation    Skill (Persuasion 2)                   0       0       0
+Creation    Skill (Science (Forensics))            0       0       0
+Creation    Skill (Science 1)                      0       0       0
+Creation    Skill (Science 2)                      0       0       0
+Creation    Skill (Science 3)                      0       0       0
+Creation    Skill (Socialise 1)                    0       0       0
+Creation    Skill (Socialise 2)                    0       0       0
+Creation    Skill (Socialise 3)                    0       0       0
+Creation    Skill (Stealth (Camouflage)) - Free    0       0       0
+Creation    Skill (Stealth 1)                      0       0       0
+Creation    Skill (Stealth 2)                      0       0       0
+Creation    Skill (Stealth 3)                      0       0       0
+Creation    Skill (Stealth 4)                      0       0       0
+Creation    Skill (Subterfuge (Lying))             0       0       0
+Creation    Skill (Subterfuge 1)                   0       0       0
+Creation    Skill (Subterfuge 2)                   0       0       0
+Creation    Skill (Subterfuge 3)                   0       0       0
+Creation    Skill (Subterfuge 4)                   0       0       0
+Creation    Skill (Subterfuge 5)                   0       0       0
+Creation    Skill (Subterfuge 5)                   0       0       0
+MC          MC (13)                              490     490     490
+MC          Background                          +  5     495     495
+MC          IC Biography                        +  2     497     497
+MC          Attribute (Dexterity 3)             - 15     482     497
+MC          Attribute (Intelligence 3)          - 15     467     497
+MC          Attribute (Presence 2)              - 10     457     497
+MC          Attribute (Resolve 4)               - 20     437     497
+MC          Attribute (Wits 3)                  - 15     422     497
+MC          Contract (Eternal Winter 1)         -  4     418     497
+MC          Contract (Eternal Winter 2)         -  8     410     497
+MC          Contract (Eternal Winter 3)         - 12     398     497
+MC          Contract (Fleeting Winter 1)        -  4     394     497
+MC          Contract (Fleeting Winter 2)        -  8     386     497
+MC          Contract (Goblin Wyrd 1)            -  3     383     497
+MC          Contract (Mirror 1)                 -  4     379     497
+MC          Contract (Mirror 2)                 -  8     371     497
+MC          Contract (Separation 5)             - 20     351     497
+MC          Contract (Smoke 2)                  -  8     343     497
+MC          Contract (Smoke 3)                  - 12     331     497
+MC          Contract (Smoke 4)                  - 16     315     497
+MC          Contract (Smoke 5)                  - 20     295     497
+MC          Contract (Wild 1)                   -  6     289     497
+MC          Contract (Wild 2)                   - 12     277     497
+MC          Contract (Wild 3)                   - 18     259     497
+MC          Contract (Wild 4)                   - 24     235     497
+MC          Merit (Dual Kith)                   - 10     225     497
+MC          Merit (Harvest (Emotions) 1)        -  2     223     497
+MC          Merit (Harvest (Dreams) 1)          -  2     221     497
+MC          Merit (Harvest (Hedge Fruit) 1)     -  2     219     497
+MC          Merit (Harvest (Pledges) 1)         -  2     217     497
+MC          Merit (Hidden Life 1)               -  2     215     497
+MC          Merit (Hidden Life 2)               -  4     211     497
+MC          Merit (Hidden Life 3)               -  6     205     497
+MC          Merit (Hollow (Doors) 1)            -  2     203     497
+MC          Merit (Hollow (Size) 1)             -  2     201     497
+MC          Merit (Hollow (Size) 2)             -  4     197     497
+MC          Merit (Hollow (Wards) 1)            -  2     195     497
+MC          Merit (Hollow (Wards) 2)            -  4     191     497
+MC          Merit (Hollow (Wards) 3)            -  6     185     497
+MC          Merit (Hollow (Wards) 4)            -  8     177     497
+MC          Merit (Hollow (Wards) 5)            - 10     167     497
+MC          Merit (Hollow (Workshop) 1)         -  2     165     497
+MC          Merit (Ingratiating Wanderer 2)     -  4     161     497
+MC          Merit (Language (Mourning Cant) 1)  -  2     159     497
+MC          Merit (Language (Russian) 1)        -  2     157     497
+MC          Merit (Language (Turkish) 1)        -  2     155     497
+MC          Merit (Mantle (Winter) 3)           -  6     149     497
+MC          Merit (Mantle (Winter) 4)           -  8     141     497
+MC          Merit (Mantle (Winter) 5)           - 10     131     497
+MC          Merit (New Identity 4)              -  8     123     497
+MC          Merit (Perfect Stillness 1)         -  2     121     497
+MC          Merit (Rigid Mask 2)                -  4     117     497
+MC          Merit (Wisdom of Dreams 3)          -  6     111     497
+MC          Skill (Athletics 1)                 -  3     108     497
+MC          Skill (Brawl 1)                     -  3     105     497
+MC          Skill (Computer 1)                  -  3     102     497
+MC          Skill (Empathy 1)                   -  3      99     497
+MC          Skill (Empathy 2)                   -  6      93     497
+MC          Skill (Expression 1)                -  3      90     497
+MC          Skill (Expression 2)                -  6      84     497
+MC          Skill (Intimidate 1)                -  3      81     497
+MC          Skill (Investigation 1)             -  3      78     497
+MC          Skill (Investigation 2)             -  6      72     497
+MC          Skill (Investigation 3)             -  9      63     497
+MC          Skill (Larceny 1)                   -  3      60     497
+MC          Skill (Medicine 1)                  -  3      57     497
+MC          Skill (Occult (Winterlaw))          -  3      54     497
+MC          Skill (Occult 1)                    -  3      51     497
+MC          Skill (Occult 2)                    -  6      45     497
+MC          Skill (Occult 3)                    -  9      36     497
+MC          Skill (Politics 1)                  -  3      33     497
+MC          Skill (Politics 2)                  -  6      27     497
+MC          Skill (Politics 3)                  -  9      18     497
+MC          Skill (Streetwise 1)                -  3      15     497
+MC          Skill (Subterfuge (Disguise))       -  3      12     497
+MC          Skill (Survival 1)                  -  3       9     497
+MC          Skill (Survival 2)                  -  6       3     497
+MC          Skill (Weaponry 1)                  -  3       0     497
+
+To buy:
+                Contract (Dream 1)                  -  4
+                Contract (Dream 2)                  -  8
+                Contract (Dream 3)                  - 12
+                Contract (Dream 4)                  - 16
+                Contract (Dream 5)                  - 20
+                Contract (Mirror 3)                 - 12
+                Contract (Mirror 4)                 - 16
+                Contract (Mirror 5)                 - 20
+                Contract (Wild 5)                   - 30
