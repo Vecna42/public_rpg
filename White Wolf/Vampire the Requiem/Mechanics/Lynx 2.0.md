@@ -114,7 +114,9 @@ This power allows the Lynx to attach themselves to a node in a Network, becoming
 **Prerequisite:** Majesty 2
 
 ### UPDATE WHERE
+As the Lynx grows to understand how to control emotions with Majesty, they learn to twist the existing connections of networks around them and to edit the information that flows through nodes.
 
+A clever Lynx can use this power to set off much larger changes in a network: a frayed relationship may lead to a lucrative political clash, or a halt in traffic may keep unwanted pursuers at bay or dangerous reinforcements away.
 
 **Cost:** 1 vitae per connection
 
@@ -128,10 +130,12 @@ This power allows the Lynx to attach themselves to a node in a Network, becoming
 
 **Success:**  All changes listed below last for the remainder of the scene, but any effects wrought by the changed network will endure naturally - e.g. car crashes caused by UPDATE WHERE may lead to very real deaths.
 + _Social networks_: The Lynx can affect the connection between two nodes of a network, shifting the emotional value placed on it by a node at either end.  The Lynx targets a node in one of their Social networks that they can see, and applies an emotion of their choice to any number of their social connections - each connection costs one Vitae to change and the Lynx is limited by their normal round limits for spending Vitae.  The targeted node immediately feels the effect of the new emotion, but does not notice the  shift in emotion as unusual - no more than a victim of Majesty notices until after the fact.
-+ _Spatial networks_: When affecting spatial networks, a Lynx can change the flow of traffic or information through connections by tainting them with an emotion.  Targeting a node in a network that they can see, use of this power is similar to the effects of _Social networks_ - how people perceive the section of network or the information in it is tainted by the emotion.  Ways this can manifest differently to above, though: 'good' flow can be attenuated to 'bad' flow (all the drivers on a stretch of road slow down to cause congestion) or 'bad' flow expanded into 'good' (pedestrians clear a path on a busy pavement).
++ _Spatial networks_: When affecting spatial networks, a Lynx can change the flow of traffic or information through connections by tainting them with an emotion.  Targeting a node in a network that they can see, use of this power is similar to the effects of _Social networks_ - how people perceive the section of network or the information in it is tainted by the emotion.  Ways this can manifest differently to above, though: 'good' flow can be attenuated to 'bad' flow (all the drivers on a stretch of road slow down to cause congestion) or 'bad' flow expanded into 'good' (pedestrians clear a path on a busy pavement).  If used on a more informational connection (such as a computer network) then anyone perceiving the information flowing through the connection views it through the lens of the emotion (e.g. they might find the upset to read any e-mail arriving over their network connection, or angry at anything they witness on the CCTV monitor).
 + _Sympathy networks_: 
+	+ For 'natural' networks, this power allows the Lynx to echo emotions throughout their family and clan.  However, shallower levels of connection require more effort and thus vitae: _Once Removed_ costs nothing extra, but _Twice Removed_ costs an additional vitae (for a total cost of 2 vitae) and each further step costs an additional vitae (for a total of 4 vitae for _Four Times Removed_).
+	+ For 'artificial' networks, this power allows the Lynx to achieve effects similar to _Social networks_ but only targeting a blood bond (either as Thrall or Regnant).
 
-**Exceptional Success:** The effects obtained from an Exceptional Success are more useful for the Lynx's desired aim, and the changes persist for the remainder of the night instead of the scene.
+**Exceptional Success:** The effects obtained from an Exceptional Success are more useful for the Lynx's desired aim, and the changes persist for the remainder of the night instead of the scene.  When used on 'natural' _Sympathy networks_, the effect can be targeted to all members of the network instead for an additional Willpower (this lasts for the scene not the night).
 
 **Prerequisite:** Majesty 2
 
