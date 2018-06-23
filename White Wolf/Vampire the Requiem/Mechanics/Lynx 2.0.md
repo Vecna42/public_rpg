@@ -175,7 +175,9 @@ In addition to the above devotions, the Lynx makes the following alterations or 
 	+ Who does this person hold in Thrall?  _Chains wrapped around the throat of the Thrall_.
 	+ Which network is this person closest to? _The smell of sweat and semen at the swinger's club.  The sound of soft choral music.  The crackling of a ham radio_.
 + _Auspex 3_: Add the following questions:
-	+ 
+	+ Where do most people passing through here go?  _A sense of rushing motion toward an exit_
+
+***
 
 ## The Wider Web
 The following devotions are more specialised or powerful effects that some elder Lynx may develop.  They are, as with the standard Web devotions, restricted to membership in the bloodline - but have higher costs than the above.
