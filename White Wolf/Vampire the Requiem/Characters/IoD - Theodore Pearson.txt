@@ -1,0 +1,419 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705
+VST - "Si Francis" <amsterdam.irc@googlemail.com>, Amsterdam Requiem
+
+Name: Theodore Pearson
+DoB: 1902/08/13
+DoD: 1923/06/11
+Concept: Silver Screen Cult Leader
+
+Clan: Daeva             Bloodline: Asnam    #766
+Covenant: Carthian      Clique: Night Doctor        Faction: Individualist
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (3):          ¦Social (5):
+        Intelligence    3   ¦   Strength        2   ¦   Presence            4+
+                            ¦       Vigour      1   ¦                       
+        Wits            2   ¦    Dexterity      3   ¦    Manipulation       4+
+        Resolve         3   ¦   Stamina         2   ¦   Composure           3
+                            ¦       Resilience  1   ¦                       
+
+Skills:
+    Mental (7):             ¦Physical (4):          ¦Social (11):
+        Academics       1   ¦   Athletics       0   ¦   Animal Ken          0
+        Computer        1   ¦   Brawl           0   ¦   Empathy             4*%
+        Craft           3   ¦   Drive           0   ¦   Expression          2*
+        Investigation   0   ¦   Firearms        0   ¦   Intimidate          3
+        Medicine        4*  ¦   Larceny         1   ¦   Persuasion          4*%
+            Plastic Surgery ¦                       ¦                       
+        Occult          3   ¦   Stealth         0   ¦   Socialise           4%
+            Thantology      ¦                       ¦                       
+        Politics        1   ¦   Survival        1   ¦   Streetwise          2
+            Avoiding        ¦                       ¦                       
+            Theocracy       ¦                       ¦                       
+        Science         3   ¦   Weaponry        3   ¦   Subterfuge          3
+            Biology         ¦                       ¦                       
+
++ - Bonus from SL4  * - 9-again on mundane pools    % - Capped by Humanity for mortals
+
+Merits:
+    Blood Potency                           2
+    Status (Daeva)                          2
+    Status (Carthian)                       3
+    Status (Amsterdam)                      3
+
+                                                Shared  Pool
+    Allies (Blood Cult) (• to •••••)        5
+    Allies (Celebrities) (• to •••••)       2
+    Allies (Charities) (• to •••••)         1
+    Allies (Medical) (• to •••••)           3
+    Carthian Pull (• to •••••)  Carthi p181 1
+    Common Sense (•) (CO)                   1
+    Contacts (• to •••••)                   1
+        Medical
+    Debate Club (•)             Carthi p182 1
+    Doll Face (•)               Mekhet p118 1
+    Emotional Detachment (•)    Asylum p50  1
+    Encounter Group (•)         Carthi p182 1
+    Fame (Plastic Surgeon) (• to •••)       1
+    Fighting Finesse (••)                   2
+    Herd (• to •••••)                       5
+    Holistic Awareness (•••)                3
+    Inspiring (••••)                        4
+    Lab Section (•)             Carthi p182 1
+    Language (Dutch) (•)                    1
+    Language (French) (•)                   1
+    Language (German) (•)                   1
+    Language (Italian) (•)                  1
+    Language (Spanish) (•)                  1
+    New ID (Francis) (•, •• or ••••)        4           #1715
+    New ID (Theo) (•, •• or ••••)  C:tL p98 4           #765
+    Night Doctor Surgery (•••) Carthi p183  3
+    Resources (• to •••••)                  3
+    Retainer (B) (• to •••••)               1
+    Site (Surgery) (• to •••••) DamnCi p202 2
+    Staff (• to •••••)          Ghouls p74  3
+        Accountants
+        Medical
+        Security
+    Status (Medical) (• to •••••)           2
+    Striking Looks (•• or ••••)             4
+    Theatre Society (•)         Carthi p182 1
+    Tolerance for Biology (•)   Asylum p51  1
+
+                                                Shared  Pool
+    Haven ():
+        Location                            3
+        Security                            3
+        Size                                3
+
+Disciplines:            Dots    Cost    Pool
+    Auspex              4
+        {Clash of Wills         N/A     __  Wits + Inve + Spec + Ausp vs Reso + Stea + Obfu}
+        Heightened Senses       N/A     N/A
+        Aura Perception         N/A     __  Inte + Empa + Spec + Ausp - Comp - Occu
+    
+    Celerity            1       1vt/turn
+    
+    Majesty             5
+        Awe                     N/A     13  Pres + Expr + Spec + Maje + SL
+        Revelations             1vt     15  Mani + Pers + Spec + Maje + SL v Comp + BP
+        Entrancement            N/A     15  Mani + Empt + Spec + Maje + SL v Comp + BP
+  #767  Baring the Bone Gate (A)1wp     15  Pres + Pers + Spec + Maje + SL - Reso
+        Sovereignty             1wp     14  Pres + Inti + Spec + Maje + SL v Comp + BP
+    
+    Obfuscate           2
+        Touch of Shadow         N/A      5  Wits + Larc + Spec + Obfu + Occu
+        Mask of Tranquillity    N/A    N/A
+    
+    Ralab               5
+        Pact of Allure          1vt    N/A  (+Striking Looks extension)
+        Haven of Flesh          1vt    N/A
+        The Infinite Chalice    1wp     10  Stre + Occu + Spec + Rala - Stam
+        Of Will Undivided       1vt     12  Mani + Occu + Spec + Rala - Reso
+        Unholy Avatar           1wpd+5v 12  Pres + Occu + Spec + Rala v Reso + Comp
+    
+    Resilience          1       1vt/scene
+    
+    Vigour              1       1vt/scene
+
+Devotions:                      XP
+    Chains of the Spirit        9
+        (Majesty *, Obfuscate **)
+        Cost: 1v/scene
+        Draw Pool: 7  Pres + Surv + Obfu - Comp
+        Action: Instant
+        No Predator's Taint, and all vampires within BP (2) yards gain successes in bonus dice to resisting frenzy and can't ride the wave.  The caster gains an aura of blessedness, with the impression she possesses an obvious spark of the divine.  This is perceived differently by each vampire: one may see that she has faintly glowing eyes, another may witness a halo around her head like sun glare.
+
+Morality:   Lost    Gained  Derangements
+    10      
+    9       
+    8       Malkavia - Delusional Mania
+    7       
+    6       
+    5       
+    4       
+    3       
+    2   *   
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+    Sword Cane  2/L     3   2(L/B)  N/A     Bashing damage when sheathed
+
+Other:
+    Virtue: Faith
+    Vice: Envy
+    
+    Health: Size(5) + Stamina(2) + Resilience(1) = 8
+    |  |  |  |  |  |
+    |-1|-2|-3|
+    
+    Willpower: Resolve(3) + Composure(3) - Unholy Avatar (1) = 5
+    |/ |/ |/ |/ |/ |
+    
+    Vitae = Max 11, 1 / turn
+    | S|  |  |/H|/ |
+    |/ |/ |/ |/ |/ |
+    |/ |
+
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(3)) = 2
+        Defence (2) + Celerity (1) = 3
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(3) + Composure(3) + FR(0) = 6
+        Initiative (6) + Celerity (1) = 7
+    
+    Acting Speed = 5
+        Acting(5) + Celerity(1) = 6
+    
+    Speed: 5 + Strength(2) + Dexterity(3) + FoF(0) = 10
+        Speed(10) + Celerity(1)                      22
+
+Approvals:
+    
+
+Notes:
+    Brahman (priests)
+    Kshatriyas (warriors)
+    Vaishyas (traders)
+    Shudras (workmen)
+    Panchama (untouchables)
+
+--- BACKGROUND ---
+Born at the turn of the century, the mortal who would become Dr Theodore Pearson, was captured in mind by the rise of that most modern of phenomena, the Silver Screen. Entranced by those figures he wished he could be: Gable, Grant, Valentino, Sinatra. Mesmerised by their counterparts who stood beside them: Garland, Hepburn, Hayworth, Davis.
+
+The cult of celebrity that sprung up around them fascinated him in ways he could not fully explain and thus it perhaps came as no surprise to his sire, that ever effervescent of kindred Father Gabriel Montoya, that when he was brought into his new Requiem he at once began to surround himself with those who would adore him for his looks, his charm, his wit, his Majesty.
+
+As he matured and his vitae aged like fine wine, his cult strengthened with the bonds of blood, he set out to make for himself a new name. A name that those very mortals he had once worshipped would come to worship instead. He opened his first surgery in the early 2000s, and didn't look back for almost ten years. When his thoughts turned once more to Europe and his home...
+
+1900-1949:
+
+- 1902 ~ Born.
+
+- 1923 ~ Embraced.
+
+- 194?/5? ~ Joined the Carthian Movement.
+
+1950-1999:
+
+- 1953 ~ Bloodline blossoms to the fore.
+
+- 196
+
+- 196?/7? ~ Joined the Night Doctors.
+
+- 1985 ~ Left for Mexico.
+
+2000-2049: 
+
+- 2001 ~ Returned from Mexico, and moved to Los Angeles where he set up his first plastic surgery clinic.
+
+- 2011 ~ Moved to Amsterdam, following the completion of his new clinic.
+
+--- KNOWN BIOGRAPHY ---
+* Name - Dr Theodore Pearson
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Dexterity 3)                    0       0       0
+Creation    Attribute (Intelligence 2)                 0       0       0
+Creation    Attribute (Intelligence 3)                 0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Manipulation 3)                 0       0       0
+Creation    Attribute (Manipulation 4) Free point      0       0       0
+Creation    Attribute (Presence 2)                     0       0       0
+Creation    Attribute (Presence 3)                     0       0       0
+Creation    Attribute (Presence 4)                     0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Discipline (Majesty 1)                     0       0       0
+Creation    Discipline (Majesty 2)                     0       0       0
+Creation    Discipline (Majesty 3)                     0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Blood Potency 3)                    0       0       0
+Creation    Merit (Blood Potency 3)                    0       0       0
+Creation    Merit (Blood Potency 3)                    0       0       0
+Creation    Merit (Common Sense)                       0       0       0
+Creation    Skill (Empathy 1)                          0       0       0
+Creation    Skill (Empathy 2)                          0       0       0
+Creation    Skill (Empathy 3)                          0       0       0
+Creation    Skill (Empathy 4)                          0       0       0
+Creation    Skill (Expression 1)                       0       0       0
+Creation    Skill (Expression 2)                       0       0       0
+Creation    Skill (Intimidate 1)                       0       0       0
+Creation    Skill (Larceny 1)                          0       0       0
+Creation    Skill (Medical (Plastic Surgery))          0       0       0
+Creation    Skill (Medicine 1)                         0       0       0
+Creation    Skill (Medicine 2)                         0       0       0
+Creation    Skill (Medicine 3)                         0       0       0
+Creation    Skill (Medicine 4)                         0       0       0
+Creation    Skill (Occult (Thantology))                0       0       0
+Creation    Skill (Occult 1)                           0       0       0
+Creation    Skill (Occult 2)                           0       0       0
+Creation    Skill (Occult 3)                           0       0       0
+Creation    Skill (Persuasion 1)                       0       0       0
+Creation    Skill (Persuasion 2)                       0       0       0
+Creation    Skill (Persuasion 3)                       0       0       0
+Creation    Skill (Persuasion 4)                       0       0       0
+Creation    Skill (Science (Biology))                  0       0       0
+Creation    Skill (Weaponry 1)                         0       0       0
+Creation    Skill (Weaponry 2)                         0       0       0
+Creation    Skill (Weaponry 3)                         0       0       0
+MC          MC (14 #764)                            +510     510     510
+MC          Other (Background)                      +  5     515     515
+MC          Other (IC Bio)                          +  2     517     517
+MC          Attribute (Composure 2)                 - 10     507     517
+MC          Attribute (Composure 3)                 - 15     492     517
+MC          Attribute (Resolve 3)                   - 15     477     517
+MC          Attribute (Stamina 2)                   - 10     467     517
+MC          Devotion (Chains of the Spirit)         -  9     458     517
+MC          Discipline (Celerity 1)                 -  5     453     517
+MC          Discipline (Majesty 4)                  - 20     433     517
+MC          Discipline (Majesty 5)                  - 25     408     517
+MC          Discipline (Obfuscate 1)                -  7     401     517
+MC          Discipline (Obfuscate 2)                - 14     387     517
+MC          Discipline (Ralab 1 - SL extension)     -  3     384     517
+MC          Discipline (Ralab 1)                    -  5     379     517
+MC          Discipline (Ralab 2)                    - 10     369     517
+MC          Discipline (Ralab 3)                    - 15     354     517
+MC          Discipline (Ralab 4)                    - 20     334     517
+MC          Discipline (Ralab 5)                    - 25     309     517
+MC          Discipline (Resilience 1)               -  7     302     517
+MC          Merit (Allies (Celebrities) 1)          -  1     301     517
+MC          Merit (Allies (Celebrities) 2)          -  2     299     517
+MC          Merit (Allies (Charities) 1)            -  1     298     517
+MC          Merit (Allies (Blood Cult) 1)           -  1     297     517
+MC          Merit (Allies (Blood Cult) 2)           -  2     295     517
+MC          Merit (Allies (Blood Cult) 3)           -  3     292     517
+MC          Merit (Allies (Blood Cult) 4)           -  4     288     517
+MC          Merit (Allies (Blood Cult) 5)           -  5     283     517
+MC          Merit (Allies (Medical) 1)              -  1     282     517
+MC          Merit (Allies (Medical) 2)              -  2     280     517
+MC          Merit (Allies (Medical) 3)              -  3     277     517
+MC          Merit (Carthian Pull 1)                 -  2     275     517
+MC          Merit (Contacts (Medical) 1)            -  1     274     517
+MC          Merit (Debate Club 1)                   -  2     272     517
+MC          Merit (Doll Face 1)                     -  2     270     517
+MC          Merit (Emotional Detachment 1)          -  2     268     517
+MC          Merit (Encounter Group 1)               -  2     266     517
+MC          Merit (Fame (Plastic Surgeon) 1)        -  2     264     517
+MC          Merit (Fighting Finesse (Sword Cane) 2) -  4     260     517
+MC          Merit (Haven (Location 1))              -  1     259     517
+MC          Merit (Haven (Location 2))              -  2     257     517
+MC          Merit (Haven (Location 3))              -  3     254     517
+MC          Merit (Haven (Security 1))              -  1     253     517
+MC          Merit (Haven (Security 2))              -  2     251     517
+MC          Merit (Haven (Size 1))                  -  1     250     517
+MC          Merit (Haven (Size 2))                  -  2     248     517
+MC          Merit (Haven (Size 3))                  -  3     245     517
+MC          Merit (Herd 1)                          -  1     244     517
+MC          Merit (Herd 2)                          -  2     242     517
+MC          Merit (Herd 3)                          -  3     239     517
+MC          Merit (Herd 4)                          -  4     235     517
+MC          Merit (Herd 5)                          -  5     230     517
+MC          Merit (Holistic Awareness 3)            -  6     224     517
+MC          Merit (Inspiring 4)                     -  8     216     517
+MC          Merit (Lab Section 1)                   -  2     214     517
+MC          Merit (Language (Dutch) 1)              -  2     212     517
+MC          Merit (Language (French) 1)             -  2     210     517
+MC          Merit (Language (German) 1)             -  2     208     517
+MC          Merit (Language (Italian) 1)            -  2     206     517
+MC          Merit (Language (Spanish) 1)            -  2     204     517
+MC          Merit (New Identity 4)                  -  8     196     517
+MC          Merit (Resources 1)                     -  2     194     517
+MC          Merit (Resources 2)                     -  4     190     517
+MC          Merit (Resources 3)                     -  6     184     517
+MC          Merit (Retainer (A) 1)                  -  2     182     517
+MC          Merit (Retainer (A) 2)                  -  4     178     517
+MC          Merit (Retainer (A) 3)                  -  6     172     517
+MC          Merit (Retainer (B) 1)                  -  2     170     517
+MC          Merit (Site 1)                          -  2     168     517
+MC          Merit (Site 2)                          -  4     164     517
+MC          Merit (Staff (Accountants) 1)           -  2     162     517
+MC          Merit (Staff (Medical) 2)               -  4     158     517
+MC          Merit (Staff (Security) 3)              -  6     152     517
+MC          Merit (Status (Medical) 1)              -  2     150     517
+MC          Merit (Status (Medical) 2)              -  4     146     517
+MC          Merit (Striking Looks 4)                -  8     138     517
+MC          Merit (Theatre Society 1)               -  2     136     517
+MC          Merit (Tolerance for Biology 1)         -  2     134     517
+MC          Skill (Academics 1)                     -  3     131     517
+MC          Skill (Computer 1)                      -  3     128     517
+MC          Skill (Craft 1)                         -  3     125     517
+MC          Skill (Craft 2)                         -  6     119     517
+MC          Skill (Craft 3)                         -  9     110     517
+MC          Skill (Intimidate 2)                    -  6     104     517
+MC          Skill (Intimidate 3)                    -  9      95     517
+MC          Skill (Politics (Avoiding))             -  3      92     517
+MC          Skill (Politics (Theocracy))            -  3      89     517
+MC          Skill (Politics 1)                      -  3      86     517
+MC          Skill (Science 1)                       -  3      83     517
+MC          Skill (Science 2)                       -  6      77     517
+MC          Skill (Science 3)                       -  9      68     517
+MC          Skill (Socialise 1)                     -  3      65     517
+MC          Skill (Socialise 2)                     -  6      59     517
+MC          Skill (Socialise 3)                     -  9      50     517
+MC          Skill (Socialise 4)                     - 12      38     517
+MC          Skill (Streetwise 1)                    -  3      35     517
+MC          Skill (Streetwise 2)                    -  6      29     517
+MC          Skill (Subterfuge 1)                    -  3      26     517
+MC          Skill (Subterfuge 2)                    -  6      20     517
+MC          Skill (Subterfuge 3)                    -  9      11     517
+MC          Skill (Survival 1)                      -  3       8     517
+MC          Willpower (Unholy Avatar)               -  8       0     517
+2011/06/04  Game (Southwark Requiem)                +  4       4     521
+2011/06/13  Downtime (June)                         +  2       6     523
+2011/06/16  Game (Amsterdam Requiem)                +  2       8     525
+2011/07/02  Game (Southwark Requiem)                +  4      12     539
+2011/07/09  Game (July National - Saturday)         +  2      14     541
+2011/07/10  Overcap (July National 2011)            +  6      20     547
+2011/08/31  Game (Carthian Game)                    +  4      24     551
+2011/09/08  Game (Amsterdam Requiem)                +  4      28     555
+2011/09/24  Game (Reading Requiem)                  +  2      30     557
+2011/11/16  Game (Amsterdam Requiem)                +  4      34     561
+2011/11/16  Downtime (November)                     +  2      36     563
+2012/01/20  Discipline (Auspex 1)                   -  7      29     563
+2012/01/20  Discipline (Auspex 2)                   - 14      15     563
+2012/01/20  Discipline (Vigour 1)                   -  5      10     563
+2012/01/20  Devotion (Night Life)                   - 10       0     563
+2012/01/25  Downtime (January)                      +  2       2     565
+2012/01/25  Game (Amsterdam Requiem)                +  4       6     569
+2012/01/25  Other (Bonus XP)                        +  1       7     570
+2012/04/17  Downtime (March)                        +  2       9     572
+2012/04/18  Game (Amsterdam Requiem)                +  4      13     576
+2012/06/20  Game (Amsterdam Requiem)                +  4      17     580
+2012/07/24  Game (Amsterdam Requiem)                +  4      21     584
+            Devotion (Instant Adoration)            - 12       9     584
+            Merit (Haven (Security 3))              -  3       6     584
+            Merit (Night Doctor Surgery 3)          -  6       0     584
+            Downtime (August)                       +  2       2     586
+2012/08/15  Game (Amsterdam Requiem)                +  4       6     590
+
+To buy:
+            Discipline (Obfuscate 3)                - 21
+            Discipline (Obfuscate 4)                - 28
+            Discipline (Auspex 3)                   - 21
+            Discipline (Auspex 4)                   - 28
+            Devotion (Perfect Stranger)             - 21
+
+            Merit (Allies (Charities) 2)            -  2
+            Merit (Allies (Charities) 3)            -  3
+            Merit (Allies (Underworld) 1)           -  1
+            Merit (Allies (Universities) 1)         -  1
+            Merit (Allies (Universities) 2)         -  2
+            Merit (Contacts (Occult) 2)             -  2
+            Merit (Contacts (Underworld) 3)         -  3
+            Merit (Haven (Location 4))              -  4
+            Merit (Haven (Location 5))              -  5
+            Merit (Haven (Security 4))              -  4
+
+            Merit (Danger Sense 2)                  -  4

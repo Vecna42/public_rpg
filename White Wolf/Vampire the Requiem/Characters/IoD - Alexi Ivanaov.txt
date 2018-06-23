@@ -1,0 +1,199 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - 
+VSS - 
+
+Name: Alexi Ivanaov
+DoB: 1936/02/29
+DoD: 1960/08/15
+Concept: 
+
+Clan: Ventrue
+    Bloodline: Melissidae   #????
+Covenant: Ordo Dracul
+    Oath: Axe
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (3):          ¦Social (5):
+        Intelligence    1   ¦   Strength        1   ¦    Presence           1
+        Wits            1   ¦   Dexterity       1   ¦   Manipulation        1
+         Resolve        1   ¦   Stamina         1   ¦   Composure           1
+
+Skills:
+    Mental (7):             ¦Physical (4):          ¦Social (11):
+        Academics       0   ¦   Athletics       0   ¦   Animal Ken          0
+        Computer        0   ¦   Brawl           0   ¦   Empathy             0%
+        Craft           0   ¦   Drive           0   ¦   Expression          0
+        Investigation   0   ¦   Firearms        0   ¦   Intimidate          0
+        Medicine        0   ¦   Larceny         0   ¦   Persuasion          0%
+        Occult          0   ¦   Stealth         0   ¦   Socialise           0%
+        Politics        0   ¦   Survival        0   ¦   Streetwise          0
+        Science         0   ¦   Weaponry        0   ¦   Subterfuge          0
+
+% - Capped by Humanity for mortals
+
+Merits:
+    Blood Potency                           4
+    Status (Ventrue)                        2
+    Status (Ordo Dracul)                    3
+    Status (???)                            1
+
+                                                Shared  Pool
+    Common Sense (•) (CO)                   1
+    Contacts (• to •••••)                   1
+    Herd (• to •••••)                       
+    Language (English) (•)                  1
+    Resources (• to •••••)                  
+    Retainer (B) (• to •••••)               
+    Staff (• to •••••)          Ghouls p74  
+
+                                                Shared  Pool
+    Haven ():
+        Location                            0
+        Security                            0
+        Size                                0
+
+Disciplines:            Dots    Cost    Pool
+    Auspex              4
+        Clash of Wills          N/A     __  Wits + Inve + Spec + Ausp v Reso + Stea + Obfu
+        Heightened Senses       N/A     N/A
+        Aura Perception         N/A     __  Inte + Empa + Spec + Ausp - Comp - Occu
+    
+    Dominate            2
+        Command                 N/A     __  Inte + Inti + Spec + Domi v Reso + BP
+        Mesmerise               N/A     __  Inte + Expr + Spec + Domi v Reso + BP
+    
+    Resilience          1       1vt/scen
+    
+    Spoiling ()         1       1vt    __  Stam + Occu + Spec + Spoi v Reso + BP
+        Intelligence
+
+Devotions:                      XP
+
+Morality:   Lost    Gained  Derangements
+    10      
+    9       
+    8       
+    7       
+    6   *   
+    5       
+    4       
+    3       
+    2       
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+    Sword Cane  2/L     3   2(L/B)  N/A     Bashing damage when sheathed
+
+Other:
+    Virtue: 
+    Vice: 
+    
+    Health: Size(5) + Stamina() + Resilience() = 
+    |  |  |  |  |  |-1|-2|-3|
+    
+    Willpower: Resolve() + Composure() = 
+    |  |  |  |  |  |
+    
+    Vitae = Max 11, 1 / turn
+    |S |  |  |H |  |  |  |  |  |  |
+    |  |
+
+    Size: 5
+    Defence: Min(Dexterity(),Wits()) = 
+    Armour: 0 / 0
+    
+    Initiative: Dexterity() + Composure() + FR(0) = 
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength() + Dexterity() + FoF(0) = 
+
+Approvals:
+    
+
+Notes:
+
+--- BACKGROUND ---
+1936 ~ Born
+1940 ~ 
+1944 ~ 
+1948 ~ 
+1952 ~ 
+1956 ~ 
+1960 ~ Embraced
+1964 ~ Joined Ordo
+1968 ~ Coil
+1972 ~ Joined Axe
+1976 ~ 
+1980 ~ Coil
+1984 ~ Dragon Knight
+1988 ~ 
+1992 ~ 
+1996 ~ Moved to Germany
+2000 ~ Coil
+2004 ~ Moved to France
+2008 ~ 
+2012 ~ Moved to the UK
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Dexterity 3)                    0       0       0
+Creation    Attribute (Intelligence 2)                 0       0       0
+Creation    Attribute (Intelligence 3)                 0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Manipulation 3)                 0       0       0
+Creation    Attribute (Manipulation 4) Free point      0       0       0
+Creation    Attribute (Presence 2)                     0       0       0
+Creation    Attribute (Presence 3)                     0       0       0
+Creation    Attribute (Presence 4)                     0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Discipline (Majesty 1)                     0       0       0
+Creation    Discipline (Majesty 2)                     0       0       0
+Creation    Discipline (Majesty 3)                     0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Blood Potency 3)                    0       0       0
+Creation    Merit (Blood Potency 3)                    0       0       0
+Creation    Merit (Blood Potency 3)                    0       0       0
+Creation    Merit (Common Sense)                       0       0       0
+Creation    Skill (Empathy 1)                          0       0       0
+Creation    Skill (Empathy 2)                          0       0       0
+Creation    Skill (Empathy 3)                          0       0       0
+Creation    Skill (Empathy 4)                          0       0       0
+Creation    Skill (Expression 1)                       0       0       0
+Creation    Skill (Expression 2)                       0       0       0
+Creation    Skill (Intimidate 1)                       0       0       0
+Creation    Skill (Larceny 1)                          0       0       0
+Creation    Skill (Medical (Plastic Surgery))          0       0       0
+Creation    Skill (Medicine 1)                         0       0       0
+Creation    Skill (Medicine 2)                         0       0       0
+Creation    Skill (Medicine 3)                         0       0       0
+Creation    Skill (Medicine 4)                         0       0       0
+Creation    Skill (Occult (Thantology))                0       0       0
+Creation    Skill (Occult 1)                           0       0       0
+Creation    Skill (Occult 2)                           0       0       0
+Creation    Skill (Occult 3)                           0       0       0
+Creation    Skill (Persuasion 1)                       0       0       0
+Creation    Skill (Persuasion 2)                       0       0       0
+Creation    Skill (Persuasion 3)                       0       0       0
+Creation    Skill (Persuasion 4)                       0       0       0
+Creation    Skill (Science (Biology))                  0       0       0
+Creation    Skill (Weaponry 1)                         0       0       0
+Creation    Skill (Weaponry 2)                         0       0       0
+Creation    Skill (Weaponry 3)                         0       0       0
+MC          MC (14 #764)                            +510     510     510
+MC          Other (Background)                      +  5     515     515
+MC          Other (IC Bio)                          +  2     517     517

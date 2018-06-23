@@ -1,0 +1,423 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - "Matt Sanderson" <sidestorm@hotmail.com>
+VSS - Southwark Requiem
+
+Name: Viktor Spinnentier Reichsgraf Baldwin
+DoB: 1676/09/25 (24)
+DoD: 1700/01/01 (310)
+Concept - Spider in a web of influences, Academic Mercenary.
+
+Clan: Ventrue
+    Bloodline: Malocusians #Re225
+Covenant: Unaligned
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    4   ¦   Strength        2   ¦    Presence           1
+        Wits            2   ¦   Dexterity       2   ¦   Manipulation        2
+         Resolve        3   ¦   Stamina         2   ¦   Composure           3
+
+Skills:
+    Mental (11):            ¦Physical (4):          ¦Social (7):
+        Academics       4   ¦   Athletics       0   ¦   Animal Ken          0
+            Cryptography    ¦                       ¦                       
+        Computer        1   ¦   Brawl           0   ¦   Empathy             2
+        Craft           0   ¦   Drive           0   ¦   Expression          1
+        Investigation   1   ¦   Firearms        0   ¦   Intimidate          0
+        Medicine        0   ¦   Larceny         2   ¦   Persuasion          2
+                            ¦                       ¦       Favours         
+        Occult          4   ¦   Stealth         2   ¦   Socialise           3
+        Politics        2   ¦   Survival        0   ¦   Streetwise          2
+                            ¦                       ¦       Rumours         
+        Science         0   ¦   Weaponry        0   ¦   Subterfuge          2
+
+Merits:
+    Power Stat (Blood Potency)              4
+    Status (Ventrue)                        2
+    Status (Southwark)                      1
+
+                                                Shared  Pool
+    Allies (Accountants)                    1
+    Allies (Health & Safety)                1
+    Allies (ISPs)                           1
+    Allies (Local Church)                   1
+    Allies (Local Government)               1
+    Allies (Local Media)                    1
+    Allies (Local Police)                   1
+    Allies (London Mayor's Office)          1
+    Allies (Private Investigators)          1
+    Contacts (• to •••••)                   5
+        1 Local Church
+        2 Local Government
+        3 Local Medical
+        4 Local News
+        5 Local Police
+    Encyclopaedic Knowledge (••••) (CO)     4
+    Good Time Management (••)       Asy p50 2
+    Herd (• to •••••)                       3
+    Inherited Resistance (••••)     Ven 106 4
+    Language (Ancient Greek) (•)            1
+    Language (Aramaic) (•)                  1
+    Language (Dutch) (•)                    1
+    Language (English) (•)                  1
+    Language (French) (•)                   1
+    Language (Latin) (•)                    1
+    Resources (• to •••••)                  5
+    Retainer (A - ) (• to •••••)            1
+    Retainer (B - Elizabeth) (• to •••••)   1
+    Retainer (C - Stefan) (• to •••••)      1
+    Staff (• to •••••)                      1
+        Household Staff
+
+                                                Shared  Pool
+    Haven (Cotarie):  http://bit.ly/9FmWm3
+        Location (• to •••••)               3
+        Security (• to •••••)               5
+        Size (• to •••••)                   5
+        Tomb (• to ••••)        AncMys p67  4
+
+Disciplines:            Dots    Cost    Pool
+    Dominate            5
+        Command                 N/A      8  Inte + Inti + Spec + Domi v Reso + BP
+        Mesmerise               N/A     10  Inte + Expr + Spec + Domi v Reso + BP
+        The Forgetful Mind      N/A      9  Wits + Pers + Spec + Domi - Res
+        Conditioning            1wp      9  Wits + Subf + Spec + Domi v Reso + BP
+        Possession              1wp      8  Inte + Inti + Spec + Domi v Res
+    
+    Domus               5
+        The Web Trembles        N/A      9  Wits + Empa + Spec + Domu v Comp + Obfu
+        The Web Speaks          1vt      9  Wits + Empa + Spec + Domu
+        Loyal Web               1vt    N/A
+        The Spider's Cocoon     1vt,1wp 10  Pres + Occu + Spec + Domu
+        The Living Web          2vt,1wp N/A
+    
+    Majesty             3
+        Awe                     N/A      6  Pres + Expr + Spec + Maje - Occu
+        Revelations             1vt      9  Mani + Pers + Spec + Maje - Occu v Comp + BP
+        Entrancement            N/A      9  Mani + Empt + Spec + Maje - Occu v Comp + BP
+        Summoning               1vt      9  Mani + Pers + Spec + Maje - Occu v Comp + BP
+
+Devotions:                      XP
+    Lovely or Lonesome Web       9
+        Source - Inv p212
+        Domus 2, Majesty 2
+        Action: Instant
+        Cost: 1vt
+        Duration: Scene
+        Pull: N/A
+        Defence: N/A
+        Description: 
+
+Morality:   Lost    Gained  Derangements
+    10      
+    9       
+    8       
+    7       
+    6       
+    5   *   
+    4       
+    3       
+    2       
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+
+Other:
+    Virtue: Temperance
+    Vice: Sloth
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |-1|-2|-3|
+    
+    Willpower: Resolve(3) + Composure(3) = 6
+    |  |  |  |  |  |  |
+    
+    Vitae = Max 13, 2 / turn
+    |S |  |  |H |  |  |  |  |  |  |
+    |  |  |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(2)) = 2
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(2) + Composure(3) + FR(0) = 5
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(2) + Dexterity(2) + FoF(0) = 9
+
+Approvals:
+
+Notes:
+    Standard possession routine:  Possess Stefan (retainer C), and then have other retainers place the body in the Haven Tomb, and one (probably Albert (retainer A)) of them seal the tomb closed from inside, with the body.  The correct body is placed in a secret compartment within a marble bier.  On top of the bier is a body made up to look like Viktor, and dressed in the same sort of clothes he wears.  Elsewhere in the house (and thus outside the tomb), in the master bedroom, is a second body also dressed up in this fashion and laid out on a four-poster bed, arms crossed.
+
+Retainer (Albert) 1:
+    Name: Albert
+    Virtue: Prudence    Vice: Greed
+    
+    Inte 3, Stre 2, Pres 1
+    Wits 2, Dext 2, Mani 2
+    Reso 3, Stam 2, Comp 4
+    
+    Acad 3, Athl 1, Anim 0
+    Comp 0, Braw 0, Empa 1
+    Craf 1, Driv 0, Expr 3
+    Inve 0, Fire 0, Inti 0
+    Medi 1, Larc 2, Pers 1
+    Occu 3, Stea 1, Soci 1
+    Poli 1, Surv 0, Stre 0
+    Scie 2, Weap 0, Subt 1
+    
+    Specs: Academics (Libraries), Medicine (First Aid), Science (Preserving Books)
+    Merits: Eidetic Memory 2, Encyclopaedic Knowledge 4, Status (British Library) 1
+    
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 7  |  |  |  |  |  |  |  |
+    Size: 5
+    Initiative: 6
+    Defence: 2
+    Acting: 5   Speed: 9
+
+Retainer (Elizabeta) 2:
+    Name: Elizabeta Crassus
+    Virtue: Charity     Vice: Pride
+    Ghoul family: Crassus
+        Advantage: Half price for Merits: Allies, Barfly, Contacts, Fame, Haven, Inherited Ghoul, Regnant, Resources, Retainer, Staff, and Status.  At Creation, either two dots divided between Academics, Persuasion, or Socialise OR four dots divided between the above merits.
+        Weakness: Suffer the Ventrue clan weakness.
+    Regnant: Viktor Baldwin, Ventrue.
+    
+    Inte 2, Stre 2, Pres 3
+    Wits 3, Dext 2, Mani 3
+    Reso 2, Stam 2, Comp 2
+    
+    Acad 1, Athl 2, Anim 0
+    Comp 2, Braw 0, Empa 2
+    Craf 0, Driv 0, Expr 2
+    Inve 2, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 3
+    Occu 0, Stea 1, Soci 3
+    Poli 2, Surv 1, Stre 2
+    Scie 0, Weap 0, Subt 1
+    
+    Specs: Empathy (Lies), Expression (Lies), Persuasion (Seduction)
+    Merits: Allies (Finance) 1, Barfly 1, Resources 3, Striking Looks 2
+    Disciplines: Resilience 1
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Size: 5
+    Initiative: 4
+    Defence: 2
+    Acting: 5   Speed: 9
+
+Retainer (Stefan) 3:
+    Name: Stefan
+    Virtue: Justice     Vice: Wrath
+    Ghoul
+    
+    Inte 2, Stre 3, Pres 2
+    Wits 3, Dext 3, Mani 2
+    Reso 2, Stam 2, Comp 2
+    
+    Acad 0, Athl 0, Anim 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: Athletics (Running), Brawl (Fists), Larceny (Locks)
+    Merits: Ambidextrous 3, Danger Sense 2, Fast Reflexes 1, FS: Boxing 1
+    Equipment:  Size    Dur Bonus   Cap Other
+        .38     1/S         2(L)    6   20/40/80
+    
+    Health: 7  |  |  |  |  |-1|-2|-3|
+    Wpower: 4  |  |  |  |  |
+    Size: 5
+    Initiative: 6
+    Defence: 3
+    Acting: 5   Speed: 11
+
+--- BACKGROUND ---
+Timeline in 50 year blocks, with the major incidents and life-defining moments set out.  Also included, mortal events that interact with his life.
+
+Kine
+1676-1699: 
+- 1676 ~ Born Viktor Baldwin to a wealthy German family.
+
+Kindred
+1700-1749: 
+- 1700 ~ Embraced at New Year, to provide a Haven and an understanding of the modern world for his elder Invictus sire.
+1750-1799: 
+1800-1849: 
+- 1804 ~ Joins the Malocusians.
+- 1823 ~ Succeeds at turning his home against his sire and driving him out, and eventually into torpor.
+- 1846 ~ Slips into a brief torpor to regulate his blood potency.
+1850-1899: 
+- 1892 ~ Wakes up from his nap.
+1900-1949: 
+- 1913 ~ Fearing that his sire might soon wake from torpor, he steels himself for a journey to England; spending so much time outside of his haven sapped his will and when he arrived in England, he initially set up in a small home until his mental state returned to a state capable of arranging for a larger and more suitable haven.
+- 1940s ~ Met Eliza Chance.
+1950-1999: 
+- 1972 ~ Slips into torpor for a quick nap, with instructions to his retainers to maintain the house.
+'''ECLIPSE'''
+2000-2010: 
+'''ECLIPSE'''
+- 2005 ~ Wakes from his nap, and spends time re-establishing his allies and contacts.
+- 2009 ~ Max Adams comes to stay for a short period, while establishing himself in London.
+- 2010 ~ Returns to court of Southwark.
+
+--- KNOWN BIOGRAPHY ---
+* Name - Viktor Baldwin
+    * Known as - The Spider
+* Age - Physically, he seems in his mid-20s.  However, he has been dead over 300 years, and is a shrewd operator.
+* Other 'facts':
+    - He doesn't have a Covenant, because it gets in the way of conducting business with everyone.
+    - His haven is ... strange.  Walls creek in ways they shouldn't, or doors open on their before you reach them.  Plus Viktor always seems to know who his guests are before they get to the front door.
+    - Now and then he asks around to see if anyone knows if his sire has woken up in Germany yet.  He never says why...
+    - Oddly, for a vampire, Viktor's Haven is a known location and he is happy to invite people to see him there.
+    - Viktor has a friend, or an ally, or at the least, a contact in every organisation, cult, Covenant, Clan, or group going.
+    - Viktor is never seen in person outside of his Haven.
+    - Viktor is the sort of guy you go to if you need something finding out.  Whatever it is.
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Composure 3)                0       0       0
+Creation        Attribute (Dexterity 2)                0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Intelligence 3)             0       0       0
+Creation        Attribute (Intelligence 4)             0       0       0
+Creation        Attribute (Manipulation 2)             0       0       0
+Creation        Attribute (Manipulation 3)             0       0       0
+Creation        Attribute (Resolve 2)                  0       0       0
+Creation        Attribute (Resolve 3) - Free point     0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Strength 2)                 0       0       0
+Creation        Attribute (Wits 2)                     0       0       0
+Creation        Discipline (Dominate 1)                0       0       0
+Creation        Discipline (Dominate 2)                0       0       0
+Creation        Discipline (Dominate 3)                0       0       0
+Creation        Merit (Encyclopaedic Knowledge 4)      0       0       0
+Creation        Merit (Encyclopaedic Knowledge 4)      0       0       0
+Creation        Merit (Encyclopaedic Knowledge 4)      0       0       0
+Creation        Merit (Encyclopaedic Knowledge 4)      0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Skill (Academics (Cryptography))       0       0       0
+Creation        Skill (Academics 4)                    0       0       0
+Creation        Skill (Academics 4)                    0       0       0
+Creation        Skill (Academics 4)                    0       0       0
+Creation        Skill (Academics 4)                    0       0       0
+Creation        Skill (Computer 1)                     0       0       0
+Creation        Skill (Craft 4)                        0       0       0
+Creation        Skill (Craft 4)                        0       0       0
+Creation        Skill (Craft 4)                        0       0       0
+Creation        Skill (Craft 4)                        0       0       0
+Creation        Skill (Empathy 1)                      0       0       0
+Creation        Skill (Larceny 2)                      0       0       0
+Creation        Skill (Larceny 2)                      0       0       0
+Creation        Skill (Persuasion (Favours))           0       0       0
+Creation        Skill (Persuasion 2)                   0       0       0
+Creation        Skill (Persuasion 2)                   0       0       0
+Creation        Skill (Politics 2)                     0       0       0
+Creation        Skill (Politics 2)                     0       0       0
+Creation        Skill (Socialise 2)                    0       0       0
+Creation        Skill (Socialise 2)                    0       0       0
+Creation        Skill (Stealth 2)                      0       0       0
+Creation        Skill (Stealth 2)                      0       0       0
+Creation        Skill (Streetwise (Rumours))           0       0       0
+Creation        Skill (Streetwise 2)                   0       0       0
+Creation        Skill (Streetwise 2)                   0       0       0
+MC              MC (12 #Re224)                      +470     470     470
+MC              Other (Background)                  +  5     475     475
+MC              Other (IC Bio)                      +  2     477     477
+MC              Discipline (Dominate 4)             - 28     449     477
+MC              Discipline (Dominate 5)             - 35     414     477
+MC              Discipline (Domus 1)                -  5     409     477
+MC              Discipline (Domus 2)                - 10     399     477
+MC              Discipline (Domus 3)                - 15     384     477
+MC              Discipline (Domus 4)                - 20     364     477
+MC              Discipline (Domus 5)                - 25     339     477
+MC              Discipline (Majesty 1)              -  5     334     477
+MC              Discipline (Majesty 2)              - 10     324     477
+MC              Discipline (Majesty 3)              - 15     309     477
+MC              Merit (Allies (Accountants) 1)      -  2     307     477
+MC              Merit (Allies (Health & Safety) 1)  -  2     305     477
+MC              Merit (Allies (ISPs) 1)             -  2     303     477
+MC              Merit (Allies (Local Church) 1)     -  2     301     477
+MC              Merit (Allies (Local Government) 1) -  2     299     477
+MC              Merit (Allies (Local Media) 1)      -  2     297     477
+MC              Merit (Allies (Local Police) 1)     -  2     295     477
+MC              Merit (Allies (Mayor's Office) 1)   -  2     293     477
+MC              Merit (Allies (Private Invest) 1)   -  2     291     477
+MC              Merit (Blood Potency 3)             - 24     267     477
+MC              Merit (Blood Potency 4)             - 32     235     477
+MC              Merit (Contacts 1 (Local Church))   -  2     233     477
+MC              Merit (Contacts 2 (Local Govern))   -  4     229     477
+MC              Merit (Contacts 3 (Local Medical))  -  6     223     477
+MC              Merit (Contacts 4 (Local News))     -  8     215     477
+MC              Merit (Contacts 5 (Local Police))   - 10     205     477
+MC              Merit (Good Time Management 2)      -  4     201     477
+MC              Merit (Haven (Location) 1)          -  2     199     477
+MC              Merit (Haven (Location) 2)          -  4     195     477
+MC              Merit (Haven (Location) 3)          -  6     189     477
+MC              Merit (Haven (Security) 1)          -  2     187     477
+MC              Merit (Haven (Security) 2)          -  4     183     477
+MC              Merit (Haven (Security) 3)          -  6     177     477
+MC              Merit (Haven (Security) 4)          -  8     169     477
+MC              Merit (Haven (Security) 5)          - 10     159     477
+MC              Merit (Haven (Size) 1)              -  2     157     477
+MC              Merit (Haven (Size) 2)              -  4     153     477
+MC              Merit (Haven (Size) 3)              -  6     147     477
+MC              Merit (Haven (Size) 4)              -  8     139     477
+MC              Merit (Haven (Size) 5)              - 10     129     477
+MC              Merit (Haven (Tomb) 1)              -  2     127     477
+MC              Merit (Haven (Tomb) 2)              -  4     123     477
+MC              Merit (Haven (Tomb) 3)              -  6     117     477
+MC              Merit (Haven (Tomb) 4)              -  8     109     477
+MC              Merit (Herd 1)                      -  2     107     477
+MC              Merit (Herd 2)                      -  4     103     477
+MC              Merit (Herd 3)                      -  6      97     477
+MC              Merit (Inherited Resistance 4)      -  8      89     477
+MC              Merit (Language (Ancient Greek) 1)  -  2      87     477
+MC              Merit (Language (Aramaic) 1)        -  2      85     477
+MC              Merit (Language (Dutch) 1)          -  2      83     477
+MC              Merit (Language (English) 1)        -  2      81     477
+MC              Merit (Language (French) 1)         -  2      79     477
+MC              Merit (Language (Latin) 1)          -  2      77     477
+MC              Merit (Resources 1)                 -  2      75     477
+MC              Merit (Resources 2)                 -  4      71     477
+MC              Merit (Resources 3)                 -  6      65     477
+MC              Merit (Resources 4)                 -  8      57     477
+MC              Merit (Resources 5)                 - 10      47     477
+MC              Merit (Retainer (A) 1)              -  2      45     477
+MC              Merit (Retainer (B) 1)              -  2      43     477
+MC              Merit (Retainer (C) 1)              -  2      41     477
+MC              Merit (Staff 1 (Household Staff))   -  2      39     477
+MC              Skill (Computer 2)                  -  6      33     477
+MC              Skill (Empathy 2)                   -  6      27     477
+MC              Skill (Expression 1)                -  3      24     477
+MC              Skill (Investigation 1)             -  3      21     477
+MC              Skill (Science 1)                   -  3      18     477
+MC              Skill (Socialise 3)                 -  9       9     477
+MC              Skill (Subterfuge 1)                -  3       6     477
+MC              Skill (Subterfuge 2)                -  6       0     477
+2010/08/07      Downtime (August)                   +  2       2     479
+2010/08/04      MC (13)                             + 20      22     499
+2010/08/18      Game (Amsterdam IRC)                +  4      26     503
+2010/08/25      Discipline (Majesty 4)              - 20       6     503
+2010/09/        Downtime (September)                +  2       8     505
+
+To buy:
+                Devotion (Lovely or Lonesome Web)   -  9
+                Discipline (Majesty 5)              - 25
+                Skill (Intimidate 1)                -  3
+                Skill (Intimidate 2)                -  6
+                Skill (Weaponry 1)                  -  3

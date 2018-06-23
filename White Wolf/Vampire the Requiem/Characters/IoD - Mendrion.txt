@@ -1,0 +1,246 @@
+Player  - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705.
+VST/VSS - "Jamie Smith" <birmingham.requiem@gmail.com>, Birmingham Requiem.
+
+Name: Mendrion
+Concept: Norn - The Measurer of Fate
+DoB: 1930/08/03     DoD: 1957/03/27
+
+Clan: Nosferatu     Bloodline:
+Covenant: Circle of the Crone (1964/05/20)
+
+--- SHEET ---
+Attributes:
+    Mental (4):             Physical (3):           Social (5):
+        Intelligence    3        Strength       2       Presence            3
+        Wits            2       Dexterity       2       Manipulation        3
+        Resolve         2       Stamina         2       *Composure          3^
+
+Skills:
+    Mental (7):              Physical (4):           Social (11):
+        Academics       1       Athletics       0       Animal Ken          0
+        Computer        0       Brawl           1       Empathy             2
+                                                            Nightmare: Dread
+        Craft           3       Drive           0       Expression          3
+            Knitting                                        Unyielding Mask +1
+        Investigation   1       Firearms        0       Intimidate          3
+        Medicine        0       Larceny         1       Persuasion          2
+        Occult          3       Stealth         2       Socialise           1
+                                    Ob: Cloak of Night                      
+        Politics        0       Survival        0       Streetwise          0
+        Science         0       Weaponry        0       Subterfuge          1
+
+Result   : 10 15 20 25 30 35 40 45 50
+Successes:  1  2  3  4  5  6  7  8  9
+
+Merits:
+    Blood Potency                           2
+    Status (Nosferatu)                      1
+    Status (Circle of the Crone)            1
+    Status (Birmingham)                     1
+
+    True Worm (•••)                Nos p109 3
+
+                                                Shared  Pool
+    Necropolis ():  Nos p113-118
+        Bleak Annals (• to •••••)           4
+            
+        Caldarium (•, ••• or •••••)         0
+        Catacombs (• to •••••)              2
+        Dark Temple (••)                    2
+        Garbage Pit (••)                    0
+        Labyrinth Guardians (•••)           3
+        Sepulchres (• to •••••)             1
+            
+        Spectre (• to •••••)                1
+        Trapdoor (• to •••)                 0
+
+Disciplines:            Dots    Cost    Pool
+    Cruac               3       1vt      9  Mani + Occu + Spec + Crua
+        1 Drops of Destiny              CotC p204
+        2 Cheval                        MET:R p200
+        3 Taste of Destiny              CotC p207
+    
+    Nightmare           2
+        Monstrous Countenance   N/A     10  Pres + Inti + Spec + Nigh v Comp + BP
+        Dread                   1vt     10  Mani + Empa + Spec + Nigh v Comp + BP
+    
+    Obfuscate           3
+        Touch of Shadow         N/A      6  Wits + Larc + Spec + Obfu + Occu
+        Mask of Tranquillity    N/A      7  Wits + Stea + Spec + Obfu + Occu
+        Cloak of Night          N/A      9  Inte + Stea + Spec + Obfu + Occ
+
+Devotions:                      XP
+
+Morality:   Lost    Gained
+    10      
+    9       
+    8       
+    7   *   
+    6       
+    5       
+    4       
+    3       
+    2       
+    1       
+
+Frenzy:
+    Anger Frenzy:
+         2 sux: Harassed by panhandler, Idiot scraps your new car.
+         3 sux: Insulted in public, Hours of frustration and delay.
+         5 sux: Reviled by someone you dislike, Betrayed by a partner in a deal,
+                Shot by a mugger, Loved one in danger
+         7 sux: Betrayed by someone you love, Lose everything you own.
+        10 sux: Loved one slain, Reviled and humiliated by someone you love.
+
+        Provocation aligns with your Virtue/Vice                    -+2
+        Provocation attacks your Virtue/Vice                        -+2
+        Hungry                                                      - 1
+        Starving                                                    - 2
+
+    Fear Frenzy:
+         1 sux: Lighting a cigarette.
+         2 sux: Sight of a torch.
+         3 sux: Flashbulb in the face.
+         4 sux: Bonfire.
+         5 sux: Burning building.
+         7 sux: Obscured sunlight.
+        10 sux: Direct sunlight.
+
+        Fire/sunlight at a safe distance                             +2
+        Surprised by fire/sunlight                                  - 1
+        Surrounded by fire/sunlight, but not immediately harmed     - 1
+        Burned by fire/sunlight                                     - 3
+
+    Hunger Frenzy:
+         2 sux: Sight or smell of blood (when Hungry).
+         3 sux: Taste of blood (when Hungry).
+         4 sux: Sight or smell of blood (when Starving).
+         5 sux: Taste of blood (when Starving).
+
+        Has tasted vampire blood before                             - 1
+        Hungry                                                      - 1
+        Starving                                                    - 2
+        Addicted to vampire blood                                   - 2
+
+Equipment:      Size    Dur Bonus   Cap     Page        Other
+
+Other:
+    Virtue: Fortitude
+    Vice: Envy
+    
+    Health: Size(5) + Stamina(2) + Resilience(0) = 7
+    |  |  |  |  |-1|
+    |-2|-3|
+    
+    Willpower: Resolve(2) + Composure(3) = 5
+    |  |  |  |  |  |
+    
+    Vitae = Max 11, 1 / turn
+    |S |  |  |H |  |
+    |  |  |  |  |  |
+    |  |
+
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(2))  =  2
+        Defence + Celerity (0)             2
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(2) + Composure(3) + FR(0) = 5
+        Initiative + Celerity (0)                     5
+    
+    Acting Speed                =  5
+        Acting + Celerity (0)      5
+    
+    Speed: 5 + Strength(2) + Dexterity(2) + FoF(0)  =  9
+        Speed (9) + Celerity (0) {(9 + 0) x2}         
+
+Approvals:
+    
+
+Notes:
+    
+
+--- BACKGROUND ---
+
+
+--- CHARACTER QUESTIONS ---
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Composure 3) Free point         0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Intelligence 2)                 0       0       0
+Creation    Attribute (Intelligence 3)                 0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Manipulation 3)                 0       0       0
+Creation    Attribute (Presence 2)                     0       0       0
+Creation    Attribute (Presence 3)                     0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Stamina 2)                      0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Discipline (Obfuscate 1)                   0       0       0
+Creation    Discipline (Obfuscate 2)                   0       0       0
+Creation    Discipline (Obfuscate 3)                   0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Blood Potency 2)                    0       0       0
+Creation    Merit (Necropolis (Bleak Annals) 1)        0       0       0
+Creation    Merit (Necropolis (Bleak Annals) 2)        0       0       0
+Creation    Merit (Necropolis (Bleak Annals) 3)        0       0       0
+Creation    Merit (Necropolis (Bleak Annals) 4)        0       0       0
+Creation    Skill (Brawl 1)                            0       0       0
+Creation    Skill (Craft (Knitting))                   0       0       0
+Creation    Skill (Craft 1)                            0       0       0
+Creation    Skill (Craft 2)                            0       0       0
+Creation    Skill (Craft 3)                            0       0       0
+Creation    Skill (Empathy (Nightmare 2))              0       0       0
+Creation    Skill (Empathy 2)                          0       0       0
+Creation    Skill (Empathy 2)                          0       0       0
+Creation    Skill (Expression 3)                       0       0       0
+Creation    Skill (Expression 3)                       0       0       0
+Creation    Skill (Expression 3)                       0       0       0
+Creation    Skill (Intimidate 3)                       0       0       0
+Creation    Skill (Intimidate 3)                       0       0       0
+Creation    Skill (Intimidate 3)                       0       0       0
+Creation    Skill (Investigation 1)                    0       0       0
+Creation    Skill (Larceny 1)                          0       0       0
+Creation    Skill (Occult 1)                           0       0       0
+Creation    Skill (Occult 2)                           0       0       0
+Creation    Skill (Occult 3)                           0       0       0
+Creation    Skill (Persuasion 2)                       0       0       0
+Creation    Skill (Persuasion 2)                       0       0       0
+Creation    Skill (Socialise 1)                        0       0       0
+Creation    Skill (Stealth (Obfuscate 2))              0       0       0
+Creation    Skill (Stealth 1)                          0       0       0
+Creation    Skill (Stealth 2)                          0       0       0
+MC          MC (14 #2515)                           + 90      90      90
+MC          Other (Background)                      +  5      95      95
+MC          Other (IC Bio)                          +  2      97      97
+MC          Discipline (Cruac 1)                    -  7      90      97
+MC          Discipline (Cruac 2)                    - 14      76      97
+MC          Discipline (Cruac 3)                    - 21      55      97
+MC          Discipline (Nightmare 1)                -  5      50      97
+MC          Discipline (Nightmare 2)                - 10      40      97
+MC          Merit (Necropolis (Catacombs) 1)        -  2      38      97
+MC          Merit (Necropolis (Catacombs) 2)        -  4      34      97
+MC          Merit (Necropolis (Dark Temple) 2)      -  4      30      97
+MC          Merit (Necropolis (Lab Guardians) 3)    -  6      24      97
+MC          Merit (Necropolis (Sepulchres) 1)       -  2      20      97
+MC          Merit (Necropolis (Spectre) 1)          -  2      22      97
+MC          Merit (True Worm 3)                     -  6      14      97
+MC          Skill (Academics 1)                     -  3      11      97
+MC          Skill (Subterfuge 1)                    -  3       8      97
+2012/10/20  Game (Birmingham Requiem)               +  4      12     101
+2012/11/17  Game (Cambridge FGotM - Birmingham)     +  4      16     105
+2012/11/17  Overcap (Cambridge FGotM)               +  3      19     108
+
+To buy:

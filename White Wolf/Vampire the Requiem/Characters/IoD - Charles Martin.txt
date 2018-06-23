@@ -1,0 +1,446 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - 
+VSS - 
+
+Name: Charles Martin
+DoB: 1979/07/11 (27)
+DoD: 2007/10/13 (3)
+Concept - Perfect butler.
+
+Clan: Ventrue
+    Bloodline: Melissidae   #UK-UK-LR-0802-87201
+Covenant: Lancea Sanctum
+    Creed: Westminster
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (4):          ¦Social (3):
+        Intelligence    4   ¦   Strength        2   ¦    Presence           2
+        Wits            2   ¦   Dexterity       3   ¦   Manipulation        2
+         Resolve        3   ¦   Stamina         2   ¦   Composure           4
+                            ¦       Resilience  2   ¦                       
+
+Skills:
+    Mental (11):            ¦Physical (7):          ¦Social (4):
+        Academics       3   ¦   Athletics       3   ¦   Animal Ken          3
+            Law             ¦                       ¦       *Feral Whispers 
+                            ¦                       ¦       Insects         
+                            ¦                       ¦       *Obedience      
+        Computer        2   ¦   Brawl           1   ¦   Empathy             1
+        Craft           0   ¦   Drive           0   ¦   Expression          2
+                            ¦                       ¦       *Mesmerise      
+        Investigation   1   ¦   Firearms        0   ¦   Intimidate          0
+                            ¦                       ¦       *Command        
+        Medicine        3   ¦   Larceny         0   ¦   Persuasion          1
+            Haematology     ¦                       ¦                       
+        Occult          2   ¦   Stealth         0   ¦   Socialise           2
+        Politics        2   ¦   Survival        0   ¦   Streetwise          0
+        Science         2   ¦   Weaponry        0   ¦   Subterfuge          1
+            Biology         ¦                       ¦                       
+
+Merits:
+    Power Stat (Blood Potency)              3
+    Status (Ventrue)                        1
+    Status (Lancae Sanctum)                 2
+    Status (London)                         0
+
+                                                Shared  Pool
+    Allies (Haulage Firms) (• to •••••)     1
+    Contacts (• to •••••)                   1
+        Doctors
+    Herd (• to •••••)                       1
+    Inherited Resistance    (•• or ••••) *pre: Ventrue, Animalism • or Dominate •    Ventrue p106
+    Language (Latin) (•)                    1
+    Resources (• to •••••)                  5
+    Retainer (A) (• to •••••)               1
+    Retainer (B) (• to •••••)               1
+    Retainer (C) (• to •••••)               1
+    Retainer (D) (• to •••••)               1
+    Retainer (E) (• to •••••)               1
+    Retainer (F) (• to •••••)               1
+    Retainer (G) (• to •••••)               1
+    Retainer (H) (• to •••••)               1
+    Retainer (I) (• to •••••)               1
+    Retainer (J) (• to •••••)               1
+
+                                                Shared  Pool
+    Haven ():
+        Location                            2
+        Security                            5
+        Size                                3
+        Tomb                                3
+
+Disciplines:            Dots    Cost    Pool
+     Animalism          5
+        Feral Whispers          N/A     11  Mani + AniK + Spec + Anim
+        Obedience               N/A     11  Pres + AniK + Spec + Anim - Com
+        Call of the Wild        1vt     10  Pres + AniK + Spec + Anim
+        Subsume the Lesser      1vt     10  Mani + AniK + Spec + Anim v Com
+        Leashing the Beast      1vt      8  Mani + Empa + Spec + Anim v Comp + BP
+    
+     Auspex             5
+        Clash of Wills          N/A      8  Wits + Inve + Spec + Ausp v Reso + Stea + Obf
+        Heightened Senses       N/A    N/A
+        Aura Perception         N/A     10  Inte + Empa + Spec + Ausp - Comp - Occu
+        Spirit's Touch          N/A      9  Wits + Occu + Spec + Ausp v Reso + BP
+        Telepathy               1wp     11  Inte + Soci + Spec + Ausp - Res
+        Twilight Projection     1wp     11  Inte + Occu + Spec + Ausp
+    
+    Dominate            5
+        Command                 N/A      9  Inte + Inti + Spec + Domi v Reso + BP
+        Mesmerise               N/A     12  Inte + Expr + Spec + Domi v Reso + BP
+        The Forgetful Mind      N/A      8  Wits + Pers + Spec + Domi - Res
+        Conditioning            1wp      8  Wits + Subf + Spec + Domi v Reso + BP
+        Possession              1wp      8  Inte + Inti + Spec + Domi v Res
+    
+    Theban              3       1wp     10  Inte + Acad + Spec + Theb
+        1 Blood Scourge                 MET:R p204
+        1 Vitae Reliquary               MET:R p205
+        2 Bird of Sin                   LS p196
+        2 Liar's Plague                 MET:R p205
+        3 Lash Beyond Death             LS p198
+        3 Scrivner's Eye                Nom p94
+    
+    Resilience          2
+
+Devotions:                      XP 
+    Body Colony                 18
+        Source - B:tL p113
+        Animalism 3, Dominate 3
+        Action: Contested
+        Cost: 1 Vitae
+        Duration: N/A
+        Pull:  10  Pres + AniK + Spec + Anim
+        Defence: v Comp + BP
+        Description: 
+    
+    Hive Induction              21
+        Source - B:tL p113
+        Animalism 5, Dominate 4
+        Action: Extended
+        Cost: 5vt, 3wp
+        Duration: N/A
+        Pull:  6  Pres + Inti + Spec + Domi
+        Defence: v Comp
+        Description: 
+    
+    Honeycomb Heart             12
+        Source - B:tL p113
+        Animalism 2, Resilience 2
+        Action: Instant
+        Cost: 2 Vitae
+        Duration: N/A
+        Pull:  6  Stre + Surv + Spec + Anim
+        Defence: N/A
+        Description: 
+    
+    Mock Mind                   21
+        Source - B:tL p115
+        Auspex 4, Dominate 3
+        Action: Instant
+        Cost: 2vt
+        Duration: N/A
+        Pull:  10  Inte + Empa + Spec + Domi
+        Defence: N/A
+        Description: 
+    
+    Small Witness                6
+        Source - B:tL p112
+        Animalism 1, Auspex 2
+        Action: Instant
+        Cost: 1vt
+        Duration: Scene
+        Pull:  10  Mani + AniK + Spec + Anim
+        Defence: 
+        Description: 
+    
+    Swarm Communion             
+        Source - B:tL p110
+        Animalism 4, Dominate 3
+        Action: Contested
+        Cost: 1vt, 1wp
+        Duration: Scene
+        Pull: Pres + Mani + Spec + Anim
+        Defence: v Comp + BP
+        Description: 
+
+Morality:   Lost    Gained  Derangements
+    10      
+    9       
+    8       
+    7       
+    6       
+    5   *   
+    4       
+    3       
+    2       
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+
+Other:
+    Virtue: Faith
+    Vice: Pride
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |-1|-2|-3|
+    
+    Willpower: Resolve(3) + Composure(2) = 5
+    |  |  |  |  |  |
+    
+    Vitae = Max 11, 1 / turn
+    |S |  |  |H |  |  |  |  |  |  |
+    |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(3),Wits(3)) = 3
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(3) + Composure(2) + FR(0) = 5
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(2) + Dexterity(3) + FoF(0) = 10
+
+Approvals:
+    Secondary to Primary    #UK-UK-LR-0807-94476
+
+Notes:
+    
+
+--- BACKGROUND ---
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Composure 3)                0       0       0
+Creation        Attribute (Composure 4)                0       0       0
+Creation        Attribute (Dexterity 2)                0       0       0
+Creation        Attribute (Dexterity 3)                0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Intelligence 3)             0       0       0
+Creation        Attribute (Intelligence 4)             0       0       0
+Creation        Attribute (Presence 2)                 0       0       0
+Creation        Attribute (Resolve 2)                  0       0       0
+Creation        Attribute (Resolve 3) - Free point     0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Wits 2)                     0       0       0
+Creation        Discipline (Animalism 1)               0       0       0
+Creation        Discipline (Animalism 2)               0       0       0
+Creation        Discipline (Dominate 1)                0       0       0
+Creation        Merit (Language (Latin) 1)             0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Resources 1)                    0       0       0
+Creation        Merit (Resources 2)                    0       0       0
+Creation        Merit (Resources 3)                    0       0       0
+Creation        Skill (Academics (Law))                0       0       0
+Creation        Skill (Academics 1)                    0       0       0
+Creation        Skill (Academics 2)                    0       0       0
+Creation        Skill (Academics 3)                    0       0       0
+Creation        Skill (Animal Ken 1)                   0       0       0
+Creation        Skill (Animal Ken 2)                   0       0       0
+Creation        Skill (Athletics 1)                    0       0       0
+Creation        Skill (Athletics 2)                    0       0       0
+Creation        Skill (Athletics 3)                    0       0       0
+Creation        Skill (Brawl 1)                        0       0       0
+Creation        Skill (Computer 1)                     0       0       0
+Creation        Skill (Computer 2)                     0       0       0
+Creation        Skill (Expression 1)                   0       0       0
+Creation        Skill (Expression 2)                   0       0       0
+Creation        Skill (Investigation 1)                0       0       0
+Creation        Skill (Medicine (Haematology))         0       0       0
+Creation        Skill (Medicine 1)                     0       0       0
+Creation        Skill (Medicine 2)                     0       0       0
+Creation        Skill (Medicine 3)                     0       0       0
+Creation        Skill (Science (Biology))              0       0       0
+Creation        Skill (Science 1)                      0       0       0
+Creation        Skill (Science 2)                      0       0       0
+Creation        Skill (Socialise 1)                    0       0       0
+Creation        Skill (Socialise 2)                    0       0       0
+Creation        Skill (Subterfuge 1)                   0       0       0
+MC              MC (1)                              + 50      50      50
+MC              Attributes (Manipulation 2)         - 10      40      50
+MC              Disciplines (Dominate 2)            - 10      30      50
+MC              Disciplines (Resilience 1)          -  5      25      50
+MC              Skill (Animal Ken (Feral Whispers)) -  3      22      50
+MC              Skill (Animal Ken (Insects))        -  3      19      50
+MC              Skill (Animal Ken (Obedience))      -  3      16      50
+MC              Skill (Animal Ken 3)                -  9       7      50
+MC              Skill (Expression (Mesmerise))      -  3       4      50
+MC              Skill (Intimidate (Command))        -  3       1      50
+2007/11/10      Game (London Requiem)               +  4       5      54
+2007/11/10      Overcap (London Requiem (88060))    +  2       7      56
+2008/01/26      Game (Reading Requiem)              +  4      11      60
+2008/02/06      Downtime (Feb)                      +  2      13      52
+2008/02/17      Game (Stafford Requiem)             +  4      17      66
+2008/02/23      Game (Reading Requiem)              +  2      19      68
+2008/03/08      Game (London Requiem)               +  4      23      72
+2008/03/28      Game (Northern Regional - Friday)   +  2      25      74
+2008/03/28      Overcap (Northern Regional (88585)) +  2      27      76
+2008/04/04      Merit (Resources 4                  -  8      19      76
+2008/04/04      Merit (Haven (Security) 1)          -  2      17      76
+2008/04/04      Merit (Haven (Security) 2)          -  4      13      76
+2008/04/04      Merit (Haven (Size) 1)              -  2      11      76
+2008/04/04      Merit (Haven (Size) 1)              -  4       7      76
+2008/04/04      Merit (Haven (Size) 3)              -  6       1      76
+2008/04/04      Downtime (April)                    +  2       3      78
+2008/05/10      Game (London Requiem)               +  4       7      82
+2008/05/30      Game (UK National - Friday)         +  2       9      84
+2008/05/30      Overcap (UK National (91917))       +  3      12      87
+2008/06/14      Game (London Requiem)               +  4      16      91
+2008/07/12      Game (London Requiem)               +  4      20      95
+2008/07/12      RP (Award    London Requiem)        +  1      21      96
+2008/07/17      Discipline (Auspex 1)               -  5      16      96
+2008/07/17      Discipline (Dominate 3)             - 15       1      96
+2008/07/23      Other (Secondary to Primary -> MC6) +180     181     276
+2008/07/23      Attributes (Strength 2)             - 10     171     276
+2008/07/23      Devotion (Hive Induction)           - 21     150     276
+2008/07/23      Devotion (Honeycomb Heart)          - 12     138     276
+2008/07/23      Devotion (Small Witness)            -  6     132     276
+2008/07/23      Discipline (Animalism 3)            - 15     117     276
+2008/07/23      Discipline (Animalism 4)            - 20      97     276
+2008/07/23      Discipline (Animalism 5)            - 25      72     276
+2008/07/23      Discipline (Auspex 2)               - 10      62     276
+2008/07/23      Discipline (Dominate 4)             - 20      42     276
+2008/07/23      Discipline (Resilience 2)           - 10      32     276
+2008/07/23      Merit (Contacts (Doctors) 1)        -  2      30     276
+2008/07/23      Merit (Haven (Security) 3)          -  6      24     276
+2008/07/23      Merit (Haven (Security) 4)          -  8      16     276
+2008/07/23      Merit (Haven (Security) 5)          - 10       6     276
+2008/07/23      Merit (Herd 1)                      -  2       4     276
+2008/07/23      Merit (Retainer 1)                  -  2       2     276
+2008/07/23      Merit (Retainer 1)                  -  2       0     276
+2008/08/02      Game (Southwark Requiem)            +  4       4     280
+2008/08/02      Skill (Empathy 1)                   -  3       1     280
+2008/09/13      Game (London Requiem)               +  4       5     284
+2008/09/21      Other (Downtime)                    +  2       7     286
+2008/09/28      MC (7)                              + 20      27     306
+2008/10/02      Discipline (Theban 1)               -  7      20     306
+2008/10/02      Discipline (Theban 2)               - 14       6     306
+2008/10/02      Discipline (Theban Rite (1 Reliq)   -  0       6     306
+2008/10/02      Discipline (Theban Rite (1 Scourge) -  2       4     306
+2008/10/02      Discipline (Theban Rite (2 Liar's)  -  0       4     306
+2008/10/04      Game (Southern Regional)            +  4       8     310
+2008/10/04      Overcap (Southern Regional (98003)) +  2      10     312
+2008/10/11      Game (London Requiem)               +  2      12     314
+2008/10/25      Game (GIRC Requiem)                 +  3      15     317
+2008/11/14      Game (Southwark Requiem)            +  4      19     321
+2008/11/16      Discipline (Auspex 3)               - 15       4     321
+2008/11/16      Merit (Allies (Haluage Firm) 1)     -  2       2     321
+2008/11/16      Merit (Haven (Location) 1)          -  2       0     321
+2008/11/16      Other (Downtime)                    +  2       2     323
+2008/12/08      MC (8)                              + 20      22     343
+2008/12/13      Game (London Requiem)               +  4      26     347
+2008/12/15      Discipline (Dominate 5)             - 25       1     347
+2008/12/15      Downtime (December)                 +  2       3     349
+2008/12/15      Merit (Retainer 1)                  -  2       1     349
+2008/12/19      Game (Chapter Game)                 +  1       2     350
+
+2009/04/06      MC (9)                              + 60      62     410
+2009/05/21      MC (1)                              + 40     102     450
+2009/09/08      MC (10)                             + 20     122     470
+2010/01/07      MC (11)                             + 20     142     490
+2010/04/14      MC (12)                             + 60     202     550
+2010/08/04      MC (13)                             + 20     222     570
+2011/02/01      MC (14)                             + 20     242     590
+
+2011/04/24      Devotion (Body Colony)              - 18     224     550
+2011/04/24      Devotion (Mock Mind)                - 21     203     550
+2011/04/24      Devotion (Swarm Communion)          - 21     182     550
+2011/04/24      Discipline (Auspex 4)               - 20     162     550
+2011/04/24      Discipline (Auspex 5)               - 25     137     550
+2011/04/24      Discipline (Theban 3)               - 21     116     590
+2011/04/24      Discipline (Theban Rite (2 B o' S)) -  4     112     590
+2011/04/24      Discipline (Theban Rite (3 Lash BD))-  0     112     590
+2011/04/24      Discipline (Theban Rite (3 Scr Eye))-  6     106     590
+2011/04/24      Merit (Haven (Location) 2)          -  4     102     550
+2011/04/24      Merit (Haven (Tomb) 1)              -  2     100     550
+2011/04/24      Merit (Haven (Tomb) 2)              -  4      96     550
+2011/04/24      Merit (Haven (Tomb) 3)              -  6      90     550
+2011/04/24      Merit (Inherited Resistance 4)      -  8      82     550
+2011/04/24      Merit (Resources 5)                 - 10      72     550
+2011/04/24      Merit (Retainer (D) 1)              -  2      70     550
+2011/04/24      Merit (Retainer (E) 1)              -  2      68     550
+2011/04/24      Merit (Retainer (F) 1)              -  2      66     550
+2011/04/24      Merit (Retainer (G) 1)              -  2      64     550
+2011/04/24      Merit (Retainer (H) 1)              -  2      62     550
+2011/04/24      Merit (Retainer (I) 1)              -  2      60     550
+2011/04/24      Merit (Retainer (J) 1)              -  2      58     550
+2011/04/24      Power Stat (Blood Potency 3)        - 24      34     550
+2011/04/24      Skill (Occult 1)                    -  3      31     550
+2011/04/24      Skill (Occult 2)                    -  6      25     550
+2011/04/24      Skill (Persuasion 1)                -  3      22     550
+2011/04/24      Skill (Politics 1)                  -  3      19     550
+2011/04/24      Skill (Politics 2)                  -  6      13     550
+
+To buy:
+                Devotion (Hounds of Blood)          - 15
+                Devotion (Royal Jelly)              -  5
+                Devotion (Sting)                    - 18
+
+Remaining Theban rituals:
+1 Celibacy                  LS p194
+1 Messenger's Mark          Nom p94
+1 Paladin's Absolution      Cote p127
+1 Sinner Song               LS p196
+1 Theban Inscription        LS p196
+
+2 Curse of Babel            MET:R p205
+2 Damned Radiance           LS p197
+2 Prison of Denial          LS p197
+2 Resistance of Discipline  LS p197
+2 Wings of the Seraph       Nom p94
+
+3 Blandishment of Sin       MET:R p206
+3 Blood Fire                LS p197
+3 Legionnaire's Blessing    LS p198
+3 Malediction of Despair    MET:R p206
+3 Visions of the Will       LS p199
+
+4 Call of Amoniel           LS p199
+4 Gift of Lazarus           MET:R p206
+4 Mark of the Damned        LS p200
+4 Sacred Haven              Nom p95
+4 Song of the Prey          LS p201
+4 Stigmata                  MET:R p207
+
+5 Fires of Vengeance        LS p202
+5 Imprecation of Sin        LS p203
+5 Rain of Blood             LS p204
+5 Transubstantiation        MET:R p207
+5 Wrathful Judgement        MET:R p208
+
+
+Restricted:
+1 Angel's Touch                 RfR p117
+1 Crown of Thorns               LS p194
+1 Hauberk of Blood              LS p194
+
+2 Lightning Rod                 AncMys p71
+2 Sanctity                      LS p197
+
+3 Blessing of Judas Thomas      FotC p178
+3 Micah's Hope                  RfR p117
+3 Pharaoh's Paces               LS p198
+3 Sanguine Clarity              AncMys p72
+3 Whispers Through Time         AncMys p72
+
+4 Display of the Beast          LS p200
+4 Purifying Light               FotC p170
+4 Spear of Faith                LS p201
+4 The Invisible                 AncMys p72
+
+5 Damned's Day                  LS p201
+5 Martyr's Miracle              RfR p117
+5 Night of Hell                 LS p204
+5 Piece of Mind                 AncMys p72

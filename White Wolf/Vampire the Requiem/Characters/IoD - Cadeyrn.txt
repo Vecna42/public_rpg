@@ -1,0 +1,372 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - "Matt Sanderson" <sidestorm@hotmail.com>
+VSS - Southwark Requiem
+
+Name: Cadeyrn
+DoB: Approximately 300BC    #Re303/#600
+DoD: Approximately 300BC
+    Apparent age 25, actual age over 2000.
+Concept - Battle hardened warrior-poet seeking redemption
+
+Clan: Gangrel
+    Bloodline: Childe of the Morrigan #Re302/#599
+Covenant: Circle of the Crone
+
+--- SHEET ---
+Attributes:
+    Mental (3):             ¦Physical (3):          ¦Social (4):
+        Intelligence    2*  ¦   Strength        4   ¦   Presence        2
+                            ¦       Vigour      3   ¦                   
+        Wits            3*  ¦   Dexterity       3   ¦   Manipulation    3
+        Resolve         2   ¦    Stamina        4   ¦    Composure      2
+                            ¦       Resilience  3   ¦                   
+
+Skills:
+    Mental (4):             ¦Physical (11):         ¦Social (7):
+        Academics       1   ¦   Athletics       2   ¦   Animal Ken      2
+            Strategy        ¦                       ¦       Crows       
+        Computer        1   ¦   Brawl           5   ¦   Empathy         1
+                            ¦       Claws           ¦                   
+        Craft           1   ¦   Drive           0   ¦   Expression      0
+        Investigation   1   ¦   Firearms        0   ¦   Intimidate      2
+        Medicine        0   ¦   Larceny         2   ¦   Persuasion      0
+        Occult          2   ¦   Stealth         2   ¦   Socialise       0
+        Politics        0   ¦   Survival        2   ¦   Streetwise      1
+                            ¦       Tracking        ¦                   
+        Science         0   ¦   Weaponry        0   ¦   Subterfuge      2
+
+Merits:
+    Power Stat (Blood Potency)              4
+    Status (Gangrel)                        1
+    Status (Circle of the Crone)            1
+    Status (Southwark)                      3
+
+                                                Shared  Pool
+    Danger Sense (••)                       2
+    Fast Reflexes (• or ••)                 2
+    FS: Brute Force (• to •••••)StrAlc p57  4
+    Herd (• to •••••)                       2
+    Parkour (• to •••••)        StrAlc p74  5
+        1 Flow - Negate up to Parkour-dots (5) in hazardous terrain penalties when running or using foot chase rules.
+        2 Cat Leap - On Dext + Athl to mitigate falling damage, gain 1 automatic success and raise the threshold by Parkour-dots (5).
+        3 Wall Run - On Athl to climb, scale 10ft + 5ft per dot of Athl (2).  Every full 10ft beyond the first is a -1 penalty.
+        4 Expert Traceur - Sacrifice defence for a turn to make Athl rolls rote action.
+        5 Freeflow - If been running for 1min, Athl actions to run, jump, or climb become reflexive.  If less than 1min, must spend 1wp.
+    Swarm Mind (••) (Crows)     Gan p114    2
+    Swarm Mind (••) (Rat)       Gan p114    2
+
+                                                Shared  Pool
+    Temple:
+        Altar (• to ••)                     2
+        Library (• to •••••)                0
+        Location (• to •••••)               2
+        Security (• to •••••)               3
+        Size (• to •••••)                   1
+
+Disciplines:            Dots    Cost    Pool
+    Animalism           5
+        Feral Whispers          N/A     10  Mani + AniK + Spec + Anim
+        Obedience               N/A      9  Pres + AniK + Spec + Anim - Com
+        Call of the Wild        1vt      9  Pres + AniK + Spec + Anim
+        Subsume the Lesser      1vt     10  Mani + AniK + Spec + Anim v Com
+        Leashing the Beast      1vt      9  Mani + Empa + Spec + Anim v Comp + BP
+    Celerity            2       1vt/turn
+    Cruac               5       1vt     10  Mani + Occu + Spec + Crua
+                                        +2  + Altar
+        1 Balancing the Four Humours    Nom p93
+        2 Prey's Blood                  Gan p116
+        3 Touch of the Morrigan         MET:R p201
+        4 Bleeding the Tarantula        Nom p93
+        5 Feeding the Crone             MET:R p202
+    Protean             5
+        Aspect of the Predator  N/A    N/A
+        Haven of Soil           1vt    N/A
+            + Wood, Water, Natural Stone, Processed Stone
+        Claws of the Wild       1vt    N/A
+        Shape of the Beast      1vt    N/A
+            Crow
+            Rat
+        Body of Spirit          1vt    N/A
+    Resilience          3       1vt/scene
+    Vigor               3       1vt/scene
+
+Devotions:                      XP
+    Body of Will                15
+        Source - MET:R 212
+        Resilience 3, Vigour 1
+        Action: Reflexive
+        Cost: 1v
+        Duration: Turn / success
+        Pull: 7  Comp + Athl + Spec + Resi
+        Defence: N/A
+        Description: Ignore wound penalties for turns equal to successes.
+    Instantaneous Tran          18
+        Source - MET:R 213
+        Celerity 2, Protean 4
+        Action: Reflexive
+        Cost: 1v (plus costs of Protean)
+        Duration: N/A
+        Pull: 10(13)  Stam (+Resi) + Surv + Spec + Prot
+        Defence: N/A
+        Description: Protean shift away from normal becomes a reflexive action. Remains instant action if Devotion pull fails.
+    Partial Tran                15
+        Source - MET:R 214
+        Protean 4, Resilience 1
+        Action: Instant
+        Cost: 1v
+        Duration: Scene
+        Pull: N/A
+        Defence: N/A
+        Description: Allows the character to add features of an animal they can turn into, instead of turning into that animal. Can provide a +1 or +2 bonus to tests if appropriate.
+
+Morality:   Lost    Gained  Derangements
+    10      
+    9       
+    8       
+    7       
+    6       
+    5   *   
+    4       
+    3       
+    2       
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+
+Other:
+    Virtue: Charity
+    Vice: Envy
+    
+    Health: Size(5) + Stamina(4) + Resilience (3) = 12
+    |  |  |  |  |  |  |  |  |  |-1|
+    |-2|-3|
+        Crow health: |  |  |  |  |  |-1|-2|-3|
+    
+    Willpower: Resolve(2) + Composure(2) = 4
+    |  |  |  |  |
+    
+    Vitae = Max 13, 2 / turn
+    |S |  |  |H |  |  |  |  |  |  |
+    |  |  |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(3),Wits(3)) = 3
+        Defence (3) + Celerity (2) = 5
+        Defence (3) + Crow (2)     = 5
+        Defence (3) + Cel + Crow   = 7
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(3) + Composure(2) + FR(2) = 7
+        Initiative (7) + Celerity (2) = 9
+    
+    Acting Speed = 5
+        Acting (5) + Celerity (2) = 7
+    
+    Speed: 5 + Strength(4) + Dexterity(3) + FoF(0) = 12
+        Speed (12) + Vigour (3)         15
+        Speed (12) + Celerity (2)       28
+        Speed (12) + Cel (2) + Vig (3)  34
+
+Animal forms:
+    Carrion Crow:
+        Strength drops to 1
+        Fly at Running Speed 20
+            +15 with Vigour  35
+            +2  with Cele    22
+            +17 with both    37
+        +3 to scent-based draws
+        +2 defence
+    
+    Rat:
+        
+    
+    Wolf:
+        Lethal damage, +1 to attack pools
+        Running Speed doubled   24
+            +3 with Vigour      27
+            +2 with Cele        26
+            +5 with both        29
+        +2 to perception draws
+
+        As a wolf, the vampire’s claws
+and teeth infl ict lethal damage and add a +1 bonus to attack pools, Running Speed is doubled,
+and a +2 bonus is added to any Wits + Composure draws to be aware of events that happen in
+the wolf’s environment.
+
+Approvals:
+    Cannon NPC interaction (The Unholy)         #Re305/#601
+
+Notes:
+
+--- BACKGROUND ---
+Born in what would eventually be East Anglia around 300BC, Cadeyrn grew up in relative poverty as a farmer's son.  However, among the vampires who lived and prayed on that part of the world there was a powerful Seer who saw the distant invasion of the shores of her land by the iron clad soldiers of Rome, and he was earmarked for ... greater things.  The Seer began to manipulate his life around him until he was driven into her arms, and into the arms of the Goddess she served.
+Some hundred or so years later, when the Romans (and alongside them the kindred of the Camarilla) arrived in his lands, the mortal queen Boudica led and uprising against them which was ultimately a failure (although slim and the Emperor Nero did consider withdrawing his forces from Briton...).  The vampires fared as poorly, if not worse.  The Julii of the Senex of the Camarilla, so sure of themselves and arrogantly accompanied the Legio Mortem to the conquest of the isles.  The battle between the wild vampires and the discipline of the Legio was over all too soon...
+It was in his dark hour that Cadeyrn was finally allowed out from the preparations and rituals his sire had kept him locked away performing.  Embraced in magic, tutored in violence, let lose among blood, and imbued with the animalistic power of the Gangrel, he took to his new existence with aplomb.  Sadly, as young and weak as he still was (malnourished and isolated for two hundred years, his vitae had not thickened as it should and he had only the strength of one embraced but fifty years) he was no match for the training and power of Rome
+So, ended his all too brief life as a 'free' vampire.  From that moment forward, he bounced around from master to master, always the 'savage' Gangrel called upon to combat threats to small to bother the local Legio presence with, and the rest of the time kept locked up like a wild animal.
+In time, his Beast and his Blood grew stronger within him, and as the Camarilla control began to slacken, the heathen teachings of his sire 'came into vogue' once more and when finally freed he joined the nascent Circle of the Crone.
+As his understanding and control over the dark blood magics grew, his sanity began to erode.  Soon he began to revel in the pleasure of others and would pick fights simply to show he was the top dog, the Alpha of the pack.  Conflict begat conflict, and soon a spiral of violence erupted around him.  Fuelled by a raging Beast, he took on more and more foes, larger and larger targets, until eventually it all caught up with him...
+Reduced to rock bottom, and with the Man most definitely subsumed within the Beast, one blow proved to be too many and he slipped into the sleep of ages, melding with the earth where he fell.  Sinking down, down, down.  Out of sight, out of mind, out of memory, and out of time...
+
+The sun came and went, the moon passed over, and the stars wheeled around the heavens.  A thousand years moved on without him, and when he finally burst from the ground he found himself in an age and a place unknown to him.  The Man, restored by his sleep to a better level of control looked out through his eyes and saw many things which he did not understand.  Attempting to understand, he strode out across the dark fields of England looking for someone to talk to...
+The language barrier of course proved an issue at first, but scholars were found eager to study a living (or undead) relic of the past and soon he was being taught about the advances in technology, culture, and society that had appeared by the late 800s AD-early 900s.
+But he couldn't cope.  Not this time.  The Beast still raged within him, and all too soon he found himself hounded across the land by members of the Invictus, feudal lords who took not at all kindly to his desire to feast on the flesh and the very essence of those vampires around him.  Once more, the Beast began to extend it's tendrils throughout his mind and before long he wound up with a stake through the heart and a burial slot under the watchful gaze of the Lancae Sanctum.  Believing it not their place to judge kindred's actions, but that they must be preserved until Judgement Day when God himself would perform the task, Cadeyrn's torpored form was placed along side other such offenders of the faith in stone clad vaults deep within the earth, and left to slumber away the centuries.
+
+Indeed, the centuries did roll on by.  The stake, of poor quality and infrequently checked, soon rotted away leaving Cedeyrn to sleep out a natural cycle of restorative torpor.  Surprised by the attacker who felled him in a single blow, his Beast had not the time to rage up inside him before it slept, and so as the nights whirled past he slumbered more peacefully than before and the ameliorating effects of the millennium were more pronounced when he awoke again in the late 1800s.  Emerging from his vault, he found the Sanctified guardians long gone, either sleeping or dead, their charge forgotten by younger members of the faith.
+Seeking out, this time, more of his own kind; the pagans of his youth rather than the priests of before, he eventually made contact with more of the Crone and began the slow process of acclimatising properly to the time in which he found himself.
+
+Now read on...
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    - 
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Intelligence 2)                 0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Manipulation 3)                 0       0       0
+Creation    Attribute (Presence 2)                     0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Stamina 2)                      0       0       0
+Creation    Attribute (Stamina 3)                      0       0       0
+Creation    Attribute (Stamina 4) - Free point         0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Strength 3)                     0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Discipline (Animalism 1)                   0       0       0
+Creation    Discipline (Animalism 2)                   0       0       0
+Creation    Discipline (Animalism 3)                   0       0       0
+Creation    Merit (Brawling Dodge 1)                   0       0       0
+Creation    Merit (Power Stat (BP) 2)                  0       0       0
+Creation    Merit (Power Stat (BP) 2)                  0       0       0
+Creation    Merit (Power Stat (BP) 2)                  0       0       0
+Creation    Merit (Power Stat (BP) 3)                  0       0       0
+Creation    Merit (Power Stat (BP) 3)                  0       0       0
+Creation    Merit (Power Stat (BP) 3)                  0       0       0
+Creation    Skill (Academics (Strategy))               0       0       0
+Creation    Skill (Animal Ken (Crows))                 0       0       0
+Creation    Skill (Animal Ken 2)                       0       0       0
+Creation    Skill (Animal Ken 2)                       0       0       0
+Creation    Skill (Athletics 2)                        0       0       0
+Creation    Skill (Athletics 2)                        0       0       0
+Creation    Skill (Brawl (Claws))                      0       0       0
+Creation    Skill (Brawl 5)                            0       0       0
+Creation    Skill (Brawl 5)                            0       0       0
+Creation    Skill (Brawl 5)                            0       0       0
+Creation    Skill (Brawl 5)                            0       0       0
+Creation    Skill (Brawl 5)                            0       0       0
+Creation    Skill (Brawl 5)                            0       0       0
+Creation    Skill (Craft 1)                            0       0       0
+Creation    Skill (Empathy 1)                          0       0       0
+Creation    Skill (Intimidate 1)                       0       0       0
+Creation    Skill (Investigation 1)                    0       0       0
+Creation    Skill (Occult 2)                           0       0       0
+Creation    Skill (Occult 2)                           0       0       0
+Creation    Skill (Stealth 2)                          0       0       0
+Creation    Skill (Stealth 2)                          0       0       0
+Creation    Skill (Streetwise 1)                       0       0       0
+Creation    Skill (Subterfuge 2)                       0       0       0
+Creation    Skill (Subterfuge 2)                       0       0       0
+Creation    Skill (Survival 1)                         0       0       0
+MC          MC (13 #Re300/#597)                     +490     490     490
+MC          Other (Background)                      +  5     495     495
+MC          Other (IC Bio)                          +  2     497     497
+MC          Attribute (Dexterity 3)                 - 15     482     497
+MC          Attribute (Strength 4)                  - 20     462     497
+MC          Attribute (Wits 3)                      - 15     447     497
+MC          Devotion (Body of Will)                 - 15     432     497
+MC          Devotion (Instant Transformation)       - 18     414     497
+MC          Devotion (Partial Transformation)       - 15     399     497
+MC          Discipline (Celerity 1)                 -  7     392     497
+MC          Discipline (Celerity 2)                 - 14     378     497
+MC          Discipline (Cruac 1)                    -  7     371     497
+MC          Discipline (Cruac 2)                    - 14     357     497
+MC          Discipline (Cruac 3)                    - 21     336     497
+MC          Discipline (Cruac 4)                    - 28     308     497
+MC          Discipline (Cruac 5)                    - 35     273     497
+MC          Discipline (Cruac Rite (1 Bal 4H))      -  0     273     497
+MC          Discipline (Cruac Rite (2 Prey B))      -  0     273     497
+MC          Discipline (Cruac Rite (3 Touch M))     -  0     273     497
+MC          Discipline (Cruac Rite (4 Bleed T))     -  0     273     497
+MC          Discipline (Cruac Rite (5 Feed C))      -  0     273     497
+MC          Discipline (Protean 1)                  -  5     268     497
+MC          Discipline (Protean 2 (Nat Stone))      -  3     265     497
+MC          Discipline (Protean 2 (Pro Stone))      -  3     262     497
+MC          Discipline (Protean 2 (Water))          -  3     259     497
+MC          Discipline (Protean 2 (Wood))           -  3     256     497
+MC          Discipline (Protean 2)                  - 10     246     497
+MC          Discipline (Protean 3)                  - 15     231     497
+MC          Discipline (Protean 4 (Carrion Crow))   - 20     211     497
+MC          Discipline (Protean 5)                  - 25     186     497
+MC          Discipline (Resilience 1)               -  5     181     497
+MC          Discipline (Resilience 2)               - 10     171     497
+MC          Discipline (Resilience 3)               - 15     156     497
+MC          Discipline (Vigour 1)                   -  5     151     497
+MC          Discipline (Vigour 2)                   - 10     141     497
+MC          Discipline (Vigour 3)                   - 15     126     497
+MC          Merit (Blood Potency 4)                 - 32      94     497
+MC          Merit (Danger Sense 2)                  -  4      90     497
+MC          Merit (Fast Reflexes 2)                 -  4      86     497
+MC          Merit (FS: Brute Force 1)               -  2      84     497
+MC          Merit (FS: Brute Force 2)               -  4      80     497
+MC          Merit (FS: Brute Force 3)               -  6      74     497
+MC          Merit (FS: Brute Force 4)               -  8      66     497
+MC          Merit (Parkour 1)                       -  2      64     497
+MC          Merit (Parkour 2)                       -  4      60     497
+MC          Merit (Parkour 3)                       -  6      54     497
+MC          Merit (Parkour 4)                       -  8      46     497
+MC          Merit (Swarm Mind (Crows) 2)            -  4      42     497
+MC          Merit (Temple (Altar 2))                -  4      38     497
+MC          Merit (Temple (Location 1))             -  2      36     497
+MC          Merit (Temple (Location 2))             -  4      32     497
+MC          Merit (Temple (Security 1))             -  2      30     497
+MC          Merit (Temple (Security 2))             -  4      26     497
+MC          Merit (Temple (Security 3))             -  6      20     497
+MC          Merit (Temple (Size) 1)                 -  2      18     497
+MC          Skill (Academics 1)                     -  3      15     497
+MC          Skill (Intimidation 2)                  -  6       9     497
+MC          Skill (Larceny 1)                       -  3       6     497
+MC          Skill (Larceny 2)                       -  6       0     497
+MC          Other (Good Death XP Ulfric #Re301/#598)+ 20      20     517
+MC          Merit (Parkour 5)                       - 10      10     517
+2010/11/01  Downtime (November)                     +  2      12     519
+2010/11/06  Game (Southwark Requiem)                +  4      16     523
+2010/11/20  Game (Winter National)                  +  2      18     525
+2010/11/21  Overcap (Winter National)               +  6      24     531
+2010/11/23  Skill (Survival (Tracking))             -  3      21     531
+2010/11/23  Skill (Survival 2)                      -  6      15     531
+2010/12/03  Downtime (December)                     +  2      17     533
+2010/12/28  Game (Amsterdam Requiem)                +  4      21     537
+2010/12/29  Merit (Herd 1)                          -  2      19     537
+2010/12/29  Merit (Herd 2)                          -  4      15     537
+2010/12/29  Skill (Computer 1)                      -  3      12     537
+2011/01/29  Downtime (January)                      +  2      14     539
+2011/01/29  Game (Southwark Requiem)                +  4      18     543
+2011/01/29  Other (Bonus XP)                        +  1      19     544
+2011/01/31  Discipline (Animalism 4)                - 20     - 1     544
+2011/02/01  MC (14)                                 + 20      19     564
+2011/02/05  Downtime (February)                     +  2      21     566
+2011/02/05  Game (Southwark Requiem)                +  4      25     570
+2011/02/06  Discipline (Animalism 5)                - 25       0     570
+2011/03/04  Downtime (March)                        +  2       2     572
+2011/03/05  Game (Southwark Requiem)                +  4       6     576
+2011/03/05  Other (Bonus XP)                        +  1       7     577
+2011/03/30  Discipline (Protean 4 Form (Rat))       -  3       4     577
+2011/03/30  Merit (Swarm Mind (Rats) 2)             -  4       0     577
+2011/03/30  Game (Amsterdam Requiem)                +  2       2     579
+2011/03/30  Downtime (April)                        +  2       4     581
+2011/04/26  Discipline (Protean 4 Form (Wolf))      -  3       1     581
+2011/05/06  Downtime (May)                          +  2       3     583
+2011/05/07  Game (Southwark Requiem)                +  4       7     587
+
+To buy:
+            Discipline (Celerity 3)                 - 21    
+            Skill (Survival 3)                      -  9    
+            Skill (Survival 4)                      - 12    
+            Skill (Survival 5)                      - 15    

@@ -1,0 +1,519 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - "Jez Poppenbeck" <iodrequiem@gmail.com>
+VSS - 'Southwark'
+
+Name: Reuben Chance
+DoB: 1941/03/29 (25)
+DoD: 1986/10/13 (25)
+Concept - 
+
+Clan: Daeva
+    Bloodline: Amara Havana
+Covenant: Lancea Sanctum
+    Creed: Westminster
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    5   ¦   Strength        4   ¦   Presence            2
+                            ¦       Vigour      5   ¦                       
+        Wits            4   ¦   Dexterity       4   ¦   Manipulation        5
+        Resolve         4   ¦   Stamina         4   ¦   Composure           5
+                            ¦       Resilience  5   ¦                       
+
+Skills:
+    Mental (11):            ¦Physical (4):          ¦Social (7):
+        Academics       5   ¦   Athletics       1   ¦   Animal Ken          0
+            Prison of Denial¦                       ¦                       
+        Computer        1   ¦   Brawl           1   ¦   Empathy             3
+        Craft           0   ¦   Drive           0   ¦   Expression          1
+        Investigation   1   ¦   Firearms        0   ¦   Intimidate          5
+        Medicine        0   ¦   Larceny         2   ¦   Persuasion          2
+        Occult          4   ¦   Stealth         4   ¦   Socialise           1
+        Politics        0   ¦   Survival        0   ¦   Streetwise          1
+        Science         0   ¦   Weaponry        5   ¦   Subterfuge          5
+                            ¦       Trident         ¦       Lying           
+
+Merits:
+    Power Stat (Blood Potency)              4
+    Status (Daeva)                          1
+    Status (Lancae Sanctum)                 1
+    Status (Southwark)                      1
+
+                                                Shared  Pool
+    Cacophony Listener (••• to •••••)       5
+    Close Family (• to •••)     Daeva p117  3
+    Danger Sense (••)                       2
+    Disarm (••)                             2
+    Fast Reflexes (• or ••)                 2
+    Fleet of Foot (• to •••)                3
+    FS: Staff Fighting (• to •••)           3
+    Herd (• to •••••)                       2
+    Iron Stamina (• to •••)                 3
+    Language (Indian) (•)                   1
+    Language (Latin) (•)                    1
+    Language (Sanskrit) (•)                 1
+    Social Chameleon (• to •••)             3
+    Voyeur (••• or •••••)                   5
+    Weaponry Dodge (•)                      1
+    Well-Travelled (•)      Reliquary p85   1
+
+                                                Shared  Pool
+    Haven ():
+        Location                            2
+        Security                            5
+        Size                                3
+        Tomb                                3
+
+Disciplines:            Dots    Cost    Pool
+    Auspex              5
+        Clash of Wills          N/A     10  Wits + Inve + Spec + Ausp v Reso + Stea + Obf
+        Heightened Senses       N/A    N/A
+        Aura Perception         N/A     13  Inte + Empa + Spec + Ausp - Comp - Occu
+        Spirit's Touch          N/A     13  Wits + Occu + Spec + Ausp v Reso + BP
+        Telepathy               1wp     11  Inte + Soci + Spec + Ausp - Res
+        Twilight Projection     1wp     14  Inte + Occu + Spec + Ausp
+    Celerity            5
+    Dominate            2
+        Command                 N/A     12  Inte + Inti + Spec + Domi v Reso + BP
+        Mesmerise               N/A      8  Inte + Expr + Spec + Domi v Reso + BP
+    Majesty             5
+        Awe                     N/A      8  Pres + Expr + Spec + Maje - Occu
+        Revelations             1vt     12  Mani + Pers + Spec + Maje - Occu v Comp + BP
+        Entrancement            N/A     13  Mani + Empt + Spec + Maje - Occu v Comp + BP
+        Summoning               1vt     12  Mani + Pers + Spec + Maje - Occu v Comp + BP
+        Sovereignty             1wp     12  Pres + Inti + Spec + Maje - Occu v Comp + BP
+    Obfuscate           4
+        Touch of Shadow         N/A     10  Wits + Larc + Spec + Obfu + Occu
+        Mask of Tranquillity    N/A     12  Wits + Stea + Spec + Obfu + Occu
+        Cloak of Night          N/A     13  Inte + Stea + Spec + Obfu + Occu
+        Familiar Stranger       N/A     13  Wits + Subt + Spec + Obfu + Occu
+    Resilience          5
+    Sakti Pata          5       Ancient Bloodlines, page 50-52
+        Halahala               1wp+1+vt 18  Stam + Occu + Spec + Sakt
+            Create toxin with rating Sux + BP (L)
+        Gift of Indra           1vt+1L  19  Stam + Weap + Spec + Sakt
+            Create a weapon or armour.  Lethal damage to create a cut for the blood to come out of, only need to take it once a scene.  If the weapon is reabsorbed, the vitae is regained.  Releasing the weapon turns it back to vitae.
+        Rudra's Blessing        1wp    N/A
+            Spend one extra vitae per turn than normal, but only for healing.
+        Durga's Kiss            1wp    N/A
+            Refill blood in rain.
+        Yama's Benefice         1wp    N/A
+            Go to blood form.
+    Theban              3       1wp     13  Inte + Acad + Spec + Theb
+        1 Vitae Reliquary                   MET:R p205
+        2 Bird of Sin                       LS p196
+        2 Liar's Plague                     MET:R p205
+        2 Prison of Denial              +1  LS p197
+        3 Lash Beyond Death                 LS p198
+            Yama's Benefice
+    Vigor               5
+
+Devotions:                      XP
+    Dance of the Kali           24
+        Source - AncBlo p52
+        Celerity 3, Sakti Pata 5
+        Action: Reflexive
+        Cost: 1wp+1vt
+        Duration: N/A
+        Pull: N/A
+        Defence: N/A
+        Description: 
+
+    Disquieting Mien             6
+        Source - Brood 143
+        Master's Will, Majesty 1
+        Action: Instant
+        Cost: 1v
+        Duration: One scene
+        Pull: 12  Pres + Inti + Maje 
+        Defence: Reso + BP (Compare one roll from vampire vs each target's resistance separately)
+        Description: Affects everyone within 10 yards.  Those who fail to resist take a -2 penalty to all Composure rolls.  The Beast purrs softly and agitates everyone around him.
+
+    Mesmeric Taint              12
+        Source - Brood 143
+        Predator's Allure, Majesty 3
+        Action: 
+        Cost: N/A
+        Duration: 
+        Pull: 13  Mani + Empa + Maje
+        Defence: vs Comp + BP
+        Description: When a kindred fails a Predator's Taint check, they must make a check to avoid being Entranced rather than succumbing to frenzy.
+
+    Night Life                  10
+        Source - Daeva p118
+        Majesty 1, Vigour 1
+        Action: Instant
+        Cost: 1vt, 1wp
+        Duration: Until dawn
+        Pull: N/A
+        Defence: N/A
+        Description: 
+
+    Perfect Stranger            21
+        Source - MET:R, 211
+        Auspex 4, Obfuscate 4
+        Action: Contested
+        Cost: 1 Vitae
+        Duration: Scene
+        Pull: 14  Inte + Subt + Obfu + Occu
+        Defence: vs. Resolve + BP
+        Description: 
+
+    Pre-emptive Reflex          24
+        Source - AncMyst 78
+        Auspex 1, Celerity 5
+        Action: Reflexive
+        Cost: 2v
+        Duration: N/A
+        Pull: N/A
+        Defence: N/A
+        Description: Activate this power at any time during a turn in response to an attack or physical threat. Move up to his maximum Speed, adjusted by Celerity. This ability negates all successes gained in a single roll to attack him and provides complete success in any roll made to determine his defence in a physical situation. This power may only be used once per turn, but may be utilized at any time regardless of the vampire's other actions for the turn. If the vampire takes no other actions that turn, he can use this Devotion as many times as his Vitae expenditure allows.
+
+    Quicken Sight                5
+        Source - MET:R p214
+        Auspex 1, Celerity 1
+        Action: Reflexive
+        Cost: 1 Vitae
+        Duration: Scene
+        Pull: N/A
+        Defence: N/A
+        Description: +5 to Wits+Composure test pool for observing moving too quickly for normal sight.
+
+    Veridical Tongue            12
+        Source - MET:R p215
+        Dominate 2, Majesty 2
+        Action: Instant
+        Cost: 1vt
+        Duration: Minutes / sux
+        Pull: 12  Pres + Subt + Spec + Maje
+        Defence: - Comp
+        Description: Target must speak the truth for the duration, but may remain silent if they wish instead.
+
+Morality:   Lost    Gained  Derangements
+    10      
+    9       
+    8       
+    7       
+    6       Glossolalia
+    5       Tongue of the Beast
+    4   *   
+    3       
+    2       
+    1       
+
+Investments:                Type    Cost    Pool
+    Beast Sense             Pneuma  1vt     N/A                             Instant
+        Sense the Beast of vampires in 'line of sight'.
+    Blood Calls to Blood    Soma    1wp      8  Mani + Empt vs Stam + BP    Instant
+        Summon blood from target or which is split.  Moves at speed 10 as long as concentrating.  Enters vamp at 2 points per turn.
+    Blood Curse             Soma    2vt     10  Inte + Subt vs Stam + BP    Contested
+        Successes inflict agg damage to mortals and lethal to vampires, for turns per successes.
+    Blood of the Beast      Soma    N/A     N/A                             Reflexive
+        Spend one extra vitae per turn than normal, but only for healing.
+    Blood Rage              Soma    1vt     N/A                             Reflexive
+        Add BP to a physical dice pool.
+    Fire in the Head        Pneuma  1wp      8  Mani + Empt - Comp          Reflexive
+        Steal the WP from someone who fulfils their vice, gain 2wp.
+    Led By Thirst           Soma    N/A     N/A                             N/A
+        Add BP to Initiative for physical actions.
+    Master's Will           Soma    N/A      4  BP                          Reflexive
+        Second chance to resit Rotschreck (fear).
+    Predator's Allure       Soma    1-3vt   N/A                             Reflexive
+        Add +2 to a single Social dice pool
+    Scent of Socius         Pneuma  N/A      8  Wits + Occu                 Instant
+        Know direction and distance to those with blood sympathy.
+    Strike of the Adversary Soma    1vt     N/A                             Reflexive
+        Move to the top of the initiative.
+    Unfeeling Skin          Sarx    1vt     N/A                             Reflexive
+        +3 armour for one turn
+    Veil of Flame           Sarx    1vt     N/A                             Reflexive
+        Fire damage becomes bashing for the scene
+    Warp Corpse             Sarx    1vt      5  Dext + Athl                 Instant
+        Fit through an opening too small to normally allow it.
+    Way of the Marauder     Soma    1wp     N/A                             Reflexive
+        Make half BP number of physical attacks on turn.  Half defence until next turn.
+    Pneuma benefit - Appears to be Humanity 7 (+3) when dealing with mortals.
+
+Equipment:      Size    Dur Bonus   Cap     Other
+    Trident     4/N     3   4(L)    -       +1 defence
+
+Other:
+    Virtue: 
+    Vice: Envy or Greed
+    
+    Health: Size(5) + Stamina(4) + Resilience(5) = 14
+    |  |  |  |  |  |
+    |  |  |  |  |  |
+    |  |  |  |  |
+    
+    Willpower: Resolve(4) + Composure(5) = 9
+    |  |  |  |  |  |
+    |  |  |  |  |
+    
+    Vitae = Max 13, 2 / turn (+2 for healing only)
+    |S |  |  |H |  |  |  |  |  |  |
+    |  |  |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(4),Wits(4))                =  4
+        Defence(4) + Trident(1) + FS(3)               =  8
+        Defence(4) + Celerity(5)                      =  9
+        Defence(4) + Trident(1) + FS(3) + Celerity(5) = 13
+    Armour: 0 / 0
+        Armour(0/0) + Unfeeling Skin(3/3)   3 / 3
+        Armour(0/0) + Gift of Indra(4/4)    4 / 4
+        Armour(0/0) + US(3/3) + GoI(4/4)    7 / 7
+    
+    Initiative: Dexterity(4) + Composure(5) + FR(2) = 11
+        Initiative(11) + BP(4)                      = 15    (Physical actions)
+        Initiative(11) + Celerity(5)                = 16
+        Initiative(11) + BP(4) + Celerity(5)        = 20    (Physical actions)
+    
+    Acting Speed                =  5
+        Speed (5) + Celerity(5) = 10
+    
+    Speed: 5 + Strength(4) + Dexterity(4) + FoF(3) = 16
+        Speed(16) + Vigour(5)                      = 21
+        Speed(16) + Celerity(5)                    = 42
+        Speed(16) + Celerity(5) + Vigour(5)        = 52
+
+Approvals:
+    
+
+Notes:
+    
+
+--- BACKGROUND ---
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Composure 3)                0       0       0
+Creation        Attribute (Composure 4)                0       0       0
+Creation        Attribute (Dexterity 2) - Free point   0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Intelligence 3)             0       0       0
+Creation        Attribute (Intelligence 4)             0       0       0
+Creation        Attribute (Intelligence 5)             0       0       0
+Creation        Attribute (Intelligence 5)             0       0       0
+Creation        Attribute (Manipulation 2)             0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Stamina 3)                  0       0       0
+Creation        Attribute (Strength 2)                 0       0       0
+Creation        Discipline (Celerity 1)                0       0       0
+Creation        Discipline (Celerity 2)                0       0       0
+Creation        Discipline (Celerity 3)                0       0       0
+Creation        Merit (Language (Latin) 1)             0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 3)              0       0       0
+Creation        Merit (Power Stat (BP) 3)              0       0       0
+Creation        Merit (Power Stat (BP) 3)              0       0       0
+Creation        Skill (Academics (Prison of Denial))   0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Intimidate 1)                   0       0       0
+Creation        Skill (Intimidate 2)                   0       0       0
+Creation        Skill (Intimidate 3)                   0       0       0
+Creation        Skill (Investigation 1)                0       0       0
+Creation        Skill (Larceny 2)                      0       0       0
+Creation        Skill (Larceny 2)                      0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Stealth 2)                      0       0       0
+Creation        Skill (Stealth 2)                      0       0       0
+Creation        Skill (Subterfuge (Lying))             0       0       0
+Creation        Skill (Subterfuge 1)                   0       0       0
+Creation        Skill (Subterfuge 2)                   0       0       0
+Creation        Skill (Subterfuge 3)                   0       0       0
+Creation        Skill (Subterfuge 4)                   0       0       0
+Creation        Skill (Weaponry (Spear))               0       0       0
+NPC XP          MC (14)                             +510     510     510
+NPC XP          Chronicle (2005 - Jan to Dec)       +240     750     750
+NPC XP          Chronicle (2006 - Jan to Dec)       +240     990     990
+NPC XP          Chronicle (2007 - Jan to Dec)       +240    1230    1230
+NPC XP          Chronicle (2008 - Jan to Dec)       +240    1470    1470
+NPC XP          Chronicle (2009 - Jan to Dec)       +240    1710    1710
+NPC XP          Chronicle (2010 - Jan to Dec)       +240    1950    1950
+NPC XP          Chronicle (2011 - Jan to Aug)       +160    2110    2110
+--- Secondary ---
+NPC XP          Attribute (Presence 2)              - 10    2100    2110
+NPC XP          Attribute (Resolve 2)               - 10    2090    2110
+NPC XP          Attribute (Wits 2)                  - 10    2080    2110
+NPC XP          Discipline (Theban 1 (Reliquary))   -  0    2080    2110
+NPC XP          Discipline (Theban 1)               -  7    2073    2110
+NPC XP          Discipline (Theban 2 (Bird of Sin)) -  0    2073    2110
+NPC XP          Discipline (Theban 2 (Liar))        -  4    2069    2110
+NPC XP          Discipline (Theban 2 (Prison))      -  4    2065    2110
+NPC XP          Discipline (Theban 2)               - 14    2051    2110
+NPC XP          Merit (Close Family 1)              -  2    2049    2110
+NPC XP          Merit (Close Family 2)              -  4    2045    2110
+NPC XP          Merit (Close Family 3)              -  6    2039    2110
+NPC XP          Merit (Herd 1)                      -  2    2037    2110
+NPC XP          Skill (Computer 1)                  -  3    2034    2110
+NPC XP          Skill (Empathy 1)                   -  3    2031    2110
+NPC XP          Skill (Expression 1)                -  3    2028    2110
+NPC XP          Skill (Persuasion 1)                -  3    2025    2110
+NPC XP          Skill (Persuasion 2)                -  6    2019    2110
+NPC XP          Skill (Socialise 1)                 -  3    2016    2110
+NPC XP          Skill (Streetwise 1)                -  3    2013    2110
+--- NPC ---
+NPC XP          Attribute (Composure 5)             - 25    1988    2110
+NPC XP          Attribute (Dexterity 3)             - 15    1973    2110
+NPC XP          Attribute (Manipulation 3)          - 15    1958    2110
+NPC XP          Attribute (Manipulation 4)          - 20    1938    2110
+NPC XP          Attribute (Manipulation 5)          - 25    1913    2110
+NPC XP          Attribute (Resolve 3)               - 15    1898    2110
+NPC XP          Attribute (Resolve 4)               - 20    1878    2110
+NPC XP          Attribute (Strength 3)              - 15    1863    2110
+NPC XP          Attribute (Wits 3)                  - 15    1848    2110
+NPC XP          Devotion (Dance of the Kali)        - 24    1824    2110
+NPC XP          Devotion (Disquieting Mien)         -  6    1818    2110
+NPC XP          Devotion (Mesmeric Taint)           - 12    1806    2110
+NPC XP          Devotion (Night Life)               - 10    1796    2110
+NPC XP          Devotion (Perfect Stranger)         - 21    1775    2110
+NPC XP          Devotion (Pre-emptive Reflex)       - 24    1751    2110
+NPC XP          Devotion (Quicken Sight)            -  5    1746    2110
+NPC XP          Devotion (Veridical Tongue)         - 12    1734    2110
+NPC XP          Discipline (Auspex 1)               -  7    1727    2110
+NPC XP          Discipline (Auspex 2)               - 14    1713    2110
+NPC XP          Discipline (Auspex 3)               - 21    1692    2110
+NPC XP          Discipline (Auspex 4)               - 28    1664    2110
+NPC XP          Discipline (Majesty 1)              -  5    1659    2110
+NPC XP          Discipline (Majesty 2)              - 10    1649    2110
+NPC XP          Discipline (Majesty 3)              - 15    1634    2110
+NPC XP          Discipline (Celerity 4)             - 20    1614    2110
+NPC XP          Discipline (Celerity 5)             - 25    1589    2110
+NPC XP          Discipline (Dominate 1)             -  7    1582    2110
+NPC XP          Discipline (Dominate 2)             - 14    1568    2110
+NPC XP          Discipline (Majesty 4)              - 20    1548    2110
+NPC XP          Discipline (Majesty 5)              - 25    1523    2110
+NPC XP          Discipline (Obfuscate 1)            -  7    1516    2110
+NPC XP          Discipline (Obfuscate 2)            - 14    1502    2110
+NPC XP          Discipline (Obfuscate 3)            - 21    1481    2110
+NPC XP          Discipline (Obfuscate 4)            - 28    1453    2110
+NPC XP          Discipline (Resilience 1)           -  7    1446    2110
+NPC XP          Discipline (Resilience 2)           - 14    1432    2110
+NPC XP          Discipline (Resilience 3)           - 21    1411    2110
+NPC XP          Discipline (Resilience 4)           - 28    1383    2110
+NPC XP          Discipline (Resilience 5)           - 35    1348    2110
+NPC XP          Discipline (Salti Pata 1)           -  5    1343    2110
+NPC XP          Discipline (Salti Pata 2)           - 10    1333    2110
+NPC XP          Discipline (Salti Pata 3)           - 15    1318    2110
+NPC XP          Discipline (Salti Pata 4)           - 20    1298    2110
+NPC XP          Discipline (Salti Pata 5)           - 25    1273    2110
+NPC XP          Discipline (Theban 1 (Blood Scour)) -  2    1271    2110
+NPC XP          Discipline (Theban 3 (Lash Beyond)) -  0    1271    2110
+NPC XP          Discipline (Theban 3)               - 21    1250    2110
+NPC XP          Discipline (Vigour 1)               -  5    1245    2110
+NPC XP          Discipline (Vigour 2)               - 10    1235    2110
+NPC XP          Discipline (Vigour 3)               - 15    1220    2110
+NPC XP          Discipline (Vigour 4)               - 20    1200    2110
+NPC XP          Discipline (Vigour 5)               - 25    1175    2110
+NPC XP          Investment (Beast Sense)            -  8    1167    2110
+NPC XP          Investment (Blood Calls to Blood)   - 16    1151    2110
+NPC XP          Investment (Blood Curse)            - 24    1127    2110
+NPC XP          Investment (Blood of the Beast)     - 32    1095    2110
+NPC XP          Investment (Blood Rage)             - 40    1055    2110
+NPC XP          Investment (Fire in the Head)       - 48    1007    2110
+NPC XP          Investment (Led By Thirst)          - 56     951    2110
+NPC XP          Investment (Master's Will)          - 64     887    2110
+NPC XP          Investment (Predator's Allure)      - 72     815    2110
+NPC XP          Investment (Scent of Socius)        - 80     735    2110
+NPC XP          Investment (Strike o' the Adversary)- 88     647    2110
+NPC XP          Investment (Unfeeling Skin)         - 96     551    2110
+NPC XP          Investment (Veil of Flame)          -104     447    2110
+NPC XP          Investment (Warp Corpse)            -112     335    2110
+NPC XP          Investment (Way of the Marauder)    -120     215    2110
+NPC XP          Merit (Cacophony Listener 3)        -  6     209    2110
+NPC XP          Merit (Cacophony Listener 4)        -  8     201    2110
+NPC XP          Merit (Cacophony Listener 5)        - 10     191    2110
+NPC XP          Merit (Danger Sense 2)              -  4     187    2110
+NPC XP          Merit (Disarm 2)                    -  4     183    2110
+NPC XP          Merit (Fast Reflexes 2)             -  4     179    2110
+NPC XP          Merit (Fleet of Foot 1)             -  2     177    2110
+NPC XP          Merit (Fleet of Foot 2)             -  4     173    2110
+NPC XP          Merit (Fleet of Foot 3)             -  6     167    2110
+NPC XP          Merit (Iron Stamina 1)              -  2     165    2110
+NPC XP          Merit (Iron Stamina 2)              -  4     161    2110
+NPC XP          Merit (Iron Stamina 3)              -  6     155    2110
+NPC XP          Merit (Language (Indian) 1)         -  2     153    2110
+NPC XP          Merit (Language (Sanskrit) 1)       -  2     151    2110
+NPC XP          Merit (Power Stat (BP) 4)           - 32     119    2110
+NPC XP          Merit (Social Chameleon 1)          -  2     117    2110
+NPC XP          Merit (Social Chameleon 2)          -  4     113    2110
+NPC XP          Merit (Social Chameleon 3)          -  6     107    2110
+NPC XP          Merit (Voyeur 5)                    - 10      97    2110
+NPC XP          Merit (Weaponry Dodge 1)            -  2      95    2110
+NPC XP          Merit (Well-Travelled 1)            -  2      93    2110
+NPC XP          Skill (Athletics 1)                 -  3      90    2110
+NPC XP          Skill (Brawl 1)                     -  3      87    2110
+NPC XP          Skill (Empathy 2)                   -  6      81    2110
+NPC XP          Skill (Empathy 3)                   -  9      72    2110
+NPC XP          Skill (Intimidate 4)                - 12      60    2110
+NPC XP          Skill (Intimidate 5)                - 15      45    2110
+NPC XP          Skill (Stealth 3)                   -  9      36    2110
+NPC XP          Skill (Stealth 4)                   - 12      24    2110
+NPC XP          Skill (Subterfuge 5)                - 15       9    2110
+NPC XP          Skill (Weaponry 1)                  -  3       6    2110
+NPC XP          Skill (Weaponry 2)                  -  6       0    2110
+NPC XP          Chronicle (2011 September)          + 20      20    2130
+NPC XP          Skill (Weaponry 3)                  -  9      11    2130
+NPC XP          Chronicle (2011 October)            + 20      31    2150
+NPC XP          Merit (Herd 2)                      -  4      27    2150
+NPC XP          Skill (Weaponry 4)                  - 12      15    2150
+NPC XP          Skill (Weaponry 5)                  - 15       0    2150
+NPC XP          Chronicle (2011 November)           + 20      20    2170
+NPC XP          Attribute (Strength 4)              - 20       0    2170
+NPC XP          Chronicle (2011 December)           + 20      20    2190
+NPC XP          Attribute (Stamina 4)               - 20       0    2190
+NPC XP          Chronicle (2012 January)            + 20      20    2210
+NPC XP          Attribute (Wits 4)                  - 20       0    2210
+NPC XP          Chronicle (2012 February)           + 20      20    2230
+NPC XP          Attribute (Dexterity 4)             - 20       0    2230
+NPC XP          Chronicle (2012 March)              + 20      20    2250
+NPC XP          Chronicle (2012 April)              + 20      40    2270
+NPC XP          Discipline (Auspex 5)               - 35       5    2270
+NPC XP          Chronicle (2012 May)                + 20      25    2290
+NPC XP          Merit (FS: Staff Fighting 1)        -  2      23    2290
+NPC XP          Merit (FS: Staff Fighting 2)        -  4      19    2290
+NPC XP          Merit (FS: Staff Fighting 3)        -  6      13    2290
+
+
+Remaining Theban rituals:
+1 Celibacy                          LS p194
+1 Messenger's Mark                  Nom p94
+1 Paladin's Absolution              Cote p127
+1 Sinner Song                       LS p196
+1 Theban Inscription                LS p196s
+
+2 Curse of Babel                    MET:R p205
+2 Damned Radiance                   LS p197
+2 Resistance of Discipline          LS p197
+2 Wings of the Seraph               Nom p94
+
+3 Blandishment of Sin               MET:R p206
+3 Blessing of Judas Thomas          FotC p178
+3 Blood Fire                        LS p197
+3 Legionnaire's Blessing            LS p198
+3 Malediction of Despair            MET:R p206
+3 Micah's Hope                      RfR p117
+3 Sanguine Clarity                  AncMys p72
+3 Scrivner's Eye                    Nom p94
+3 Visions of the Will               LS p199

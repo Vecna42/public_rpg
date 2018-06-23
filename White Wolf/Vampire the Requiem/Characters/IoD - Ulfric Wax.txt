@@ -1,0 +1,589 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - "Mike Nudd" <london.requiem@gmail.com>
+VSS - London Requiem
+
+Name: Ulfric Wax
+DoB: 1124/10/14 (24)    #Re18
+DoD: 1148/05/27 (885)
+Concept - Blind elder, hungry for cold revenge
+
+Clan: Nosferatu
+    Bloodline: Baddacelli   #Re20
+Covenant: Invictus
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (5):          ¦Social (3):
+        Intelligence    3   ¦   Strength        4   ¦   Presence            2
+                            ¦       Vigour      3   ¦
+        Wits            2   ¦   Dexterity       2   ¦   Manipulation        2
+        Resolve         2   ¦   Stamina         2   ¦   Composure           3
+                            ¦       Resilience  1   ¦
+
+Skills:
+    Mental (7):             ¦Physical (4):          ¦Social (11):
+        Academics       1   ¦   Athletics       2   ¦   Animal Ken          2
+        Computer        0   ¦   Brawl           3   ¦   Empathy             1
+                            ¦       Touch           ¦
+                            ¦       Grapple         ¦
+        Craft           1   ¦   Drive           0   ¦   Expression          1
+        Investigation   2   ¦   Firearms        1   ¦   Intimidate          4
+                            ¦                       ¦       Threat
+        Medicine        1   ¦   Larceny         2   ¦   Persuasion          4
+        Occult          2   ¦   Stealth         1   ¦   Socialise           1
+        Politics        3   ¦   Survival        3   ¦   Streetwise          3
+        Science         1   ¦   Weaponry        2   ¦   Subterfuge          1
+
+Merits:
+    Power Stat (Blood Potency)              4
+    Status (Nosferatu)                      2
+    Status (Invictus)                       2
+    Status (London)                         2
+
+                                                Shared  Pool
+    Allies (Haulage Firms)                  1
+    Contacts (• to •••••)                   2
+        Haulague Firms
+        Gangs
+    Direction Sense (•)                     1
+    Fleet of Foot (• to •••)                1
+    FS: Grappling                           4
+        -1 penalty per level to resisting or breaking grapples.
+    Herd (• to •••••)                       2
+    Resources (• to •••••)                  3
+    Retainer (•to•••••) (1 Men)             1
+    Retainer (•to•••••) (2 Soc)             1
+    Retainer (•to•••••) (3 Phy)             1
+    Retainer (•to•••••) (Ghoul)             3
+    Staff (• to •••••) Ghouls 74            3
+        Drivers
+        Household
+        Security
+
+    Haven (Watford House):                      Shared  Pool
+        Location (• to •••••)               2
+        Security (• to •••••)               4
+        Size (• to •••••)                   3
+    
+    (Watford Necropolis)
+    Necropolis (•to•••••) Nos113            4
+        Bleak Annals (•t •••••)                 0
+        Caldarium (••••or•••••)                 0
+        Catacombs (• to •••••)                  2
+        Dark Temple (••)                        0
+        Garbage Pit (••)                        0
+        Lab Guardians (•••)                     1
+        Sepulchres (• to •••••)                 1
+        Spectre (• to •••••)                    0
+        Trapdoor (• to •••)                     0
+    
+    (London Necropolis)
+    Necropolis (•to•••••) Nos113            2
+        Bleak Annals (•t •••••)                 0
+        Caldarium (••••or•••••)                 0
+        Catacombs (• to •••••)                  2
+        Dark Temple (••)                        0
+        Garbage Pit (••)                        0
+        Lab Guardians (•••)                     0
+        Sepulchres (• to •••••)                 0
+        Spectre (• to •••••)                    0
+        Trapdoor (• to •••)                     0
+
+Disciplines:            Dots    Cost    Pool
+    Animalism           0
+    Auspex              1
+        Clash of Wills          N/A      5  Wits + Inve + Spec + Ausp v Reso + Stea + Obf
+        Heightened Senses       N/A     N/A
+    Celerity            1
+    Dominate            2
+        Command                 N/A      9  Inte + Inti + Spec + Domi v Reso + BP
+        Mesmerise               N/A      6  Inte + Expr + Spec + Domi v Reso + BP
+    Majesty             0
+    Mimetismo           4
+        Certain Sounds          N/A     N/A
+        Impersonation           1vt      8  Inte + Subt + Spec + Mime
+        Cacophony               1vt      7  Wits + Expr + Spec + Mime
+        Echolocation            1wp      9  Wits + Surv + Spec + Mime
+    Nightmare           5
+        Monstrous Countenance   N/A     11  Pres + Inti + Spec + Nigh v Comp + BP
+        Dread                   1vt      8  Mani + Empa + Spec + Nigh v Comp + BP
+        Eye of the Beast        1vt      8  Pres + Empa + Spec + Nigh v Comp + BP
+        Shatter the Mind        1wp      8  Mani + Empa + Spec + Nigh v Comp + BP
+        Mortal Fear             1wp     11  Pres + Inti + Spec + Nigh - Comp
+    Obfuscate           3
+        Touch of Shadow         N/A      7  Wits + Larc + Spec + Obfu + Occ
+        Mask of Tranquillity    N/A      6  Wits + Stea + Spec + Obfu + Occ
+        Cloak of Night          N/A      7  Inte + Stea + Spec + Obfu + Occ
+    Protean             3
+        Aspect of the Predator  N/A     N/A
+        Haven of Soil           1vt     N/A
+            + Natural Stone, Processed Stone
+        Claws of the Wild       1vt     N/A
+    Resilience          1
+    Vigour              3
+
+Devotions:                      XP
+    This Awful Grip              9
+        Source - Nos p111
+        Nightmare 1, Vigour 2
+        Action: Reflexive
+        Cost: 1vt
+        Duration: N/A
+        Pull:  8  Pres + Braw + Spec + Vigour
+        Defence: N/A
+        Description: Ignore points in durability or armour up to BP (4).  Only applies to attacks with hands.
+    
+    Wicked Grasp                 9
+        Source - Nos p111
+        Nightmare 2, Vigour 1
+        Action: Reflexive
+        Cost: 1vt
+        Duration: N/A
+        Pull: 11(+3)  Stre(+Vig) + Athl + Spec + Nigh
+        Defence: N/A
+        Description: Target of grapple goes to end of iniative and subtracts dots in Nightmare from attempts to break holds.
+
+Morality:   Lost    Gained  Derangements
+    10      
+    9       
+    8       
+    7       3
+    6       
+    5                       Paranoia
+    4       1               Multiple Personality Disorder
+    3   *   
+    2       
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+
+Other:
+    Virtue: 
+    Vice: 
+    Flaw: 
+    
+    Health: Size(5) + Stamina(2) + Resilience (1) = 8
+    |  |  |  |  |  |  |  |  |
+    Wound:          -1 -2 -3
+    
+    Willpower: Resolve(2) + Composure(3) = 5
+    |  |  |  |  |  |
+    
+    Vitae = Max 13, 2 / turn
+    |  |  |  |  |  |  |  |  |  |  |  |  |  |
+     S (-2)   H (-1)
+    
+    Size: 5
+    Defence: Min(Dexterity(2),Wits(2)) = 2
+        Defence + Celerity = 3
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(2) + Composure(3) + FR(0) = 5
+        Initiative + Celerity = 6
+    
+    Acting Speed = 5
+        Acting + Cel = 6
+    
+    Speed: 5 + Strength(4) + Dexterity(2) + FoF(1) = 12
+        Speed + Celerity  = 26
+        Speed + Vigour    = 15
+        Speed + Cel + Vig = 32
+
+Approvals:
+    Dual Primary        #Re19
+
+Notes:
+    
+
+Ghoul 1:
+    Name: Andrew Hostewick
+    Virtue: Hope    Vice: Pride
+    Ghoul family: Hostewick
+        Advantage: Gain 9 again on all perception rolls to observe humans, ghouls, or vampires
+        Weakness: Must spend a Willpower to speak at all during a scene
+    Regnant: Jacobe Wax, Nosferatu Invictus
+    
+    Inte 3, Stre 2, Pres 0
+    Wits 2, Dext 2, Mani 2
+    Reso 3, Stam 3, Comp 4
+    
+    Acad 2, Athl 1, Anim 0
+    Comp 1, Braw 1, Empa 2
+    Craf 2, Driv 0, Expr 1
+    Inve 2, Fire 0, Inti 0
+    Medi 2, Larc 1, Pers 1
+    Occu 2, Stea 2, Soci 1
+    Poli 1, Surv 2, Stre 0
+    Scie 1, Weap 0, Subt 1
+    
+    Specs: 
+    Merits: Bureaucractic Navigator 2, Resources 3, Staff 2, Unobtrusive 4
+    Disciplines: Vigour 1
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Health: 8  |  |  |  |  |  |  |  |  |
+    Wpower: 7  |  |  |  |  |  |  |  |
+    Size: 5
+    Initiative: 6
+    Defence: 2
+    Acting: 5   Speed: 9
+
+Retainer (Alf) 1:
+    Name: Alf
+    Virtue: Prudence    Vice: Greed
+    
+    Inte 3, Stre 2, Pres 1
+    Wits 2, Dext 2, Mani 2
+    Reso 3, Stam 2, Comp 4
+    
+    Acad 3, Athl 1, Anim 0
+    Comp 0, Braw 0, Empa 1
+    Craf 1, Driv 0, Expr 3
+    Inve 0, Fire 0, Inti 0
+    Medi 1, Larc 2, Pers 1
+    Occu 3, Stea 1, Soci 1
+    Poli 1, Surv 0, Stre 0
+    Scie 2, Weap 0, Subt 1
+    
+    Specs: Academics (Libraries), Medicine (First Aid), Science (Preserving Books)
+    Merits: Eidetic Memory 2, Encyclopaedic Knowledge 4, Status (British Library) 1
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 7  |  |  |  |  |  |  |  |
+    Size: 5
+    Initiative: 6
+    Defence: 2
+    Acting: 5   Speed: 9
+
+Retainer (Armatige) 2:
+    Name: Armatige
+    Virtue: Charity     Vice: Pride
+    
+    Inte 2, Stre 2, Pres 3
+    Wits 2, Dext 2, Mani 2
+    Reso 3, Stam 2, Comp 3
+    
+    Acad 2, Athl 1, Anim 0
+    Comp 1, Braw 0, Empa 2
+    Craf 0, Driv 1, Expr 2
+    Inve 1, Fire 0, Inti 1
+    Medi 1, Larc 1, Pers 2
+    Occu 0, Stea 0, Soci 2
+    Poli 2, Surv 0, Stre 0
+    Scie 0, Weap 1, Subt 2
+    
+    Specs: Empathy (Lies), Expression (Lies), Persuasion (Seduction)
+    Merits: Barfly 1, Resources 3, Staff 1, Striking Looks 2
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 6  |  |  |  |  |  |  |
+    Size: 5
+    Initiative: 5
+    Defence: 2
+    Acting: 5   Speed: 9
+
+Retainer (Simon) 3:
+    Name: Simon
+    Virtue: Justice     Vice: Wrath
+    
+    Inte 2, Stre 3, Pres 2
+    Wits 3, Dext 3, Mani 2
+    Reso 2, Stam 2, Comp 2
+    
+    Acad 0, Athl 1, Anim 0
+    Comp 2, Braw 0, Empa 0
+    Craf 1, Driv 1, Expr 0
+    Inve 1, Fire 1, Inti 2
+    Medi 2, Larc 1, Pers 1
+    Occu 0, Stea 0, Soci 0
+    Poli 1, Surv 1, Stre 1
+    Scie 0, Weap 3, Subt 0
+    
+    Specs: Brawl (Boxing), Brawl (Punching), Survival (Bleeding)
+    Merits: Ambidextrous 3, Danger Sense 2, Fast Reflexes 1, FS: Boxing 1
+    Equipment:  Size    Dur Bonus   Cap Other
+        .38     1/S         2(L)    6   20/40/80
+    
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Size: 5
+    Initiative: 5
+    Defence: 3
+    Acting: 5   Speed: 11
+
+--- BACKGROUND ---
+Background:
+
+CHARACTER QUESTIONS
+
+4. What most motivates your character to interact with other characters? What fears, joys, or other emotions drive him or her? What are his or her goals? What is your character willing to die for? What inspires your character?
+
+Ulfric is motivated to interact with other characters for a number of reasons:
+* He interacts with the Wax family out of a vague sense of family loyalty.  He doesn't always like all of them, or their paths in the Requiem, but he will still talk to them if he has to.
+* The Nosferatu as a whole he treats much as they are, an extended family.  Useful for sometimes 
+* The Invictus are almost a second family to him.  Or they were before members of them betrayed him.  Now, he is motivated by revenge.  Cold and slow revenge that befits the elder that he is, but revenge none-the-less.
+* Other characters beyond that, he interacts with only if he thinks doing so will a) further his revenge aims, b) help to mask the fact he's after revenge, c) to use as investigation pawns, d) to use as a distraction to others.
+
+
+
+****
+5. How does your character interact with the mundane world? (If your character possesses any supernatural qualities, please describe how he or she avoids undue attention from ordinary people.) 
+
+Whilst being a member of the Nosferatu clan, Ulfric has been 'blessed' with creepyness not derived from physical deformity.  Therefore, he can pass amongst the kine with 'relative' ease.  However, he frequently makes use of a) Obfuscate and b) underground sewers and tunnels with which London abounds.  These nights, due to the loss of eyes, he prefers to send his retainers and staff to do his business with the mortal world.
+
+
+
+****
+SUPERNATURAL QUESTIONS
+
+6. What faction or group (Covenant/Clan, Path/Order, Seeming/Court, Auspice/Tribe etc.) does your character most feel a part of? Why that group? How does their relationship to the group affect his or her dealings with other groups he or she is a part of? (For example, if lineage is most important, how does this impact his/her views of clan and covenant?) 
+
+For many centuries, Ulfric felt most at home among the First Estate.  That changed a decade ago when an unknown quantity sold him out, and betrayed him to the point of blindness.  Since then, he has been sheltering among the Nosferatu he calls family.  Therefore, these nights, he feels most a part of his clan.
+
+
+
+Timeline in 50 year blocks, with the major incidents and life-defining moments set out.  Also included, mortal events that interact with his life.
+
+1124-1148: Kine
+- 1124:
+-- October ~ 14th, Born Ulfric Wulfbane, son of Ulfwulf and Ettaræd.
+- 1135 ~ Start of The Anarchy - 19 year war for the throne of England between Stephen and Matilda.
+- 1140 ~ Joins the army, and fights in Stephen's name.  Moves south towards London during the next eight years.
+- 1144 ~ Marries Edith.
+- 1145 ~ First son is born.
+- 1147 ~ Second son is born.
+
+1148-1149: Kindred
+- 1148:
+-- May ~ 27th, Embraced by Marion Wax.  Drains his wife to death in feeding frenzy.  Children are killed by sire.
+- 1149 ~ Spends time learning about being a kindred, how to feed, how to make kine and kindred terrified, and how to hide the bestial nature of the clan.
+1150-1199:
+- 1154 ~ End of The Anarchy.
+- 1162 ~ Torpor following fight.
+- 1165 ~ Wakes from torpor.  First slight personality shift - spends a decade lurking in the catacombs below a monastery, observing religious practices.  Spends much time talking to the local Lancea Sanctum but ultimately does not truly feel the calling of the Second Estate.
+- 1175 ~ Moves out of monastery and begins to work his way south. 
+- 1189-1192 ~ The Third Crusade draws much of the army of England away to Jerusalem, and leaves England ripe for a thug-for-hire.  Ulfric slips naturally into the role, becoming a bodyguard for hire for kindred in and around London.  Works in the area a few days travel north of London, mostly.
+1200-1249:
+- 1240 ~ First encounteres Benedict Ridel.
+- 1245 ~ Moves to London properly, and soon finds work as a backstreet thug and all-round mean guy.  Makes a name for himself with Richard of Lincoln, and works primarily for him.
+- 1248 ~ Embraced Benedict Wax.
+1250-1299:
+- 1269 ~ Petitions to join the Invictus.  Enters a training phase.
+- 1274 ~ Accepted into the Invictus.
+1300-1349:
+- 1305 ~ Blood potency gets too high, and goes into voluntary torpor.  Wakes in a 243 years.
+1350-1399: Torpor
+1400-1449: Torpor
+1450-1499: Torpor
+1500-1549: Torpor
+- 1548 ~ Wakes from torpor.  Spends remainder of year watching the kindred of London.
+- 1549 ~ Returns to society as Jacobe Wax, childe of Ulfric Wax, and starts to set himself up as a businessman.  Having watched the market, and spent a long time considering, he makes full use of his retainers' judgement in many matters financial.  He is shrewd enough to realise that as a kindred, he has yet to get a real grasp of how things work some 400 years after his death.  Ends up trading in 'quack remedies', and 'religious salves'.  Traded a few things through the Night Markets, but mostly avoided them as symbols of the refined kindred he was not.
+1550-1599:
+- 1551 ~ As Sweating Sickness sweeps the country, he recognises the chance to capitalise on the symptoms to terrify people.  The symptoms were easily replicated with careful application of Nightmare from under Obfuscate, and could be used to trick people into believing they were dying.  Makes a small fortune selling 'miracle cures'.
+-- Symptoms - The disease began very suddenly with a sense of apprehension, followed by cold shivers (sometimes very violent), giddiness, headache and severe pains in the neck, shoulders and limbs, with great exhaustion. After the cold stage, which might last from half an hour to three hours, the hot and sweating stage followed. The characteristic sweat broke out suddenly without any obvious cause. Accompanying the sweat, or after that was poured out, was a sense of heat, headache, delirium, rapid pulse, and intense thirst. Palpitation and pain in the heart were frequent symptoms. No skin eruptions were noted by observers including Caius. In the final stages, there was either general exhaustion and collapse, or an irresistible urge to sleep, which was thought to be fatal if the patient was permitted to give way to it. One attack did not offer immunity, and some people suffered several bouts before succumbing.
+- 1562 ~ Moved out to the small village of Watford, and claims it in the name of the Invictus.
+- 1563 ~ Recognised as Earl of Watford by the Inner Circle.
+1600-1649:
+- 1632 ~ Staked by rival and buried out of the way.
+1650-1699:
+- 1667 ~ Unstaked when body eventually found by the Invictus following the Great Fire, which had revealed many locations previously hidden by buildings.  Personality had shifted again, and as he rebuilds his business connections, he returned to his more traditional Nosferatu roots and deals in prostitution.  This torpor also begins to muck up his brain with regards to remembering his lineage.  Starts to believe he *is* the childe of Ulfric Wax.
+- 1668 ~ Discovers identity of the rival.
+- 1694 ~ Recognised as Marquis of Watford, and establishes his main haven there, with a secondary haven in London providing links into the growing sewer network below the city.
+1700-1749:
+- 1704 ~ Finally enacts revenge on rival, and feels slight satisfaction as the kindred falls into torpor and is safely staked and taken away by Jacobe's retainers and buried.
+- 1711 ~ Attended the first cross-domain gathering of Southwark and London.
+1750-1799:
+- 1794 ~ Acquires Peter Lomas as a ghoul.
+1800-1849:
+1850-1899:
+- 1851 ~ For reward for services rendered over the past 56 years embraces Peter Lomas, who takes the name Peter Lomas-Wax in an attempt to be more 'posh'.
+- 1870 ~ Peter Lomas leaves London for Cambridge, following an argument between him and Jacobe.  Jacobe publicly claims to have no childe called Peter for the next 40 years.
+1900-1949:
+- 1909 ~ Observes from a distance as Peter Lomas is staked and buried for a hundred years.
+- 1914-1918 ~ WW1.
+- 1922 ~ Scammell Lorries Limited opens a factory in Watford.
+1950-1999:
+- 1939-1945 ~ WW2.  Spends a lot of time haunting the tube tunnels and terrifying kine who stray too close to his Necropolis.  His business suffers, but doesn't falter due to having been left in the hands of his retainers.
+- 1951 ~ Accidentally falls into torpor briefly following a fight.
+- 1955 ~ Scammell Lorries Limited gets bought up by Layland Motors Ltd.
+- 1964 ~ Wakes up again, and starts to build up business contacts again.  Spots a gap in the market for transport, as kindred attempt to travel further afield.  Over time, buys up a few haulage businesses and van companies.  Takes much interest in Scammell Lorries Limited.
+- 1982 ~ First hires Carl Johansen to take care of some ... business.
+- 1988 ~ Scammell Lorries closes down.
+2000-2009:
+- 2003:
+-- March: Signs a deal with The Guild of Marathons of the Invictus regarding providing transport.
+- 2004:
+-- September: Goes missing.  Ghouls age over the next couple of months, and many die.  Remaining ghouls and retainers go slightly mad and vanish.
+- 2007 ~ Turns up on Iva Wax's doorstep in the arms of his remaining retainers.  His mind has snapped, and his body is broken and his eyes are missing.
+- 2008 ~ Travels to Norfolk to talk to Eve the Nosferatu about the Badacelli.
+- 2009:
+-- February ~ Returns to Iva, a changed man.  There's something different about him, a step that's confident for the first time in a decade, a turn of phrase that glitters cold, and a surety of purpose that is disturbing.
+-- May ~ Returns to Kindred society.  Now read on...
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Composure 3) - Free point   0       0       0
+Creation        Attribute (Dexterity 2)                0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Intelligence 3)             0       0       0
+Creation        Attribute (Manipulation 2)             0       0       0
+Creation        Attribute (Presence 2)                 0       0       0
+Creation        Attribute (Resolve 2)                  0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Strength 2)                 0       0       0
+Creation        Attribute (Strength 3)                 0       0       0
+Creation        Attribute (Strength 4)                 0       0       0
+Creation        Attribute (Wits 2)                     0       0       0
+Creation        Discipline ()                          0       0       0
+Creation        Discipline ()                          0       0       0
+Creation        Discipline ()                          0       0       0
+Creation        Merit (Power Stat (BP) 1)              0       0       0
+Creation        Merit (Power Stat (BP) 1)              0       0       0
+Creation        Merit (Power Stat (BP) 1)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Haven (Security) 1)             0       0       0
+Creation        Skill (Academics 1)                    0       0       0
+Creation        Skill (Brawl (Grapple))                0       0       0
+Creation        Skill (Brawl (Touch))                  0       0       0
+Creation        Skill (Brawl 1)                        0       0       0
+Creation        Skill (Brawl 2)                        0       0       0
+Creation        Skill (Crafts 1)                       0       0       0
+Creation        Skill (Expression 1)                   0       0       0
+Creation        Skill (Intimidation (Threats))         0       0       0
+Creation        Skill (Intimidation 1)                 0       0       0
+Creation        Skill (Intimidation 2)                 0       0       0
+Creation        Skill (Intimidation 3)                 0       0       0
+Creation        Skill (Intimidation 4)                 0       0       0
+Creation        Skill (Investigation 1)                0       0       0
+Creation        Skill (Investigation 2)                0       0       0
+Creation        Skill (Persuasion 1)                   0       0       0
+Creation        Skill (Persuasion 2)                   0       0       0
+Creation        Skill (Persuasion 3)                   0       0       0
+Creation        Skill (Persuasion 4)                   0       0       0
+Creation        Skill (Politics 1)                     0       0       0
+Creation        Skill (Politics 2)                     0       0       0
+Creation        Skill (Politics 3)                     0       0       0
+Creation        Skill (Streetwise 1)                   0       0       0
+Creation        Skill (Streetwise 2)                   0       0       0
+Creation        Skill (Survival 1)                     0       0       0
+Creation        Skill (Survival 2)                     0       0       0
+MC              MC (9)                              +370     370     370
+MC              Downtime (Backgound)                +  7     377     377
+MC              Devotion (This Aweful Grip)         -  9     368     377
+MC              Discipline (Auspex 1)               -  7     361     377
+MC              Discipline (Celerity 1)             -  7     354     377
+MC              Discipline (Dominate 1)             -  7     347     377
+MC              Discipline (Dominate 2)             - 14     333     377
+MC              Discipline (Nightmare 4)            - 20     313     377
+MC              Discipline (Nightmare 5)            - 25     288     377
+MC              Discipline (Obfuscate 1)            -  5     283     377
+MC              Discipline (Obfuscate 2)            - 10     273     377
+MC              Discipline (Obfuscate 3)            - 15     258     377
+MC              Discipline (Protean 1)              -  7     251     377
+MC              Discipline (Protean 2)              - 14     237     377
+MC              Discipline (Protean (Nat Stone))    -  3     234     377
+MC              Discipline (Protean (Pro Stone))    -  3     231     377
+MC              Discipline (Resilience 1)           -  7     224     377
+MC              Discipline (Vigour 1)               -  5     219     377
+MC              Discipline (Vigour 2)               - 10     209     377
+MC              Merit (Allies (Haulage Firms) 1)    -  2     207     377
+MC              Merit (Contacts (Haulage Firms) 1)  -  2     205     377
+MC              Merit (Haven (Location) 1)          -  2     203     377
+MC              Merit (Haven (Security) 2)          -  4     199     377
+MC              Merit (Haven (Security) 3)          -  6     193     377
+MC              Merit (Haven (Security) 4)          -  8     185     377
+MC              Merit (Haven (Size) 1)              -  2     183     377
+MC              Merit (Haven (Size) 2)              -  4     179     377
+MC              Merit (Haven (Size) 3)              -  6     173     377
+MC              Merit (Herd 1)                      -  1     172     377
+MC              Merit (Herd 2)                      -  2     170     377
+MC              Merit (Herd 3)                      -  3     167     377
+MC              Merit (Necropolis (Catacombs 1) 1)  -  2     165     377
+MC              Merit (Necropolis (Catacombs 2) 2)  -  4     161     377
+MC              Merit (Necropolis (Lab Guard 1) 3)  -  6     155     377
+MC              Merit (Necropolis (Sepulchre 1) 4)  -  8     147     377
+MC              Merit (Power Stat (BP) 4)           - 32     115     377
+MC              Merit (Resources 1)                 -  1     114     377
+MC              Merit (Resources 2)                 -  2     112     377
+MC              Merit (Resources 3)                 -  3     109     377
+MC              Merit (Retainer (1 Mental) 1)       -  1     108     377
+MC              Merit (Retainer (2 Social) 1)       -  1     107     377
+MC              Merit (Retainer (3 Physical) 1)     -  1     106     377
+MC              Merit (Retainer (Ghoul) 1)          -  1     105     377
+MC              Merit (Retainer (Ghoul) 2)          -  2     103     377
+MC              Merit (Retainer (Ghoul) 3)          -  3     100     377
+MC              Merit (Staff () 1)                  -  2      98     377
+MC              Merit (Staff () 2)                  -  4      94     377
+MC              Merit (Staff () 3)                  -  6      88     377
+MC              Skill (Animal Ken 1)                -  3      85     377
+MC              Skill (Animal Ken 2)                -  6      79     377
+MC              Skill (Athletics 1)                 -  3      76     377
+MC              Skill (Athletics 2)                 -  6      70     377
+MC              Skill (Brawl 3)                     -  9      61     377
+MC              Skill (Empathy 1)                   -  3      58     377
+MC              Skill (Firearms 1)                  -  3      55     377
+MC              Skill (Larceny 1)                   -  3      52     377
+MC              Skill (Larceny 2)                   -  6      46     377
+MC              Skill (Medicine 1)                  -  3      43     377
+MC              Skill (Occult 1)                    -  3      40     377
+MC              Skill (Occult 2)                    -  6      34     377
+MC              Skill (Science 1)                   -  3      31     377
+MC              Skill (Socialise 1)                 -  3      28     377
+MC              Skill (Stealth 1)                   -  3      25     377
+MC              Skill (Subterfuge 1)                -  3      22     377
+MC              Skill (Survival 3)                  -  9      13     377
+MC              Skill (Weaponry 1)                  -  3      10     377
+MC              Skill (Weaponry 2)                  -  6       4     377
+2009/05/29      Game (UK National 2009)             +  4       8     381
+2009/05/29      Overcap (National)                  +  6      14     387
+2009/06/27      Game (Reading)                      +  4      18     391
+2009/07/14      Discipline (Protean 3)              - 21     - 3     391
+2009/07/14      Downtime (July)                     +  2     - 1     393
+2009/08/12      Downtime (August)                   +  2       1     395
+2009/08/22      Game (Reading) {Amber}              +  0       1     395
+2009/09/08      MC (10)                             + 20      21     415
+2009/09/12      Discipline (Mimetismo 1)            -  5      16     415
+2009/09/12      Game (London)                       +  4      20     419
+2009/09/18      Game (Southern Regional 2009)       +  2      22     421
+2009/10/04      Discipline (Mimetismo 2)            - 10      12     421
+2009/10/04      Downtime (September)                +  2      14     423
+2009/10/04      Merit (Contacts (Gangs) 2)          -  4      10     423
+2009/10/04      Merit (Direction Sense 1)           -  2       8     423
+2009/10/04      Merit (Haven (Location) 2)          -  4       4     423
+2009/10/04      Skill (Streetwise 3)                -  9    -  5     423
+2009/10/17      Downtime (October)                  +  2    -  3     425
+2010/01/07      MC (11)                             + 20      17     445
+2010/01/08      Discipline (Mimetismo 3)            - 15       2     445
+2010/01/08      Downtime (January)                  +  2       4     447
+2010/01/08      Merit (FS: Grappling 1)             -  2       2     447
+2010/01/09      Game (London Requiem)               +  4       6     451
+2010/01/14      Merit (Necropolis (London) 1)       -  2       4     451
+2010/01/14      Merit (Necropolis (London) 2)       -  4       0     451
+2010/02/10      Downtime (February)                 +  2       2     453
+2010/04/10      Game (London Requiem)               +  4       6     457
+2010/04/14      MC (12)                             + 60      66     517
+2010/04/14      Devotion (Wicked Grasp)             -  9      57     517
+2010/04/14      Discipline (Mimetismo 4)            - 20      37     517
+2010/04/14      Discipline (Vigour 3)               - 15      22     517
+2010/04/14      Merit (Fleet of Foot 1)             -  2      20     517
+2010/04/14      Merit (FS: Grappling 1)             -  2      18     517
+2010/04/14      Merit (FS: Grappling 2)             -  4      14     517
+2010/04/14      Merit (FS: Grappling 3)             -  6       8     517
+2010/04/14      Merit (FS: Grappling 4)             -  8       0     517
+2010/05/08      Downtime (May)                      +  2       2     519
+2010/05/08      Game (London Requiem)               +  4       6     523
+
+To buy:

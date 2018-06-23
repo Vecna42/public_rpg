@@ -1,0 +1,1008 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705.
+VST - "Mark Quennell & Cherrelle Clayton" <southwarkrequiemvst@gmail.com>, Southwark Requiem.
+
+Name: Doctor Daedalus Finch
+Concept: Victorian Steampunk Occult Scientist
+DoB: 1874/04/14 (34)    DoD: 1908/11/22 (103)
+
+Clan: Mekhet                            Bloodline: Memosyne
+Covenant: Ordo Dracul                   Oath: Dying Light
+Covenant: Circle of the Crone   #1409   Faction: Semiotician
+
+"The movement of Heaven is governed by function, not divination.  Numbers are the world's language, not the mad scrawlings of holy men.  The Ancients knew this, and yet we imitate them not with reason, but superstition!"
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    4   ¦   Strength        1   ¦   Presence            1
+        Wits            3   ¦   Dexterity       3   ¦   Manipulation        2
+        Resolve         4   ¦   Stamina         2   ¦   Composure           4
+                            ¦       Resilience  1   ¦                       
+
+Skills:
+    Mental (11):            ¦Physical (4):          ¦Social (7):
+        Academics       4   ¦   Athletics       0   ¦   Animal Ken          0
+        Computer        2   ¦   Brawl           1   ¦   Empathy             1
+        Crafts          1   ¦   Drive           0   ¦   Expression          1
+            Gardening       ¦                       ¦                       
+        Investigation   2   ¦   Firearms        0   ¦   Intimidate          1
+        Medicine        0   ¦   Larceny         2   ¦   Persuasion          1
+        Occult          5   ¦   Stealth         4   ¦   Socialise           1
+    #793    Bloodlines      ¦                       ¦                       
+    #792    Cruac           ¦                       ¦                       
+   (Moirai) Divination      ¦                       ¦                       
+            Gematria        ¦                       ¦                       
+            Geomancy        ¦                       ¦                       
+    #1610   Moirai          ¦                       ¦                       
+    #1609   Ordo            ¦                       ¦                       
+    #593    Philologi       ¦                       ¦                       
+    #594    Spirit Cruac    ¦                       ¦                       
+    #594    Spirits         ¦                       ¦                       
+            Vitae           ¦                       ¦                       
+        Politics        1   ¦   Survival        0   ¦   Streetwise          0
+        Science         3   ¦   Weaponry        2   ¦   Subterfuge          2
+            Biology         ¦                       ¦                       
+            Botany          ¦                       ¦                       
+            Physics         ¦                       ¦                       
+
+Merits:
+    Power Stat (Blood Potency)              7   #1924
+    Status (Mekhet)                         3
+    Status (Ordo Dracul)            (False) 1
+    Status (Circle of the Crone)     (True) 1   #1409
+
+                                                Shared  Pool
+    Danger Sense (••)                       2
+    Direction Sense (•)                     1
+    Dream Visions (•••)                     3   #3022   11  Comp + BP
+    Emotional Detachment (•)    Asylum p50  1
+    Fighting Finesse (Rapier) (••)          2
+    Geomancer (•)                   S&S p99 1           #Re323/#596
+    Good Time Management (••)               2
+    Language (Etruscan) (•)                 1
+    Language (Hebrew) (•)                   1
+    Language (Latin) (•)                    1
+    Language (Old English) (•)              1
+    Language (Ordo Sign) (•)                1
+    Language (Sumerian) (•)                 1
+    Language (Wallachian) (•)               1
+    Language (Yiddish) (•)                  1
+    Lordly Palette (• to •••)   Ventrue 106 1
+    Meditative Mind (•)                     1
+    Occultation (• to •••)      Mekhet p120 3
+    Resources (• to •••••)                  2
+    Retainer (Mark)                         3
+    Staff (• to •••••)          Ghouls p74  1
+        Security
+    Temple Library (• to •••••) Crone  p42  2
+    Trained Observer (• or •••) DogsWar p38 3
+
+                                                Shared  Pool
+    Shadow Cult (Moirai) (• to •••••)       5
+        1 - Occult (Divination) spec.  Once per story, Wits + Occult to make a divination
+            to get +1 to any roll that story.
+        3 - Learn Majesty at 6x new dots.
+        5 - Mekhet Dream merit, extra use if already have it.
+    Allies (Moirai) (• to •••••)            2
+    Contacts (Moirai) (• to •••••)          1
+        Reading University
+    Herd (Moirai) (• to •••••)              2
+    Retainer (Moirai) (• to •••••)          2
+
+                                                Shared  Pool
+    Haven (Bolthole):
+        Location                            0
+        Occultation             Mekhet p119 0
+        Security                            2
+        Size                                1
+    Haven (Caritas):
+        Geomantic Nexus (Manipulation)  OD p202
+            Potency                         3
+                Manturi                         3
+            Size                            2
+                Manturi                         2
+        Geomantic Nexus (Intelligence)  OD p202
+            Potency                         2
+                Manturi                         1
+                Dowd                            1
+            Size                            2
+                Kelly                           1
+                Manturi                         1
+        Location                            1
+            Finch                               1
+        Security                            5
+            Finch                               3
+            Lily                                2
+        Size                                5
+            Finch                               2
+            Lily                                3
+        Tomb (• to ••••)        AncMys p67  1
+    Haven (Seggie House):
+        Geomantic Nexus 1           OD p202
+            Potency ()                      2
+            Size                            -
+        Location                            2
+        Security                            4
+        Size                                5
+
+Disciplines:            Dots    Cost    Pool
+    Auspex              4
+        {Clash of Wills         N/A      9  Wits + Inve + Spec + Ausp vs Reso + Stea + Obfu}
+        Heightened Senses       N/A     N/A
+        Aura Perception         N/A      9  Inte + Empa + Spec + Ausp - Comp - Occu
+        Spirit's Touch          N/A     12  Wits + Occu + Spec + Ausp v Reso + BP
+        Telepathy               1wp      9  Inte + Soci + Spec + Ausp - Reso
+    
+    Celerity            5
+    
+    Coils
+        Blood     2: Blood of Beasts
+    
+    Cruac               1       1vt      8  Mani + Occu + Spec + Crua
+        1 Blood Witness                 Cote p84
+        1 Drops of Destiny              CotC p204
+    
+    Dominate            2
+        Command                 N/A      7  Inte + Inti + Spec + Domi v Reso + BP
+        Mesmerise               N/A      7  Inte + Expr + Spec + Domi v Reso + BP
+    
+    Majesty             1
+        Awe                     N/A      0  Pres + Expr + Spec + Maje + SL - Occ
+    
+    Meminisse           5
+        Create Ties             N/A    N/A
+        Dipping in the Pool     N/A     13  Wits + Occu + Spec + Memi
+            Kindred (15) - Dr Manturi, Sebastian Dand, Alice Miller, Elliot Kelly,
+                           Lilly Finch (1pt), Dawa Sangye, Thomas Hamilton,
+                           Silver (1pt), DollyMix, Gabriel Montoya, Gabriel Beckett,
+                           Vlad Tepes (1pt), Daniel Hurst.
+            Mortals (07) - Mike (Retainer), the 'Pedestrian' in the Athenaum,
+                           4 coma patients in Caritas, any mortal fed from.
+            Dead    (01) - Gregory Finlay-Sinclair
+            Severed (01) - Charles Jones
+        Sever Ties              1wp     11  Pres + Occu + Spec + Memi v Reso + Stam + BP
+        Exchange of Things Past 1wp      8  Mani + Empa + Spec + Memi v Comp + BP
+        The Thief of Minds      1wp      7  Pres + Inti + Spec + Memi v Reso + Comp + BP
+    
+    Obfuscate           3
+        Touch of Shadow         N/A     11  Wits + Larc + Spec + Obfu + Occ
+        Mask of Tranquillity    N/A     13  Wits + Stea + Spec + Obfu + Occ
+        Cloak of Night          N/A     14  Inte + Stea + Spec + Obfu + Occ
+    
+    Resilience          1
+    
+    Spoiling (#Re90/#592)1       1vt     9  Stam + Occu + Spec + Spoi v Reso + BP
+        Intelligence
+
+Devotions:                      XP
+    Cognition                   15  #1167
+        Custom - #1167
+        {Auspex 3, Dominate 2}
+        Action: Instant
+        Cost: 1V / scene
+        Duration: Scene
+        Pull: 12  Inte + Acad + Spec + Ausp
+        Defence: N/A
+        Description: Each successes grants an additional dot of Intelligence, successes capped at lowest of (Intelligence, Academics, Auspex) and only effect mundane draws.
+    
+    Cutting of the Strings       5  #3019
+        Source - Mekhet p109
+        {Auspex 4, Obfuscate 2, Initiation (Moirai) 1}
+        Cost: 1WP
+        Duration: Night
+        Pull: 10  Pres + Occu + Ausp
+        Defence: N/A
+        Description: Any divinations concerning the character suffer a -1 penalty per success rolled.
+    
+   Distant Web                 6    #1087
+        Custom - #1087
+        {Meminisse 2, Distant Sympathy}
+        Cost: 1V, 1WP
+        Duration: Scene
+        Pull: 13  Wits + Occu + Spec + Memi
+        Defence: N/A
+        Description: Can use blood sympathy links beyond the normal limit of 50 miles, and to transmit their emotions or feelings to those linked to them. This does not allow them to do anything that normal blood sympathy would not, nor does it extend the reach of Meminisse ** itself.
+    
+    Encode Vitae                12
+        Source - Mekhet p109
+        {{Auspex 3, Obfuscate 2, Status (OD) 1} OR {Auspex 3, Meminisse 1}}
+        Action: Extended
+        Cost: 1wp, 1vt
+        Duration: See text
+        Pull: 13  Inte + Occu + Spec + Ausp
+        Defence: N/A
+        Description: 
+    
+    Manteia                     15  #3021
+        Source - Mekhet p110
+        {Auspex 3, Celerity 1, Initiation (Moirai) 1, Obfuscate 1}
+        Action: Extended
+        Cost: 1wp
+        Duration: See text
+        Pull: 12  Wits + Occu + Spec + Ausp
+        Defence: v Comp + BP
+        Description: 
+    
+    Quicken Sight                5
+        Source - MET:R p214
+        {Auspex 1, Celerity 1}
+        Action: Reflexive
+        Cost: 1 Vitae
+        Duration: Scene
+        Pull: N/A
+        Defence: N/A
+        Description: +5 to Wits+Composure test pool for observing moving too quickly for normal sight.
+    
+    Restoration of Things Lost  21
+        Source - Mekhet p110
+        {Auspex 3, Meminisse 4}
+        Action: Instant
+        Cost: N/A
+        Duration: N/A
+        Pull: 13  Wits + Occu + Spec + Memi
+        Defence: N/A
+        Description: 
+    
+    Timed Message               10  #3020
+        Source - Mekeht p111
+        {Auspex 4, Celerity 1, Initiation (Moirai) 3, Majesty 1}
+        Action: Instant
+        Cost: 1wp
+        Duration: N/A
+        Pull:  9 Inte + Expr + Spec + Ausp
+        Defence: N/A
+        Description: 
+    
+    Weaving the Threads         18  #1340
+        Custom - #1340
+        {Auspex 4, Meminisse 2}
+        Cost: 1 WP
+        Duration: Scene
+        Pull:  9  Inte + Soci + Spec + Ausp
+        Defence: N/A
+        Description: Create a telepathic network between participants with a blood tie to.  Penalty of (floor((n-2)/2)), where n is number of people involved.
+
+Morality:   Lost    Gained
+    10      
+    9       
+    8           Malkavia - Loss of Compassion & Magical Ideation
+    7       1
+    6       1
+    5   *   1
+    4               1
+    3       
+    2       
+    1       
+
+Frenzy:
+    Anger Frenzy:
+         2 sux: Harassed by panhandler, Idiot scraps your new car.
+         3 sux: Insulted in public, Hours of frustration and delay.
+         5 sux: Reviled by someone you dislike, Betrayed by a partner in a deal,
+                Shot by a mugger, Loved one in danger
+         7 sux: Betrayed by someone you love, Lose everything you own.
+        10 sux: Loved one slain, Reviled and humiliated by someone you love.
+
+        Provocation aligns with your Virtue/Vice                    -+2
+        Provocation attacks your Virtue/Vice                        -+2
+        Hungry                                                      - 1
+        Starving                                                    - 2
+
+    Fear Frenzy:
+         1 sux: Lighting a cigarette.
+         2 sux: Sight of a torch.
+         3 sux: Flashbulb in the face.
+         4 sux: Bonfire.
+         5 sux: Burning building.
+         7 sux: Obscured sunlight.
+        10 sux: Direct sunlight.
+
+        Fire/sunlight at a safe distance                             +2
+        Surprised by fire/sunlight                                  - 1
+        Surrounded by fire/sunlight, but not immediately harmed     - 1
+        Burned by fire/sunlight                                     - 3
+
+    Hunger Frenzy:
+         2 sux: Sight or smell of blood (when Hungry).
+         3 sux: Taste of blood (when Hungry).
+         4 sux: Sight or smell of blood (when Starving).
+         5 sux: Taste of blood (when Starving).
+
+        Has tasted vampire blood before                             - 1
+        Hungry                                                      - 1
+        Starving                                                    - 2
+        Addicted to vampire blood                                   - 2
+
+Equipment:  Size    Dur Bonus   Other
+    Rapier  2/L     3   2(L)    AP1
+
+Other:
+    Virtue: Prudence
+    Vice: Sloth
+    Flaw: Lame
+    
+    Health: Size(5) + Stamina(2) + Resilience (1) = 8
+    |  |  |  |  |  |
+    |-1|-2|-3|
+    
+    Willpower: Resolve(4) + Composure(4)            = 8
+    |  |  |  |  |  |      - Lilly(1)    + Bought(1)
+    |  |  |               - Moirai(1)   + Bought(1)
+                          - Mmeosyne(1)               7
+    
+    Vitae = Max 20, 3 / turn
+    |S |  |  |H |  |
+    |  |  |  |  |  |
+    |  |  |  |  |  |
+    |  |  |  |  |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(3),Wits(3)) = 3
+        Defence (3) + Celerity (5)       8
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(3) + Composure(4) + FR(0) =  7
+        Initiative (7) + Celerity (5)                 12
+    
+    Acting Speed              =  5
+        Acting + Celerity (5)   10
+    
+    Speed: 5 + Strength(1) + Dexterity(3) + FoF(0) =  9
+        Speed + Celerity(5)                          28
+
+Approvals:
+    Master of the Dying Light   UK-UK-LR-0901-102781/#589
+    Provost of the Dying Light  UK-UK-LR-0901-103646/#590
+
+Notes:
+    Grandsire: Xavier Ellison
+    Sire: Beatrice Matterhorn (Serena de Catalunya y Aragon)
+    
+    Titles:
+        Pre-eminent Impartial and Cryptic Philosopher of the Penultimate Burning Hunger, and Herculean Alchemist.
+        
+        Philosopher of the Burning Hunger
+        Impartial student to Architect Donnelly
+        Scion Domus Egregori, Priscus of the Shadows
+
+Retainer 1 (3-dots):
+    Name: Mike
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 2, Stre 3, Pres 2
+    Wits 2, Dext 3, Mani 3
+    Reso 2, Stam 2, Comp 2
+    
+    Acad 0, Athl 2, AniK 0      0xp 0xp 0xp
+    Comp 2, Braw 3, Empa 1      0xp 0xp 0xp
+    Craf 1, Driv 1, Expr 0      0xp 3xp 0xp
+    Inve 0, Fire 1, Inti 2      0xp 0xp 0xp
+    Medi 1, Larc 2, Pers 1      0xp 0xp 0xp
+    Occu 0, Stea 1, Soci 0      0xp 0xp 0xp
+    Poli 0, Surv 1, Stre 2      0xp 3xp 0xp
+    Scie 0, Weap 2, Subt 1      0xp 0xp 0xp
+    
+    Specs: Brawl (Boxing), Drive (Vans), Streetwise (Gangs)
+    Merits: Allies (Underworld) 2, Common Sense 1, Contacts (Underworld) 1, Fleet of Foot 2,
+            FS: Boxing 1, Quick Draw (Melee) 1 (2xp), Status (Gangs) 1 (2xp)
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Disciplines: Celerity 1, Obfuscate 1 (10xp)
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 12       Celerity: 26
+
+Retainer 2 (Moirai) (2-dots):
+    Name: 
+    Virtue:    Vice: 
+    
+    Inte 4, Stre 2, Pres 2
+    Wits 2, Dext 2, Mani 3
+    Reso 2, Stam 2, Comp 2
+    
+    Acad 3, Athl 2, AniK 0      0xp 0xp 0xp
+    Comp 1, Braw 1, Empa 2      0xp 0xp 0xp
+    Craf 0, Driv 0, Expr 2      0xp 0xp 0xp
+    Inve 1, Fire 0, Inti 0      0xp 0xp 0xp
+    Medi 1, Larc 0, Pers 1      0xp 0xp 0xp
+    Occu 2, Stea 1, Soci 1      0xp 0xp 0xp
+    Poli 0, Surv 0, Stre 0      0xp 0xp 0xp
+    Scie 3, Weap 0, Subt 1      0xp 0xp 0xp
+    
+    Specs: Academics (Research), Occult (Moirai - Divination), Occult (),
+           Persuasion (Grant Applications)
+    Merits: Eidetic Memory 2, Encyclopaedic Knowledge 4, A Little Knowledge 1,
+            Good Time Management 2 (4xp), Language (Latin) 1 (2xp),
+            Shadow Cult Initiation (Moirai) 1 (2xp), Staff (Research Assistants) 1 (2xp)
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Morality: 7
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Size: 5     Initiative: 4   Defence: 2
+    Acting: 5   Speed: 9
+
+Mekhet Eminence bonus:
+    December 2009:
+    1.  Sharpe              5 dots in Resources.
+    2.  Sharpe              5 dots in Herd.
+    3.  Jonus               5 dots in Resources.
+    4.  Jonus               5 dots in Herd.
+    
+    January 2010:
+    1.  Jonas               ? dots in Retainer.
+    2.  Jonas               1 dots in Status (Carthian).
+    3.  Sharpe              0 dots in Retainer.
+    4.  Sharpe              2 dots in Status (Invictus).
+    
+    February 2010:
+    1.  Donaldson (NPC)     15 dots in Retainer.
+    2.  Donaldson (NPC)     3 dots in Herd.
+    3.  Donaldson (NPC)     2 dots in Status (Invictus).
+    4.  Donaldson (NPC)     1 dots in Status (Daeva).
+    
+    March 2010:
+    1.  Hunter              0 dots in Herd
+    2.  Hunter              0 dots in Resources
+    3.  Hunter              0 dots in Retainer
+    4.  Hunter              1 dots in Status (Gangrel)
+    
+    April 2010:
+    1.  Katie Crasus        2 dots in Herd
+    2.  Katie Crasus        5 dots in Resources & 4 Luxury
+    3.  Katie Crasus        ? dots in Retainer - Tommy (Gang Leader), Marti (Ghoul), ? (Music Exec)
+    4.  Katie Crasus        1 dots in Status (Invictus)
+    
+    May 2010:
+    1.  Aethelwulf Baecer   0 dots in Herd
+    2.  Aethelwulf Baecer   0 dots in Resources
+    3.  Aethelwulf Baecer   0 dots in Retainer
+    4.  Aethelwulf Baecer   2 dots in Status (Invictus)
+    
+    June 2010:
+    1.  Alice               0 dots in Herd
+    2.  Alice               2 dots in Resources
+    3.  Alice               0 dots in Retainer
+    4.  Alice               0 dots in Status (Unaligned)
+    
+    July 2010:
+    1.  Heller              2 dots in Herd
+    2.  Heller              4 dots in Resources
+    3.  Heller              1 dots in Retainer
+    4.  Heller              1 dots in Status (Invictus)
+    
+    August 2010:
+    1.  Joshua              ? dots in Herd
+    2.  Joshua              ? dots in Resources
+    3.  Joshua              ? dots in Retainer
+    4.  Joshua              ? dots in Status (Covenant)
+
+--- BACKGROUND ---
+Backstory
+
+At 1.45am on Tuesday the 14th April, 1874 Daedalus Finch was born to parents Lucian Carver Finch and Arabella Elizabeth Mayvee in London, England.  His childhood was perfectly normal for the time, if a little more bloodied as the other boys at school resented his intellect and took it out in the form of beatings.  He soon learnt to run away when he saw them coming, or to hide.  A pattern that would latter define much of his Requiem.  But we are getting ahead of ourselves.  
+
+Finch excelled at school, and went on to study at Oxford for a physics degree (obtaining a first) and then completed his PhD in the same subject by the end of 1898.  After University, he continued to work in theoretical physics and around this time became first interested, later fascinated and obsessed, with the occult. 
+
+(Bullet point from here until I get a chance to flesh it out properly)
+* In the summer of 1908 he was struck down with a bout of tuberculosis, and was packed off to the family home in Whitby to recover / die.
+* Embraced 24th November 1908 while in Whitby and after being attacked.
+* Beatrice kept him prisoner for about 15 years.
+* Taught himself Ob 3, and Celerity 1 to help him escape.
+* Ran off into the countryside.
+* Lost humanity.
+* Found his way to Stafford about 10 years later.
+* Met the Archivist.
+* Joined the Ordo.
+* Upped humanity...
+* Spent next 60 years or so learning coils, expanding knowledge, etc.
+*   Tracked down remains of family.  His brother's children?
+* Moved to Reading 2007 when last descendent of family did.
+
+
+CHARACTER QUESTIONS (To be answered for all applications)
+****
+What are your character's reason(s) to continue existing?  What most motivates your character to interact with other characters? What fears, joys, or other emotions drive him or her?  What are his or her goals? What is your character willing to die for?
+
+Reasons - Finch continues to exist firstly because like most, he is afraid to die.  However, on top of that, he is gripped with an icy passion (suitable for kindred who feel no real emotions) to transcend his current state and achieve whatever is waiting at the end.  His personal beliefs would indicate some kind of omniscience as one merges with Ein Soph (Hebrew, literally "without end", denoting "boundlessness" and/or "nothingness", which is a Kabbalistic term that usually refers to an abstract state of existence preceding God's Creation of the limited universe).
+
+Motivations - Finch attends court (his only major interaction) primarily to observe other kindred, and make continued notes on his side research of observing how resistant the general kindred population is to change.  Additionally, he has picked up along the way a number of positions that require some modicum of attendance at court, and as of yet these haven't adversely affected his research time/efforts, so he persists in holding them until such time as change is required.
+He also interacts with the Ordo on an infrequent basis.  He travels outside Reading only to attend the quarterly caucuses.  He does this to keep up to date on current policies, research, and threats.  He also recognises that he will find it difficult to continue to progress if he becomes a recluse.
+
+Fears - Finch fears deeply that people may prove him wrong on something, and this manifests as firstly a reluctance to share his opinion on a matter unless its clear no one else knows the subject.  This can make him appear rather silent, as he finds it just easier to watch and learn (being of Clan Mekhet this comes somewhat naturally to him).
+He also fears losing his mind to such a state that he can't continue his research, or that his research is in some way destroyed.  These are two of the reasons he has learnt the Ordo mental tricks for perfect memory and protection against mental intrusions (The three merits Mind of the ...).
+Whitby.
+
+Joys - Joy is not a common emotion among the cold dead withered hearts of the kindred, and Finch's is no exception.  Focusing his unlife on research and academia to the degree he has, this further removes him a step from such emotions, although they stir when he achieves some breakthrough in his research or when he proves someone else wrong.  These are the times he feels whatever passes for joy.
+
+Other emotions - In recent nights Finch has felt what would best described as paternal pride as he watches his childe struggle through the start of her own requiem, and begin to pick up the habits and tricks that are required to survive.  He is also pleased with her progress within the Ordo, as she begins to master the self discipline and mental rigour required to achieve successful chrysalis.
+
+Goals - Finch's long term goals are very simple.  Transcend.  He is, after all, a good little Ordo.  However, his shorter term goals include such things as: 
+
+To die for - Finch is not overly willing to die for anything.  He's far too much of a coward to risk himself in such a fashion.  About the only thing he'd consider doing so for is to ensure that the Ordo continues on its way towards transcendence, however he is selfish enough to want to substitute someone else in his place to try and get there himself.
+
+****
+How does your character interact with the mundane world? (If your character possesses any supernatural qualities, please describe how he or she avoids undue attention from ordinary people.)
+
+For the most part, Finch does not interact with the mundane world.  Due to his coils, he does not require kine to feed from and instead takes his sustenance from the animals around his haven (which is in the countryside, and thus both undisturbed and plentiful for animals).  If he does have to pass through areas where the kine are, he generally uses Obfuscate 3 to pass without notice.
+
+****
+What faction/group does your character most feels a part of (Clan, Covenant, Bloodline, Lineage, Coterie, etc., or venue equivalent)? Why that group? How does your PC interact with that group?  How does his relationship to the group affect his/her dealings with other groups he/she is a part of?  (For example, if lineage is most important, how does this impact his/her views of clan and covenant?)
+
+Currently, Finch feels most a part of his lineage than any other group.
+His declining confidence in the competency of most of the Ordo Dracul in the country does not encourage him to communicate with those outside of the small group he does trust (his mentor, his childe, and some who he knows are competent).
+His clan as a whole doesn't feature highly in his unlife, as nothing seems to occur to warrant it to.  He is the clan Priscus for Reading, but nothing is ever brought to his desk.
+His lineage (Domus Egregoroi) on the other hand is reasonable active, and he is in communication with a number of elements there within.
+
+****
+How does your character help to reinforce paradigm?  Does your character deviate from paradigm?  If so, how does this deviation add to the global chronicle?
+
+Finch is a reasonably paradigm consistent member of both the Mekhet and of the Ordo Dying Light.  He watches quietly from the sidelines, and is never quite what he seems to be.  Carefully working at being in reasonable control without having to openly take it again.
+His research is devoted to working out the route to transcend the kindred condition, and to escape the Curse.
+
+--- KNOWN BIOGRAPHY ---
+* Name - Doctor Daedalus Finch
+    * Known as - Dr Finch
+* Age - Held a gathering for his 100th deathday a couple of years ago.
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Composure 3)                    0       0       0
+Creation    Attribute (Composure 4)                    0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Dexterity 3)                    0       0       0
+Creation    Attribute (Intelligence 2)                 0       0       0
+Creation    Attribute (Intelligence 3)                 0       0       0
+Creation    Attribute (Intelligence 4)                 0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Stamina 2)                      0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Attribute (Wits 3) - Free point            0       0       0
+Creation    Discipline (Obfuscate 1)                   0       0       0
+Creation    Discipline (Obfuscate 2)                   0       0       0
+Creation    Discipline (Obfuscate 3)                   0       0       0
+Creation    Merit (Eidetic Memory 2)                   0       0       0
+Creation    Merit (Eidetic Memory 2)                   0       0       0
+Creation    Merit (Language (Hebrew))                  0       0       0
+Creation    Merit (Shared Haven (Size) 1)              0       0       0
+Creation    Power Stat (Blood Potency 2)               0       0       0
+Creation    Skill (Academics 1)                        0       0       0
+Creation    Skill (Academics 2)                        0       0       0
+Creation    Skill (Academics 3)                        0       0       0
+Creation    Skill (Academics 4)                        0       0       0
+Creation    Skill (Brawl 1)                            0       0       0
+Creation    Skill (Expression 1)                       0       0       0
+Creation    Skill (Larceny 1)                          0       0       0
+Creation    Skill (Larceny 2)                          0       0       0
+Creation    Skill (Occult (Vitae))                     0       0       0
+Creation    Skill (Occult 1)                           0       0       0
+Creation    Skill (Occult 2)                           0       0       0
+Creation    Skill (Occult 3)                           0       0       0
+Creation    Skill (Occult 4)                           0       0       0
+Creation    Skill (Persuasion 1)                       0       0       0
+Creation    Skill (Science (Biology))                  0       0       0
+Creation    Skill (Science (Physics))                  0       0       0
+Creation    Skill (Science 1)                          0       0       0
+Creation    Skill (Science 2)                          0       0       0
+Creation    Skill (Science 3)                          0       0       0
+Creation    Skill (Stealth 1)                          0       0       0
+Creation    Skill (Stealth 2)                          0       0       0
+Creation    Skill (Stealth 3)                          0       0       0
+Creation    Skill (Stealth 4)                          0       0       0
+Creation    Skill (Subterfuge 1)                       0       0       0
+Creation    Skill (Subterfuge 2)                       0       0       0
+MC          MC (1)                                  + 50      50      50
+MC          Discipline (Auspex 1)                   -  5      45      50
+MC          Discipline (Auspex 2)                   - 10      35      50
+MC          Discipline (Celerity 1)                 -  5      30      50
+MC          Discipline (Coil 1: Banes 1)            -  7      23      50
+MC          Discipline (Coil 2: Blood 1)            - 14       9      50
+MC          Merit (Language (Latin))                -  2       7      50
+MC          Merit (Resources 1)                     -  2       5      50
+MC          Merit (Resources 2)                     -  4       1      50
+2007/02/24  Game (Reading Requiem)                  +  4       5      54
+2007/03/31  Discipline (Coil 3: Banes 2)            - 21    - 16      54
+2007/03/31  Game (Reading Requiem)                  +  4    - 12      58
+2007/03/31  Other (On time renewal)                 + 13       1      71
+2007/04/14  Game (London Requiem)                   +  4       5      75
+2007/04/14  Skill (Computer 1)                      -  3       2      75
+2007/04/22  Downtime (April)                        +  2       4      77
+2007/04/22  Merit (Language (Ordo Sign))            -  2       2      77
+2007/04/28  Game (Reading Requiem)                  +  2       4      79
+2007/04/30  MC (2)                                  + 20      24      99
+2007/05/02  Skill (Investigation 1)                 -  3      21      99
+2007/05/12  Game (London Requiem)                   +  4      25     103
+2007/05/18  Discipline (Auspex 3)                   - 15      10     103
+2007/05/23  Downtime (May)                          +  2      12     105
+2007/05/26  Game (Reading Requiem)                  +  2      10     107
+2007/06/04  Game (GIR Athens Requiem)               +  4      18     111
+2007/06/09  Game (London Requiem)                   +  2      20     113
+2007/06/18  Merit (Mind of the Devouring Worm)      -  6      14     113
+2007/06/23  Downtime (June)                         +  2      16     115
+2007/06/23  Game (Reading Requiem)                  +  2      18     117
+2007/06/23  Other (XP Award)                        +  0      18     117
+2007/06/29  Game (GIR Athens Requiem)               +  0      18     117
+2007/06/29  Overcap (FGotM Athens: 0707-75594)      +  3      21     120
+2007/07/07  Game (Southwark Requiem)                +  4      25     124
+2007/07/11  Discipline (Dominate 1)                 -  7      18     124
+2007/07/11  Skill (Empathy 1)                       -  3      15     124
+2007/07/11  Skill (Intimidation 1)                  -  3      12     124
+2007/07/14  Game (London Requiem)                   +  2      14     126
+2007/07/30  Downtime (July)                         +  2      16     128
+2007/08/04  Game (Southwark Requiem)                +  4      20     132
+2007/08/06  Discipline (Spoiling 1)                 -  7      13     132
+2007/08/11  Game (London Requiem)                   +  2      15     134
+2007/08/20  Attribute (Resolve 3)                   - 15       0     134
+2007/08/20  Discipline (Coil 4: Blood 2)            - 28    - 28     134
+2007/08/20  Downtime (August)                       +  2    - 26     136
+2007/08/20  MC (3)                                  + 60      34     196
+2007/08/20  Merit (Mot Unblinking Serpent)          -  4      30     196
+2007/08/20  Merit (Retainer (Mark) 1)               -  2      28     196
+2007/08/20  Merit (Retainer (Mark) 2)               -  4      24     196
+2007/08/20  Merit (Retainer (Mark) 3)               -  6      18     196
+2007/08/20  Merit (Haven (Bolt) (Security) 1)       -  2      16     196
+2007/08/20  Merit (Haven (Bolt) (Security) 2)       -  4      12     196
+2007/08/20  Merit (Haven (Bolt) (Size) 1)           -  2      10     196
+2007/08/20  Merit (Staff (Security) 1)              -  2       8     196
+2007/08/20  Skill (Occult (Gematria))               -  3       5     196
+2007/08/25  Game (Reading Requiem)                  +  2       7     198
+2007/09/09  Downtime (September)                    +  2       9     200
+2007/09/14  Game (Southern Regional - Friday)       +  4      13     204
+2007/09/15  Game (Southern Regional - Saturday)     +  2      15     206
+2007/09/16  Overcap (Southern: 0711-83075)          +  4      19     210
+2007/09/22  Game (Reading Requiem)                  +  2      21     212
+2007/10/06  Game (Southwark Requiem)                +  4      25     216
+2007/10/23  Downtime (October)                      +  2      27     218
+2007/10/23  Skill (Craft 1)                         -  3      24     218
+2007/10/23  Skill (Craft (Gardening))               -  3      21     218
+2007/10/23  Skill (Science (Botany))                -  3      18     218
+2007/10/27  Game (Reading Requiem)                  +  2      20     220
+2007/11/01  MC (4)                                  + 20      40     240
+2007/11/13  Downtime (November)                     +  2      42     242
+2007/11/19  Discipline (Coil 5: Beast 1)            - 35       7     242
+2007/11/19  Downtime (November)                     +  1       8     243
+2007/11/19  Skill (Computer 2)                      -  6       2     243
+2007/11/24  Game (Reading Requiem)                  +  4       6     247
+2007/11/24  Other (XP Award)                        +  1       7     248
+2008/01/12  Game (London Requiem)                   +  4      11     252
+2008/02/05  Downtime (Journal Proxy)                +  2      13     254
+2008/02/19  Merit (M ot Inscrutable Hyrda)          -  4       9     254
+2008/03/17  Devotion (Paranoia: 87052) (R: 9)       -  0       9     254
+2008/03/29  Game (Northern Regional - Saturday)     +  4      13     258
+2008/03/29  Overcap (Northern: 0803-88586)          +  2      15     260
+2008/04/01  MC (5)                                  + 20      35     280
+2008/04/12  Downtime (April)                        +  3      38     283
+2008/04/12  Merit (Fontal Rituals)                  -  4      34     283
+2008/04/12  Power Stat (Blood Potency 3)            - 24      10     283
+2008/04/20  Game (Stafford IRC)                     +  4      14     287
+2008/04/26  Game (Reading Requiem)                  +  2      16     289
+2008/05/01  MC (6)                                  + 60      76     349
+2008/05/22  Game (4-Winds Requiem)                  +  4      80     353
+2008/05/22  Overcap (4-Winds: FGotM 0805-)          +  2      82     355
+2008/05/23  Discipline (Coil 6: Blood 3)            - 42      40     355
+2008/05/23  Discipline (Dominate 2)                 - 14      26     355
+2008/05/23  Downtime (May)                          +  2      28     357
+2008/05/23  Skill (Occult (Geomancy))               -  3      25     357
+2008/05/24  Game (Reading Requiem)                  +  2      27     359
+2008/05/31  Game (National '08 - Saturday)          +  2      29     361
+2008/05/31  Overcap (National: 0806-91918)          +  3      32     364
+2008/06/27  Downtime (June)                         +  2      34     368
+2008/06/27  Skill (Weaponry 1)                      -  3      31     368
+2008/06/28  Game (Reading Requiem)                  +  4      35     370
+2008/08/07  Downtime (Egregoroi Proxy)              +  3      38     373
+2008/08/23  Game (Reading Requiem)                  +  4      42     377
+2008/09/26  Downtime (September)                    +  2      44     379
+2008/09/26  Merit (Fighting Finesse (Rapier))       -  4      40     379
+2008/09/27  Game (Reading Requiem)                  +  4      44     383
+2008/09/27  Other (XP Award)                        +  1      45     384
+2008/09/28  MC (7)                                  + 20      65     404
+2008/10/04  Game (Southern Regional)                +  4      69     408
+2008/10/04  Overcap (Southern: )                    +  2      71     410
+2008/10/22  Discipline (Resilience 1)               -  7      64     410
+2008/10/22  Downtime (October)                      +  2      66     412
+2008/10/22  Merit (Language (Wallachian))           -  2      64     412
+2008/10/22  Merit (Language (Yiddish))              -  2      62     412
+2008/10/22  Merit (Power Stat (BP 4)                - 32      30     412
+2008/10/22  Merit (Shared Haven (Location) 1)       -  2      28     412
+2008/10/22  Merit (Shared Haven (Security) 3)       -  6      22     412
+2008/10/22  Merit (Shared Haven (Size) 2)           -  4      18     412
+2008/10/22  Skill (Weaponry 2)                      -  6      12     412
+2008/12/08  MC (8)                                  + 20      32     432
+2008/12/15  Devotion (Perceive the Web: 99943)      -  9      23     432
+2008/12/15  Downtime (December)                     +  2      25     434
+2008/12/15  Willpower (Lily's embrace)              -  8      17     434
+2008/12/20  Game (Reading Requiem)                  +  4      21     438
+2009/01/19  Game (Egregoroi Proxy)                  +  4      25     442
+2009/01/24  Game (Reading Requiem)                  +  2      27     444
+2009/01/28  Downtime (January)                      +  2      29     446
+2009/02/25  Devotion (Eureka: 104523) (R: 15)          0      29     446
+2009/02/25  Discipline (Auspex 4)                   - 20       9     446
+2009/02/25  Downtime (February)                     +  2      11     448
+2009/02/28  Game (Reading Requiem)                  +  4      15     452
+2009/03/28  Game (Reading Requiem)                  +  4      19     456
+2009/04/01  Devotion (Eureka refund: 15xp)             0      19     456
+2009/04/01  Devotion (Paranoia refund: 9xp)            0      19     456
+2009/04/06  MC (9)                                  + 60      79     516
+2009/04/17  Attribute (Resolve 4)                   - 20      59     516
+2009/04/17  Discipline (Coil 7: Blood 4)            - 49      10     516
+2009/04/17  Merit (Geomantic Nexus (Int) 1)         -  2       8     516
+2009/04/17  Skill (Subterfuge: Limping)             -  3       5     516
+2009/04/26  Downtime (April)                        +  2       7     518
+2009/04/26  Game (Reading Requiem)                  +  4      11     522
+2009/05/20  Merit (Language (Sumerian))             -  2       9     522
+2009/05/20  Merit (Occultation 1)                   -  2       7     522
+2009/05/20  Merit (Occultation 2)                   -  4       3     522
+2009/05/21  MC (1)                                  + 40      43     562
+2009/05/23  Downtime (May)                          +  2      45     564
+2009/05/23  Game (Reading Requiem)                  +  4      49     568
+2009/06/26  Downtime (June)                         +  2      51     570
+2009/06/26  Merit (Occultation 3)                   -  6      45     570
+2009/06/26  Power Stat (Blood Potency 5)            - 40       5     570
+2009/07/25  Downtime (July)                         +  2       7     572
+2009/08/12  Downtime (August)                       +  2       9     574
+2009/09/08  MC (10)                                 + 20      29     594
+2009/09/19  Game (Southern Regional)                +  4      33     598
+2009/09/20  Overcap (Southern Regional)             +  4      37     602
+2009/09/23  Downtime (September)                    +  2      39     604
+2009/09/26  Game (Reading Requiem)                  +  2      41     606
+2009/09/26  Other (XP Award)                        +  1      42     607
+2009/10/23  Downtime (October)                      +  2      44     609
+2009/10/24  Game (Reading Requiem)                  +  4      48     613
+2009/11/25  Downtime (November)                     +  2      50     615
+2009/11/26  Power Stat (Blood Potency 6)            - 48       2     615
+2009/11/28  Game (Scottish Regional)                +  4       6     619
+2009/11/28  Overcap (Scottish Regional)             +  4      10     623
+2009/12/18  Downtime (December)                     +  2      12     625
+2009/12/19  Game (Reading Requiem)                  +  4      16     629
+2010/01/07  MC (11)                                 + 20      36     649
+2010/01/08  Skill (Occult (Philologi))              -  3      33     649
+2010/01/23  Downtime (January)                      +  2      35     651
+2010/01/23  Game (Reading Requiem)                  +  4      39     655
+2010/01/23  Other (XP Award)                        +  1      40     656
+2010/02/26  Downtime (February)                     +  2      42     658
+2010/02/27  Game (Reading Requiem)                  +  4      46     662
+2010/03/24  Merit (Language (Old English))          -  2      44     662
+2010/03/26  Downtime (March)                        +  2      46     664
+2010/03/27  Game (Reading Requiem)                  +  4      50     668
+2010/03/27  Other (XP Award)                        +  1      51     669
+2010/04/14  MC (12)                                 + 60     111     729
+2010/04/16  Devotion (Quicken Sight)                -  5     106     729
+2010/04/16  Discipline (Celerity 2)                 - 10      96     729
+2010/04/16  Discipline (Celerity 3)                 - 15      81     729
+2010/04/16  Skill (Investigation 2)                 -  6      75     729
+2010/04/16  Downtime (April)                        +  2      77     729
+2010/04/24  Game (Reading Requiem)                  +  4      81     733
+2010/04/24  Other (XP Award)                        +  1      82     734
+2010/05/16  Merit (Chapter Library 1 (Vitae))       -  2      80     734
+2010/05/16  Merit (Haven: Tomb 1)                   -  2      78     734
+2010/05/16  Skill (Politics 1)                      -  3      75     734
+2010/05/16  Downtime (May)                          +  2      77     736
+2010/06/23  Downtime (June)                         +  2      79     738
+2010/06/26  Game (Reading Requiem)                  +  4      83     742
+2010/07/02  Game (Summer National 2010 - Fri)       +  4      87     746
+2010/07/03  Game (Summer National 2010 - Sat)       +  2      89     748
+2010/07/04  Overcap (Summer National 2010)          +  6      95     754
+2010/07/17  Discipline (Celerity 4)                 - 20      75     754
+2010/07/17  Merit (Chapter Library 2 (Spirits))     -  4      71     754
+2010/07/23  Downtime (July)                         +  2      73     756
+2010/07/24  Game (Reading Requiem)                  +  2      75     758
+2010/08/04  MC (13)                                 + 20      95     778
+2010/08/21  Skill (Occult (Spirit Cruac))           -  3      92     778
+2010/08/21  Skill (Occult (Spirits))                -  3      89     778
+2010/08/28  Downtime (August)                       +  2      91     780
+2010/08/28  Game (Reading Requiem)                  +  4      95     784
+2010/09/25  Downtime (September)                    +  2      97     786
+2010/09/25  Game (Reading Requiem)                  +  4     101     790
+2010/10/20  Discipline (Celerity 5)                 - 25      76     790
+2010/10/23  Downtime (October)                      +  2      78     792
+2010/10/23  Game (Reading Requiem)                  +  4      82     796
+2010/11/19  Game (Winter National)                  +  4      86     800
+2010/11/26  Downtime (November)                     +  2      88     802
+2010/12/01  Discipline (Logos 1)                    -  5      83     802
+2010/12/01  Discipline (Logos 2)                    - 10      73     802
+2010/12/01  Discipline (Logos 3)                    - 15      58     802
+2010/12/01  Discipline (Logos 4)                    - 20      38     802
+2010/12/01  Discipline (Logos 5)                    - 25      13     802
+2010/12/15  Merit (Meditative Mind 1)               -  2      11     802
+2010/12/17  Downtime (December)                     +  2      13     804
+2010/12/18  Game (Reading Requiem)                  +  4      15     806
+2010/12/18  Other (XP Award)                        +  1      16     807
+2011/01/12  Merit (Geomancer 1)                     -  2      14     807
+2011/01/12  Willpower (Founding Grigori)            -  8       6     807
+2011/01/21  Downtime (January)                      +  2       8     809
+2011/01/22  Game (Reading Requiem)                  +  4      12     813
+2011/02/01  MC (14)                                 + 20      32     833
+2011/03/04  Downtime (February)                     +  2      34     835
+2011/03/25  Downtime (March)                        +  2      36     837
+2011/03/26  Game (Reading Requiem)                  +  4      40     841
+2011/04/02  Game (Southwark Requiem)                +  4      44     845
+2011/04/21  Game (Amsterdam Requiem)                +  2      46     847
+2011/04/22  Downtime (April)                        +  2      48     849
+2011/04/23  Game (Reading Requiem)                  +  2      50     851
+2011/05/24  Skill (Occult (Cruac) #792)             -  3      47     851
+2011/05/24  Skill (Occult (Bloodlines) #793)        -  3      44     851
+2011/05/28  Downtime (May)                          +  2      46     853
+2011/06/23  Downtime (June)                         +  2      48     855
+2011/06/25  Game (Reading Requiem)                  +  4      52     859
+2011/06/26  Merit (Initiation (Moirai) 1)           -  2      50     859
+2011/06/26  Merit (Initiation (Moirai) 2)           -  4      46     859
+2011/06/26  Merit (Initiation (Moirai) 3)           -  6      40     859
+2011/06/26  Merit (Initiation (Moirai) 4)           -  8      32     859
+2011/06/26  Merit (Initiation (Moirai) 5)           - 10      22     859
+2011/06/26  Merit (Allies (Moirai) 1)               -  2      20     859
+2011/06/26  Merit (Allies (Moirai) 2)               -  4      16     859
+2011/06/26  Merit (Contacts (Moirai) 1)             -  2      14     859
+2011/06/26  Merit (Herd (Moirai) 1)                 -  2      12     859
+2011/06/26  Merit (Herd (Moirai) 2)                 -  4       8     859
+2011/06/26  Merit (Retainer (Moirai) 1)             -  2       6     859
+2011/06/26  Merit (Retainer (Moirai) 2)             -  4       2     859
+2011/07/08  Game (July National - Friday)           +  4       6     863
+2011/07/10  Overcap (July National 2011)            +  6      12     869
+2011/07/19  Discipline (Logos 1)                    +  5      17     874
+2011/07/19  Discipline (Logos 2)                    + 10      27     884
+2011/07/19  Discipline (Logos 3)                    + 15      42     899
+2011/07/19  Discipline (Logos 4)                    + 20      62     919
+2011/07/19  Discipline (Logos 5)                    + 25      87     944
+2011/07/19  Willpower (Founding Grigori)            +  8      95     952
+2011/07/19  Willpower (Shadow Cult)                 -  8      87     952
+2011/07/22  Downtime (July)                         +  2      89     954
+2011/07/23  Game (Reading Requiem)                  +  2      91     956
+2011/07/28  Game (Amsterdam Requiem)                +  2      93     958
+2011/08/06  Game (Southwark Requiem - NPC)          +  4      97     962
+2011/08/21  Devotion (Cognition)                    - 15      82     962
+2011/08/21  Devotion (Distant Web)                  -  6      76     962
+2011/08/21  Discipline (Meminisse 1)                -  5      71     962
+2011/08/21  Discipline (Meminisse 2)                - 10      61     962
+2011/08/21  Merit (Distant Sympathy 2)              -  4      57     962
+2011/08/21  Power Stat (Blood Potency 7)            - 56       1     962
+2011/08/21  Skill (Socialise 1)                     -  3     - 2     962
+2011/08/27  Downtime (August)                       +  2       0     962
+2011/08/27  Game (Reading Requiem - NPC)            +  2       2     964
+2011/08/27  Other (XP Award)                        +  1       3     965
+2011/09/    Downtime (September)                    +  2       5     967
+2011/10/01  Game (Southwark Requiem - NPC)          +  4       9     971
+2011/10/    Devotion (Weaving the Threads)          - 18    -  9     971
+2011/10/    Downtime (October)                      +  2    -  7     973
+2011/11/03  Change of Covenant Refund (#1409)       + 57      50    1026
+2011/11/07  Coil Refund (#1388)                     + 98     148    1124
+2011/11/10  Devotion (Cutting of the Strings)       - 15     133    1124
+2011/11/10  Devotion (Manteia)                      - 15     118    1124
+2011/11/10  Discipline (Meminisse 3)                - 15     103    1124
+2011/11/10  Discipline (Meminisse 4)                - 20      83    1124
+2011/11/10  Discipline (Meminisse 5)                - 25      58    1124
+2011/12/02  Devotion (Encode Vitae)                 - 12      46    1124
+2011/12/02  Devotion (Restoration ofThings Lost)    - 21      25    1124
+2011/12/02  Discipline (Cruac 1 (Drops Destiny))    -  0      25    1124
+2011/12/02  Discipline (Cruac 1)                    -  7      18    1124
+2011/12/16  Merit (Shared Haven (Security) 1)       -  2      16    1124
+2011/12/16  Merit (Shared Haven (Security) 2)       -  4      12    1124
+2011/12/16  Merit (Trained Observer 3)              -  6       6    1124
+2011/12/16  Skill (Occult (Ordo Dracul) #1609)      -  3       3    1124
+2011/12/16  Skill (Occult (Moirai) #1610)           -  3       0    1124
+2011/12/20  Game (Kent Requiem)                     +  4       4    1128
+2012/01/23  Downtime (December)                     +  2       6    1130
+2012/01/22  Merit (Emotional Detachment 1)          -  2       4    1130
+2012/01/22  Merit (Lordly Palette 1)                -  2       2    1130
+2012/01/23  Downtime (January)                      +  2       4    1132
+2012/04/27  Downtime (April)                        +  2       6    1134
+2012/05/22  Merit (Danger Sense 2)                  -  4       2    1134
+2012/05/22  Merit (Direction Sense 1)               -  2       0    1134
+2012/05/25  Downtime (May)                          +  2       2    1136
+2012/06/03  Game (Summer National - NPC)            +  4       6    1140
+2012/06/03  Overcap (Summer National - NPC)         +  6      12    1146
+2012/06/04  Game (Summer National - NPC)            +  2      14    1148
+2012/06/04  Overcap (Summer National - NPC)         +  6      20    1154
+2012/06/04  Downtime (Underworld Scene)             +  2      22    1156
+2010/06/22  Downtime (June)                         +  2      24    1158
+2012/07/18  Discipline (Cruac 1 (Blood Witness))    -  2      22    1158
+2012/07/18  Merit (Good Time Management 2)          -  4      18    1158
+2012/07/18  Merit (Language (Etruscan) 1)           -  2      16    1158
+2012/07/18  Skill (Occult 5)                        - 15       1    1158
+2012/07/26  Downtime (July)                         +  2       3    1160
+2012/07/26  Downtime (August)                       +  2       5    1160
+2012/10/    Downtime (October)                      +  2       7    1160
+2012/11/06  Refund (Cutting of the Strings)         + 10      17    1170
+2012/11/29  Discipline (Majesty 1)                  -  6      11    1170
+2012/11/29  Devotion (Timed Message)                - 10       1    1170
+2012/11/29  Downtime (December)                     +  2       3    1172
+2012/12/29  Game (Reading Awakening - NPC)          +  4       7    1176
+2012/12/29  Game (Reading Requiem - NPC)            +  2       9    1178
+2013/02/02  Downtime (February)                     +  2      11    1180
+2013/03/02  Downtime (March)                        +  2      13    1182
+2013/04/    Downtime (May)                          +  2      15    1184
+
+To buy:
+            Merit (Relic Analyst 1)                 -  2
+            Skill (Crafts 2)                        -  6
+            Merit (Relic Creator 4)                 -  8
+            
+            Devotion (Arcane Sight)                 - 10
+            Devotion (Magician's Exit)              - 18
+            Devotion (Pre-emptive Reflex)           - 24
+            Discipline (Cruac 2 (Maiden Skin))      - 14
+            Discipline (Cruac 3 (Deflect Wood Doom))- 21
+            Discipline (Cruac 4 (Mask of Blood))    - 28
+            Discipline (Cruac 5 (As One))           - 35
+            Discipline (Cruac 1 (Balancing 4))      -  2
+            Discipline (Cruac 2 (Blood Barrier))    -  4
+            Discipline (Dominate 3)                 - 21
+            Discipline (Dominate 4)                 - 28
+            Discipline (Dominate 5)                 - 35
+            Discipline (Spoiling 2)                 - 14
+            Discipline (Spoiling 3)                 - 21
+            Discipline (Spoiling 4)                 - 28
+            Discipline (Spoiling 5)                 - 35
+            Merit (Haven: Tomb 2)                   -  4
+            Merit (Haven: Tomb 3)                   -  6
+            Merit (Haven: Tomb 4)                   -  8
+            Merit (Haven: Tomb 5)                   - 10
+            Merit (Lordly Palette 2)                -  4
+            Merit (Lordly Palette 3)                -  6
+            Merit (Temple Library 3)                -  6
+            Merit (Temple Library 4)                -  8
+            Merit (Temple Library 5)                - 10
+            Merit (Zeal 2)                          -  4
+            Skill (Intimidate 2)                    -  6
+            Skill (Investigation 3)                 -  9
+            Skill (Medicine 1)                      -  3
+            Skill (Occult 6)                        - 18
+            Skill (Occult 7)                        - 21
+            Skill (Politics (Kindred))              -  3
+            Skill (Politics 2)                      -  6
+            Willpower (Memosyne)                    -  8
+
+        1 Balancing the Four Humours    Nom p93
+        1 Confidence in Adversity       CotC p204
+        1 Fires of Inspiration          CotC p204
+        1 Pangs of Proserpina           MET:R p199
+        1 Pythian Renewal               CotC p204
+        1 Rigor Mortis                  MET:R p199
+        1 Taste of Knowledge            CotC p204
+        1 Visage of the Crone           CotC p204
+
+        2 Barrier of Blood              Cote p84
+        2 Cheval                        MET:R p200
+        2 Hydra's Vitae                 MET:R p200
+        2 Maiden Skin                   CotC p205
+        2 Path of Thorns                CotC p205
+        2 Rex Sanguis Sacrorum          AncMys p70
+        2 Soul's Work                   CotC p206
+        2 Succulent Buboes              CotC p206
+        2 The Heliolater's Warning      Nom p93
+        2 Wisdom of the Soul            CotC p206
+
+        3 Deflection of the Wooden Doom MET:R p201
+        3 Beloved Deodand               CotC p206
+        3 Doorways of Eye and Mind      AncMys p70
+        3 Final Service of the Slave    CotC p206
+        3 Flower of Demeter             Cote p85
+        3 Rain                          CotC p207
+        3 Song of the Blood             Nom p93
+        3 Taste of Destiny              CotC p207
+        3 Tiamat's Offspring            CotC p207
+        3 Touch of the Morrigan         MET:R p201
+
+        4 Bleeding the Tarantula        Nom p93
+        4 Blood Price                   MET:R p201
+        4 Eye of the Norn               CotC p208
+        4 Fount of Wisdom               CotC p208
+        4 Mask of Blood                 CotC p209
+        4 Sacrifice of Odin             CotC p209
+        4 Willful Vitae                 MET:R p202
+
+        5 A Child from the Stones       CotC p209
+        5 As One                        CotC p209
+        5 Blood Blight                  MET:R p202
+        5 Crone's Renewal               CotC p211
+        5 Curse of Ahasveras            Nom p93
+        5 Feeding the Crone             MET:R p202
+        5 Ianus' Blessing               AncMys p71
+        5 Roving Hut                    CotC p211

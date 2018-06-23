@@ -1,0 +1,207 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>
+Number - UK0701-1705
+VST - 
+VSS - 
+
+Name: Reuben Chance
+DoB: 1941/03/29 (25)
+DoD: 1986/10/13 (25)
+Concept - 
+
+Clan: Daeva
+    Bloodline: Amara Havana
+Covenant: Lancea Sanctum
+    Creed: Westminster
+
+--- SHEET ---
+Attributes:
+    Mental (5):             ¦Physical (3):          ¦Social (4):
+        Intelligence    5   ¦   Strength        2   ¦   Presence            2
+        Wits            2   ¦   Dexterity       2   ¦   Manipulation        2
+        Resolve         2   ¦   Stamina         2   ¦   Composure           4
+
+Skills:
+    Mental (11):            ¦Physical (4):          ¦Social (7):
+        Academics       5   ¦   Athletics       0   ¦   Animal Ken          0
+        Computer        1   ¦   Brawl           0   ¦   Empathy             1
+        Craft           0   ¦   Drive           0   ¦   Expression          1
+        Investigation   1   ¦   Firearms        0   ¦   Intimidate          3
+        Medicine        0   ¦   Larceny         2   ¦   Persuasion          2
+        Occult          4   ¦   Stealth         2   ¦   Socialise           1
+        Politics        0   ¦   Survival        0   ¦   Streetwise          1
+        Science         0   ¦   Weaponry        0   ¦   Subterfuge          4
+
+Merits:
+    Power Stat (Blood Potency)              4
+    Status (Daeva)                          1
+    Status (Lancae Sanctum)                 1
+    Status (Southwark)                      0
+
+                                                Shared  Pool
+    Close Family (• to •••)     Daeva p117  3
+    Herd (• to •••••)                       1
+    Language (Latin) (•)                    1
+
+                                                Shared  Pool
+    Haven ():
+        Location                            2
+        Security                            5
+        Size                                3
+        Tomb                                3
+
+Disciplines:            Dots    Cost    Pool
+    Celerity            3       1vt     N/A
+    Theban              2       1wp     12  Inte + Acad + Spec + Theb
+        1 Vitae Reliquary                   MET:R p205
+        2 Bird of Sin                       LS p196
+        2 Liar's Plague                     MET:R p205
+        2 Prison of Denial                  LS p197
+
+Devotions:                      XP
+
+Morality:   Lost    Gained  Derangements
+    10      
+    9       
+    8       
+    7       
+    6       
+    5   *   
+    4       
+    3       
+    2       
+    1       
+
+Equipment:      Size    Dur Bonus   Cap     Other
+
+Other:
+    Virtue: Faith
+    Vice: Pride
+    
+    Health: Size(5) + Stamina(2) = 7
+    |  |  |  |  |-1|-2|-3|
+    
+    Willpower: Resolve(3) + Composure(2) = 5
+    |  |  |  |  |  |
+    
+    Vitae = Max 11, 1 / turn
+    |S |  |  |H |  |  |  |  |  |  |
+    |  |
+    
+    Size: 5
+    Defence: Min(Dexterity(3),Wits(3)) = 3
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(3) + Composure(2) + FR(0) = 5
+    
+    Acting Speed = 5
+    
+    Speed: 5 + Strength(2) + Dexterity(3) + FoF(0) = 10
+
+Approvals:
+    
+
+Notes:
+    
+
+--- BACKGROUND ---
+
+--- KNOWN BIOGRAPHY ---
+* Name - 
+    * Known as - 
+* Age - 
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date            Item                                Cost    Left    Total
+Creation        Attribute (Composure 2)                0       0       0
+Creation        Attribute (Composure 3)                0       0       0
+Creation        Attribute (Composure 4)                0       0       0
+Creation        Attribute (Dexterity 2) - Free point   0       0       0
+Creation        Attribute (Intelligence 2)             0       0       0
+Creation        Attribute (Intelligence 3)             0       0       0
+Creation        Attribute (Intelligence 4)             0       0       0
+Creation        Attribute (Intelligence 5)             0       0       0
+Creation        Attribute (Intelligence 5)             0       0       0
+Creation        Attribute (Manipulation 2)             0       0       0
+Creation        Attribute (Stamina 2)                  0       0       0
+Creation        Attribute (Stamina 3)                  0       0       0
+Creation        Attribute (Strength 2)                 0       0       0
+Creation        Discipline (Celerity 1)                0       0       0
+Creation        Discipline (Celerity 2)                0       0       0
+Creation        Discipline (Celerity 3)                0       0       0
+Creation        Merit (Language (Latin) 1)             0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 2)              0       0       0
+Creation        Merit (Power Stat (BP) 3)              0       0       0
+Creation        Merit (Power Stat (BP) 3)              0       0       0
+Creation        Merit (Power Stat (BP) 3)              0       0       0
+Creation        Skill (Academics (Prison of Denial))   0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Academics 5)                    0       0       0
+Creation        Skill (Intimidate 1)                   0       0       0
+Creation        Skill (Intimidate 2)                   0       0       0
+Creation        Skill (Intimidate 3)                   0       0       0
+Creation        Skill (Investigation 1)                0       0       0
+Creation        Skill (Larceny 2)                      0       0       0
+Creation        Skill (Larceny 2)                      0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Occult 4)                       0       0       0
+Creation        Skill (Stealth 2)                      0       0       0
+Creation        Skill (Stealth 2)                      0       0       0
+Creation        Skill (Subterfuge (Lying))             0       0       0
+Creation        Skill (Subterfuge 1)                   0       0       0
+Creation        Skill (Subterfuge 2)                   0       0       0
+Creation        Skill (Subterfuge 3)                   0       0       0
+Creation        Skill (Subterfuge 4)                   0       0       0
+Creation        Skill (Weaponry (Spear))               0       0       0
+MC              MC (1)                              + 90      90      90
+MC              Creation (Background)               +  5      95      95
+MC              Creation (IC Bio)                   +  2      97      97
+MC              Attribute (Presence 2)              - 10      87      97
+MC              Attribute (Resolve 2)               - 10      77      97
+MC              Attribute (Wits 2)                  - 10      67      97
+MC              Discipline (Theban 1)               -  7      60      97
+MC              Discipline (Theban 2 (Liar))        -  4      56      97
+MC              Discipline (Theban 2 (Prison))      -  4      52      97
+MC              Discipline (Theban 2)               - 14      38      97
+MC              Merit (Close Family 1)              -  2      36      97
+MC              Merit (Close Family 2)              -  4      32      97
+MC              Merit (Close Family 3)              -  6      26      97
+MC              Merit (Herd 1)                      -  2      24      97
+MC              Skill (Computer 1)                  -  3      21      97
+MC              Skill (Empathy 1)                   -  3      18      97
+MC              Skill (Expression 1)                -  3      15      97
+MC              Skill (Persuasion 1)                -  3      12      97
+MC              Skill (Persuasion 2)                -  6       6      97
+MC              Skill (Socialise 1)                 -  3       3      97
+MC              Skill (Streetwise 1)                -  3       0      97
+
+Remaining Theban rituals:
+1 Blood Scourge                     MET:R p204
+1 Celibacy                          LS p194
+1 Messenger's Mark                  Nom p94
+1 Paladin's Absolution              Cote p127
+1 Sinner Song                       LS p196
+1 Theban Inscription                LS p196
+1 Vitae Reliquary                   MET:R p205
+
+2 Curse of Babel                    MET:R p205
+2 Damned Radiance                   LS p197
+2 Resistance of Discipline          LS p197
+2 Wings of the Seraph               Nom p94
+
+Restricted:
+1 Angel's Touch                     RfR p117
+1 Crown of Thorns                   LS p194
+1 Hauberk of Blood                  LS p194
+
+2 Lightning Rod                     AncMys p71
+2 Sanctity                          LS p197

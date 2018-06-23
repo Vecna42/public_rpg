@@ -1,0 +1,684 @@
+Player - "Richard Hussey" <richardhussey42@gmail.com>, UK0701-1705
+VST - "Trevor Halliday" <glasgowrequiemst@gmail.com>, Southampton Requiem
+
+Name: Nikola Hunyadi nee Corvinus
+DoB: Late 1300s (25)
+DoD: Early 1400s (600)
+Concept - 
+
+Clan: Gangrel
+    Bloodline: Bohagande    #1573
+Covenant: Invictus
+    Faction: The Noble Fellowship of Artemis
+
+--- SHEET ---
+Attributes:
+    Mental (4):             ¦Physical (5):          ¦Social (3):
+        Intelligence    2   ¦   Strength        4   ¦   Presence            2
+                            ¦       Vigour      1   ¦                       
+        Wits            4   ¦   Dexterity       4   ¦   Manipulation        2
+        Resolve         3   ¦   Stamina         2   ¦   Composure           2
+                            ¦       Resilience  1   ¦                       
+
+Skills:
+    Mental (4):             ¦Physical (11):         ¦Social (7):
+        Academics       0   ¦   Athletics       5   ¦   Animal Ken          3
+                            ¦       Bows            ¦       Dogs            
+        Computer        0   ¦   Brawl           0   ¦   Empathy             1
+        Crafts          0   ¦   Drive           0   ¦   Expression          0
+        Investigation   1   ¦   Firearms        2   ¦   Intimidate          1
+        Medicine        0   ¦   Larceny         2   ¦   Persuasion          0
+        Occult          1   ¦   Stealth         0   ¦   Socialise           2
+        Politics        2   ¦   Survival        1   ¦   Streetwise          0
+        Science         0   ¦   Weaponry        0   ¦   Subterfuge          2
+                            ¦                       ¦       Twist of Fate   
+
+Merits:
+    Power Stat (Blood Potency)              1
+    Status (Gangrel)                        2
+    Status (Invictus)                       2
+    Status (Glasgow)                        1
+
+                                                Shared  Pool
+    Danger Sense (••)                       2
+    Fast Reflexes (• or ••)                 2
+    Fleet of Foot (• to •••)                3
+    FS: Archery (• to ••••)     Arm p208    4
+        1 Draw and Loose - Count as Strength + 1 for minimum Str, Damage, and Range on a heavy bow.
+        2 Rapid Nock - Once per turn, reload as a reflexive action.
+        3 Arcing Fire - Double the range of any bow.
+        4 Plunging Fire - As long as you can see any part of the target, they grant no concealment penalties.  Must have no overhead protection, and must be enough room for several hundred feet of vertical flight (e.g. football stadium or outdoors).
+    Herd (• to •••••)                       1
+    Language (English) (•)                  1
+    Parkour (• to •••••)        StrAlc p74  5
+        1 Flow - Negate up to Parkour-dots (5) in hazardous terrain penalties when running or using foot chase rules.
+        2 Cat Leap - On Dext + Athl (9) to mitigate falling damage, gain 1 automatic success and raise the threshold by Parkour-dots (5).
+        3 Wall Run - On Athl to climb, scale 10ft + 5ft per dot of Athl (5).  Every full 10ft beyond the first is a -1 penalty.
+        4 Expert Traceur - Sacrifice defence for a turn to make Athl rolls to run, jump, or climb rote action.
+        5 Freeflow - If been running for 1min, Athl actions to run, jump, or climb become reflexive.  If less than 1min, must spend 1wp to use.
+    Quick Draw (Firearms) (•)               1
+    Resources (• to •••••)                  4
+
+    House Membership (• or •••) Invic p187  3
+    Will of the Dynasty (•••)   Invic p188  3
+
+
+    Retainer (Familiar (Hound)) (• to •••••)1
+    Retainer (Familiar (Hawk)) (• to •••••) 1
+    
+    Retainer (Ghoul (Mr Grey)) (• to •••••) 1
+    Retainer (Ghoul (Mr White)) (• to •••••)1
+    
+    Retainer (Mr Blue) (• to •••••)         1
+    Retainer (Mr Green) (• to •••••)        1
+    Retainer (Mr Red) (• to •••••)          1
+    Retainer (Ms Orange) (• to •••••)       1
+    Retainer (Ms Violet) (• to •••••)       1
+    Retainer (Ms Yellow) (• to •••••)       1
+
+                                                Shared  Pool
+    Haven ():
+        Location                            1
+            Nikola                              1
+        Security                            1
+            Nikola                              1
+            Jan                                 
+        Size                                1
+            Nikola                              1
+            Jan                                 
+        Tomb (• to ••••)        AncMys p67  1
+            Nikola                              1
+
+Disciplines:            Dots    Cost    Pool
+    Animalism           4
+        Feral Whispers          N/A      9  Mani + AniK + Spec + Anim
+        Obedience               N/A      9  Pres + AniK + Spec + Anim - Com
+        Call of the Wild        1vt      9  Pres + AniK + Spec + Anim
+        Subsume the Lesser      1vt      9  Mani + AniK + Spec + Anim v Com
+    
+    Celerity            1       1vt/turn
+    
+    Obfuscate           1
+        Touch of Shadow         N/A      7  Wits + Larc + Spec + Obfu + Occ
+    
+    Protean             2
+        Aspect of the Predator  N/A    N/A
+        Haven of Soil           1vt    N/A
+    
+    Resilience          1       1vt/scene
+    
+    Sunnikuse           5
+        Jinx                    1wp     11  Wits + Subt + Spec + Sunn
+        Evil Eye                1vt      8  Pres + Inti + Spec + Sunn
+        Calamity                1vt      8  Mani + Empa + Spec + Sunn
+        Twist of Fate           1vt     10  Mani + Subt + Spec + Sunn
+        Gift of the Crow        1wp      8  Inte + Occu + Spec + Sunn
+    
+    Vigor               1       1vt/scene
+
+Devotions:                      XP
+    Undying Familiar            18
+        Source - Gangrel p115
+        {Animalism 4, Protean 2}
+        Action: Instant
+        Cost: 1vt per size
+        Duration: N/A
+        Pull:  9  Reso + AniK + Spec + Anim
+        Defence: N/A
+        Description: 
+
+Morality:   Lost    Gained
+    10      
+     9      
+     8      
+     7  *   
+     6      
+     5      
+     4      
+     3      
+     2      
+     1      
+
+Equipment:          Size    Str Dur Damage      Range       Other
+                                                -0/ -2/ -4  Double range with FS:Archery 3.
+    Bow             4       5   -   5           45/ 90/180  
+        Vigour                      6           48/ 96/192  
+    Compound Bow    4       5   -   6           60/120/240  
+        Vigour                      7           64/128/256  
+    
+    Cannot use FS:Archery with staking          -0/ -2/ -4  
+    Bow (Staking)   4       5   -   1           42/ 84/168  Take a -2 penalty if not using
+        Vigour                      1           45/ 90/180  Vigour when staking with either
+    Compound (Stake)4       5   -   1           56/112/224  bow.
+        Vigour                      1           60/120/240  
+
+Other:
+    Virtue: Prudence
+    Vice: Sloth
+    
+    Health: Size(5) + Stamina(2) + Resilience (1) = 8
+    |  |  |  |  |  |
+    |-1|-2|-3|
+    
+    Willpower: Resolve(3) + Composure(2) = 5
+    |  |  |  |  |  |
+    
+    Vitae = Max 11, 1 / turn
+    |S |  |  |H |  |
+    |  |  |  |/ |/ |
+    |/ |
+    
+    Size: 5
+    Defence: Min(Dexterity(4),Wits(4)) = 4
+        Defence (4) + Celerity (1)       5
+    Armour: 0 / 0
+    
+    Initiative: Dexterity(4) + Composure(2) + FR(2) = 8
+        Initiative (8) + Celerity (1)                 9
+    
+    Acting Speed = 5
+        Acting + Celerity (1) = 6
+    
+    Speed: 5 + Strength(4) + Dexterity(4) + FoF(3) = 16
+        Speed (16) + Vigour (1)                      17
+        Speed (16) + Celerity (1)                    32
+        Speed (16) + Cel (1) + Vig (1)               34
+
+Approvals:
+    
+
+Notes:
+    
+
+Retainer Hound:
+    Inte 1, Stre 4, Pres 4
+    Wits 4, Dext 3, Mani 1
+    Reso 3, Stam 3, Comp 3
+    
+    Athletics (Running) 4, Brawl 3, Intimidate 3, Stealth 1, Survival (Tracking) 3
+    
+    Disciplines: Resilience 1
+    
+    Health: 8  |  |  |  |  |  |  |  |  |
+    Wpower: 6  |  |  |  |  |  |  |
+    Vitae:  3  |  |  |  |
+    Size: 4     Initiative: 6   Defence: 4
+    Acting: 7   Speed: 14
+    
+    Bite: 2(L), pool 9
+
+Retainer Hawk:
+    Inte 1, Stre 1, Pres 3
+    Wits 3, Dext 3, Mani 1
+    Reso 3, Stam 2, Comp 3
+    
+    Athletics 3, Brawl 1, Intimidate 2, Survival 3
+    
+    Disciplines: Resilience 1
+    
+    Health: 5  |  |  |  |  |  |
+    Wpower: 6  |  |  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 2     Initiative: 6   Defence: 3
+    Acting: -   Speed: 14
+    
+    Beak: 1(L), pool 3
+
+Retainer 1:
+    Name: Mr Grey, Mr Black, Mr Charcoal, Mr Silver, Mr Taupe.
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 1, Stre 1, Pres 1
+    Wits 1, Dext 1, Mani 1
+    Reso 1, Stam 1, Comp 1
+    
+    Acad 0, Athl 0, AniK 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: 
+    Merits: 
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Disciplines: Resilience 1
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 13
+
+Retainer 2:
+    Name: Mr White, Mr Beige, Mr Blond, Mr Cream, Mr Eggshell, Mr Ivory, Mr Linen, Mr Magnolia, Mr Munsell, Mr Pearl, Mr Snow.
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 1, Stre 1, Pres 1
+    Wits 1, Dext 1, Mani 1
+    Reso 1, Stam 1, Comp 1
+    
+    Acad 0, Athl 0, AniK 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: 
+    Merits: 
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Disciplines: Resilience 1
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 13
+
+Retainer 3:
+    Name: Mr Blue, Mr Azure, Mr Celeste, Mr Cerulean, Mr Cobalt, Mr Cyan, Mr Glaucous, Mr Indigo, Mr Iris, Mr Midnight, Mr Periwinkle, Mr Sapphire, Mr Teal, Mr Turquoise, Mr Ultramarine.
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 1, Stre 1, Pres 1
+    Wits 1, Dext 1, Mani 1
+    Reso 1, Stam 1, Comp 1
+    
+    Acad 0, Athl 0, AniK 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: 
+    Merits: 
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 13
+
+Retainer 4:
+    Name: Mr Green, Mr Apple, Mr Asparagus, Mr Chartreuse, Mr Fern, Mr Harlequin, Mr Honeydew, Mr Line, Mr Mantis, Mr Mint, Mr Olive, Mr Pistachio, Mr Teal.
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 1, Stre 1, Pres 1
+    Wits 1, Dext 1, Mani 1
+    Reso 1, Stam 1, Comp 1
+    
+    Acad 0, Athl 0, AniK 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: 
+    Merits: 
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 13
+
+Retainer 5:
+    Name: Ms Orange, Ms Amber, Ms Apricot, Ms Champagne, Ms Coral, Ms Flame, Ms Gold, Ms Lion, Ms Mahogany, Ms Peach, Ms Pumpkin, Ms Salmon, Ms Sunset, Ms Tangelo, Ms Tangerine, Ms Vermilion.
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 1, Stre 1, Pres 1
+    Wits 1, Dext 1, Mani 1
+    Reso 1, Stam 1, Comp 1
+    
+    Acad 0, Athl 0, AniK 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: 
+    Merits: 
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 13
+
+Retainer 6:
+    Name: Mr Red, Mr Amaranth, Mr Auburn, Mr Burgundy, Mr Cardinal, Mr Chestnut, Mr Crimson, Mr Rose, Mr Ruby, Mr Rust, Mr Scarlet, Mr Wine.
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 1, Stre 1, Pres 1
+    Wits 1, Dext 1, Mani 1
+    Reso 1, Stam 1, Comp 1
+    
+    Acad 0, Athl 0, AniK 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: 
+    Merits: 
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 13
+
+Retainer 7:
+    Name: Ms Violet, Ms Amethyst, Ms Byzantium, Ms Cerise, Ms Fandango, Ms Fuchsia, Ms Heliotrope, Ms Lavender, Ms Plum, Ms Wisteria.
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 1, Stre 1, Pres 1
+    Wits 1, Dext 1, Mani 1
+    Reso 1, Stam 1, Comp 1
+    
+    Acad 0, Athl 0, AniK 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: 
+    Merits: 
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 13
+
+Retainer 8:
+    Name: Ms Yellow, Ms Amber, Ms Apricot, Ms Ecru, Ms Jasmine, Ms Lemon, Ms Maize, Ms Saffron.
+    Virtue: Fortitude   Vice: Wrath
+    
+    Inte 1, Stre 1, Pres 1
+    Wits 1, Dext 1, Mani 1
+    Reso 1, Stam 1, Comp 1
+    
+    Acad 0, Athl 0, AniK 0
+    Comp 0, Braw 0, Empa 0
+    Craf 0, Driv 0, Expr 0
+    Inve 0, Fire 0, Inti 0
+    Medi 0, Larc 0, Pers 0
+    Occu 0, Stea 0, Soci 0
+    Poli 0, Surv 0, Stre 0
+    Scie 0, Weap 0, Subt 0
+    
+    Specs: 
+    Merits: 
+    Equipment:  Size    Dur Bonus   Cap Other
+    
+    Morality: 5
+    Health: 7  |  |  |  |  |  |  |  |
+    Wpower: 4  |  |  |  |  |
+    Vitae:  2  |  |  |
+    Size: 5     Initiative: 5   Defence: 2
+    Acting: 5   Speed: 13
+
+--- BACKGROUND ---
+Mortal life - Late 1300s and early 1400s:
+Nikola Hunyadi was born in Hunyad, a province of Hungary, into the not-yet famous Hunyadi family.  By the time the more famous John Hunyadi was born at the turn of the 1400s, he had already died.  His early life was unremarkable and it is likely that he would have died in obscurity, to be overshadowed by his more famous relatives.  And that is exactly what did happen when he was embraced...
+
+
+
+Life among the damned - From the 1400s to the 1600s:
+Turned by an unknown Gangrel (history failed to record his name in a form that would last, and it faded from Nikola's mind during a period of torpor), he established his name among the local Invictus.  As thus it was a three quarters of a century later that when a local Ventrue Radul, also embraced from the line of Hunyadi, approached him with the idea of founding a dynastic house he agreed and House Corvinus, the House of the Raven, was formed.  On his own merit Nikola rose to the title of Baron Hunyadi, but the combined efforts of Corvinus raised the name of the House to the slightly higher accolade of Viscount of Hunyad.  Between them they sought out a third member to make the House stable through the long centuries, and between them they selected Shadrach, a local Invictus Mekhet from an old Babylonian line which had relocated to Europe in the shattering of the Camarilla.  Together, the three of them founded a House based around the joys of pursuit and hunting, and for mutual protection.
+
+Radul was often abroad, dealing with shipping business in Holland, and it was from there that he returned one night in the 1520s with Jan Van Der Hoff to act as his vassal among the sailors who transported the hunters and the prey for the grand hunts of the Corvinus.
+
+
+
+The 1600s onwards:
+As the 17th Century began, and Hungary was firmly locked in the grip of the Ottoman Empire, Crovinus decided that their future lay elsewhere in Europe - the recent founding of the Noble Fellowship of Artemis in Birmingham decided the location easily.  Packing up the House lock-stock-and-barrel, Jan was employed to transport the sleeping family and their faithful retainers to the shores of Scotland, where they began to re-establish the hunting grounds they so missed from their ancestral lands.
+
+
+
+Early 1800s:
+A nomadic Gangrel had strayed onto the hunting grounds of House Corvinus and was (successfully) evading pursuit and raiding the animals and humans there for a hunt of the Noble Fellowship of Artemis that was supposed to be happening within the week.
+Nikola, who as head of the House was obviously above such things normally, was eventually forced to participate in hunting down the miscreant.
+
+What followed was a most humiliating experience for the whole of House Corvinus involved, and something of which they would never speak again.  At every turn even the very ground itself seemed to interpose itself in the chase.  Stones were in just the right place, tree branches swung back to hit them in the faces, and their own senses seemed to fail to find tracks.
+
+Eventually, as dawn was drawing close, the nomad was spotted by Nikola close to the edge of the forest, nonchalantly draining the blood from one of the many staff kept at the mansion.  Carefully, staying at all times behind the nomad and making almost no sound, he managed to draw and cock an arrow in his bow and began to focus his aim at the heart of the monster.  As the arrow shaft was let loose and flew through the air, he had to strangle down the sudden explosion of internal rage from the Beast, as the nomad turned at the last moment and rather than taking the shaft through the heart as Nikola had intended, it went through his left arm instead.  Nikola felt a strange twisting lurch in his stomach as if the world had been pulled askew.
+
+Instinctively, the nomad flowed like water into the soil beneath him, and as Nikola spied the first rays of the sun breaking the horizon he did similar.
+
+When he surfaced the next night, it was to find the nomad sitting waiting for him.
+"A lucky shot you made there, Elder.  I only just avoided it.  You strike a chord of familiarity with me.  I will offer you a wager, which I hope you will find interesting."
+"Speak your terms."
+"I will wager that you will not be able to hit me with another shot, not be able to injure me again before the next sunrise.  In single pursuit, no one to help you.  If I win, then you will allow me to live here in the forest for as long as I want and eat of your cattle."
+"And if I win?"
+"In the unlikely situation you do, you can choose your prize then.  Deal?"
+"I suppose so..." And without pausing, Nikola snatched up his bow and loosed an arrow that seemed to curve in mid-flight to strike the tree next to the Gangrel.
+"Good luck."  He grinned, and with a bound loped off into the dusk in wolf form.
+
+Snarling, Nikola felt the Beast rising within him but he pushed it back down with a savage cry and began to tirelessly track the marks left by the wolf.
+
+Over the course of the night, he shot many fruitlessly arrows into the dark, each failing to find it's mark and accompanied by that now familiar twisting wrenching in is stomach.  At every turn, the nomad was there, laughing as he blurred between kindred and wolf form.
+
+As the first ray of sunlight began to once more creep through the trees he cried out with desperation and anger, and in his throes of passion summoned to him all the creatures of the forest whom could hear him.  As they came rushing toward his call, they swarmed past the nomad who was preparing to sink into the soil and who was momentarily caught unaware and unable to defend against such a wave of onslaught.
+
+The Beast in Nikola roared out in triumph and with a single fluid movement pulled a single arrow through the string and let it fly between the shifting mass of animals to land squarely in the neck of the nomad, who collapsed with a scream and sank once more under the soil.
+
+Nikola felt his skin begin to boil as the sun stole across his exposed body.  Even as the shuddering and shaking Rotschreck took over his thoughts and muscles, he crowed in triumph and sank beneath the cool and welcoming earth, welcomed back into its damp embrace.
+
+Waking the next night, he found himself lying on the surface of the ground once more, his very being burning up in agony.  His forearms and shoulders were blackened and burned, twisted stumps of limbs that once were and flesh that rippled with blisters.  Pain lanced through his very being and the Beast prowled at the edges of his conciousness waiting for a chance to seize control once more in anger.
+
+As he watched, laboured breathing in mockery of his days alive, the soil before him parted and the nomad rose out of the depths with the arrow still buried through his neck.
+
+"You fought well, elder, and my word is honourable.  But I will name a prize I think that you will find most interesting.  Drink of my vitae, use my strength to heal the wounds I have brought upon you, and in return take the changes I have wrought to myself into your own blood.  Become the Bohagande, the medicine man.  Take your luck and make of it a weapon."
+
+Too weak to protest, Nikola had the wrist of the nomad pressed to his lips and felt the heady rush of vitae swirl down and into him.
+
+"I name you Corvid Bloodwing, a Jonah of the Bohagande.  Tell no one of your new name, it will have power over you."
+
+"What do I call you?"  Nikola croaked out.
+
+"Before tonight you would have called me Storm Crow, but now I have failed a challenge and must once more be simply Aaron Fetcher."  And he blurred his form once more, and was away into the sky in the form of a luxurious eagle.
+
+And that was where Nikola's staff found him, directed to his location by the resident Annanku, {Tim Allen}.  Lying on the forest floor, looking up at the stars as his arms began to slowly knit themselves back together.
+
+
+
+1815:
+The anguished cry rang out through the halls of the Corvinus mansion.  The blood curdling agony of the moment, tempered only by the manic edge of the Beast slinking through.
+
+The halls of the mansion ran read with the spilled blood of retainers and animals, and through them all stalked the enraged figure of Nikola, barely keeping his Beast in check.  Rage flowed through his veins, and with every step he loosed another arrow from his bow.  Each one soaring through the gloom to strike into the body of the acolytes who had invaded his home, and ruined his hunt.
+
+And so he paced the halls of his (new) ancestral home, slaughtering them where they stood, never giving them a moment to cry out for forgiveness, to explain themselves to him, their rightful lord and master.  The Beast surged, and his reason went white hot and faded into nothingness.  The hunting hounds and the predatory birds flocked to his cry, and surged down the hallways behind him.
+
+Carnage and chaos, death and destruction, vengeance and vendetta.
+
+/Kill, feed, sleep, kill/.  The Beast was free and Nikola had no wish to try and reign it in.  He revelled in the sport, in the cleansing of his home.
+
+As his mind cleared, Shadrach stood watching him from a shadow.
+
+"You looked as though you were enjoying yourself, little brother."  His voice was cold and controlled, as usual.
+
+"The barbarians invaded our home, brother, and I will not permit such to go unchecked.  At least they were stopped before they could do any serious damage to the property.  Didn't see you helping out."
+
+"I had other matters.  They killed Radul."
+
+Nikola froze, the Beast not tired from its earlier rampage tried to break free once more but Shadrach made a slight motion with his hand and the Beast snarled as it was caged once more.
+
+"Calm yourself, brother.  The acolytes found his sleeping body before you slaughtered them."
+
+"Calm myself?  CALM MYSELF?  Our brother is dead, we are diminished.  Corvinus is threatened.  WE TREMBLE ON THE POINT OF DESTRUCTION."
+
+"You are being melodramatic, Nikola.  Snap out of it.  Now.  We will not fail.  Corvinus will be strong, we are always strong.  We are Invictus, and you are behaving like a child.  Like a neonate not worthy of the title Viscount."  His eyes flashed in anger.
+
+"You will not talk to me like that."  He stood and pointed a finger at Shadrach dramatically.
+
+"That is better.  You are sounding more like a scion of Corvinus again.  Call the servants, have this mess cleaned up, and send for Jan.  He is Corvinus now."
+
+He turned and strode down the hallway imperiously, his long cloak dragging in the blood.
+
+
+
+1900s:
+As the new century rolled around, Nikola began to feel once more the siren call of sleep and began to put his affairs in order to allow his younger brother, Jan Van Der Graff to take over the majority running of the House along with Shadrach and his new childe {Stephen Chisholm}.
+
+
+
+2011:
+Nikola was surprised to find himself awake, ahead of schedule and being worried looked at by Jan Van Der Graff.  Their older brother was missing, and no one was clear what had happened to him...
+
+--- KNOWN BIOGRAPHY ---
+* Name - Nikola Hunyadi
+    * Also known as - Corvinus
+* Age - Over 600 years dead, but appears to be in his mid-20s.
+* Other 'facts':
+    
+
+--- XP LOG ---
+Date        Item                                    Cost    Left    Total
+Creation    Attribute (Composure 2)                    0       0       0
+Creation    Attribute (Dexterity 2)                    0       0       0
+Creation    Attribute (Dexterity 3)                    0       0       0
+Creation    Attribute (Manipulation 2)                 0       0       0
+Creation    Attribute (Presence 2)                     0       0       0
+Creation    Attribute (Resolve 2)                      0       0       0
+Creation    Attribute (Stamina 2) - Free Point         0       0       0
+Creation    Attribute (Strength 2)                     0       0       0
+Creation    Attribute (Strength 3)                     0       0       0
+Creation    Attribute (Strength 4)                     0       0       0
+Creation    Attribute (Wits 2)                         0       0       0
+Creation    Attribute (Wits 3)                         0       0       0
+Creation    Attribute (Wits 4)                         0       0       0
+Creation    Discipline (Animalism 1)                   0       0       0
+Creation    Discipline (Animalism 2)                   0       0       0
+Creation    Discipline (Animalism 3)                   0       0       0
+Creation    Merit (FS: Archery 1)                      0       0       0
+Creation    Merit (FS: Archery 2)                      0       0       0
+Creation    Merit (FS: Archery 3)                      0       0       0
+Creation    Merit (FS: Archery 4)                      0       0       0
+Creation    Merit (Savage Kenning (Dogs) 3)            0       0       0
+Creation    Merit (Savage Kenning (Dogs) 3)            0       0       0
+Creation    Merit (Savage Kenning (Dogs) 3)            0       0       0
+Creation    Skill (Animal Ken (Dogs))                  0       0       0
+Creation    Skill (Animal Ken 1)                       0       0       0
+Creation    Skill (Animal Ken 2)                       0       0       0
+Creation    Skill (Animal Ken 3)                       0       0       0
+Creation    Skill (Athletics (Crossbow))               0       0       0
+Creation    Skill (Athletics 1)                        0       0       0
+Creation    Skill (Athletics 2)                        0       0       0
+Creation    Skill (Athletics 3)                        0       0       0
+Creation    Skill (Athletics 4)                        0       0       0
+Creation    Skill (Athletics 5)                        0       0       0
+Creation    Skill (Athletics 5)                        0       0       0
+Creation    Skill (Firearms 1)                         0       0       0
+Creation    Skill (Firearms 2)                         0       0       0
+Creation    Skill (Investigation 1)                    0       0       0
+Creation    Skill (Larceny 1)                          0       0       0
+Creation    Skill (Larceny 2)                          0       0       0
+Creation    Skill (Occult 1)                           0       0       0
+Creation    Skill (Politics 1)                         0       0       0
+Creation    Skill (Politics 2)                         0       0       0
+Creation    Skill (Socialise 1)                        0       0       0
+Creation    Skill (Socialise 2)                        0       0       0
+Creation    Skill (Subterfuge (Twist of Fate))         0       0       0
+Creation    Skill (Subterfuge 1)                       0       0       0
+Creation    Skill (Subterfuge 2)                       0       0       0
+Creation    Skill (Survival 1)                         0       0       0
+MC          MC (6)                                  +270     270     270
+MC          Other (Background)                      +  5     275     275
+MC          Other (IC Bio)                          +  2     277     277
+MC          Attribute (Dexterity 4)                 - 20     257     277
+MC          Attribute (Intelligence 2)              - 10     247     277
+MC          Devotion (Undying Familiar)             - 18     229     277
+MC          Discipline (Animalism 4)                - 20     209     277
+MC          Discipline (Celerity 1)                 -  7     202     277
+MC          Discipline (Obfuscate 1)                -  7     195     277
+MC          Discipline (Protean 1)                  -  5     190     277
+MC          Discipline (Protean 2)                  - 10     180     277
+MC          Discipline (Resilience 1)               -  5     175     277
+MC          Discipline (Sunnikuse 1)                -  5     170     277
+MC          Discipline (Sunnikuse 2)                - 10     160     277
+MC          Discipline (Sunnikuse 3)                - 15     145     277
+MC          Discipline (Sunnikuse 4)                - 20     125     277
+MC          Discipline (Sunnikuse 5)                - 25     100     277
+MC          Discipline (Vigor 1)                    -  7      93     277
+MC          Merit (Danger Sense 2)                  -  4      89     277
+MC          Merit (Fast Reflexes 2)                 -  4      85     277
+MC          Merit (Fleet of Foot 1)                 -  2      83     277
+MC          Merit (Fleet of Foot 2)                 -  4      79     277
+MC          Merit (Fleet of Foot 3)                 -  6      73     277
+MC          Merit (House Membership 3)              -  6      67     277
+MC          Merit (Parkour 1)                       -  2      65     277
+MC          Merit (Parkour 2)                       -  4      61     277
+MC          Merit (Parkour 3)                       -  6      55     277
+MC          Merit (Parkour 4)                       -  8      47     277
+MC          Merit (Parkour 5)                       - 10      37     277
+MC          Merit (Quick Draw (Firearms) 1)         -  2      35     277
+MC          Merit (Language (English) 1)            -  2      33     277
+MC          Merit (Resources 1)                     -  1      32     277
+MC          Merit (Resources 2)                     -  2      30     277
+MC          Merit (Resources 3)                     -  3      27     277
+MC          Merit (Resources 4)                     -  4      23     277
+MC          Merit (Retainer (Blue) 1)               -  1      22     277
+MC          Merit (Retainer (Green) 1)              -  1      21     277
+MC          Merit (Retainer (Grey) 1)               -  1      20     277
+MC          Merit (Retainer (Orange) 1)             -  1      19     277
+MC          Merit (Retainer (Red) 1)                -  1      18     277
+MC          Merit (Retainer (Violet) 1)             -  1      17     277
+MC          Merit (Retainer (White) 1)              -  1      16     277
+MC          Merit (Retainer (Yellow) 1)             -  1      15     277
+MC          Merit (Will of the Dynasty 3)           -  6       9     277
+MC          Merit (Haven (Size) 1)                  -  2       7     277
+MC          Merit (Haven (Security) 1)              -  2       5     277
+MC          Merit (Haven (Location) 1)              -  2       3     277
+MC          Merit (Haven (Tomb) 1)                  -  2       1     277
+MC          Merit (Herd 1)                          -  1       0     277
+2012/01/10  Downtime (January)                      +  2       2     279
+2012/01/10  Merit (Retainer (Hound) 1)              -  1       1     279
+2012/01/10  Merit (Retainer (Hawk) 1)               -  1       0     279
+2012/05/11  Downtime (May)                          +  2       2     281
+2012/06/04  Game (Summer National)                  +  4       6     285
+2012/06/04  Overcap (Summer National)               +  6      12     291
+2012/11/17  Game (Cambridge FGotM - Birmingham)     +  4      16     295
+2012/11/17  Overcap (Cambridge FGotM)               +  3      19     298
+2012/11/21  Game (Southampton Requiem)              +  2      21     300
+2013/01/12  Attribute (Resolve 3)                   - 15       6     300
+2013/01/12  Skill (Empathy 1)                       -  3       3     300
+2013/01/12  Skill (Intimidate 1)                    -  3       0     300
+2013/01/12  Downtime (January)                      +  2       2     302
+2013/01/16  Game (Southampton Requiem)              +  4       6     306
+
+To buy:
