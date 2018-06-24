@@ -221,4 +221,4 @@ This effect expires when the sun next rises and may not be dismissed early, and 
 
 **Exceptional Success:** The spoof lasts for a number of nights equal to the Lynx's Blood Potency, and may be dismissed at any time.
 
-This devotions also costs 4xp
+This devotions costs 4xp
