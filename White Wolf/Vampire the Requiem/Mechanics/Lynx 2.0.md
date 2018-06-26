@@ -7,7 +7,7 @@ DESCRIPTIVE TEXT AND HISTORY
 
 **Nickname:** None
 
-**Bloodline Disciplines:** Auspex, Celerity, Majesty, Obfuscate
+**Bloodline Disciplines:** Auspex, Celerity, _Majesty_, Obfuscate
 
 **Bloodline Bane:** Each Lynx has one network they are obsessed with and must check in for a few minutes at least once a night to see what's new and to interact.  Being prevented (or perceiving that one is being prevented) from doing so is a Frenzy trigger at +0; the threat of being cut off entirely is a Frenzy trigger at -2.  This network should be represented with at least four dots worth of appropriate merits (Allies, Contacts, Retainer, Status, etc.).
 
@@ -183,7 +183,7 @@ In addition to the above devotions, the Lynx makes the following alterations or 
 The following devotions are more specialised or powerful effects that some elder Lynx may develop.  They are, as with the standard Web devotions, restricted to membership in the bloodline - but have higher costs than the above.
 
 ### Phreaking
-_(Majesty 2, Obfuscate 2)_
+_(Majesty 2, Obfuscate 4)_
 
 The Lynx may spoof their victim's place in a network that they belong to.
 
@@ -221,4 +221,4 @@ This effect expires when the sun next rises and may not be dismissed early, and 
 
 **Exceptional Success:** The spoof lasts for a number of nights equal to the Lynx's Blood Potency, and may be dismissed at any time.
 
-This devotions costs 4xp
+This devotions costs 3xp
