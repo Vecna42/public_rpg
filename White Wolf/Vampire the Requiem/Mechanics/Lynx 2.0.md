@@ -237,3 +237,18 @@ To the Lynx, being in the presence of a node is no different to accessing it thr
 **Effect:** By consuming vast amounts of precious Vitae as they activate it, the Lynx may extend the effects of Awe beyond their immediate presence. They may Awe anyone who sees them on live television, or hears them on live radio – or even the telephone, though it’s rather a waste. People watching the broadcast will be glued to the set, and will not touch that dial. They can’t induce people to come over who aren’t actually there, but they can make particular people they know are watching call in to the show.
 
 This devotions also costs 1xp
+
+### Network Maintainer
+_(Majesty 2)_
+
+As the Lynx often maintains a wide network of contacts across the world, some of them learn to channel more powerful effects of Majesty into a distant conversation.
+
+**Cost:** 1 vitae
+
+**Dice Pool:** None
+
+**Action:** Reflexive
+
+**Effect:** By activating this power alongside Confidant and spending the extra Vitae, the Lynx may use it over any two-way connection, so long as they can be seen or heard and see or hear the other person.
+
+This devotions also costs 1xp
