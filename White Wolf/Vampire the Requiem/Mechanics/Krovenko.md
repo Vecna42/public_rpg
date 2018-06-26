@@ -32,6 +32,7 @@ The basic power of Phlebotomise allows a Krovenko to better sense the flow of th
 **Action:** N/A
 
 This power is always in effect, and allows the Krovenko to add their dots in Phlebotomise to their Blood Potency for determining at what distance they can smell blood.  It does not affect their ability to see spilt blood.
+
 They also gain a rough idea of how badly wounded a mortal is, from the smell of how much blood is leaking out (a rough idea of how many health boxes are marked with lethal or aggravated damage).
 
 ### •• Sickly Pallor
@@ -68,8 +69,11 @@ Trace amounts of blood infected with haemophilia travel throughout the Krovenko'
 **Dice Pool:** N/A
 
 When feeding from a mortal, a Krovenko gains 4 vitae for every 3 points of lethal damage caused.  However, the mortal gains a limited form of the hemophilia disorder.
+
 For a number of weeks equal to lethal damage inflicted by feeding, the mortal suffers the effects of hemophilia.  This causes their blood to be slower when clotting, and can cause extra lethal damage from bleeding.  Storytellers should adjudicate as they feel necessary.  The duration of this effect is cumulative if a Krovenko feeds upon them again before the effect wears off.  That is to say: if they have a week left before the effect ends and a Krovenko feeds on them for 2 lethal they will add two weeks to the remaining duration, ending up with three weeks left.
+
 If a Krovenko feeds from a vampire, for every 2 points vitae she takes from the vampire she receives 3 points.  The vampire fed from gains the Krovenko bloodline weakness for a number of hours equal to the number of points of vitae they lost.
+
 If the Krovenko has Coil of Blood 2 () then they take
 
 ### •••• Blood Flows Easily
@@ -112,6 +116,7 @@ DRAMTIC FAILURE:
 **Exceptional Success:** In addition to the increased duration, an Exceptional Success lets the Czar treat their Blood Potency as two higher for vitae capacity.
 
 This power does not create extra vitae in the Krovenko's system; it simply creates more room for vitae.  The Krovenko must feed as usual if they wish to make use of this extra capacity.
+
 When the power's duration wears off (or is canceled), any vitae still held in excess of the Krovenko's normal limit seeps out of their skin through their pores all over the body.  This has an unsettling on any kindred watching (and if relevant, may require onlookers to test for Vitae Addiction) and is generally considered to be a breach of the Masquerade if observed by mortals.  In addition, it almost certain ruins any clothing they are currently wearing as it becomes soaked in blood.
 
 _Example:_ Alexandra activates Hematoma of the Flesh and gains three successes.  He has Blood Potency 5, which allows him to hold 14 points of vitae.  For the three hours this power lasts, he is counted as having Blood Potency 6 for the purposes of calculating his maximum vitae store which raises his limit to 15 points.  He is still limited to a maximum of 5 in attributes or skills, and cannot spend more than 2 points of vitae a turn.  He also suffers three points of bashing damage which he cannot heal until the power ends.
