@@ -236,7 +236,7 @@ To the Lynx, being in the presence of a node is no different to accessing it thr
 
 **Effect:** By consuming vast amounts of precious Vitae as they activate it, the Lynx may extend the effects of Awe beyond their immediate presence. They may Awe anyone who sees them on live television, or hears them on live radio – or even the telephone, though it’s rather a waste. People watching the broadcast will be glued to the set, and will not touch that dial. They can’t induce people to come over who aren’t actually there, but they can make particular people they know are watching call in to the show.
 
-This devotions also costs 1xp
+This devotions costs 1xp
 
 ### Network Maintainer
 _(Majesty 2)_
@@ -251,4 +251,40 @@ As the Lynx often maintains a wide network of contacts across the world, some of
 
 **Effect:** By activating this power alongside Confidant and spending the extra Vitae, the Lynx may use it over any two-way connection, so long as they can be seen or heard and see or hear the other person.
 
-This devotions also costs 1xp
+This devotions costs 1xp
+
+### Social Hub
+_(Auspex 4, INSERT INTO)_
+
+The Lynx spins the threads of blood around her and for the duration of the scene can create a temporary telepathic network between the participants of this power.
+
+The network can only be created between Kindred: the vitae within a ghoul does not have enough of a resonant sympathy for the Lynx to be able to extract the relevant threads.  Furthermore, it only works on Kindred who agree to be part of the network when it is established.
+
+**Cost:** 1 Willpower
+
+**Dice Pool:** Intelligence + Socialise + Auspex
+
+**Action:** Instant
+
+**Duration:** Scene
+
+**Effect:** For the scene, all the participants are considered to have a linked telepathic network.  This cannot be used to dig into the minds of those linked or even to read surface thoughts, but rather it is used to transmit the sounds, images, and sensations chosen by those in the network.
+
+Anyone using powers which highlight connections (e.g. SELECT FROM or The Meta-Web) on a member of the network will observe that the members of the network are linked, but cannot tell what the links mean unless they also have Lay Open the Mind.
+
+**Suggested Modifiers:**
+
+| Modifier | Situation |
+|:-------- |:--------- |
+| +1       | All those involved are Lynx |
+| +2       | All those involved know Lay Open the Mind |
+|  0       | Up to two targets |
+| -1       | Up to four targets |
+| -2       | Up to six targets |
+| -3       | Up to eight targets |
+| -4       | Up to ten targets |
+| -5       | Over ten targets |
+
+All the normal bonuses for Blood Sympathy apply.
+
+This devotions costs 5xp
