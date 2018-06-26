@@ -285,6 +285,6 @@ Anyone using powers which highlight connections (e.g. SELECT FROM or The Meta-We
 | -4       | Up to ten targets |
 | -5       | Over ten targets |
 
-All the normal bonuses for Blood Sympathy apply.
+All the normal bonuses for Blood Sympathy also apply.
 
 This devotions costs 5xp
