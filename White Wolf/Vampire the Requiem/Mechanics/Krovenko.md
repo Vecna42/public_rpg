@@ -54,10 +54,11 @@ With Sickly Pallor, the Krovenko learns to use the perceived thinness of her blo
 
 If the Czar's apparent Blood Potency drops to zero, they register as a ghoul to other Kindred instead of as a vampire.
 
-Suggested Modifiers
-Modifier | Situation
--------- | ---------
--1 | Every point of Blood Potency above 5 the Krovenko has.
+**Suggested Modifiers**
+
+| Modifier | Situation |
+|:-------- |:--------- |
+| -1       | Every point of Blood Potency above 5 the Krovenko has. |
 
 ### ••• Blood Flows Freely
 Trace amounts of blood infected with haemophilia travel throughout the Krovenko's system at all times, but it is not until they learn Blood Flows Freely that they can make use of this fact.  When a Krovenko feeds, she automatically gains more vitae as she counters the inherent clotting properties of the vessel.
