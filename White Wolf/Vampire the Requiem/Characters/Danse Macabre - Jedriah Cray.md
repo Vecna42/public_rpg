@@ -24,13 +24,13 @@ Animal Ken 0; Empathy 2; Expression 2; Intimidation 2; Persuasion 1; Socialise 2
 	+ (_Nathaniel Purser_) 1
 + Attache 1
 + Contacts 2 (_Architects, Freemasons_)
-+ Haven (_Shared_) 1 (5)
 + Mentor
 	+ (_Miles Gestes, Meister Steward_) 1 [Crafts, Politics, Socialise]
 	+ (_Sire_) 2 [Academics, Occult, Politics]
 + Resources 2
 + Retainer (_Alaizabel Cray_) 2
 + Safe Place (_Shared_) 0 (5)
+	+ Haven (_Shared_) 1 (5)
 + Status:
 	+ (_Cray & Partners_) 5
 	+ (_Guild of Stewards_) 2
@@ -57,8 +57,8 @@ Animal Ken 0; Empathy 2; Expression 2; Intimidation 2; Persuasion 1; Socialise 2
 ## Other
 **Blood Potency** 3  
 + Vitae 12
-	+ Per turn:3
-	+ Feed: Humans
++ Per turn:3
++ Feed: Humans
 
 **Mask**: Idealist  
 **Dirge**: Visionary  
