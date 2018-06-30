@@ -1,16 +1,17 @@
-# Passions
+# Nolan Sorrento
+## Passions
 **Rage**: Privilege  
 **Noble**: To Each According To Their Need  
 **Fear**: Freezing to Death (Helplessness)  
 
-# Connections
+## Connections
 **Favourite** (_Status_): 55%, _Antony Wells_  
 **Guru** (_Notice_): 0%,   
 **Mentor** (_Connect_): 50%,  
 **Responsibility** (_Knowledge_): 55%, _Cabal_  
 **Protege** (_Fitness_): 55%, _John Smith_  
 
-# Stress Gauges
+## Stress Gauges
 **Helplessness** (_Fitness_ 45, _Dodge_ 35): H4, F2  
 **Isolation** (_Status_ 55, _Pursuit_ 25): H2, F0  
 **Self** (_Knowledge_ 45, _Lie_ 35): H4, F1  
@@ -19,7 +20,7 @@
 
 Total Hardened: 20, Total Failed: 6
 
-# Identities
+## Identities
 89%: I'm a **Consultant Surgeon**, of course I can _access medical records, teach students, do surgery, move around hospitals_.  (_Obsession skill_)  
 + _Substitutes for Ability_: Notice  
 + _Feature_: Medical  
@@ -37,6 +38,6 @@ Total Hardened: 20, Total Failed: 6
 + _Feature_: Casts Rituals  
 + _Feature_: Use Gutter Magick  
 
-# Other
+## Other
 _Ritual_: The Pass Out Game  
 _Ritual_: Old Mirror  
