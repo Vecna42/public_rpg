@@ -13,7 +13,7 @@ The Krovenko, or Sons of the Blood, are an obscure Russian lineage of the Nosfer
 
 Next to them, the Lancea Sanctum claims more members, fuelled in part by the traditional links between the Covenants and by the sense of God's curse weighing down upon the lineage.
 
-**Bloodline Disciplines:** Nightmare, Obfuscate, _Phlebotomise_, Vigour
+**Bloodline Disciplines:** Nightmare, Obfuscate, _Phlebotomy_, Vigour
 
 **Bloodline Bane:** The Krovenko's blood has been twisted and cursed through their association with the Czar's lineage and mimics the issues surrounding the mortal genetic disorder haemophilia.  Their blood is slow to clot and heal, and any attempt to use vitae to heal costs them double the amount of vitae per attempt.  This means that where it would cost a normal kindred 1 vitae to heal 2 bashing, a Krovenko must spent 2 vitea to achieve the same effect (this does not allow them to spend 1 point of vitae to heal 1 bashing).  It costs 2 points of vitae to heal 1 lethal, and 10 points of vitae over two nights to heal 1 point of aggravated damage.
 
@@ -21,9 +21,9 @@ In addition to this, the Krovenko find their blood requires their constant vigil
 
 ***
 
-## Phlebotomise
+## Phlebotomy
 ### • Shark's Senses
-The basic power of Phlebotomise allows a Krovenko to better sense the flow of that most precious of liquids: blood.
+The basic power of Phlebotomy allows a Krovenko to better sense the flow of that most precious of liquids: blood.
 
 **Cost:** –
 
@@ -31,7 +31,7 @@ The basic power of Phlebotomise allows a Krovenko to better sense the flow of th
 
 **Action:** N/A
 
-This power is always in effect, and allows the Krovenko to add their dots in Phlebotomise to their Blood Potency for determining at what distance they can smell blood.  It does not affect their ability to see spilt blood.
+This power is always in effect, and allows the Krovenko to add their dots in Phlebotomy to their Blood Potency for determining at what distance they can smell blood.  It does not affect their ability to see spilt blood.
 
 They also gain a rough idea of how badly wounded a mortal is, from the smell of how much blood is leaking out (a rough idea of how many health boxes are marked with lethal or aggravated damage).
 
@@ -40,7 +40,7 @@ With Sickly Pallor, the Krovenko learns to use the perceived thinness of her blo
 
 **Cost:** 1 vitae
 
-**Dice Pool:** Wits + Subterfuge + Phlebotomise
+**Dice Pool:** Wits + Subterfuge + Phlebotomy
 
 **Action:** Instant
 
@@ -81,7 +81,7 @@ Further unlocking the ability of their blood to resist clotting and sticking, th
 
 **Cost:** 1 vitae
 
-**Dice Pool:** Stamina + Medicine + Phlebotomise
+**Dice Pool:** Stamina + Medicine + Phlebotomy
 
 **Action:** Instant
 
@@ -103,12 +103,13 @@ Finally, a Krovenko reasons that if their blood is perceived to be ‘thinner' t
 
 **Cost:** 1 vitae
 
-**Dice Pool:** Stamina + Medicine + Phlebotomise
+**Dice Pool:** Stamina + Medicine + Phlebotomy
 
 **Action:** Instant
 
 #### Roll Results
-DRAMTIC FAILURE:
+**Dramatic Failure:** 
+
 **Failure:** The Krovenko fails to activate the power, and cannot try again for another scene/hour.  The spent vitae is wasted.
 
 **Success:** For a number of hours equal to successes, the Krovenko's Blood Potency is counted as one higher for one specific effect: vitae capacity.  Trait limits, vitae spending limits, potency of blood for Predator's Taint, or type of blood required to feed upon do not change when using this power.  The extra vitae is pressed in close to the surface of the skin, and stored in muscles and tendons rather than the blood vessels.  This causes the Krovenko to suffer bashing damage equal to successes, as their skin bruises and fills with blood.  This damage cannot be healed until the power ends.  Ending the power early is an instant action.
