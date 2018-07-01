@@ -38,7 +38,7 @@ Lynx recognise the existence of four types of networks, and their powers have di
 ***
 
 ### SELECT FROM
-By accessing an existing, known node of a Network, a Lynx can use SELECT FROM to find links from that node to other nodes in a network.  The Lynx can only target networks to which they are attuned (either naturally or through CREATE LOGIN).
+By accessing an existing, known node of a Network, a Lynx can use SELECT FROM to find links from that node to other nodes in a network.  The Lynx can only target nodes to which they are attuned (either naturally or through CREATE LOGIN).
 
 **Cost:** 1 Vitae.
 
@@ -51,13 +51,21 @@ By accessing an existing, known node of a Network, a Lynx can use SELECT FROM to
 **Failure:** The character fails to observe anything useful.
 
 **Success:**
-+ _Social networks_: Gain a number of pieces of information about links from the node to the chosen network equal to successes {"He's pissed, look at him.  He hates his boss."} **OR** pick a Social merit (e.g. Allies, Contacts, Herd, Mentor, Retainer, etc.) and get information on dots up to successes.
++ _Social networks_: Gain a number of pieces of information about links from the node to the chosen network equal to successes {"He's pissed, look at him.  He hates his boss."} **OR** pick a Social merit (e.g. Allies, Contacts, Herd, Mentor, Retainer, Status, etc.) and get information on dots up to successes.
 + _Spatial networks_: Gain a number of pieces of information on human traffic through the node: intensity, frequency, time of day, notable emotional states, etc.  {"Most of the calls through this box are inbound - and frightened." "Around midnight, that bridge fills up with foot traffic."}
 + _Sympathy networks_: Gain a number of pieces of information about bonds from the node in the chosen natural or artificial network.  The most prominent links are uncovered first (so first degree blood sympathy or a three-stage blood bond), and then weaker links are revealed with more successes.
 
 **Exceptional Success:** Extra successes are their own reward, but an Exceptional Success with this power also reveals the information with greater clarity and with more information based on the subject node's perception of the link.
 
-As always, the knowledge is filtered through the Beast - and many Lynx report seeing visual manifestations of the connections when they use this power: _social connections_ hanging as delicate golden threads, _blood sympathy_ as red cords, and blood bonds as heavy chains.  _Spatial networks_ blossom like a map of blood vessels behind the eyes.
+As always, the knowledge is filtered through the Beast - and many Lynx report seeing visual manifestations of the connections when they use this power: _social connections_ hanging as delicate golden threads, _blood sympathy_ as pulsing red veins, and blood bonds as heavy chains.  _Spatial networks_ blossom like a map of blood vessels behind the eyes.
+
+**Suggested Modifiers:**
+
+| Modifier | Situation |
+|:-------- |:--------- |
+| +2       | Used on a subject the Lynx has fed from |
+| -2       | The subject and the Lynx do not share a language |
+| -2 to -5 | The subject node is not interacted with properly; rushed interaction or a frightened/offended subject |
 
 ***
 
