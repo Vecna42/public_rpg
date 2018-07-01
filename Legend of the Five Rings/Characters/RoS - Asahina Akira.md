@@ -17,26 +17,26 @@
 + Void 4
 
 ## Skills
-+ Calligraphy 1 (_Cipher_)
-+ Divination 1
-+ Lore: Spirit Realms 2
-+ Lore: Theology 1
-+ Medicine 1
-+ Meditation 2
-+ Spellcraft 1
-
 + Artisan: Bonsai 1
 + Artisan: Origami 3 (_+3 Insight_)
++ Calligraphy 1 (_Cipher_)
 + Courtier 3 (-1k0, _+3 Insight_)
 + Defence 1
++ Divination 1
 + Etiquette 3 (-1k0, _+3 Insight_)
 + Games: Go 1
 + Investigation 1
 + Lore: Law 1
++ Lore: Spirit Realms 2
++ Lore: Theology 1
++ Medicine 1
++ Meditation 2
 + Perform: Oratory 1
 + Sincerity 1 (-1k0)
++ Spellcraft 1
 + Tea Ceremony 1
 
+### Other
 + Lore (Other) 1 (Sage)
 + Intimidation 0 (-1k0)
 + Temptation 0 (-1k0)
