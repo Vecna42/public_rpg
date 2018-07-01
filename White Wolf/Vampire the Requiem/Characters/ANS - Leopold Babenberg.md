@@ -3,6 +3,7 @@
 **Bloodline**: Lynx  
 **Covenant**: Ordo Dracul  
 
++ Illuminus of the Fiery Hunger
 + Born: 1107 AD
 	+ _Apparent age_: 65
 + Embraced: 1172 AD
@@ -64,19 +65,18 @@ Animal Ken 0; Empathy 1; Expression 1; Intimidation (_Blackmail_) 1; Persuasion 
 	2. Link, pool 9 (vs Composure + BP), 1+v
 	3. Insert/Delete, pool 10 (vs Resolve + BP), 1w
 	4. Edit, pool 10 (vs Resolve + BP), 1w
-+ Illuminus of the Fiery/Burning Hunger:
-	+ Ascendant:
-		+ Surmounting the Daysleep
-		+ Warm Face
-	+ Voivode
-		+ Taste of Fealty
-		+ Into the Fold
-			+ Sanguine Invigoration, 1v
-		+ Call to Serve
-		+ Voivode Undisputed
-		+ Vast Dynasty
-	+ Quintessence
-		+ Forever Mine
++ Coil of the Ascendant:
+	1. Surmounting the Daysleep
+	2. Warm Face
++ Coil of the Voivode
+	1. Taste of Fealty
+	2. Into the Fold
+		+ Sanguine Invigoration, 1v
+	3. Call to Serve
+	4. Voivode Undisputed
+	5. Vast Dynasty
++ Coil of Quintessence
+	1. Forever Mine
 
 ## Other
 **Blood Potency** 6  
