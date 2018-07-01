@@ -79,25 +79,39 @@ Animal Ken 0; Empathy 1; Expression 1; Intimidation (_Blackmail_) 1; Persuasion 
 	1. Forever Mine
 
 ## Other
-**Blood Potency** 6  
-+ Vitae 15
-+ Per turn:6
-+ Feed: Vampires
+| Derived Statistics | Derivation      | Value |
+|:------------------ | ---------------:|:----- |
+| Size               | Adult Human     | 5     |
+| Initiative         | Dex + Comp      | 4     |
+| Speed              | Str + Dex + 5   | 9     |
+| Defence            | Wits/Dex + Athl | 2/0   |
+| Perception         | Wits + Comp     | 4     |
+| Health             | Stamina + Size  | 7     |
+| Willpower          | Res + Comp      | 5     |
 
-**Mask**: Social Chameleon
-**Dirge**: Spy
-**Humanity**: 6
+| **Health** |         |         |         |         |   | **Willpower** | _Mask_ | Social Chameleon | _Dirge_ | Spy |
+|:----------:|:-------:|:-------:|:-------:|:-------:|   |:-------------:|:------:|:----------------:|:-------:|:---:|
+| 1          |  2      |  3      |  4      |  5 (-1) |   | 1             |  2     |  3               |  4      |  5  |
+| 6 (-2)     |  7 (-3) |         |         |         |   |               |        |                  |         |     |
 
-+ Health 7
-+ Willpower 5
+| Blood Potency | 6        |   | Vitae |    |    |    |    |
+| -------------:|:-------- | - |:-----:|:--:|:--:|:--:|:--:|
+| Spend / turn  | 6        |   | 1     |  2 |  3 |  4 |  5 |
+| Feed:         | Vampires |   | 6     |  7 |  8 |  9 | 10 |
+|               |          |   | 11    | 12 | 13 | 14 | 15 |
 
-+ Size 5
-+ Speed 9
-
-+ Initiative 4
-+ Defence 2/0
-
-+ Perception 4; 
+| Humanity | Banes |
+|:--------:| ----- |
+|    10    |       |
+|     9    |       |
+|     8    |       |
+|     7    |       |
+|  _**6**_ |       |
+|     5    |       |
+|     4    |       |
+|     3    |       |
+|     2    |       |
+|     1    |       |
 
 ## Aspirations
 + Bring the Prince to his knees and force him to beg for forgiveness and mercy
