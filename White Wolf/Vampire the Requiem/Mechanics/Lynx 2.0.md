@@ -33,6 +33,8 @@ Lynx recognise the existence of four types of networks, and their powers have di
 	+ Lynx are automatically members of the natural blood sympathy network that is their clan and with their blood relatives.
 	+ Being blood bound automatically joins that artificial blood sympathy network.
 
+**Suggested Modifiers:** All the usual bonuses for Blood Ties apply to uses of Web devotions; although uses of Web may modify the exact bonus, as described below.
+
 ***
 
 ### SELECT FROM
