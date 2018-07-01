@@ -116,6 +116,11 @@ Animal Ken 0; Empathy 1; Expression 1; Intimidation (_Blackmail_) 1; Persuasion 
 |     2    |       |
 |     1    |       |
 
+**Clan Bane**: Mekhet blood is the blood of shadows. Their Requiem is one of secrecy and symbolism. For this reason, Mekhet each suffer a single bane that is not tied to a breaking point. When the Mekhet reaches Humanity 6, choose a bane (see p. 108 for banes). This bane counts toward the three banes a vampire is allowed, so a Mekhet is less able to mitigate detachment. As well, consider a Mekhet’s Humanity to be one dot lower for all Humanity-based banes (including sunlight and torpor
++ _Blood of the Unwilling_: Your character takes no sustenance from the blood of the unwilling or the unknowing. When feeding from an unwilling vessel, she gains no nourishment from the first few Vitae taken. This amount is equal to (10 – Humanity).
+
+**Bloodline Bane**: Each Lynx has one network they are obsessed with and must check in for a few minutes at least once a night to see what's new and to interact.  Being prevented (or perceiving that one is being prevented) from doing so is a Frenzy trigger at +0; the threat of being cut off entirely is a Frenzy trigger at -2.  This network should be represented with at least four dots worth of appropriate merits (Allies, Contacts, Retainer, Status, etc.).
+
 ## Aspirations
 + Bring the Prince to his knees and force him to beg for forgiveness and mercy
 + Find a way to once and for all rid the city of the stain that is the Circle of the Crone
