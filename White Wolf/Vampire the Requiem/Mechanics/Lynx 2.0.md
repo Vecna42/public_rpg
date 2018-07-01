@@ -147,6 +147,14 @@ A clever Lynx can use this power to set off much larger changes in a network: a 
 
 **Exceptional Success:** The effects obtained from an Exceptional Success are more useful for the Lynx's desired aim, and the changes persist for the remainder of the night instead of the scene.  When used on 'natural' _Sympathy networks_, the effect can be targeted to all members of the network instead for an additional Willpower (this lasts for the scene not the night).
 
+**Suggested Modifiers:**
+
+| Modifier | Situation |
+|:-------- |:--------- |
+| -2       | The Lynx has only just met the subject for the first time |
+| -3       | The Lynx has never met the nodes at the other end of the connections |
+| -4       | The emotion applied is strongly out of line with the existing connection (e.g. making an angry widow regard her husband's killer with Charity) |
+
 **Prerequisite:** Majesty 2
 
 ### DELETE FROM
