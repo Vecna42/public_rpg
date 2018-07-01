@@ -56,29 +56,30 @@
 + Void (7k4): 4
 
 ### Spells
-+ Air/Earth/Fire/Water 1: **Commune** - 20', Self, Concentration, _Raises_: Special
-+ Air/Earth/Fire/Water 1: **Sense** - Personal, 50' radius, Instant, _Raises_: +10'
-+ Air/Earth/Fire/Water 1: **Summon** - 30', 1 cubic foot, Perm, _Raises_: +10', +1 cubic foot, composition of material (1-4 raises)
-
-+ Air 1: **By the Light of the Moon** - Personal, 20' radius, 1 minute, _Raises_: +5' or +1 minute.
-+ Air 1 (Craft): **Legacy of Kaze-no-Kame** - School Rank x10 miles, One individual, Special, _Raises_: +1 person, +10 miles
-
-+ Earth 0: **Blessing the Land** - Personal, 1 field/paddy, Season, _Raises_: double area of effect
-+ Earth 1 (Battle, Defence): **Armour of Earth** - Personal, Self, 10 rounds, _Raises_: +2 rounds
-+ Earth 1: **Jade Strike** - 100', One individual, Instant, _Raises_: +1k0, +10', +1 Target (max 5)
-
-+ Fire 1 (Defence): **Fires of Purity** - 25', One target, 1 minute, _Raises_: +1k0 per two raises
-
-+ Water 1: **Path to Inner Peace** - Touch, One individual, Instant, _Raises_: None
-+ Water 1 (Divination): **Reflections of Pan Ku** - Touch, One object, Instant, _Raises_: None
-
-+ Void 1: **Boundless Sight** - 50 miles, Self, 4 rounds, _Raises_: +1 round, +5 miles
-+ Void 1: **Sense Void** - Personal, 25' radius, Concentration, _Raises_: +5'
-+ Void 2: **Commune with the Void** - Self, 1 round/question, _Raises_: +1 question per 3 raises.
-+ Void 2: **False Whispers** - 30', One individual, 1 minute, _Raises_: None
-+ Void 2: **Severed from the Stream** - 25', One individual, 5 rounds, _Raises_: +1 round, +5'
-+ Void 3: **Echoes in the Void** - 25', One individual, Concentration, _Raises_: +5'
-+ Void 3: **Moment of Clarity** - Personal, Self, 2 rounds, _Raises_: +1 round
++ Multiple Elements
+	+ **Commune** 1 (Air/Earth/Fire/Water) - 20', Self, Concentration, _Raises_: Special
+	+ **Sense** 1 (Air/Earth/Fire/Water) - Personal, 50' radius, Instant, _Raises_: +10'
+	+ **Summon** 1 (Air/Earth/Fire/Water) - 30', 1 cubic foot, Perm, _Raises_: +10', +1 cubic foot, composition of material (1-4 raises)
++ Air
+	+ **By the Light of the Moon** 1 - Personal, 20' radius, 1 minute, _Raises_: +5' or +1 minute.
+	+ **Legacy of Kaze-no-Kame** 1 (_Craft_) - School Rank x10 miles, One individual, Special, _Raises_: +1 person, +10 miles
++ Earth
+	+ **Blessing the Land** 0 - Personal, 1 field/paddy, Season, _Raises_: double area of effect
+	+ **Armour of Earth** 1 (_Battle_, _Defence_) - Personal, Self, 10 rounds, _Raises_: +2 rounds
+	+ **Jade Strike** 1 - 100', One individual, Instant, _Raises_: +1k0, +10', +1 Target (max 5)
++ Fire
+	+ **Fires of Purity** 1 (_Defence_) - 25', One target, 1 minute, _Raises_: +1k0 per two raises
++ Water
+	+ **Path to Inner Peace** 1 - Touch, One individual, Instant, _Raises_: None
+	+ **Reflections of Pan Ku** 1 (_Divination_) - Touch, One object, Instant, _Raises_: None
++ Void
+	+ **Boundless Sight** 1 - 50 miles, Self, 4 rounds, _Raises_: +1 round, +5 miles
+	+ **Sense Void** 1 - Personal, 25' radius, Concentration, _Raises_: +5'
+	+ **Commune with the Void** 2 - Self, 1 round/question, _Raises_: +1 question per 3 raises.
+	+ **False Whispers** 2 - 30', One individual, 1 minute, _Raises_: None
+	+ **Severed from the Stream** 2 - 25', One individual, 5 rounds, _Raises_: +1 round, +5'
+	+ **Echoes in the Void** 3 - 25', One individual, Concentration, _Raises_: +5'
+	+ **Moment of Clarity** 3 - Personal, Self, 2 rounds, _Raises_: +1 round
 
 ## Advantages
 + _Balance_ - +1k0 when using your Honour Rank for rolls made to resist Intimidation or Temptation.
