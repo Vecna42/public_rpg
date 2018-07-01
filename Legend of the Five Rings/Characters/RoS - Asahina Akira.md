@@ -48,11 +48,15 @@
 
 ## Shugenja
 ### Spell Slots
-+ Air (6k3): 3
-+ Earth (5k2): 2
-+ Fire (6k3): 3 (Can be used for Void spells)
-+ Water (5k2): 2
-+ Void (7k4): 4
+| Element | Roll |   |   |   |   |
+|:------- |:----:|:-:|:-:|:-:|:-:|
+| Air     | 6k3  | 1 | 2 | 3 |
+| Earth   | 5k2  | 1 | 2 |
+| Fire    | 6k3  | 1 | 2 | 3 |
+| Water   | 5k2  | 1 | 2 |
+| Void    | 7k4  | 1 | 2 | 3 | 4 |
+
+_N.b._ Fire slots can be used for Void spells, and Void slots can be used for all spells
 
 ### Spells
 + Multiple Elements
