@@ -1,13 +1,11 @@
 # Ashania Akira
-**Clan**: Crane
+**Clan**: Crane  
+**School**: Isawa Shugenja  
 
-**School**: Isawa Shugenja
+**Insight**: 140 + 26 + 9 = 175 / 200  
+**Rank**: 3  
 
-**Insight**: 140 + 26 + 9 = 175 / 200
-
-**Rank**: 3
-
-**Experience Points**: 0/130
+**Experience Points**: 130 / 0
 
 ## Traits
 + Air 3 (_Reflexes_ 3 / _Awareness_ 3)
