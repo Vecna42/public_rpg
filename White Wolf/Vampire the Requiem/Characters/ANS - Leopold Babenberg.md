@@ -9,14 +9,14 @@
 	+ _Age_: 846
 
 ## Attributes
-Intelligence 3; Wits 2; Resolve 3
-Strength 2; Dexterity 2; Stamina 2
-Presence 3; Manipulation 4; Composure 2
+Intelligence 3; Wits 2; Resolve 3  
+Strength 2; Dexterity 2; Stamina 2  
+Presence 3; Manipulation 4; Composure 2  
 
 ## Skills
-Academics 2; Computer (_'Hacking'_) 1; Crafts 0; Investigation 2; Medicine 0; Occult (_Coils_, _Blood Sorcery_) 3; Politics 2; Science 1
-Athletics 0; Brawl 1; Drive 0; Firearms 0; Larceny 1; Stealth 2; Survival 0; Weaponry 0
-Animal Ken 0; Empathy 1; Expression 1; Intimidation (_Blackmail_) 1; Persuasion 2; Socialise 2; Streetwise 0; Subterfuge (_Lying_) 2
+Academics 2; Computer (_'Hacking'_) 1; Crafts 0; Investigation 2; Medicine 0; Occult (_Coils_, _Blood Sorcery_) 3; Politics 2; Science 1  
+Athletics 0; Brawl 1; Drive 0; Firearms 0; Larceny 1; Stealth 2; Survival 0; Weaponry 0  
+Animal Ken 0; Empathy 1; Expression 1; Intimidation (_Blackmail_) 1; Persuasion 2; Socialise 2; Streetwise 0; Subterfuge (_Lying_) 2  
 
 ## Merits
 + Cacophony Savy 3
