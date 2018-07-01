@@ -15,29 +15,29 @@
 + Void 4
 
 ## Skills
-+ Artisan: Bonsai 1
-+ Artisan: Origami 3 (_+3 Insight_)
-+ Calligraphy 1 (_Cipher_)
-+ Courtier 3 (-1k0, _+3 Insight_)
-+ Defence 1
-+ Divination 1
-+ Etiquette 3 (-1k0, _+3 Insight_)
-+ Games: Go 1
-+ Investigation 1
-+ Lore: Law 1
-+ Lore: Spirit Realms 2
-+ Lore: Theology 1
-+ Medicine 1
-+ Meditation 2
-+ Perform: Oratory 1
-+ Sincerity 1 (-1k0)
-+ Spellcraft 1
-+ Tea Ceremony 1
-
-### Other
-+ Lore (Other) 1 (Sage)
-+ Intimidation 0 (-1k0)
-+ Temptation 0 (-1k0)
+| Skill               | Rank | Trait | Roll | Other | Emphasis | Mastery Ability |
+|:------------------- |:----:|:-----:|:----:|:-----:|:-------- |:--------------- |
+| Artisan: Bonsai     | 1    | Awa   | 4k3  |       |          |                 |
+| Artisan: Origami    | 3    | Awa   | 6k3  |       |          | 3: _+3 Insight_ |
+| Calligraphy         | 1    | Int   | 5k4  |       | _Cipher_ |                 |
+| Courtier            | 3    | Awa   | 6k3  | -1k0  |          | 3: _+3 Insight_ |
+| Defence             | 1    | Ref   | 4k3  |       |          |                 |
+| Divination          | 1    | Int   | 5k4  |       |          |                 |
+| Etiquette           | 3    | Awa   | 6k3  | -1k0  |          | 3: _+3 Insight_ |
+| Games: Go           | 1    | Int   | 5k4  |       |          |                 |
+| Intimidation        | 0    |       |      | -1k0  |          |                 |
+| Investigation       | 1    | Per   | 4k3  |       |          |                 |
+| Lore: Law           | 1    | Int   | 5k4  |       |          |                 |
+| Lore: Other         | 1    | Int   | 5k4  | Sage  |          |                 |
+| Lore: Spirit Realms | 2    | Int   | 6k4  |       |          |                 |
+| Lore: Theology      | 1    | Int   | 5k4  |       |          |                 |
+| Medicine            | 1    | Int   | 5k4  |       |          |                 |
+| Meditation          | 2    | Void  | 6k4  |       |          |                 |
+| Perform: Oratory    | 1    | Awa   | 4k3  |       |          |                 |
+| Sincerity           | 1    | Awa   | 4k3  | -1k0  |          |                 |
+| Spellcraft          | 1    | Int   | 5k4  |       |          |                 |
+| Tea Ceremony        | 1    | Void  | 5k4  |       |          |                 |
+| Temptation          | 0    |       |      | -1k0  |          |                 |
 
 ## Other
 + Honour 5.5
