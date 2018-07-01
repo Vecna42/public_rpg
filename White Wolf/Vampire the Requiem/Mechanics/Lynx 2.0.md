@@ -288,14 +288,14 @@ The network can only be created between Kindred: the vitae within a ghoul does n
 
 **Effect:** For the scene, all the participants are considered to have a linked telepathic network.  This cannot be used to dig into the minds of those linked or even to read surface thoughts, but rather it is used to transmit the sounds, images, and sensations chosen by those in the network.
 
-Anyone using powers which highlight connections (e.g. SELECT FROM or The Meta-Web) on a member of the network will observe that the members of the network are linked, but cannot tell what the links mean unless they also have Lay Open the Mind.
+Anyone using powers which highlight connections (e.g. SELECT FROM or The Meta-Web) on a member of the network will observe that the members of the network are linked, but cannot tell what the links mean unless they also have Lay Open the Mind (Auspex 4).
 
 **Suggested Modifiers:**
 
 | Modifier | Situation |
 |:-------- |:--------- |
-| +1       | All those involved are Lynx |
 | +2       | All those involved know Lay Open the Mind |
+| +1       | All those involved are Lynx |
 |  0       | Up to two targets |
 | -1       | Up to four targets |
 | -2       | Up to six targets |
