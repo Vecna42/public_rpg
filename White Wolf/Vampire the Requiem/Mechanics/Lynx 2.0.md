@@ -198,7 +198,7 @@ In addition to the above devotions, the Lynx makes the following alterations or 
 ***
 
 ## The Wider Web
-The following devotions are more specialised or powerful effects that some elder Lynx may develop.  They are, as with the standard Web devotions, restricted to membership in the bloodline - but have higher costs than the above.
+The following devotions are more specialised or powerful effects that some elder Lynx may develop.  They are, as with the standard Web devotions, restricted to membership in the bloodline - but have standard costing and requirements for devotions.
 
 ### Phreaking
 _(Majesty 2, Obfuscate 4)_
