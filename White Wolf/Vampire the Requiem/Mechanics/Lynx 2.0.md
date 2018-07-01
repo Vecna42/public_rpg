@@ -219,7 +219,7 @@ If instead they wish to swap the networks of two other targets, they must smear 
 
 **Failure:** The Lynx cannot forge the connections required, and the vitae spent to activate the power is wasted.
 
-**Success:** For each success the Lynx may exchange one of the following with the target:
+**Success:** For each success the Lynx may exchange one of the following with the two targets involved:
 + _Social networks_: 
 	+ All of their Allies merits
 	+ All of their Contacts merits
