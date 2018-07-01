@@ -123,6 +123,32 @@ This power allows the Lynx to attach themselves to a node in a Network, becoming
 
 **Prerequisite:** Majesty 2
 
+### DELETE FROM
+This power allows the Lynx to remove themselves from their own networks - dampening the effectiveness of the links that connect them to others.  The Lynx feels out of place around the dampened network, as if they had an uncomfortable phantom limb.
+
+**Cost:** 1 Willpower per scene.
+
+**Dice Pool:** Manipulation + Empathy + Obfuscate - subject's Resolve + Blood Potency.
+
+**Action:**  Instant and contested; resistance is reflexive
+#### Roll Results
+**Dramatic Failure:** The Lynx achieves the opposite of their goal, and their connection to the network is mystically bolstered.  For the remainder of the night, the Lynx is the first person that a member of the network will think to contact if they need something.
+
+**Failure:** The Lynx fails to suppress their connection to the network, and the Willpower spent is wasted.
+
+**Success:** If used on a network that the Lynx is connected to via CREATE LOGIN, then that power is automatically ended early.
+
+If used on a network that the Lynx is naturally part of then successes on this power become penalties for rolls involving interacting with the Lynx through the targeted network.
++ _Social networks_: These networks usually penalise Social rolls made by members of the network when interacting with the Lynx - any dice roll which might be affected by Status dots is a candidate for this effect.  In addition, this also affects the ability of those nodes to remember details about the Lynx, to notice them, or otherwise interact with them.
++ _Spatial networks_: As the Lynx is not naturally part of Spatial networks, the targets of this power are networks which currently hold data about the Lynx (such as a computer network that houses a database or a CCTV camera network that is observing the Lynx).  Dice rolls that might be penalised by this power are generally ones concerned with accessing/retrieving the data or noticing that it exists.
++ _Sympathy networks_: 
+	+ When used on 'natural' sympathetic networks, this power dampens the effects of blood sympathy from the Lynx to the target.  Each success reduces the bonus the target gains from blood sympathy by one degree - from _Once Removed_ to _Twice Removed_, etc.  If this drops the level of connection below _Four Times Remove_, the Lynx does not register as a member of their clan to blood sympathy.  If, instead, the Lynx has a point of blood/Vitae from the target in their system and spend it in addition to the Willpower to activate the power then the target can be made the recipient of this power's benefit.
+	+ When used on an 'artificial' sympathetic network, the Lynx reduces the effect of a blood bond by one step per success - turning a _Third Stage_ bond into a _Second Stage_, etc.  If this lowers the bond below _First Stage_ then the Lynx is free of their Regnant for the scene.  The blood bond targeted can be one in which the Lynx is either Thrall or Regnant.
+
+**Exceptional Success:** Additional successes are their own reward, but gaining an Exception Success on this power allows the Lynx to spend a Willpower at the end of the scene to extend the effect for another scene.  They may continue to do this as long as they have willpower to spend or until sunrise.
+
+**Prerequisite:** Obfuscate 2
+
 ### UPDATE WHERE
 As the Lynx grows to understand how to control emotions with Majesty, they learn to twist the existing connections of networks around them and to edit the information that flows through nodes.
 
@@ -156,32 +182,6 @@ A clever Lynx can use this power to set off much larger changes in a network: a 
 | -4       | The emotion applied is strongly out of line with the existing connection (e.g. making an angry widow regard her husband's killer with Charity) |
 
 **Prerequisite:** Majesty 2
-
-### DELETE FROM
-This power allows the Lynx to remove themselves from their own networks - dampening the effectiveness of the links that connect them to others.  The Lynx feels out of place around the dampened network, as if they had an uncomfortable phantom limb.
-
-**Cost:** 1 Willpower per scene.
-
-**Dice Pool:** Manipulation + Empathy + Obfuscate - subject's Resolve + Blood Potency.
-
-**Action:**  Instant and contested; resistance is reflexive
-#### Roll Results
-**Dramatic Failure:** The Lynx achieves the opposite of their goal, and their connection to the network is mystically bolstered.  For the remainder of the night, the Lynx is the first person that a member of the network will think to contact if they need something.
-
-**Failure:** The Lynx fails to suppress their connection to the network, and the Willpower spent is wasted.
-
-**Success:** If used on a network that the Lynx is connected to via CREATE LOGIN, then that power is automatically ended early.
-
-If used on a network that the Lynx is naturally part of then successes on this power become penalties for rolls involving interacting with the Lynx through the targeted network.
-+ _Social networks_: These networks usually penalise Social rolls made by members of the network when interacting with the Lynx - any dice roll which might be affected by Status dots is a candidate for this effect.  In addition, this also affects the ability of those nodes to remember details about the Lynx, to notice them, or otherwise interact with them.
-+ _Spatial networks_: As the Lynx is not naturally part of Spatial networks, the targets of this power are networks which currently hold data about the Lynx (such as a computer network that houses a database or a CCTV camera network that is observing the Lynx).  Dice rolls that might be penalised by this power are generally ones concerned with accessing/retrieving the data or noticing that it exists.
-+ _Sympathy networks_: 
-	+ When used on 'natural' sympathetic networks, this power dampens the effects of blood sympathy from the Lynx to the target.  Each success reduces the bonus the target gains from blood sympathy by one degree - from _Once Removed_ to _Twice Removed_, etc.  If this drops the level of connection below _Four Times Remove_, the Lynx does not register as a member of their clan to blood sympathy.  If, instead, the Lynx has a point of blood/Vitae from the target in their system and spend it in addition to the Willpower to activate the power then the target can be made the recipient of this power's benefit.
-	+ When used on an 'artificial' sympathetic network, the Lynx reduces the effect of a blood bond by one step per success - turning a _Third Stage_ bond into a _Second Stage_, etc.  If this lowers the bond below _First Stage_ then the Lynx is free of their Regnant for the scene.  The blood bond targeted can be one in which the Lynx is either Thrall or Regnant.
-
-**Exceptional Success:** Additional successes are their own reward, but gaining an Exception Success on this power allows the Lynx to spend a Willpower at the end of the scene to extend the effect for another scene.  They may continue to do this as long as they have willpower to spend or until sunrise.
-
-**Prerequisite:** Obfuscate 2
 
 ### The Meta-Web
 In addition to the above devotions, the Lynx makes the following alterations or additions to their disciplines:
