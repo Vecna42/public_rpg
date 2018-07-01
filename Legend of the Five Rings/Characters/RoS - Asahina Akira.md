@@ -41,6 +41,7 @@
 
 ## Other
 + Honour 5.5
+	+ +1k0 when resisting Intimidation or Temptation
 + Glory 5.2
 + Status 4.5
 + Shadowland Taint: 0.0
