@@ -306,3 +306,48 @@ Anyone using powers which highlight connections (e.g. SELECT FROM or The Meta-We
 All the normal bonuses for Blood Sympathy also apply.
 
 This devotions costs 5xp
+
+### Location History
+_(Auspex 3, INSERT INTO)_
+
+A Lynx who understands spatial networks can spin the sensations of The Spirit's Touch into a thread showing the past movements of an individual to whom they have a connection.  This devotion can be used at any location the target has visited in the past, but the signal decays with time and more recent haunts are better starting nodes.
+
+The Lynx must be physically present at a spatial node in a network they are attuned to, and choose a subject to whom they are attuned.  They must then interact with the spatial node while they roll to activate the power.
+
+If the Lynx targets a subject who is currently under an effect that would hide their location (such as Obfuscate) then they must first succeed at a Clash of Wills check before they can attempt to activate this power.  The same is true if the Lynx uses a starting node where the subject was under a similar effect.
+
+**Cost:** 1 vitae
+
+**Dice Pool:** Wits + Empathy + Auspex vs. subject's Resolve + Blood Potency
+
+**Action:** Extended and Contested; One roll every 1 minute; Target successes required are equal to ???
+
+The subject can choose not to contest _only_ if they are present and aware when the power is activated.
+
+**Duration:** Hours equal to Blood Potency
+#### Roll Results
+**Dramatic Failure:** The Lynx completely fails to connect to the subject and they cannot use this power on the same subject or on the same spatial node for the remainder of the night.  The vitae spent to activate the power is wasted.
+
+**Failure:** If the subject reaches the target number of successes before the Lynx, and the attempt fails.  The Lynx cannot attempt to use this power on the same target again for the remainder of the scene.  The vitae spent to activate the power is wasted.
+
+**Success:** If the Lynx achieves the target successes before the subject, then they glimpse the fleeting impressions of the subject's passage through locations.  This manifests as sensations, flashes of visions, and shimmering silver threads strung through space as the Beast serves up snippets of information for them.
+
+For as long as the devotion lasts, if the Lynx is in a place that the subject has been in the past then they can track the subject's movement.  This allows them to follow the subject from location to location - and they always have a sense of how old any particular part of the trail is, so if the subject passes through the same location multiple times, the Lynx can determine the most recent thread out of all of those there instead of having to endlessly retrace their steps.
+
+Following forward in time may eventually bring the Lynx to the subject's current location, as long as they aren't too distant to reach in that time.  If they follow the subject backward in time, then the furthest back they can track is determined by the penalty they choose to take when activating the power (see below).
+
+**Exceptional Success:** The Lynx forges a closer connection to the subject's locational map, and the effect lasts for night's equal to Blood Potency instead of hours.
+
+**Suggested Modifiers:**
+
+| Modifier | Situation |
+|:-------- |:--------- |
+| +2       | The subject is present when the power is activated |
+| +1       | The Lynx tries to follow trails no more than an hour old |
+| +0       | The Lynx tries to follow trails no older than tonight |
+| -1       | The Lynx tries to follow trails formed last night |
+| -2       | The Lynx tries to follow trails up to a week old |
+| -3       | The Lynx tries to follow trails up to a month old |
+| -4       | The Lynx tries to follow trails over a month past |
+
+This devotion costs 2xp
