@@ -54,25 +54,46 @@ Animal Ken 0; Empathy 2; Expression 2; Intimidation 2; Persuasion 1; Socialise 2
 + Resilience 1 (+1, Oath of Serfdom)
 
 ## Other
-**Blood Potency** 3  
-+ Vitae 12
-+ Per turn:3
-+ Feed: Humans
+| Derived Statistics | Derivation      | Value |
+|:------------------ | ---------------:|:----- |
+| Size               | Adult Human     | 5     |
+| Initiative         | Dex + Comp      | 5     |
+| Speed              | Str + Dex + 5   | 9     |
+| Defence            | Wits/Dex + Athl | 4/0   |
+| Perception         | Wits + Comp     | 5     |
+| Health             | Stamina + Size  | 7     |
+| Willpower          | Res + Comp      | 6     |
+
+| Health  |         |         |         |         |   | WP |    |    |    |    |
+|:-------:|:-------:|:-------:|:-------:|:-------:| - |:--:|:--:|:--:|:--:|:--:|
+|  1      |  2      |  3      |  4      |  5 (-1) |   |  1 |  2 |  3 |  4 |  5 |
+|  6 (-2) |  7 (-3) |         |         |         |   |  6 |    |    |    |    |
 
 **Mask**: Idealist  
 **Dirge**: Visionary  
-**Humanity:** 7  
 
-+ Health 7
-+ Willpower 6
+| Blood Potency | 3        |   | Vitae |    |    |    |    |
+| -------------:|:-------- | - |:-----:|:--:|:--:|:--:|:--:|
+| Spend / turn  | 3        |   | 1     |  2 |  3 |  4 |  5 |
+| Feed:         | Humans   |   | 6     |  7 |  8 |  9 | 10 |
+|               |          |   | 11    | 12 |    |    |    |
 
-+ Size 5
-+ Speed 9
+| Humanity | Banes |
+|:--------:| ----- |
+|    10    |       |
+|     9    |       |
+|     8    |       |
+|  _**7**_ |       |
+|     6    |       |
+|     5    |       |
+|     4    |       |
+|     3    |       |
+|     2    |       |
+|     1    |       |
 
-+ Initiative 5
-+ Defence 4/0
+**Clan Bane**: The Ventrue are confident. Why wouldn’t they be? They’re clearly superior. This attitude frequently causes Lords conflict, as they treat all those around them as objects. When creating a Ventrue, apply his first Touchstone to his seventh dot of Humanity. This means his first Humanity loss will also detach that Touchstone as the bane takes effect. Further Touchstones may fill his sixth through second dots.
 
-+ Perception 5
+**Bloodline Bane**: 
 
 ## Territory
 _South Kensington_
