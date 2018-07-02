@@ -27,6 +27,9 @@ Animal Ken 0; Empathy 2; Expression 2; Intimidation 2; Persuasion 1; Socialise 2
 + Mentor
 	+ (_Miles Gestes, Meister Steward_) 1 [Crafts, Politics, Socialise]
 	+ (_Sire_) 2 [Academics, Occult, Politics]
++ Oaths
+	+ Oath of Fealty (_Lydia Pettywood_) 1
+	+ Oath of Serfdom (_The Lady_) 2
 + Resources 2
 + Retainer (_Alaizabel Cray_) 2
 + Safe Place (_Shared_) 0 (5)
@@ -38,10 +41,6 @@ Animal Ken 0; Empathy 2; Expression 2; Intimidation 2; Persuasion 1; Socialise 2
 	+ (_Londinium_) 3
 	+ (_Sanguine Courts_) 1
 	+ (_Ventrue_) 1
-
-+ Oaths
-	+ Oath of Fealty (_Lydia Pettywood_) 1
-	+ Oath of Serfdom (_The Lady_) 2
 
 ## Disciplines
 + Dominate:
