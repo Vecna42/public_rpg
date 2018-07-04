@@ -150,3 +150,7 @@ Animal Ken 0; Empathy 1; Expression 1; Intimidation (_Blackmail_) 1; Persuasion 
 	+ Merits:
 		+ Nest Guardian 1 [1xp]
 	+ _Remaining_: 1xp, 1b
++ Downtime 2018-06-26
+	+ _Remaining_: 1xp, 1b
++ Downtime 2018-07-03 [3b]
+	+ _Remaining_: 1xp, 4b
