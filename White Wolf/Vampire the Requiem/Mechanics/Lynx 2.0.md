@@ -307,8 +307,30 @@ All the normal bonuses for Blood Sympathy also apply.
 
 This devotions costs 5xp
 
+### Console Log
+_(Auspex 2, INSERT INTO)_
+
+By marking a target with vitae, a Lynx can ensure regular updates on their target as they move through networks known to the Lynx.  The Lynx must choose a network of which they are part (either naturally or through CREATE LOGIN) and if their target encounters a node in that network, the Lynx receives a brief alert.
+
+**Cost:** 2 vitae, one of which must be smeared on the target
+
+**Dice Pool:** Intelligence + Empathy + Auspex - subject's Resolve
+
+**Action:** Instant
+
+**Effect:** For the rest of the night, when the target moves between nodes of the specified network the Lynx receives a brief flash of information to alert them to this fact - similar to an activity log.  E.g.:
++ 22:45 - Mina entered Dracula's presence
++ 23:15 - Mina left Dracula's presence
++ 01:00 - Mina entered Van Helsing's presence
++ 01:05 - Mina entered John Seward's presence
++ 01:05 - Mina entered Quincey Morris' presence
+
+On an Exceptional Success, the Lynx can either choose to receive a general sense of the emotional reaction the target has to encountering the node or a sense of significant actions performed in the presence of the node.  The Lynx must choose which effect they receive when they activate the power.  E.g.
++ 23:00 - Mina is fed upon
++ 01:15 - Mina receives a blood transfusion
+
 ### Location History
-_(Auspex 3, INSERT INTO)_
+_(Auspex 3, Console Log)_
 
 A Lynx who understands spatial networks can spin the sensations of The Spirit's Touch into a thread showing the past movements of an individual to whom they have a connection.  This devotion can be used at any location the target has visited in the past, but the signal decays with time and more recent haunts are better starting nodes.
 
